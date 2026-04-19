@@ -1,0 +1,19 @@
+sentence-transformers>=3.0.0
+chromadb>=0.5.0
+ollama>=0.4.0
+langdetect
+rank_bm25
+numpy
+pandas
+openpyxl
+matplotlib
+scikit-learn
+stop-words
+requests
+gradio
+
+# PyTorch (CPU-only wheel — install separately):
+#   uv pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+# Ollama model (run once in a terminal before using the RAG notebooks):
+#   ollama pull phi4-mini
