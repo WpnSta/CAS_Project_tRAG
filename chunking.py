@@ -15,7 +15,7 @@ CHUNK_MAX_CHARS     = 800   # sections larger than this are split at paragraphs
 CHUNK_OVERLAP_CHARS = 100   # overlap carried into the next chunk
 
 # Lookahead split: keeps the heading at the start of each part
-SECTION_HEADING_RE = re.compile(r"(?=^\d+(?:\.\d+)*\t)", re.MULTILINE)
+SECTION_HEADING_RE = re.compile(r"(?=^\t?\d+(?:\.\d+)*\t)", re.MULTILINE)
 _HEADING_PARSE_RE  = re.compile(r"^(\d+(?:\.\d+)*)\t([^\t\n]+)", re.MULTILINE)
 _FILENAME_RE       = re.compile(r"^(\d+)[fi]?_(.+)$")
 
@@ -83,11 +83,11 @@ def split_with_overlap(text, max_chars, overlap):
         if end >= len(text):
             chunks.append(text[start:])
             break
-        # prefer paragraph break
+        # prefer paragraph break, but only if it yields a usable chunk size
         split_pos = text.rfind("\n\n", start, end)
-        if split_pos <= start:
+        if split_pos <= start or (split_pos - start) < CHUNK_MIN_CHARS:
             split_pos = text.rfind("\n", start, end)
-        if split_pos <= start:
+        if split_pos <= start or (split_pos - start) < CHUNK_MIN_CHARS:
             split_pos = end
 
         chunks.append(text[start:split_pos])
@@ -95,7 +95,12 @@ def split_with_overlap(text, max_chars, overlap):
         new_start = max(split_pos - overlap, start + 1)
         start = new_start
 
-    return [c for c in chunks if c.strip()]
+    chunks = [c for c in chunks if c.strip()]
+    # Merge a short tail piece into the previous chunk rather than leaving it sub-minimum
+    if len(chunks) >= 2 and len(chunks[-1]) < CHUNK_MIN_CHARS:
+        chunks[-2] += chunks[-1]
+        chunks.pop()
+    return chunks
 
 
 def chunk_document(doc):
