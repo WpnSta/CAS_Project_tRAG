@@ -1,0 +1,848 @@
+﻿Chemins de fer suisses	R 300.14
+
+
+
+Freins
+ 
+
+1	Généralités
+	
+	Les ETF règlent les compléments nécessaires à ces prescriptions dans les prescriptions d’exploitation. En particulier
+–	l’utilisation des freins pour des cas particuliers
+–	la description technique des équipements de freins
+–	les prescriptions sur leur entretien
+–	les spécificités des équipements de freins des véhicules histo­riques, en particulier des freins non graduables au desserrage
+–	les spécificités des équipements de freins des véhicules à crémaillère.
+Dans ce règlement, les freins moteurs comme les freins hydrodynamiques ou les freins à courants de Foucault sont assimilés aux freins électriques.
+L’utilisation des freins à courants de Foucault agissant sur le rail n’est pas admise.
+
+2	Utilisation
+2.1	Généralité
+2.1.1	Principe
+	
+	Lors de l’utilisation des freins, il faut procéder à un minimum de manipulations, effectuées à bon escient et par anticipation.
+Une connaissance des principales fonctions des appareils de frein, l’ob­servation des manomètres et de l’indicateur de vitesse, une juste appréciation de la décélération, des distances et des conditions d’adhérence constitue les conditions essentielles pour une utilisation irréprochable des freins.
+	
+2.1.2	Plusieurs véhicules moteurs en service
+	
+	Le frein automatique est commandé en principe depuis la locomotive de tête.
+	
+2.2	Utilisation des freins
+2.2.1	Trains
+	
+	Dans la mesure du possible, il faut toujours utiliser le frein électrique. Lorsque l’efficacité du frein électrique est insuffisante, il faut en plus utiliser le frein automatique. 
+Pour les véhicules moteurs circulant seuls, il faut, dans la mesure du possible, utiliser le frein électrique, pour l’arrêt le frein de manœuvre ou le cas échéant le frein automatique.
+	
+2.2.2	Mouvements de manœuvre
+	
+	En principe, il faut utiliser le frein automatique.
+Le frein de manœuvre seul peut être utilisé
+–	pour les véhicules moteurs circulant seuls
+–	avec de petits groupes de véhicules
+–	dans les cas admis où la charge remorquée ne doit pas être freinée à l’air.
+Les ETF règlent dans les prescriptions d’exploitation, l’utilisation du frein électrique pour les mouvements de manœuvre.
+	
+
+2.2.3	Immobilisation
+	
+	Les véhicules moteurs occupés par un MEC, immobilisés avec ou sans charge remorquée, doivent dans tous les cas être assurés avec le frein de manœuvre. Si celui-ci fait défaut ou si son efficacité est insuffisante, il faut utiliser le frein automatique ou le cas échéant le frein d’immobilisation.
+	
+2.2.4	Assurer les véhicules moteurs
+	
+	Les véhicules moteurs immobilisés et non occupés par un MEC doivent être assurés avec le frein d’immobilisation. 
+Les ETF règlent dans les prescriptions d’exploitation l’utilisation de freins d’immobilisation, lesquels peuvent être desserrés par la conduite générale.
+	
+2.2.5	Exploitation hivernale
+	
+	En cas d’exploitation hivernale, les mesures minimales nécessaires pour la desserte des freins sont les suivantes : 
+–	en cas de températures inférieures à 0 °C, le MEC doit vérifier que les véhicules circulent librement, dès le début de la marche 
+–	après un arrêt en gare, les freins doivent si possible être immédiatement desserrés
+–	la neige tassée ou la présence de glace entre le sabot du frein et la roue ou entre la garniture de frein et le disque de frein peuvent nuire à l’efficacité du frein d’immobilisation. Les véhicules doivent également être assurés contre la dérive à l’aide de sabots d’arrêt
+–	les freinages au moyen du frein à air doivent être effectués assez tôt pour libérer les surfaces de frottement (semelle de frein, frein à disque) de la neige et de la glace.
+Les ETF règlent l’exploitation hivernale dans les prescriptions d’exploitation.
+	
+
+2.3	Essai du frein
+2.3.1	But de l’essai du frein
+	
+	Avec l’essai du frein, on s’assure si
+–	l’air peut circuler sans entrave dans les deux directions à travers la conduite générale et si aucune fuite d’air n’est perceptible aux appareils de frein
+–	après un serrage ordinaire depuis la cabine de conduite occupée, les freins s’appliquent bien sur tous les essieux freinés et si, après le desserrage des freins depuis la même cabine de conduite, les freins sont de nouveau complètement desserrés, sans actionner les valves de décharge.
+	
+2.3.2	Prêt à fonctionner
+	
+	L’essai du frein ne peut commencer que si les distributeurs et les réservoirs d’air de tous les véhicules reliés à la conduite générale sont remplis ou le vide réalisé sur tous les appareils de frein. Pour les freins à air comprimé, il faut en outre que les réservoirs principaux soient remplis au moins à la pression de service. Pour les chemins de fer à voie normale et pour de nombreux chemins de fer à voie étroite, cette pression est de 5 bars, pour quelques chemins de fer à 4, 4,2 ou 4,5 bars.
+	
+2.3.3	Temps de remplissage ou d’évacuation du frein automatique
+	
+	Le temps de remplissage des appareils de frein vides d’un véhicule freiné au frein à air comprimé est d’environ deux minutes pour le frein voyageur, selon le système de frein. Pour le frein marchandise, il faut compter 2 à 5 minutes. Le temps total du remplissage augmente avec la longueur du train.
+Pour la réalisation du vide dans les appareils de frein d’un véhicule freiné au frein à vide, on compte environ les mêmes valeurs que pour les freins marchandise.
+	
+
+2.3.4	Essai d’étanchéité
+	
+	Il faut effectuer un contrôle d’étanchéité de la conduite générale et des appareils de frein comme suit :
+–	frein automatique à air comprimé
+Avant le début de l’essai du frein complet ou en cas de soupçon que cela n’est pas étanche :	
+lorsque la réalimentation est interrompue, la diminution de pression dans la conduite générale doit être au maximum de 0,3 bar en l’espace d’une minute.
+Avant le début de l’essai du frein partiel ou simplifié : 
+en cas de réalimentation interrompue brièvement, aucune baisse de pression ne doit être constatée au manomètre de la conduite générale.
+–	frein à vide
+Avant le début de l’essai du frein : 	
+lorsque la pompe à vide est déclenchée, le vide ne doit pas diminuer de plus de 4 cmHg et ne pas s’abaisser en dessous de 45 cmHg en l’espace de 10 secondes.
+	
+2.3.5	Essai du frein sur les véhicules moteurs
+	
+	Lors de la mise en service des véhicules moteurs, le fonctionnement des freins à air doit être vérifié par le MEC de la façon suivante :
+–	le frein de manœuvre est contrôlé au moyen du manomètre du cylindre de frein (1 bar et ensuite à pleine pression) ou à l’aide du dispositif d’annonce
+–	le frein automatique doit être vérifié de la façon suivante :
+–	au moyen du manomètre du cylindre de frein ou du dispositif d’annonce pour les trains de locomotive dont les véhicules moteurs sont desservis individuellement ainsi que pour les mouvements de manœuvre.
+	Avec le frein à air comprimé, abaisser la pression dans la conduite générale de 0,5 bar ou, pour le frein à vide, la porter à 20 cmHg. Vérifier ensuite si les cylindres de frein contiennent de l’air comprimé.
+–	depuis le sol ou au manomètre pour les véhicules moteurs remorqués ou en commande multiple dans les cas où un essai de frein complet est prescrit.
+Après chaque changement de cabine de conduite, il faut contrôler le frein de manœuvre et le frein automatique et, après le dételage du véhicule moteur, le frein de manœuvre à l’aide du manomètre du cylindre de frein ou du dispositif d’annonce. 
+S’il n’y a pas de manomètre du cylindre de frein ou de dispositif d’annonce, le frein doit être contrôlé dans tous les cas depuis le sol.
+Après avoir vérifié le fonctionnement, l’efficacité des freins doit être contrôlée immédiatement après la mise en marche du véhicule moteur. 
+	
+2.3.6	Exécution de l’essai du frein pour les trains
+	
+	–	Serrer
+	L’essai du frein automatique doit être exécuté au moyen d’un serrage ordinaire. Avec les freins à air comprimé, la pression de la conduite générale doit être abaissée de 1 bar. 
+–	Desserrer
+	Le frein doit être desserré, si possible, avec un à-coup de remplissage à haute pression suivi d’une surcharge à basse pression.
+	
+2.3.7	Essai d’efficacité du frein pour les trains
+	
+	Le MEC doit s’assurer de l’efficacité des freins à air 
+–	immédiatement après le départ
+–	d’une gare initiale ou d’une gare de rebroussement
+–	après une modification de la formation du train
+–	après un échange de MEC
+–	avant 
+–	d’aborder une forte pente
+–	l’arrivée dans une gare en cul-de-sac
+–	de temps en temps après le dernier freinage au moyen du frein automatique s’il y a de la neige poudreuse ou par grand froid.
+L’essai d’efficacité du frein doit être effectué en réalisant un serrage ordinaire sans l’action du frein électrique et en desserrant le frein à air du véhicule moteur. Les ETF élaborent les prescriptions d’exploitation correspondantes pour l’utilisation spécifique des véhicules ou pour le respect des éventuelles conditions d’utilisation des éléments de frein (par ex. semelles de frein en matière composite).
+	
+2.3.8	Essai du frein de sécurité
+	
+	Les ETF règlent dans les prescriptions d’exploitation le déroulement de l’essai du frein de sécurité.
+	
+	
+2.4	Frein automatique à air comprimé
+2.4.1	Serrage
+	
+	On distingue les genres de serrages suivants :
+–	Serrage ordinaire
+	Le serrage ordinaire est utilisé pour provoquer l’arrêt des trains et pour réduire la vitesse. La pression de la conduite générale est abaissée graduellement ou en une fois, de moins de 1,5 bar. La première dépression doit être effectuée rapidement.
+	Elle doit être au minimum de 0,4 à 0,5 bar pour les trains équipés de semelles en fonte, de 0,5 à 0,8 bar pour les trains de voyageurs équipés de freins à disques ou de semelles en matière composite. Pour les trains de marchandises équipés de freins à disques ou de semelles en matière composite, la pression doit être abaissée de 1 bar.
+–	Serrage à fond
+	Un serrage à fond est obtenu par un abaissement de pression de 1,5 bar dans la conduite générale. On obtient ainsi la plus grande pression possible dans le cylindre de frein et par conséquent également le plus grand effort de freinage du frein automatique.
+–	Serrage rapide
+	Un serrage rapide est obtenu par une vidange complète de la conduite générale (0 bar) grâce au plus grand diamètre de l’orifice d’échappement du robinet de mécanicien. Par la vidange rapide et complète de la conduite générale, on atteint en un temps très court la même force de freinage que pour un serrage à fond. Le chemin de freinage est plus court. De plus, sur les véhicules qui en sont équipés, les freins électromagnétiques et les accélérateurs de vidange fonctionnent, de même que le frein complémentaire des véhicules moteurs remorqués.
+	Sur les véhicules moteurs, un frein à air lâché précédemment agit à nouveau pleinement.
+–	Serrage d’urgence
+	Un serrage d’urgence est réalisé lorsque la conduite générale est vidée par l’actionnement d’un dispositif du frein d’urgence. L’effet est en principe le même que pour un serrage rapide.
+
+	–	Serrage imposé
+	Un serrage imposé est provoqué lorsque la conduite générale est vidée par un équipement de sécurité ou par le calculateur du véhicule. L’effet est en principe le même que pour un serrage rapide. Le délai d’établissement de l’effort de freinage est réduit en conséquence, pour autant que l’alimentation de la conduite générale soit également interrompue.
+	
+2.4.2	Desserrage ou remplissage
+	
+	Le robinet de mécanicien doit être placé sur la position de marche ou, si elle existe, sur la position de remplissage (augmentation du débit) pour desserrer ou remplir les freins. Si elle existe, la fonction de surcharge à basse pression (fonction d’égalisation) doit être utilisée. 
+Avec les robinets de mécanicien disposant d’un à-coup de remplissage non limité dans le temps, en mettant le robinet dans la position d’à-coup de remplissage, il faut faire attention que la pression normale dans la conduite générale pour les freins complètement desserrés ne soit pas augmentée de plus de 0,4 bar.
+Le desserrage en position de remplissage doit être effectué en règle générale
+–	après avoir attelé un véhicule moteur au train
+–	lors de la mise en service d’un train navette
+–	lorsque des véhicules ont été ajoutés en cours de route
+–	lors de l’essai du frein
+–	pour desserrer de façon sûre les freins en cours de route, excepté pour les trains jusqu’à une longueur totale de 125 m
+–	lors d’un serrage effectué alors que la surcharge basse pression n’était pas encore éliminée
+–	à la fin d’un tronçon en pente.
+Le desserrage en position de remplissage ou en position de surcharge à basse pression est à éviter
+–	lorsqu’il faut à nouveau freiner peu de temps après un desserrage
+–	lorsque la méthode en dents de scie est appliquée
+–	lorsque les freins seront commandés peu après depuis un autre robinet de mécanicien.
+Il ne faut pas placer le robinet de mécanicien en position de remplissage ou provoquer une surcharge à basse pression lorsque les freins sont déjà desserrés.
+	
+	
+2.5	Frein à vide
+2.5.1	Serrage
+	
+	On distingue les genres de serrages suivants :
+–	Serrage ordinaire
+	Le serrage ordinaire est utilisé pour provoquer l’arrêt des trains et pour réduire la vitesse. Le vide dans la conduite générale est diminué par paliers ou en une fois de 42 à 20 cmHg.
+–	Serrage à fond
+	Un serrage à fond est obtenu lorsque le vide dans la conduite générale a été complètement résorbé par le robinet de mécanicien.
+–	Serrage rapide
+	Un serrage rapide est obtenu lorsque le vide dans la conduite générale est résorbé instantanément par l’ouverture maximale du robinet de mécanicien. L’onde de pression libérée provoque ainsi le fonctionnement, en une succession rapide, de toutes les valves d’action rapide. Par ce moyen, on obtient en un temps très bref, la plus grande force de freinage et, par conséquent, le chemin de freinage le plus court.
+–	Serrage d’urgence
+	Un serrage d’urgence est réalisé lorsque le vide dans la conduite générale est complètement résorbé par l’ouverture d’un dispositif du frein d’urgence. L’effet est en principe le même que pour un serrage rapide.
+–	Serrage imposé 
+	Un serrage imposé est provoqué lorsque le vide est complètement résorbé par un équipement de sécurité ou par le calculateur du véhicule. L’effet est en principe le même que pour un serrage rapide.
+	
+2.5.2	Desserrage ou création/maintien du vide
+	
+	Pendant la marche, la pompe à vide doit fonctionner avec le nombre de tours le plus bas. Un nombre de tours supérieur est adapté pour l’évacuation de l’air des appareils de freins après la formation du train et afin d’obtenir un desserrage plus rapide lors de l’essai de frein.
+	
+
+2.6	Frein électrique
+2.6.1	Principe 
+	
+	Le frein électrique doit toujours être utilisé pour les tronçons en pente, les réductions de vitesse et les arrêts avec l’effort de freinage autorisé.
+Le frein électrique doit être actionné assez tôt. En cas de défaillance, on doit disposer de suffisamment de temps pour le compenser avec le frein à air.
+	
+2.6.2	Véhicules à voie normale avec attelage à vis modèle UIC
+	
+	Lorsque des tronçons de ralentissement ou des aiguilles en position déviée peuvent être franchis au plus à 40 km/h, le frein électrique des véhicules moteurs en tête des trains et des mouvements de manœuvre ne doit être utilisé qu’avec un effort de freinage fortement réduit.
+Lorsque plusieurs véhicules moteurs munis d’un frein électrique se trouvent en tête du train, les restrictions suivantes sont à observer :
+–	lorsque les véhicules moteurs sont commandés séparément, seul l’effort de freinage maximal admissible du véhicule moteur de tête et celui du véhicule moteur de pousse peut être utilisé. Sur les autres véhicules moteurs, le frein électrique ne doit être utilisé que pour freiner leur propre poids.
+–	pour les véhicules moteurs en commande multiple, il n’est permis de freiner qu’avec un effort de freinage réduit selon les directives des ETF.
+	
+2.7	Utilisation du frein automatique pendant la marche
+2.7.1	Réduction de vitesse et freinage d’arrêt de convois avec des wagons de marchandises et des véhicules de service freinés avec le frein à air comprimé
+	
+	Pour circuler sur des aiguilles en position déviée qui peuvent être franchies au plus à 40 km/h, il faut observer ce qui suit :
+–	pour une diminution de la vitesse ou pour l’arrêt, une réduction ne dépassant pas 0,5 bar de la pression de la conduite générale devrait être effectuée, excepté en cas de danger.
+–	en cas d’arrêt, si la pression dans la conduite générale a été abaissée de plus de 1 bar, il faut, avant de poursuivre la marche, contrôler sur place, avec le frein automatique desserré, l’ensemble du train ou le mouvement de manœuvre pour s’assurer qu’il n’y ait aucune irrégularité.
+	
+	
+	
+2.7.2	Utilisation du frein automatique à air comprimé pour 
+les trains à voie normale sur les pentes 
+	
+	–	Méthode en dents de scie
+	En cas de circulation sur des pentes avec une vitesse maximale autorisée supérieure à 40 km/h, sitôt que le frein électrique des véhicules moteurs ne suffit plus pour maintenir la vitesse, il faut appliquer la méthode en dents de scie. De ce fait, sur les pentes, une surcharge thermique des roues, des disques de freins et des sabots est évitée et le risque d’épuisement des freins est exclu.
+	Avec un serrage efficace (abaissement de la pression dans la conduite générale à 4,6 jusqu’à 4 bars), il faut réduire la vitesse en conséquence pour qu’une durée d’au minimum 90 secondes soit disponible entre le desserrage et le prochain serrage des freins. Dans ce but, la vitesse du train doit être réduite selon la formule suivante :
+	
+	
+	
+	
+		La durée du freinage nécessaire à la réduction de la vitesse ne devrait pas dépasser 60 secondes. Ensuite pour le desserrage, seule la position de marche du robinet de mécanicien doit être utilisée. 
+	Il faut vérifier si l’intervalle de 90 secondes jusqu’au prochain serrage est respecté. Si nécessaire, il faut adapter la réduction de vitesse.
+	Le frein à air du véhicule moteur doit si possible être desserré.
+–	Méthode de freinage gradué
+	Avec les trains dont les véhicules moteurs sont dépourvus de frein électrique ou dont le frein électrique est en dérangement, il faut utiliser la méthode de freinage gradué pour circuler sur les pentes. 
+	Pour maintenir la vitesse, il faut alors régler la pression de la conduite générale entre 4,6 jusqu’à 4,4 bars. Il faut éviter de rouler avec une valeur de pression trop proche de la limite du desserrage de 4,8 bars. 
+	Le frein à air des véhicules moteurs ne doit pas être desserré.
+	Si nécessaire, les ETF règlent dans les prescriptions d’exploitation une réduction de la vitesse maximale.
+	
+	
+	
+	
+2.7.3	Point d’arrêt immédiatement avant un obstacle ou arrêt immédiatement devant un signal présentant l’image arrêt 
+	
+	Pour circuler
+–	en direction d’un signal présentant l’image arrêt
+–	sur une voie en cul-de-sac
+–	sur une voie occupée ou à utilisation restreinte
+–	en direction de barrières ouvertes,
+il faut freiner modérément et suffisamment tôt pour réduire la vitesse afin de pouvoir renforcer le freinage pour l’arrêt ou en cas de danger. 
+Le frein électrique ne doit être utilisé, pour l’entrée sur une voie en cul-de-sac, que si son efficacité est compensée de façon équivalente et automatique par d’autres moyens de freinage en cas de défaillance quelconque.
+Pour les rames automotrices, les prescriptions d’exploitation correspon­dantes de l’ETF sont applicables.
+	
+2.7.4	Dételage du véhicule moteur, changement de cabine de conduite
+	
+	Avant de dételer le véhicule moteur, la charge remorquée doit être freinée avec le frein automatique.
+Pendant le changement de cabine de conduite, le véhicule moteur ou le train-navette doit être freiné au moyen du frein automatique ou selon les directives de l’ETF.
+	
+2.7.5	Garage d’un train ou d’une partie de train
+	
+	Au sens des prescriptions de freinage, un train ou une partie de train est considéré comme garé en cas d’interruption de la réalimentation plus longue que nécessaire pour effectuer l’essai d’étanchéité. 
+En cas d’interruption de la réalimentation (par ex. mise hors service de la cabine de conduite), un serrage ordinaire doit être effectué afin de prévenir l’épuisement des freins en cas de baisse progressive de la pression dans la conduite générale.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3	Dérangements
+3.1	Généralité
+3.1.1	Genre de dérangements
+	
+	Les dérangements aux freins à air sont la conséquence, principalement, d’une préparation incorrecte ou en raison d’un état défectueux. 
+	
+3.1.2	Préparation incorrecte
+	
+	La préparation incorrecte des freins provient d’une négligence ou d’une erreur de manipulation du frein à air ou de l’un de ses éléments. En font partie notamment
+–	les conduites d’air pas ou mal raccordées
+–	les robinets d’arrêt ou d’isolement totalement ou partiellement en mauvaise position
+–	les dispositifs d’inversion en mauvaise position ou en position intermédiaire
+–	les freins d’immobilisation serrés
+–	les appareils de freins surchargés, pas ou insuffisamment remplis ou dont le vide n’est pas suffisant.
+	
+3.1.3	Etat défectueux
+	
+	L’état défectueux des freins se manifeste par des fuites d’air aux conduites et aux appareils, le mauvais fonctionnement des pistons, des tiroirs, des valves etc. Les causes en sont souvent l’usure, le vieillissement, un graissage insuffisant ou la pénétration de corps étrangers dans les conduites et les appareils. 
+L’état défectueux et les dérangements qui en résultent peuvent être évités si les attelages à vis et les accouplements de freins inutilisés sont immédiatement placés sur leurs supports. Il convient, dans la mesure du possible, de souffler la conduite générale du frein à air comprimé ainsi que la conduite d’alimentation avant l’attelage.
+	
+3.1.4	Recherche des causes d’un dérangement
+	
+	Lors d’un dérangement dont la cause n’est pas clairement identifiée, il faut en premier lieu contrôler l’état de préparation du véhicule avarié ou de la partie de train avariée et ensuite leur état technique.
+Si le dérangement ne peut pas être levé, les freins des véhicules défectueux doivent être, dans la mesure du possible, isolés.
+	
+3.2	Essai du frein
+3.2.1	Contrôler la plausibilité
+	
+	Lors de l’essai du frein, le MEC doit particulièrement observer si la rapidité de la baisse ou de l’augmentation de la pression dans la conduite générale est plausible, ceci en fonction de la longueur de la conduite générale.
+	
+3.2.2	Semelles de frein gelées
+	
+	Si l’on constate des semelles de frein gelées, il faut, sur les véhicules freinés à l’aide de sabots, contrôler chaque sabot de frein séparément.
+	
+3.3	Partie pneumatique
+3.3.1	Véhicules non reliés à la conduite générale
+	
+	Les freins à air des véhicules non reliés à la conduite générale du véhicule moteur doivent être vidés.
+	
+3.3.2	Compresseur inutilisable
+	
+	Lorsque le compresseur devient inutilisable pendant la marche, il faut arrêter le train avant que la pression du réservoir principal ne se soit abaissée en dessous de la pression normale de la conduite générale.
+	
+3.3.3	Surcharge de la conduite générale avec les freins à air comprimé 
+	
+	Pour autant que le régulateur de pression du robinet de mécanicien soit ajustable à la main, le MEC peut, en cas de petites surcharges, augmenter la pression dans la conduite générale en tournant le régulateur de pression jusqu’à ce que tous les freins soient desserrés. Ensuite, il faut agir lentement en sens inverse sur le régulateur de pression en observant la pression de la conduite générale jusqu’à obtenir la pression normale. 
+Si le frein est surchargé à la suite d’une défectuosité ou d’une fausse manipulation lors du remplissage et s’il ne peut pas être desserré avec la pression normale ou la surcharge à basse pression, la pression dans la conduite générale doit être abaissée de 0,5 bar en dessous de la pression normale. Ensuite, il faut actionner les valves de desserrage des véhicules. Le cas échéant, il faut auparavant aviser les PRT ou les AT. 
+	
+
+3.3.4	Serrage intempestif 
+	
+	Si pendant la marche, malgré l’étanchéité de la conduite générale, des véhicules freinent intempestivement, on peut essayer de desserrer ces véhicules à l’aide d’un serrage bref suivi d’un desserrage, si possible avec surcharge à basse pression. 
+	
+3.3.5	Fuites d’air
+	
+	Les freins à air comprimé sont insensibles aux faibles fuites d’air. De fortes fuites d’air peuvent par contre provoquer des dérangements de frein dans tout le train. Si une telle fuite d’air ne peut pas être éliminée ou contournée par l’isolement du frein à air, le véhicule concerné doit être différé ou placé en queue du train.
+	
+3.4	Isolement des freins à air
+	
+	Sur les véhicules sans dispositif d’isolement des freins, il faut procéder selon les directives de l’ETF.
+	
+3.4.1	Isolement du frein automatique à air comprimé
+	
+	Si le frein à air d’un véhicule est inutilisable, il doit être isolé de la façon suivante :
+1.	fermer le robinet d’arrêt
+2.	actionner la valve de desserrage
+3.	contrôler l’état desserré du frein à air avec un essai complémentaire du frein au moyen d’un serrage rapide sur le véhicule concerné.
+	Si des freins à air doivent être isolés pour des raisons d’exploi­tation, par exemple trains de marchandises avec une charge remorquée de plus de 1200 t ou des véhicules sur lesquels la position prescrite du dispositif d’inversion n’est pas disponible, il suffit de contrôler l’état desserré du frein à air.
+	
+3.4.2	Dommages aux organes de roulement et aux freins
+	
+	Le frein à air doit être isolé notamment en cas de
+–	semelles de frein défectueuses ou fortement usées
+–	bandages disloqués
+–	ressorts de suspension calés
+–	bielles motrices ou d’accouplement démontées, pour les véhicules moteurs.
+S’il n’est pas possible d’isoler le frein, ces véhicules doivent être différés.
+3.4.3	Dérangement au dispositif anti-enrayeur
+	
+	En cas de dérangement au dispositif anti-enrayeur, le dispositif d’inver­sion du véhicule concerné doit être placé en position P/RIC. En cas d’impossibilité, le frein doit être isolé.
+	
+3.5	Dérangements aux freins magnétiques
+	
+	Les dérangements au frein Mg doivent être traités selon les directives de l’ETF.
+	
+3.6	Dérangements aux freins pendant la marche
+3.6.1	Contrôle d’étanchéité pendant la marche
+	
+	Si, pendant la marche, des indices permettent de conclure à un serrage intempestif d’un ou plusieurs freins, le MEC doit effectuer, à un endroit approprié, un contrôle d’étanchéité. Si, lors de ce contrôle, une baisse de pression est constatée dans la conduite générale, le train doit être arrêté.
+	
+3.6.2	Baisse de pression dans la conduite générale
+	
+	Si, sans faire un contrôle d’étanchéité, le MEC constate une diminution de la pression dans la conduite générale en dessous de la valeur réglée, il doit placer immédiatement le robinet de mécanicien dans la position de serrage rapide.
+	
+3.6.3	Rupture d’attelage supposée
+	
+	Si, lors d’une baisse de pression intempestive dans la conduite générale, le MEC suppose une rupture d’attelage, le robinet de mécanicien doit être laissé en position de marche. Juste avant l’arrêt, le robinet de mécanicien doit être placé dans la position de serrage ordinaire.
+	
+3.7	Danger
+3.7.1	Arrêt en cas de danger
+	
+	Lorsqu’en cas de danger, le train doit être immédiatement arrêté, les MEC de toutes les locomotives reliées à la conduite générale doivent arrêter le train avec un serrage rapide ou le serrage provoqué sur la locomotive de tête doit être renforcé depuis les autres locomotives. Le frein à air doit être utilisé immédiatement, sans égard pour le frein électrique et, sur les véhicules moteurs, rester pleinement actif.
+
+
+Un serrage rapide doit aussi être effectué lorsque l’efficacité d’un serrage ordinaire n’est pas atteinte malgré une forte diminution de la pression dans la conduite générale. En cas de nécessité, le train doit être freiné par tous les moyens à disposition. Pour cela, on peut en particulier prendre en considération la touche d’arrêt d’urgence, le robinet d’urgence et l’action provoquée par les appareils de sécurité.
+	
+3.7.2	Mauvaises conditions d’adhérence
+	
+	Lorsque les conditions d’adhérence sont mauvaises, le MEC doit, à titre préventif et, le cas échéant, sans tenir compte des éventuelles pertes de temps, circuler à une vitesse fortement réduite. Dans les situations critiques, il faut actionner, si disponible, les sablières.
+L’effort de freinage nécessaire doit si possible être réparti sur l’ensemble des essieux. Des efforts de freinage trop importants avec le frein à air ou avec le frein électrique doivent, autant que possible, être évités.
+En s’engageant sur une pente, le freinage doit être effectué à temps, avant d’atteindre la vitesse maximale admise.
+
+
+
+
+Complément 1
+
+
+Description des freins
+
+1	Généralité
+1.1	But des freins
+	
+	Les freins servent à régler la vitesse et à arrêter les trains ou les mouvements de manœuvre.
+	
+1.2	Systèmes de freinage
+	
+	En règle générale, les véhicules ferroviaires sont freinés 
+–	par des freins à friction
+–	par des freins électriques
+–	par des freins sur rails
+–	par des freins sur roue dentée
+–	avec d’autres systèmes sans frottements mécaniques (par ex. freins à courants de Foucault, hydrostatiques ou hydrodynamiques).
+	
+1.2.1	Freins à friction
+	
+	Comme freins à friction, on utilise principalement des freins à sabots ou des freins à disques. En outre, dans des cas spéciaux, il est aussi fait usage de freins à tambours qui peuvent être conçus comme des freins à rubans ou à sabots.
+Pour les freins à sabots, des semelles de frein en fonte grise ou en matière composite sont appliqués sur le bandage en acier des roues. Pour les freins à disques, des garnitures de frein sont appliquées sur un disque fixé sur l’essieu.
+En règle générale, les freins à friction sont des freins à air.
+La plupart des véhicules moteurs ainsi que les voitures et la plupart des wagons de marchandises sont équipés d’un frein à friction qui peut être actionné à la main. Il faut alors faire la distinction entre
+–	les freins actionnés depuis le véhicule ou depuis le sol et qui servent à assurer les véhicules contre la dérive et
+–	les freins actionnés uniquement depuis le véhicule, d’une part pour l’assurer contre la dérive et d’autre part pour régler la vitesse de certains mouvements de manœuvre.
+	
+
+1.2.2	Frein électrique
+	
+	Lors du freinage électrique, les moteurs de traction des véhicules fonctionnent comme générateurs. Avec un frein à récupération, l’énergie électrique récupérée est renvoyée dans la ligne de contact. Avec un frein rhéostatique, elle est transformée en chaleur dans des résistances. 
+Le frein électrique sert à régler et à réduire la vitesse, dans certains cas, jusqu’à l’arrêt. Il présente en outre les avantages suivants : 
+–	moindre usure des freins mécaniques 
+–	réduction des émissions sonores 
+–	moindre chauffe des essieux dans les tronçons en pente
+–	facilitation de la conduite des trains 
+–	en cas de danger, efficacité renforcée du frein automatique.
+	
+1.2.3	Frein sur rails
+	
+	Les freins sur rails sont composés de patins de frein, suspendus sous les organes de roulement, qui sont abaissés et pressés, en règle générale, sur le champignon du rail par une force magnétique.
+	
+1.3	Frein automatique
+	
+	Le frein automatique est un frein continu, avec lequel tous les véhicules accouplés d’un train ou d’un mouvement de manœuvre peuvent être desservi depuis un seul endroit.
+Le frein automatique doit
+–	permettre l’arrêt en tout temps
+–	lors d’une rupture d’attelage, agir automatiquement sur chaque partie du train
+–	en cas d’urgence, pouvoir être actionné ou sollicité pendant la marche depuis chaque véhicule sur lequel se trouvent des personnes 
+–	être efficace suffisamment longtemps, indépendamment d’une source d’énergie externe au véhicule.
+En général, les freins automatiques sont conçus comme des freins à air à action indirecte (frein à air comprimé automatique, frein à vide). 
+De plus, des freins à air à action directe, des freins électropneumatiques, électrohydrauliques ou les freins électriques peuvent aussi être utilisés comme des freins automatiques.
+	
+
+1.4	Freins à air
+	
+	Les freins à air sont principalement utilisés comme
+–	frein automatique
+	En règle générale, les freins automatiques sont des freins à air comprimé ou à vide d’air à action indirecte. L’air comprimé produit par le compresseur ne sert pas seulement, pour le frein automatique, à produire la force mais également à commander le processus de freinage; il en va de même pour le vide produit au moyen de la pompe à vide.
+–	frein de manœuvre 
+	Le frein de manœuvre agit directement sur le véhicule occupé (véhicule moteur ou voiture de commande) et, le cas échéant, sur le véhicule en unité multiple ou télécommandé.
+
+
+2	Frottement sabot de frein – roue – rail
+2.1	Relation des forces entre le sabot de frein, la roue et le rail 
+	
+	
+	
+	Le frottement produit par la force appliquée par le sabot de frein sur le bandage crée l’effort de frottement tangentiel s’opposant à la rotation de la roue. Une force de valeur égale agit entre la roue et le rail (force d’adhérence), force qui s’oppose au déplacement du véhicule.
+La force résultant du frottement du sabot sur la roue ne doit jamais être supérieure à la force d’adhérence possible entre roue et rail, sinon les roues glissent sur les rails, d’où il résulte des méplats. La conséquence de cette loi de la physique est que, le coefficient d’adhérence étant plus faible en comparaison avec un véhicule routier, les chemins de freinage sont nettement plus longs. Des limiteurs de pression empêchent une pression excessive dans le cylindre de frein et de ce fait un enrayage des roues. 
+	
+2.2	Coefficient d’adhérence roue – rail
+	
+	Le coefficient d’adhérence entre la roue et le rail est le plus élevé lorsque le rail est propre et sec ou lavé (par la pluie). Les premières gouttes de pluie, le brouillard, le givre, le sel de déneigement sur les passages à niveau, mais particulièrement la chute des feuilles ou l’huile peut rendre le rail glissant et le coefficient d’adhérence peut devenir très faible. Des dispositifs anti-enrayeurs empêchent le glissement. Au besoin, le sablage peut s’avérer utile.
+	
+
+2.3	Coefficient de frottement entre la semelle de frein et la roue
+	
+	Le coefficient de frottement entre la semelle de frein et la roue dépend de la vitesse, de la surface de pression de la semelle de frein ainsi que des matières de la surface de frottement de la roue et de la semelle de frein.
+Une comparaison entre des freins avec des semelles de frein en fonte grise et en matière composite (par ex. K, L et LL) ainsi qu’avec des freins à disques démontre, qu’avec une vitesse croissante,
+–	le coefficient de frottement diminue fortement pour les semelles de frein en fonte grise
+–	le coefficient de frottement ne diminue que faiblement pour les semelles de frein en matière composite (par ex. K, L et LL)
+–	le coefficient de frottement reste constant pour les freins à disque.
+Afin d’éviter un blocage des essieux à faible vitesse, l’effort du sabot ne doit pas dépasser une certaine valeur. A vitesse élevée, par contre, la force d’application des sabots en fonte grise doit être renforcée pour obtenir l’effort de freinage nécessaire.
+
+3	Partie mécanique
+3.1	Equipement de frein d’un wagon de marchandises
+	
+	Equipement de frein d’un wagon de marchandises avec régleur de timonerie, dispositif d’inversion MV et dispositif manuel de freinage de la charge
+	
+
+	
+	1	Accouplement de frein
+2	Robinet d’arrêt
+3	Poignée du frein d’urgence
+4	Robinet du frein d’urgence
+5	Manivelle du frein 
+d’immobilisation
+6	Vis du frein
+7	Ecrou de la vis du frein 
+8	Arbre de frein
+9	Tirant du frein 
+10	Régleur de timonerie
+11	Tige d’asservissement du régleur
+12	Balancier horizontal	13	Tringle de charge
+14	Inverseur de charge 
+mécanique avec tringle vide
+15	Ressort de rappel
+16	Cylindre de frein
+17	Balancier à point fixe
+18	Commande de l’inverseur de charge mécanique
+19	Tirant du frein
+20	Balancier du frein
+21	Point fixe
+22	Conduite générale
+23	Semelle de frein
+24	Triangle de frein	25	Réservoir auxiliaire
+26	Poignée de la valve de décharge
+27	Distributeur
+28	Réservoir de commande
+29	Robinet d’isolement du frein
+30	Poignée du robinet 
+d’isolement du frein
+31	Dispositif d’inversion MV
+32	Dispositif d’inversion vide-chargé
+	
+	La force exercée par le piston du cylindre de frein 16 agit sur le balancier horizontal 12 et, depuis celui-ci, sur la combinaison du régleur de timonerie 10 / la tringle de charge 13 / le tirant du frein 19 et par le balancier vertical 20 sur le triangle de frein 24, sur les semelles de frein 23 et de là sur la surface de roulement des roues.
+La force est transmise de la manivelle du frein d’immobilisation 5 par la vis du frein 6, l’écrou de la vis du frein 7, l’arbre de frein 8, et le tirant du frein 9 sur le balancier horizontal 12. De là, la force, comme décrit plus haut, agit sur la surface de roulement des roues.
+
+3.2	Bloc frein / unités de frein
+	
+	Avec un faible encombrement, le bloc frein agit directement du cylindre de frein, via la timonerie avec régleur de timonerie et semelle de frein, sur la surface de roulement des roues. Normalement, chaque roue est équipée de son propre bloc frein.
+	
+3.3	Régleur de timonerie
+	
+	L’usure des semelles de frein et des bandages augmente le jeu entre la semelle de frein et la roue, ce qui signifie une plus forte consommation d’air comprimé. Le temps de remplissage et de desserrage du cylindre de frein est prolongé, en raison de la course plus longue du piston. Pour les freins dont l’effet dépend de la course du piston, le plus grand jeu provoque une diminution de la force d’application des sabots et, par conséquent, une moindre efficacité du freinage.
+On remédie à ces inconvénients par le montage, dans la timonerie de frein, d’un régleur de timonerie, en général automatique. Celui-ci compense l’usure des semelles de frein par le raccourcissement d’une tige de traction, de sorte que le jeu des sabots et la course du piston ne soient pas augmentés.
+	
+3.4	Freinage de la charge
+	
+	Les wagons, dont le poids brut est nettement plus élevé que la tare, sont équipés d’un dispositif de freinage de la charge. Ce dispositif permet d’adapter la force d’application des sabots de freins au poids effectif du wagon.
+L’adaptation de la force d’application des sabots de frein est obtenue
+–	au moyen du dispositif vide/chargé manuel avec les positions « vide » et « chargé »
+–	au moyen du dispositif vide/chargé automatique avec les 
+positions « vide » et « chargé »
+–	au moyen du dispositif automatique de freinage de la charge continu correspondant
+–	au chargement jusqu’au poids total maximal admissible
+–	au chargement jusqu’à une valeur déterminée du poids total. Pour une charge plus élevée, le rapport de freinage diminue en conséquence.
+
+4	Partie pneumatique
+	
+	La couche d’air de l’atmosphère terrestre exerce sur la terre une pression égale à celle d’une colonne d’eau de 10 m de hauteur ou d’une colonne de mercure de 760 mm de hauteur, ce qui correspond à 10 N (1 kp) ou environ 1 bar par cm2 de surface terrestre
+	
+4.1	Propriétés de l’air comprimé
+	
+	L’air comprimé est obtenu par compression de l’air à pression atmosphérique dans une partie de l’espace occupé initialement. La surpression (en bar) est donc mesurée par rapport à la pression atmosphérique.
+Dans une conduite, l’air comprimé s’écoule toujours du point dont la pression est la plus haute vers le point dont la pression est la plus basse. La vitesse de l’écoulement dépend de la différence des pressions et de la résistance de la conduite.
+Quand un réservoir rempli d’air comprimé est relié à un réservoir vide, c’est-à-dire ne contenant que de l’air à la pression atmosphérique, l’air comprimé s’écoule dans le second réservoir jusqu’au moment où les pressions s’équilibrent dans les deux récipients (égalisation des 
+pressions).
+L’air comprimé tend constamment à se dilater. Aussi lorsqu’il est introduit dans le cylindre de frein, cherche-t-il à déplacer le piston jusqu’à ce que ce dernier rencontre de la résistance, c’est-à-dire jusqu’au moment où les sabots sont appliqués sur les bandages des roues.
+	
+4.2	Propriétés du vide
+	
+	Un vide est créé quand, dans un espace fermé, l’air est aspiré par une pompe à vide ; il en résulte une dépression par rapport à la pression atmosphérique. En ce qui concerne l’égalisation des pressions, la règle concernant l’air comprimé est applicable.
+
+5	Conduites d’air
+5.1	Raccordement entre les véhicules
+	
+	Pour le raccordement des différentes conduites d’air entre les véhicules, chaque extrémité de véhicule est équipée, au minimum, d’un boyau avec une tête d’accouplement et d’un dispositif d’isolement.
+Les différentes sortes de têtes d’accouplement empêchent que des conduites de types différents puissent être accouplées entre elles. 
+Avec certains types d’attelages automatiques, les conduites d’air sont automatiquement reliées ou séparées lors de l’attelage ou le dételage.
+	
+5.1.1	Conduite générale
+	
+	La conduite générale relie, en partant du robinet de mécanicien de la cabine de conduite desservie, tous les véhicules reliés au frein automatique jusqu’en queue du train. Elle fournit aux véhicules l’air comprimé ou le vide d’air nécessaire à l’effort et la commande des freins.
+Pour isoler la conduite générale sur les véhicules équipés du frein automatique à air comprimé, chaque traverse frontale est équipée d’un robinet d’arrêt, lorsque les accouplements sont doublés, il y a également deux robinets. Le robinet d’arrêt est ouvert en règle générale lorsque sa poignée se trouve en position horizontale et est fermé en règle générale lorsque sa poignée se trouve en position verticale. En position fermée, l’accouplement de frein est relié à l’air libre et se vidange par un orifice percé dans le corps du robinet.
+Pour isoler la conduite générale sur les véhicules équipés du frein à vide, les têtes d’attelages sont équipées d’un couvercle obturateur. Celui-ci se fixe sur la tête d’accouplement par l’aspiration engendrée par le vide.
+	
+
+5.1.2	Conduite d’alimentation
+	
+	La conduite d’alimentation approvisionne en air comprimé, depuis les réservoirs principaux du véhicule moteur, les véhicules raccordés. Il est impératif d’accoupler la conduite d’alimentation pour le fonctionnement des freins 
+–	pour alimenter en air comprimé le robinet de mécanicien et le robinet du frein de manœuvre d’un train conduit depuis la voiture de commande
+–	pour alimenter en air comprimé les cylindres de frein des véhicules équipés avec un frein électropneumatique à commande directe
+–	pour alimenter en air comprimé les cylindres de frein des véhicules équipés avec freins à air comprimé commandés par le vide d’air.
+L’isolement de la conduite d’alimentation se fait de la même manière que l’isolement de la conduite générale pour les freins à air comprimé.
+	
+5.1.3	Conduite du frein de manœuvre
+	
+	En partant du robinet du frein de manœuvre de la cabine de conduite occupée, la conduite du frein de manœuvre alimente en air comprimé le frein de manœuvre du véhicule concerné ainsi que celui des véhicules moteurs raccordés à la conduite multiple.
+En règle générale, la conduite du frein de manœuvre ne comprend pas de robinet d’isolement. Pour son isolement, une soupape de retenue est intégrée dans les têtes d’accouplement.
+
+6	Frein automatique à air comprimé
+6.1	Principe du frein automatique à air comprimé
+	
+	
+	
+	Les véhicules avec un frein automatique à air comprimé sont équipés au minimum d’une conduite générale, d’un robinet d’isolement, d’un distri­buteur avec ou sans réservoir de commande, d’un réservoir auxiliaire et d’un cylindre de frein. Les véhicules moteurs sont en plus équipés d’un compresseur, d’un réservoir principal et d’un robinet de mécanicien, le cas échéant avec un robinet de frein de manœuvre et de frein remorque.
+Le frein automatique à air comprimé est aussi appelé frein à action indirecte, car l’air comprimé parvient indirectement au cylindre de frein par le réservoir auxiliaire et par l’intermédiaire du distributeur, lequel est commandé par la pression de la conduite générale.
+Généralement, le frein automatique à air comprimé peut être mis hors service séparément sur chaque véhicule. Sur les voitures et wagons, cela se fait à l’aide d’un robinet d’isolement monté à l’extérieur du véhicule. En général, le robinet est ouvert lorsque sa poignée se trouve en position verticale et fermé lorsque sa poignée se trouve en position horizontale.
+	
+6.1.1	Remplissage ou desserrage
+	
+	Le compresseur du véhicule moteur alimente en air comprimé les réservoirs principaux. De là, l’air comprimé parvient par le robinet de mécanicien puis par la conduite générale aux distributeurs et aux réservoirs auxiliaires de chaque véhicule relié à la conduite générale. Le robinet de mécanicien règle la pression dans la conduite générale et dans les appareils de frein des véhicules à la pression déterminée. Les cylindres de frein, raccordés aux distributeurs, sont reliés à l’air libre; un ressort placé sous le piston ou dans la timonerie repousse le piston en position de desserrage. Le frein est prêt à l’emploi lorsque le système de frein est rempli à la pression normale correspondante. 
+6.1.2	Serrage
+	
+	La pression de la conduite générale, abaissée par l’intermédiaire du robinet de mécanicien, commande le distributeur de chaque véhicule en position de serrage. Celui-ci relie le réservoir auxiliaire avec le cylindre de frein. La liaison entre le cylindre de frein et l’air libre est interrompue. L’air comprimé s’écoule du réservoir auxiliaire par l’intermédiaire du distributeur dans le cylindre de frein. La force du ressort de rappel est surmontée et le piston est pressé dans la position de serrage. 
+	
+6.2	Le distributeur
+6.2.1	Généralités
+	
+	Le distributeur sert à établir automatiquement les liaisons entre la conduite générale, le réservoir auxiliaire, le cylindre de frein et la pression atmosphérique (air libre). Le distributeur confère au frein les caractéristiques essentielles suivantes :
+–	inépuisable lors d’un usage correct
+–	réglage aisé, soit une bonne sensibilité au serrage et au desserrage 
+–	vitesse de propagation élevée
+–	faible sensibilité aux surcharges du système 
+–	insensibilité aux faibles variations de pression 
+–	compensation automatique des fuites d’air dans les cylindres de freins 
+–	réaction rapide des freins et variation régulière de la pression
+–	fiabilité par tous les temps.
+Un réglage aisé est important, tant au serrage qu’au desserrage. Les freins sont toujours graduables au desserrage comme au serrage.
+	
+6.2.2	Fonctionnement
+	
+	Les distributeurs pneumatiques travaillent généralement d’après le principe des trois pressions. Les pressions commandées sont celles de la conduite générale (bleu), du réservoir de commande (jaune) et du cylindre de frein (vert). Le réservoir auxiliaire (rouge) contient la réserve d’air comprimé nécessaire à alimenter le cylindre de frein.
+Certains distributeurs peuvent être équipés dans certains cas d’un ressort à la place du réservoir de commande (jaune).
+
+6.2.3	Remplissage et desserrage
+	
+	
+	
+	L’air de la conduite générale 2 pénètre par l’intermédiaire du robinet d’isolement 3
+–	dans la chambre (bleu) situé au-dessus du piston de commande 7
+–	par la valve de retenue 5 dans le réservoir auxiliaire 1 et dans la chambre (rouge) disposée au-dessus de la valve d’admission 10
+–	par la valve de retenue 6 dans le réservoir de commande 9 et dans la chambre (jaune) située sous le piston de commande 7.
+Le piston de commande subit l’effet du ressort agissant sur le piston de réglage 8, par conséquent la tige creuse ne touche pas la valve d’admission 10 reposant sur son siège. Le cylindre de frein est par conséquent relié à l’air libre par l’orifice de la tige.
+
+6.2.4	Serrage
+	
+	
+	
+	Une dépression dans la conduite générale provoque une baisse de pression dans la chambre (bleu) située au-dessus du piston de commande 7. Simultanément, les valves de retenue 5 et 6 se ferment, de sorte que ni l’air du réservoir auxiliaire ni celui du réservoir de commande ne peut retourner dans la conduite générale. Par suite de la différence de pression entre le réservoir de commande (jaune) et la conduite générale (bleu) le piston de commande se déplace vers le haut et sa tige creuse soulève la valve d’admission de son siège et l’ouvre. La liaison entre le cylindre de frein 4 par l’orifice de la tige creuse est obturée et l’air du réservoir auxiliaire (rouge) s’engage dans le cylindre de frein par la valve d’admis­sion 10. 
+	
+
+6.2.5	Position neutre
+	
+	
+	
+	Quand la pression dans le cylindre de frein et, par conséquent, la pression (vert) dans la chambre au-dessus du piston de réglage 8 atteint à une valeur telle, que la force du piston de réglage, dirigée vers le bas, compense ou dépasse légèrement celle du piston de commande 7, dirigé vers le haut, le piston de commande et la tige creuse se déplacent vers le bas, jusqu’au moment où le ressort de la valve d’admission 10 ferme cette dernière en l’appliquant sur son siège. L’air ne peut alors plus passer du réservoir auxiliaire au cylindre de frein et l’air de ce dernier ne peut plus s’échapper à l’extérieur, la tige creuse étant en contact avec la valve d’admission. Chaque dépression ultérieure dans la conduite générale entraîne une augmentation correspondante de la pression au cylindre et chaque palier de pression qui en résulte est stabilisé de la même manière. L’effort de freinage maximal est atteint lorsque la pression dans la conduite générale baisse au point que la pression du réservoir auxiliaire soit égale à celle du cylindre de frein.
+
+6.2.6	Desserrage gradué
+	
+	
+	
+	Quand le robinet de mécanicien laisse à nouveau entrer l’air comprimé dans la conduite générale, la pression augmente dans la chambre (bleu) disposée au-dessus du piston de commande. L’état d’équilibre sur le piston de commande est rompu et ce dernier se déplace vers le bas jusqu’au moment où la tige de ce dernier ne soit plus en contact avec la valve d’admission. L’air comprimé du cylindre de frein (vert) s’échappe alors à l’extérieur par l’orifice de la tige tant que la force dirigée vers le bas suffit à tenir l’orifice ouvert, c’est-à-dire à maintenir le piston de commande dans la position correspondante au desserrage du frein. La diminution de la pression dans le cylindre de frein réduit par ailleurs aussi la force agissant depuis le haut sur le piston de réglage 8, de sorte que le piston de commande, sous l’influence de la pression régnant dans le réservoir de commande (jaune), se déplace jusqu’au moment où la tige ferme l’échappement du cylindre de frein. Lors d’augmentations ulté­rieures dans la conduite générale, le processus de desserrage se répète.
+	
+6.2.7	Desserrage complet
+	
+	Le frein n’est desserré complètement que lorsque la pression dans la conduite générale atteint sa valeur initiale, c’est-à-dire la pression qui régnait avant le premier freinage et que le réservoir auxiliaire est à nouveau rempli. 
+
+6.3	Rapport entre la pression de la conduite générale et le cylindre de frein
+	
+	La pression maximale dans le cylindre de frein est atteinte quand la pression dans la conduite générale est réduite de 1,5 bar. Si le cylindre de frein d’un véhicule moteur a été desserré après un premier serrage, la pression dans le cylindre de frein peut être augmentée par une autre dépression dans la conduite générale de 0,6 bar jusqu’à une valeur déterminée. Un dispositif limiteur de pression du distributeur empêche de dépasser la pression maximale admise dans le cylindre de frein.
+Le cylindre de frein est desserré complètement dès que la pression dans la conduite générale est augmentée jusqu’à 0,2 bar en dessous de la pression de service. Cette limite de desserrage est fixée afin d’éviter des dérange­ments au desserrage. De cette façon tous les appareils, en particulier ceux qui se trouvent en queue des longs trains, se desserrent correctement lorsque la pression de la conduite générale atteint sa valeur de service.
+	
+6.4	Vitesse de propagation avec le frein automatique à air comprimé
+	
+	Le serrage amorcé doit se transmettre le plus rapidement possible jusqu’à la queue du train. Plus cette propagation est rapide, plus la distance de freinage est courte. La vitesse à laquelle le serrage se propage jusqu’à la queue du train est appelée vitesse de propagation. La vitesse de propagation est déterminée par le temps qui s’écoule entre l’instant où la poignée du robinet est placée en position de serrage rapide et le début de l’augmentation de pression dans le cylindre de frein du dernier véhicule.
+Le distributeur est doté en général d’une valve accélératrice. Elle permet de prélever une certaine quantité d’air dans la conduite générale lors du serrage. De ce fait, la vitesse de propagation peut être augmentée d’environ 90 jusqu’à 180 m/s à environ 250 jusqu’à 280 m/s.
+	
+6.5	Frein voyageur et frein marchandise
+	
+	On distingue le frein voyageur du frein marchandise, car, compte tenu de la longueur et de la vitesse maximale admissible des convois, les freins doivent répondre à des exigences différentes. Les trains circulant à des vitesses élevées ont besoin d’un plus long chemin de freinage, raison pour laquelle ils doivent être équipés d’un frein à action rapide. Pour cette raison, en cas d’utilisation de sabots en fonte grise, les freins voyageurs doivent avoir une efficacité renforcée à haute vitesse.
+
+
+
+Les freins doivent agir dans toutes les conditions et pour tout le convoi de manière à éviter l’apparition de forces longitudinales excessives dans le train. Les longs et lourds trains de marchandises, dont les wagons sont chargés et freinés inégalement, ont besoin de freins à action lente afin de réduire les efforts longitudinaux.
+	
+6.6	Freins voyageur
+6.6.1	Frein V
+	
+	Le frein V est un frein à action rapide. Il est utilisé pour les trains légers jusqu’à moyennement lourds.
+Le temps de remplissage des cylindres de frein est environ de 3 à 5 secondes et le temps de desserrage est de l’ordre de 10 à 20 secondes.
+Ces variations rapides de la pression impliquent que tous les freins des véhicules agissent uniformément et que tous les attelages des véhicules soient tendus. Les temps de remplissage et de desserrage rapide des cylindres de frein sont obtenus par un étranglement plus faible des passages de l’air dans le distributeur.
+	
+6.6.2	Frein R
+	
+	Le frein R est à considérer en principe comme un frein V. Pour les trains circulant à vitesse élevée, jusqu’à 160 km/h, les chemins de freinage nécessaires ne peuvent être respectés que si les freins des véhicules, équipés de semelles de frein en fonte grise, agissent avec une force plus élevée aux vitesses supérieures. Par ce moyen, compte tenu de la variation du coefficient de frottement, on obtient que l’effort de freinage reste aussi constant que possible. A cet effet, la force d’application est renforcée pour les vitesses dépassant une certaine valeur (par ex. 80 km/h). Lors d’une diminution de la vitesse au-dessous d’une certaine valeur (par ex. 50 km/h), la force d’application des sabots de frein est ramenée à sa valeur normale en évitant ainsi un blocage des roues.
+Sur les véhicules avec des freins à disques ou des semelles de frein en matière composite (par ex. K, L et LL), le coefficient de frottement reste pratiquement constant dans toutes les plages de vitesses. Pour cette raison, on peut renoncer à une commande du frein R dépendante de la vitesse.
+	
+
+6.7	Frein marchandise
+	
+	Le frein M est un frein à action lente. Pour cette raison, le chemin de freinage est allongé. Il est utilisé pour les trains de marchandises lourds, composés de matériel non homogène ou pour les trains particulièrement longs. Les conditions pour un serrage et un desserrage exempts de chocs et de réactions de ces trains sont moins favorables. Le matériel hétérogène et les conditions inégales de chargements provoquent aussi un serrage différencié sur chaque véhicule, ce qui peut provoquer des efforts longitudinaux indésirables, qui, avec un maniement inadéquat des freins, peuvent provoquer des chevauchements de tampons et des déraillements. Pour cette raison, le frein M est conçu de façon, que lors d’un serrage, chaque frein réagisse le plus rapidement possible (premier temps de serrage), l’effort de freinage augmentant ensuite relativement lentement. De ce fait, on évite des efforts de compression trop élevés dans le train. Les efforts de traction et de compression s’égalisent ainsi progressivement dans les attelages et les tampons. Pour les mêmes raisons, l’effort de freinage doit aussi diminuer lentement au desserrage.
+Le temps de remplissage des cylindres de frein atteint, selon la longueur du train environ 18 à 35 secondes, et le temps de desserrage environ 45 à 60 secondes.
+La réaction rapide du frein M au début du serrage (premier temps de serrage) est provoquée par la valve à pression minimale du distributeur. Celle-ci fait pénétrer de l’air comprimé du réservoir auxiliaire directement dans le cylindre de frein, jusqu’au moment où une pression de 0,8 bar est atteinte. Cette liaison est ensuite interrompue et la pression augmente lentement dans le cylindre, l’air devant passer par un petit orifice d’étranglement calibré.
+	
+6.8	Dispositif d’inversion pour l’action du frein
+	
+	Les véhicules moteurs sont en général dotés d’un dispositif d’inversion MV, MVR ou MR, les wagons principalement avec un dispositif d’inver­sion MV ou RIC/R, RIC/R+Mg ou RIC/R/R+Mg. Cet équipement permet d’adapter le régime des freins au régime de freinage du train.
+	
+
+6.9	Robinet de mécanicien
+	
+	Le robinet de mécanicien permet de régler la pression dans la conduite générale.
+La position de remplissage (augmentation du débit) permet le remplissage rapide de la conduite générale et des appareils de freins. Le réservoir principal du véhicule moteur est alors relié à la conduite générale par des canaux de grande section. Sur de nombreux types de robinets de mécanicien, la position de remplissage provoque un à-coup de remplissage limité dans le temps (onde de pression) suivi d’une surcharge à basse pression (fonction d’égalisation) de la conduite générale à 0,2 jusqu’à 0,4 bar au-dessus de la pression normale.
+En position de marche, cette liaison présente une section réduite. La surcharge à basse pression s’élimine lentement sans que les freins n’entrent en action. La liaison passe encore par un régulateur de pression, lequel maintient ensuite la pression à la valeur de service. Les petites fuites d’air sont compensées automatiquement.
+En position de serrage, la pression dans la conduite générale est abaissée par échappement de l’air vers l’extérieur. De cette manière, il est possible de diminuer graduellement la pression dans la conduite générale jusqu’au serrage à fond.
+En position de serrage d’urgence, l’air de la conduite générale s’échappe immédiatement vers l’extérieur avec une grande rapidité. L’accroisse­ment de l’effort de freinage dans le train est alors accéléré.
+En position neutre, la liaison entre le réservoir principal et la conduite générale est interrompue.
+	
+6.10	Valve de décharge
+	
+	Les véhicules sont équipés d’une valve de décharge. Avec celle-ci on peut, par vidange des appareils de frein, desserrer le frein sans augmentation de la pression dans la conduite générale.
+Sur les véhicules moteurs, la valve de décharge peut être actionnée sur le tableau pneumatique ; sur les voitures et wagons, elle peut être nor­malement actionnée des deux côtés par des tringles ou des tiges.
+Les cylindres de frein des véhicules moteurs peuvent êtres vidangés depuis la cabine de conduite par une valve de décharge électro­magnétique. 
+
+6.11	Frein électropneumatique
+	
+	Le frein EP est un frein automatique à air comprimé commandé électro-pneumatiquement. Le frein EP permet le serrage ou le desserrage simultané de tous les véhicules, indépendamment de la longueur du train. On obtient ainsi un freinage homogène du train avec de faibles efforts de compression longitudinaux.
+Le véhicule moteur est équipé d’un dispositif de commande et tous les véhicules sont équipés de valves électropneumatiques. Les ordres de commande électriques sont transmis et surveillés par un câble d’asser­vissement électrique. En cas de défaillance de la commande électro­pneumatique, le frein est actionné pneumatiquement par la conduite générale.
+Les freins EP comprennent deux exécutions
+–	les freins EP à commande directe
+–	les freins EP à commande indirecte.
+	
+6.11.1	Frein EP à commande directe
+	
+	Pour le frein EP à commande directe, un dispositif de commande est combiné sur le véhicule moteur ou sur la voiture de commande avec le robinet de mécanicien ou avec le dispositif de commande approprié. Le dispositif de commande délivre un ordre de serrage ou de desserrage proportionnel à l’effort de freinage désiré. Chaque véhicule du convoi est équipé d’une valve électropneumatique qui règle la pression aux cylindres de frein en fonction de l’ordre de la conduite d’asservissement électrique (conduite EP).
+	
+6.11.2	Frein EP à commande indirecte
+	
+	Pour le frein EP à commande indirecte, le dispositif de commande est actionné sur le véhicule moteur ou sur la voiture de commande par le robinet de mécanicien. Il donne, sous forme électrique, un ordre de serrage ou de desserrage lorsque la pression dans la conduite générale est abaissée ou élevée. Ce frein travaille donc parallèlement avec le frein automatique à air comprimé. Chaque véhicule possède une électrovalve pour le serrage et une pour le desserrage. Lorsqu’elles sont excitées, ces électrovalves mettent la conduite générale en liaison avec l’atmosphère (serrage) ou avec la conduite d’alimentation (desserrage). Le frein EP indirect agit donc sur le frein automatique à air comprimé de chaque véhicule accouplé à la conduite générale.
+
+7	Frein automatique à vide
+7.1	Principe du frein à vide
+	
+	
+	
+	Les véhicules équipés d’un frein à vide possèdent au minimum une conduite générale, un cylindre de frein avec une chambre inférieure et supérieure, un réservoir supplémentaire et une valve de retenue entre le réservoir supplémentaire et la chambre inférieure du cylindre de frein. Les véhicules moteurs sont équipés en plus d’une pompe à vide avec soupape de retenue et robinet de mécanicien (régulateur du frein à vide).
+	
+7.1.1	Evacuer ou lâcher
+	
+	La pompe à vide sur le véhicule moteur aspire (évacue) en passant par une valve de retenue, l’air de tout le système; il se crée ainsi un vide. Les chambres inférieures du cylindre de frein, les chambres supérieures et les réservoirs supplémentaires sont évacués par la conduite générale, au travers des valves de retenue. Sur le cylindre de frein monté horizontalement un ressort de rappel ou, sur le cylindre de frein monté verticalement, le propre poids du piston du cylindre de frein monté verticalement, tient ce dernier en position de desserrage. Le frein est prêt à fonctionner ou desserré lorsqu’entre la pression atmosphérique et le système une différence de pression de 52 cmHg est générée et que l’égalisation des pressions règne entre la chambre inférieure et la chambre supérieure du cylindre de frein. Sur le véhicule moteur, un régulateur de pression limite la différence de pression entre la pression atmosphérique et la conduite générale à 52 cmHg et une valve de retenue empêche lors de l’arrêt de la pompe à vide, la pénétration incontrôlée de l’air extérieur. 
+
+7.1.2	Serrage
+	
+	Le vide dans la conduite générale et dans la chambre inférieure du cylindre de frein est réduit par l’admission dosée d’air extérieur au travers du robinet de mécanicien. Le vide de 52 cmHg dans la chambre supérieure et dans le réservoir supplémentaire est conservé grâce à l’étanchéité maintenue par la valve de retenue. Suite à la différence des pressions entre les deux chambres, la force du ressort de rappel ou le propre poids du piston est vaincue et celui-ci se déplace en position de serrage.
+	
+7.2	Vitesse de propagation avec le frein à vide
+	
+	De manière générale, ce qui est valable pour la vitesse de propagation avec le frein à air comprimé vaut également pour le frein à vide.
+La vitesse de propagation atteint en règle générale 15 m/s lors d’un serrage normal, lors d’un serrage rapide environ 200 m/s.
+	
+7.3	Frein à air comprimé commandé par le vide
+	
+	Par rapport au frein à vide classique, le frein à air comprimé commandé par le vide présente en outre les avantages suivants :
+–	adjonction d’un dispositif anti-enrayeur
+–	combinaison avec un frein de manœuvre et un frein antipatinage sur les véhicules moteurs.
+Le frein à air comprimé commandé par le vide possède en plus, par rapport au frein à vide classique, un distributeur à vide. Celui-ci a la même fonction que le distributeur du frein à air comprimé. Le cylindre de frein est alimenté en air comprimé à partir de la conduite d’alimentation au travers du distributeur à vide.
+	
+	
+	
+	Lors du desserrage et du remplissage, la conduite générale 2 et le réservoir de commande 6 sont évacués à 52 cmHg par la pompe à vide du véhicule moteur. Le piston du distributeur à vide se déplace vers le bas et le cylindre de frein 4 est mis à l’air libre.
+Lors du serrage, le vide est réduit dans la conduite générale et le piston du distributeur se déplace vers le haut. Le vide de référence de 52 cmHg est maintenu dans le réservoir de commande 6 par la valve de retenue. De l’air comprimé s’écoule de la conduite d’alimentation 1, au travers de la valve d’admission 9, dans la chambre située au-dessus du piston de réglage 8 et dans le cylindre de frein.
+L’augmentation de pression dans la chambre située au-dessus du piston de réglage repousse celui-ci vers le bas et provoque la fermeture de la valve d’admission.
+Le distributeur à vide fonctionne selon le principe des trois pressions : vide dans la conduite générale, vide dans le réservoir de commande, pression dans le cylindre de frein, ce qui permet un réglage gradué de la pression dans le cylindre de frein.
+L’alimentation en air comprimé par la conduite d’alimentation est une condition primordiale pour le fonctionnement du frein à air comprimé commandé par le vide. La conduite d’alimentation est contrôlée par la surveillance de pression minimale 10. La conduite générale est automatiquement mise à l’air libre si la pression descend au-dessous de 5,5 bars.
+
+8	Frein de manœuvre
+	
+	
+	
+	Le frein pneumatique à action directe des véhicules moteurs et des voitures de commande est appelé frein de manœuvre. Il agit sur le véhicule moteur ou sur la voiture de commande et le cas échéant sur d’autres véhicules moteurs en unité multiple. Dans certains cas, le frein de manœuvre est commandé électro-pneumatiquement depuis la voiture de commande et peut ainsi agir aussi complémentairement sur le véhicule moteur.
+Le frein de manœuvre est commandé à l’aide du robinet du frein de manœuvre qui reçoit l’air comprimé du réservoir principal par l’inter­médiaire d’un régulateur de pression. Ce dernier est réglé à une pression maximale déterminée afin d’éviter des surfreinages.
+Avec le frein de manœuvre, il est possible de régler à volonté la pression au cylindre de frein de manière continue, tant au serrage qu’au desserrage.
+
+9	Frein sur rails
+	
+	Les freins sur rails sont utilisés
+–	pour raccourcir le chemin de freinage lors d’un serrage rapide, utilisé en particulier dans les zones pour les chemins de fer routiers
+–	pour compenser l’effort de freinage en cas de défaillance inopinée du frein électrique
+–	comme frein d’immobilisation.
+Les patins de frein exercent en règle générale l’effort de freinage sur le champignon du rail par des électro-aimants ou des aimants permanents. Ainsi, la force de frottement, indépendamment du frottement roue - rail, est exercée directement sur le rail.
+
+10	Dispositifs du frein d’alarme 
+	
+	Le dispositif de frein d’alarme a pour but, qu’en cas d’urgence, un train ou un mouvement de manœuvre puisse être arrêté. En règle générale, un dispositif du frein d’alarme équipe chaque véhicule sur lequel des personnes peuvent se tenir pendant la marche.
+	
+10.1	Valve du frein d’alarme
+	
+	Chaque véhicule accessible aux voyageurs est en règle générale équipé d’une valve du frein d’alarme. La valve du frein d’alarme peut être actionnée par une tierce personne. La valve du frein d’alarme ouverte relie directement la conduite générale à l’atmosphère, ce qui provoque un serrage d’urgence. Sur la plupart des voitures, l’échappement de l’air comprimé actionne simultanément un sifflet. L’état normal ne peut être rétabli, en règle générale, qu’au moyen d’un dispositif spécial ou à l’aide de la clé à wagon.
+Les véhicules de service, les fourgons à bagages et les wagons de marchandises peuvent être équipés d’un simple robinet de frein d’alarme sans dispositif de rappel.
+	
+10.2	Dispositif d’inhibition du frein d’urgence, dispositif de demande de freinage d’urgence
+	
+	Les véhicules pour le transport de voyageurs sont équipés dans certains cas d’un dispositif d’inhibition du frein d’urgence ou d’un dispositif de demande de freinage d’urgence afin d’éviter qu’un train ne soit arrêté dans un endroit inadéquat. 
+	
+10.2.1	Dispositif d’inhibition du frein d’urgence
+	
+	L’ouverture d’une valve du frein d’alarme provoque un serrage d’urgence et, simultanément, la mise en action du frein d’alarme est signalée dans la cabine de conduite. L’action du serrage d’urgence peut être pontée dans la cabine de conduite par le MEC. Une perte d’air d’une autre origine dans la conduite générale (par ex. rupture d’attelage) ne peut être pontée.
+	
+10.2.2	Dispositif de demande de freinage d’urgence
+	
+	Un dispositif de frein d’alarme actionné est signalé dans la cabine de conduite. Il ne provoque toutefois pas de serrage d’urgence. 
+
+11	Accélérateur de vidange, valve d’action rapide
+	
+	Certaines voitures des trains de voyageurs avec frein à air comprimé sont munies d’accélérateurs de vidange. Sur les trains avec des freins à vide, à part les voitures, les wagons de marchandises peuvent aussi être équipés de valves d’action rapide.
+Lorsque la conduite générale est vidée rapidement (serrage rapide ou d’urgence), les accélérateurs de vidange des véhicules relient la conduite générale à l’air libre. Il en résulte une augmentation importante de la vitesse de propagation. Après le fonctionnement des accélérateurs de vidange, ceux-ci ne ferment la liaison entre la conduite générale et l’air libre qu’après la vidange complète de la conduite générale.
+
+12	Frein remorque
+	
+	
+	
+	Le frein remorque permet d’actionner le frein automatique de la charge remorquée à l’aide du frein de manœuvre du véhicule moteur.
+La valve-relais du frein remorque montée sur le véhicule moteur commande les variations de pression dans la conduite générale en fonction de la pression du cylindre de frein réglée par le frein de manœuvre. Avec ce système, le frein automatique de chaque véhicule est actionné par le frein de manœuvre du véhicule moteur.
+
+13	Frein complémentaire
+13.1	Frein complémentaire pour véhicules moteurs des chemins de fer à adhérence
+	
+	Les tracteurs sans frein automatique ou les véhicules moteurs sur lesquels le frein automatique n’agit pas lors du remorquage sont équipés d’un frein complémentaire.
+Lors d’un serrage normal ou d’un serrage à fond ainsi que lors de l’utilisation du frein remorque, le frein complémentaire n’entre pas en action. Le frein complémentaire d’un véhicule moteur qui en est équipé et relié à la conduite générale entre en action lorsque la pression de la conduite générale est abaissée d’environ 2,5 bars. Quand la pression de la conduite générale est augmentée à la valeur du serrage à fond, le frein complémentaire des véhicules qui en sont équipés est desserré.
+	
+13.2	Frein complémentaire pour les chemins de fer mixtes à crémaillère /adhérence
+	
+	Pour circuler sur les tronçons à crémaillère, les voitures et wagons peuvent être équipés d’un frein à adhérence et d’un frein à crémaillère à action retardée.
+En cas d’une dépression modérée du vide (jusqu’à 25 cmHg) ou de la pression dans la conduite générale, seul le frein à adhérence entre en action. Cela suffit pour maintenir la vitesse à la descente. Une plus forte dépression du vide (dès 24 cmHg) ou de la pression dans la conduite générale provoque en plus aussi la mise en action du frein à crémaillère.
+
+14	Frein antipatinage
+	
+	Le frein antipatinage permet d’éviter, par un léger serrage, l’emballement des essieux moteurs lorsque les conditions d’adhérence sont mauvaises. Une action efficace n’est possible que si les sabots sont appliqués très rapidement et si le frein peut être desserré instantanément. Cela est obtenu par une soupape électropneumatique commandée par un dispositif automatique ou par un bouton-poussoir.
+
+15	Dispositif anti-enrayeur
+	
+	L’effort de freinage peut, lorsque les conditions sont défavorables, atteindre la limite d’adhérence entre la roue et le rail. Il y a alors danger d’enrayage des essieux lors du freinage. Cela provoque un allongement du chemin de freinage et détériore les bandages par la formation de méplats. Les dispositifs anti-enrayeurs peuvent éviter un enrayage de la roue.
+Le dispositif anti-enrayeur compare le nombre de tours des essieux du véhicule. Sitôt que la différence du nombre de tours atteint une valeur déterminée, le cylindre de frein est vidangé et son alimentation interrompue. Sitôt que l’essieu atteint de nouveau son nombre de tours normal, la vidange du cylindre de frein est interrompue et le freinage normal est rétabli.
+
+16	Véhicules avec calculateur de freinage
+	
+	La commande du système de frein est intégrée dans l’électronique de commande du véhicule moteur ou de la voiture de commande. Les éléments de commande situés dans la cabine de conduite agissent par le bus de données du véhicule et par l’appareil de commande du véhicule sur un calculateur et celui-ci sur les éléments pneumatiques.
+Un serrage rapide peut être exécuté indépendamment du calculateur par la vidange de la conduite générale à l’aide d’un robinet du frein de secours ou d’une valve du frein d’urgence.
+
+17	Frein de sécurité
+	
+	Le frein de sécurité est indépendant du frottement entre roue et rail. Comme freins de sécurité, on trouve notamment les freins sur rails et les freins à crémaillère.
+Les freins de sécurité sont utilisés
+–	pour circuler sur des lignes, dont la déclivité est supérieure à 
+60 ‰
+–	dans les zones pour les chemins de fer routiers, pour autant que la vitesse ne soit pas réduite de façon appropriée.
+	
+
+18	Frein à ressort
+	
+	Des freins à ressort sont utilisés
+–	en tant que freins d’immobilisation
+–	dans certains cas, comme éléments du frein automatique.
+	
+18.1	Fonctionnement
+	
+	La force de freinage d’un frein à ressort est développée par un ressort disposé à l’intérieur du cylindre de frein et qui agit directement sur son piston, et par là sur la roue ou le disque de frein. Pour desserrer, une force développée pneumatiquement, hydrauliquement ou électromagnétique­ment agit contre la force du ressort sur le piston du cylindre de frein et le repousse en position de desserrage.
+	
+18.2	Desserrage de secours
+	
+	Si la force de desserrage fait défaut, il n’est possible de desserrer le frein à ressort que par un dispositif spécial. Après un desserrage de secours, le frein à ressort est inefficace.
+

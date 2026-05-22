@@ -1,0 +1,947 @@
+﻿Schweizerische Eisenbahnen	R 300.9
+
+
+
+Störungen
+
+
+
+
+1	Allgemeines
+	
+	Für Rangierbewegungen im Bahnhof und in Anschlussgleisen werden die entsprechenden Befehle quittungspflichtig statt protokollpflichtig übermittelt.
+Hat der FDL keine Möglichkeit die Sicherungsanlage zu bedienen, darf ausnahmsweise die Person des zuständigen technischen Dienstes auf ausdrücklichen Auftrag des FDL notwendige Bedienungen ausführen.
+	
+1.1	Verständigung
+	
+	Das beteiligte Personal verständigt sich nötigenfalls gegenseitig über Unregelmässigkeiten, Verspätungen sowie Ergebnisse und Massnahmen.
+Bei Störungen mit Verspätungsfolgen sind die Reisenden über den Grund und soweit bekannt über die voraussichtliche Dauer bis zur Weiterfahrt zu informieren.
+Die Sicherheit der beteiligten Personen ist zu gewährleisten und sie sind auf mögliche Gefahren aufmerksam zu machen.
+	
+1.2	Grundlagen für die Störungsbehebung
+	
+1.2.1	Feststellen der Vollständigkeit einer Fahrt
+	
+	Die Vollständigkeit einer Fahrt wird durch
+–	den LF für die eigene Fahrt oder
+–	den FDL vor Ort durch Beachten des Zugschlusssignals oder
+–	den RL bei Rangierbewegungen für die eigene Fahrt
+festgestellt. Dabei darf innerhalb des gestörten Abschnittes keine Änderung in der Formation der Triebfahrzeuge und der Anhängelast stattgefunden haben.
+
+	
+
+1.2.2	Örtliche Kontrolle
+	
+	Eine örtliche Kontrolle kann an folgenden Elementen der Sicherungsanlage durchgeführt werden:
+–	Weiche
+–	überwachte Bahnübergangsanlage
+–	GFM.
+Durch eine örtliche Kontrolle wird festgestellt, ob das gestörte Element der Sicherungsanlage frei ist. 
+Bei Weichen sind alle Zweige bis zu den Enden der GFM zu kontrollieren.
+Damit sichergestellt ist, dass das richtige Element der Sicherungsanlage örtlich kontrolliert wird, übermittelt der FDL dem beauftragten Personal quittungspflichtig die notwendigen Angaben zur Lage des Abschnittes bzw. Elementes.
+	
+1.2.3	Aufbieten des technischen Dienstes
+	
+	Kann der FDL die Störung nicht beheben bzw. wird die Grundstellung der Anlage auch durch Befahren nicht erreicht, hat der FDL den technischen Dienst aufzubieten.
+	
+
+
+2	Kernprozess Störungen
+2.1	Abklärungen und Sicherungsmassnahmen
+2.1.1	Erste Abklärungen
+	
+	Geht ein Signal nicht auf Fahrt oder erreicht ein anderes Element der Sicherungsanlage den angestrebten Zustand nicht, hat der FDL davon auszugehen, dass eine Bedienung unterlassen wurde oder betriebliche Gründe die Fahrtstellung verhindern. Erst wenn feststeht, dass dies nicht zutrifft, kann von einer Störung ausgegangen werden.
+Als Elemente der Sicherungsanlage gelten insbesondere:
+–	Signal
+–	Weiche
+–	überwachte Bahnübergangsanlage
+–	GFM
+–	Block
+–	Fahrstrassenverschluss.
+	
+2.1.2	Sichern des gestörten Elements der Sicherungsanlage 
+	
+	Haben die ersten Abklärungen ergeben, dass ein gestörtes Element der Sicherungsanlage vorliegt, ist dieses zu sichern. 
+	
+2.1.3	GFM gestört	
+		
+	Die GFM darf durch den FDL mit einer Notbedienung in die Grundstellung verbracht werden, wenn mittels einer örtlichen Kontrolle festgestellt wurde, dass diese frei ist.
+Ist nach erfolgter Grundstellung die Störung behoben, dürfen die Sicherungsmassnahmen aufgehoben werden.	
+		
+2.1.4	Treffen von Massnahmen	
+		
+	Der FDL hat
+–	die letzte Fahrt über das gestörte Element der Sicherungsanlage und 
+–	den für die nächste Fahrt gestörten Abschnitt
+zu bestimmen und zu protokollieren.
+Anschliessend hat der FDL zu prüfen, dass sich im bestimmten gestörten Abschnitt keine Fahrt befindet und dass keine Zustimmung zur Fahrt in den gestörten Abschnitt vorliegt.	
+		
+
+2.2	Geschwindigkeit über den gestörten Abschnitt
+	
+	Der gestörte Abschnitt ist mit Fahrt auf Sicht zu befahren. Dabei hat der LF die überwachten Bahnübergangsanlagen als gestört zu betrachten.
+Ab der zweiten Fahrt besteht die Möglichkeit, den gestörten Abschnitt mit der vorgeschriebenen Höchstgeschwindigkeit zu befahren, sofern die entsprechenden Bedingungen für die Aufhebung der Fahrt auf Sicht erfüllt sind. 
+	
+2.2.1	Bedingungen für die Aufhebung der Fahrt auf Sicht ab der zweiten Fahrt
+	
+	Besteht die betriebliche Notwendigkeit, hat die ISB in den Betriebsvorschriften die Bedingungen und das Vorgehen zur Aufhebung der Fahrt auf Sicht ab der zweiten Fahrt zu regeln.
+Der FDL hat zu prüfen, ob 
+–	die letzte Fahrt den gestörten Abschnitt verlassen hat und deren Vollständigkeit festgestellt wurde und
+–	die durch die ISB in ihren Betriebsvorschriften festgelegten Vorgaben erfüllt sind.
+Sind in den Betriebsvorschriften der ISB keine Vorgaben zur Aufhebung der Fahrt auf Sicht ab der zweiten Fahrt enthalten, darf die Fahrt auf Sicht nicht aufgehoben werden.
+	
+2.3	Fahrweg einstellen und sichern
+2.3.1	Grundsatz
+	
+	Der FDL hat den Fahrweg soweit möglich einzustellen und zu sichern. 
+	
+2.3.2	Gestörte GFM eines Gleises oder gestörter Block
+	
+	Die GFM eines Gleises oder der Block darf nach dem protokollpflichtigen Vorschreiben von Fahrt auf Sicht für die nächste Fahrt in die Grundstellung verbracht werden. Auf das Vorschreiben von Fahrt auf Sicht für die nächste Fahrt kann verzichtet werden, wenn die Vorgaben für die Aufhebung der Fahrt auf Sicht ab der zweiten Fahrt erfüllt sind.
+	
+
+2.3.3	Weiche trotz angezeigter Belegung umstellen
+	
+	Wenn mittels örtlicher Kontrolle festgestellt wurde, dass die Weiche frei ist, darf diese mit der Notbedienung umgestellt werden.
+	
+2.4	Zustimmung
+2.4.1	Zustimmung bei Zügen
+	
+	Die Zustimmung wird wie folgt erteilt:
+–	mit Fahrtstellung des Hauptsignals oder
+–	mit Fahrtstellung des Hauptsignals durch eine Notbedienung oder
+–	mit dem Hauptsignal gestörte Bahnübergangsanlage oder
+–	mit dem Hilfssignal oder
+–	mit dem protokollpflichtigen Befehl 1 oder
+–	auf Strecken ohne Hauptsignale ist das Vorgehen durch die ISB festzulegen.
+	
+2.4.2	Hauptsignal wird mit einer Notbedienung auf Fahrt gestellt
+	
+	Wird das Hauptsignal mit einer Notbedienung auf Fahrt gestellt, hat der FDL der nächsten Fahrt vor dem auf Fahrt stellen des Hauptsignals die Fahrt auf Sicht protokollpflichtig mit dem Befehl 6 vorzuschreiben, ausgenommen die Vorgaben für die Aufhebung der Fahrt auf Sicht ab der zweiten Fahrt sind erfüllt.
+	
+2.4.3	Hilfssignal und Vorbeifahrt am Halt zeigenden Signal
+	
+	Mit dem Hilfssignal bzw. mit dem protokollpflichtigen Befehl 1 erteilt der FDL dem LF die Zustimmung, am betreffenden Hauptsignal vorbeizufahren.
+Das Hilfssignal bzw. der protokollpflichtige Befehl 1 erlaubt ebenfalls die Vorbeifahrt an unbeleuchteten und Halt zeigenden Zwergsignalen.
+Bis zum nächsten Hauptsignal ist mit Fahrt auf Sicht zu fahren. Am nächsten Hauptsignal ist Halt zu erwarten.
+Wird gleichzeitig eine Einfahrt in ein besetztes Gleis vollzogen, braucht es keine zusätzliche Verständigung des LF.
+Muss weiter als bis zum nächsten Fahrt zeigenden Hauptsignal mit Fahrt auf Sicht gefahren werden, ist dies dem LF protokollpflichtig mit dem Befehl 6 vorzuschreiben.
+Erlischt das Hilfssignal bevor die Zugspitze daran vorbeigefahren ist, hat der LF den Zug sofort anzuhalten und mit dem FDL Kontakt aufzunehmen.
+	
+2.4.4	Zustimmung zur Rangierbewegung im Bahnhof
+	
+	Der FDL erteilt dem RL quittungspflichtig den Befehl am Halt zeigenden Zwerg- bzw. Rangiersignal vorbeizufahren. Der Befehl ist für jede Fahrt einzeln zu erteilen.
+	
+2.4.5	Zustimmung zur Rangierbewegung auf die Strecke
+	
+	Vor dem Erteilen der Zustimmung in den gestörten Abschnitt, hat der FDL der nächsten Rangierbewegung auf die Strecke die Fahrt auf Sicht protokollpflichtig mit dem Befehl 6 vorzuschreiben, ausgenommen die Vorgaben für die Aufhebung der Fahrt auf Sicht ab der zweiten Fahrt sind erfüllt.
+	
+2.4.6	Zustimmung zur Rangierbewegung in gesperrte Gleise
+	
+	Vor dem Erteilen der Zustimmung in den gestörten Abschnitt, verständigt der FDL den SC protokollpflichtig, dass die Fahrt auf Sicht für die betreffenden Rangierbewegungen nicht aufgehoben werden darf.
+	
+2.5	Aufheben der Sicherungsmassnahmen nach einer Fahrt
+	
+	Ist sichergestellt, dass die Fahrt den gestörten Abschnitt oder einen Teil des gestörten Abschnittes befahren und wieder verlassen hat, dürfen die entsprechenden Sicherungsmassnahmen, welche speziell für diese Fahrt getroffen wurden, aufgehoben werden.
+	
+2.6	Abschluss der Störung
+	
+	Liegt kein gestörter Abschnitt mehr vor, hat der FDL die Vollständigkeit der Fahrt, welche den gestörten Abschnitt zuletzt befahren und wieder verlassen hat, festzustellen.
+Sind durchgehend dauernd aktive GFM vorhanden, kann auf die Feststellung der Vollständigkeit des letzten Zuges verzichtet werden, sofern die nächste Fahrt als Zug verkehrt und das Hauptsignal ohne Notbedienung auf Fahrt gestellt werden kann.
+Die Sicherungsmassnahmen, welche für den gestörten Abschnitt getroffen wurden, dürfen aufgehoben werden.
+	
+
+3	Ergänzende Bestimmungen bei Störungen an Signalen
+3.1	Befehl zur Vorbeifahrt an mehreren Halt zeigenden Signalen
+	
+	Muss an mehreren aufeinander folgenden Halt zeigenden Signalen vorbeigefahren werden, darf dies mit einem einzigen Befehl 1 vorgeschrieben werden. Das erste und das letzte Signal, an welchen bei Halt vorbeigefahren werden muss, sind eindeutig zu bezeichnen. Ist die zu befahrende Strecke mehrspurig, ist zusätzlich das Streckengleis zu bezeichnen, auf welchem der Zug verkehren muss (z.B. linkes Gleis).
+	
+3.2	Hauptsignal bleibt auf Fahrt
+	
+	Bleibt nach erfolgter Zugfahrt ein Hauptsignal auf Fahrt oder bleibt ein Hilfssignal oder ein Hauptsignal gestörte Bahnübergangsanlage beleuchtet, muss der FDL das Signal manuell in die Grundstellung verbringen.
+	
+3.3	Hauptsignal fällt vorzeitig auf Halt zurück
+	
+	Fällt ein Hauptsignal vorzeitig auf Halt zurück, hat der LF den Zug sofort anzuhalten und mit dem FDL Kontakt aufzunehmen.
+Kommt der Zug nach dem Signal zum Stillstand, genügt eine quittungspflichtige Zustimmung des FDL an den LF für die Weiterfahrt.
+	
+3.4	Sperrsignal
+	
+	Kann ein Sperrsignal nicht dunkel geschaltet werden, ist der LF bzw. RL durch den FDL quittungspflichtig über die Vorbeifahrt am Halt zeigenden Sperrsignal zu verständigen.
+	
+3.5	Dunkler Fahrtstellungsmelder bei durchfahrenden Zügen
+	
+	Stellt der LF nach Vorbeifahrt an einem Fahrt zeigenden Vorsignal einen dunklen Fahrtstellungsmelder fest und wurde der LF darüber nicht verständigt, hat der LF den Zug anzuhalten und mit dem zuständigen FDL Kontakt aufzunehmen. Am zugehörigen Hauptsignal ist Halt zu erwarten.
+Kann der FDL einen gestörten Fahrtstellungsmelder feststellen, hat der FDL den LF quittungspflichtig darüber zu verständigen.
+	
+
+3.6	Unklares Signalbild am Zwergsignal
+	
+	Stellt der LF bzw. der RL in der Fahrstrasse ein nicht oder nur mit einer der beiden unteren Lampen beleuchtetes Zwergsignal fest und wurde der LF darüber nicht verständigt, hat der LF den Zug bzw. die Rangierbewegung anzuhalten und mit dem zuständigen FDL Kontakt aufzunehmen. 
+Der FDL erteilt dem LF bzw. dem RL quittungspflichtig die Zustimmung zur Weiterfahrt.
+Leuchtet an einem Zwergsignal nur die obere Lampe, ist das Signalbild als Fahrt mit Vorsicht zu betrachten.
+Kann der FDL feststellen, welches Zwergsignal gestört ist, hat der FDL den LF bzw. den RL quittungspflichtig darüber zu verständigen.
+	
+3.7	Bedarfshalt
+	
+	Bis zur Behebung der Störung am Signal für Bedarfshalt hat der FDL den betreffenden Zügen quittungspflichtig einen Halt vorzuschreiben.
+Bei einem Defekt an der Haltanforderung im Zug ist bei jeder Haltestelle oder in jedem Bahnhof mit Bedarfshalt anzuhalten.
+	
+3.8	Signale für den elektrischen Betrieb
+	
+	Kann ein Lichtsignal für 
+–	Schutzstrecken (auch das Vorsignal), bei ausgeschalteter Schutz­strecke oder
+–	ein Stromabnehmersignal oder
+–	ein Zonen-Schutzstreckensignal oder
+–	ein Systemwechselsignal
+nicht beleuchtet werden, hat der FDL den LF quittungspflichtig zu verständigen.
+	
+	
+
+
+4	Ergänzende Bestimmungen bei Störungen an Weichen
+4.1	Grundsatz
+	
+	Weichen mit zweifelhafter Anzeige der Lage oder Weichen, die sich nicht in Endlage befinden, dürfen nicht befahren werden.
+	
+4.2	Weiche mit fehlendem Verschluss
+	
+	In Fahrstrassen werden die Weichen verschlossen. Kann eine Weiche durch die Fahrstrasse nicht verschlossen werden, ist die Fahrtstellung der zugehörigen Signale nicht möglich. Die Weichen müssen in diesem Fall soweit möglich apparatemässig gegen unbeabsichtigtes Umstellen gesichert werden. 
+	
+4.3	Weiche nicht umstellbar
+4.3.1	Grundsatz
+	
+	Können Weichen nicht, oder Weichen mit Drahtzügen oder Gestänge nur mit aussergewöhnlicher Kraftanstrengung in die Endlage gebracht werden, sind sie sofort in die ursprüngliche Lage zurückzustellen.
+	
+4.3.2	Mögliche Ursachen
+	
+	Insbesondere folgende Ursachen können das Umstellen einer Weiche verhindern:
+–	Hindernis / Schmutz
+–	Weiche verschlossen
+–	GFM trotz freiem Zustand belegt
+–	Stromversorgung unterbrochen
+–	andere Defekte an der Weiche.
+	
+4.3.3	Weiche verschlossen
+	
+	Der Verschluss darf aufgelöst werden, wenn
+–	sich kein Fahrzeug gegen die Weiche bewegt
+–	kein Signal und keine Zustimmung eine Fahrt über die Weiche erlaubt.
+	
+
+4.3.4	Stromversorgung unterbrochen
+	
+	Ist die Stromversorgung unterbrochen, sind die Sicherungen zu kontrollieren und nötigenfalls zu ersetzen. Auch die Überstromautomaten sind zu kontrollieren und allenfalls einzuschalten.
+Bleiben diese Massnahmen erfolglos, ist die Weiche so zu sichern, dass sie bei Wiedereinschaltung der Stromversorgung nicht umlaufen kann. Die Weiche darf mit der Kurbel umgestellt werden.
+	
+4.3.5	Andere Defekte
+	
+	Kann die Weiche auch mit der Kurbel nicht umgestellt werden, ist nach den Weisungen des zuständigen technischen Dienstes zu verfahren.
+	
+4.4	Weichenstellung nicht feststellbar
+	
+	Wird für einen nicht besetzten Bahnhof protokollpflichtig die Vorbeifahrt an Halt zeigenden Signalen vorgeschrieben und ist die Weichenstellung durch den FDL nicht feststellbar, hat der FDL vor der betreffenden Weiche bzw. Weichengruppe quittungspflichtig einen Halt anzuordnen. Der LF hat die betreffende Weiche bzw. Weichengruppe auf Fremdkörper und mechanische Schäden sowie die richtige Stellung zu kontrollieren. Wurden die richtige Stellung der Weichen und keine Schäden festgestellt, darf nach Rücksprache mit dem FDL weitergefahren werden. Nachfolgende Züge dürfen die Weichen ohne Halt befahren.
+	
+4.5	Weichenüberwachung fehlt
+	
+	Die Endlage einer Weiche wird elektrisch überwacht. Fehlt die Überwachung, können die zugehörigen Signale nicht auf Fahrt gestellt werden.
+Der FDL kann technisches oder fahrdienstliches Personal mit der örtlichen Kontrolle der korrekten Endlage beauftragen. Die Weiche ist dabei auf Fremdkörper und mechanische Schäden zu kontrollieren. Die Kontrolle ist zu wiederholen bei Fahrt von der Wurzel aus nach jedem Umstellen der Weiche, bei Fahrt gegen die Spitze vor jeder Fahrt.
+Ist die Weiche mechanisch nicht in der Endlage, beschädigt oder ist der Befund unklar, darf sie nicht mehr befahren werden. Das weitere Vorgehen richtet sich nach den Weisungen des zuständigen technischen Dienstes.
+Wird die örtliche Weichenkontrolle Personal auf dem Zug übertragen, hat der FDL dem LF quittungspflichtig einen Halt vor der Weiche vorzuschreiben und ihn mit der Kontrolle der Weiche zu beauftragen. 
+Danach darf die Zustimmung bzw. der protokollpflichtige Befehl 1 erteilt werden.
+Wurde die Weiche durch örtliche Kontrolle als in Ordnung befunden und muss sie bei fehlender Überwachung befahren werden, ist sie in die entsprechende Lage zu verbringen und gegen unzeitiges Umstellen zu sichern. Bis die Weiche vom zuständigen technischen Dienst kontrolliert worden ist, sind folgende Höchstgeschwindigkeiten protokollpflichtig vorzuschreiben:
+–	10 km/h beim Befahren gegen die Spitze
+–	40 km/h beim Befahren von der Wurzel aus.
+Im Weiteren ist nach den Weisungen des zuständigen technischen Dienstes zu verfahren.
+	
+4.6	Weichenaufschneidung
+4.6.1	Grundsatz
+	
+	Das Aufschneiden von Weichen ist verboten, da es betriebsgefährdende Beschädigungen zur Folge haben kann.
+	
+4.6.2	Weiche aufgeschnitten
+	
+	Wurde eine Weiche aufgeschnitten, sind gefährdete Fahrten sofort aufzuhalten und die Beteiligten sind umgehend zu verständigen. Die Weiche ist zu sichern und muss von der Wurzel Richtung Spitze freigelegt werden. Die Weiche ist auf mechanische Schäden zu kontrollieren.
+Wurde eine Zahnstangenweiche aufgeschnitten, ist sofort anzuhalten und die Weiche zu sichern. Das weitere Vorgehen richtet sich nach den Weisungen des zuständigen technischen Dienstes.
+	
+4.6.3	Kontrolle einer aufgeschnittenen Weiche
+	
+	Die Kontrolle einer aufgeschnittenen Weiche hat grundsätzlich durch den zuständigen technischen Dienst zu erfolgen.
+Ist eine sofortige Kontrolle durch den zuständigen technischen Dienst nicht möglich, darf die Weiche mit einer Höchstgeschwindigkeit von 40 km/h befahren werden, sofern sie durch fahrdienstliches Personal kontrolliert wurde und dabei in beiden Lagen keine Schäden festgestellt wurden. Die Verminderung der Geschwindigkeit hat der FDL dem LF protokollpflichtig vorzuschreiben. Am Stellwerk kann der Normalzustand hergestellt werden. Fehlt nach der Durchführung dieser Massnahmen die Weichenüberwachung, ist nach den Bestimmungen über fehlende Weichenüberwachung zu verfahren.
+	
+
+4.6.4	Weiche mechanisch beschädigt
+	
+	Ist die Weiche mechanisch beschädigt oder ist der Befund unklar, darf sie nicht mehr befahren werden. Das weitere Vorgehen richtet sich nach den Weisungen des zuständigen technischen Dienstes.
+	
+4.6.5	Weiche nicht beschädigt
+	
+	Wird durch den zuständigen technischen Dienst keine Beschädigung der Weiche festgestellt, kann sie wieder normal befahren werden.
+	
+4.7	Verkeilen einer Weiche
+	
+	Die ISB legt allenfalls in den Ausführungsbestimmungen die Massnahmen über das Verkeilen einer Weiche fest.
+	
+
+5	Ziffer entfällt
+	
+
+6	Ziffer entfällt
+	
+	
+
+
+7	Ergänzende Bestimmungen bei Störungen an überwachten Bahnübergangsanlagen sowie Verkehrsregelungsanlagen
+7.1	Störungen an überwachten Bahnübergangsanlagen
+7.1.1	Grundsatz
+	
+	Bei einer gestörten überwachten Bahnübergangsanlage bleibt das Hauptsignal auf Halt oder das Kontrolllicht dunkel.
+Wird eine Bahnübergangsanlage durch äussere Einwirkungen mechanisch beschädigt, haben sich die Beteiligten über das weitere Vorgehen abzusprechen.
+	
+7.1.2	Gestörte überwachte Bahnübergangsanlage
+	
+	Bei einer mittels Hauptsignal überwachten und gestörten Bahnübergangsanlage kommt der Kernprozess Störungen zur Anwendung. Ausgenommen sind Hauptsignale, an welchen die Zustimmung zur Vorbeifahrt mittels Hauptsignal gestörte Bahnübergangsanlage erteilt wird.
+Wird die Zustimmung zur Vorbeifahrt mittels Hauptsignal gestörte Bahnübergangsanlage erteilt, sind die Bestimmungen für das Befahren einer gestörten überwachten Bahnübergangsanlage anzuwenden. Bis zum letzten gestörten Bahnübergang der überwachten Bahnübergangsanlage beträgt die Höchstgeschwindigkeit 60 km/h. Unabhängig davon beträgt die Höchstgeschwindigkeit über Weichen im Bahnhof und über Weichen auf der Strecke 40 km/h.
+Trifft der LF auf ein dunkles Kontrolllicht oder spricht die Zugbeeinflussung an, sind die Bestimmungen für das Befahren einer gestörten überwachten Bahnübergangsanlage anzuwenden.
+Stellt der LF ein dunkles Kontrolllicht fest oder spricht die Zugbeeinflussung an und wurde der LF darüber nicht verständigt, hat der LF die Störung spätestens nach dem Befahren des letzten Bahnübergangs der gestörten überwachten Bahnübergangsanlage dem FDL zu melden. Der FDL verständigt die folgenden Züge quittungspflichtig über das dunkle Kontrolllicht oder die gestörte Zugbeeinflussung.
+	
+
+7.1.3	Befahren einer gestörten überwachten Bahnübergangsanlage
+	
+	Ein überwachter Bahnübergang ohne örtliche Bewachung ist vom LF wie folgt zu befahren:
+–	die Geschwindigkeit ist vor dem Befahren des Übergangs auf Schritttempo zu vermindern, nötigenfalls ist anzuhalten
+–	Achtungssignale abgeben und mit dem vordersten Fahrzeug auf den Bahnübergang fahren
+–	auf die zulässige Geschwindigkeit beschleunigen, sobald das erste Fahrzeug den Bahnübergang befahren hat.
+Ein überwachter Bahnübergang mit örtlicher Bewachung darf mit der zulässigen Höchstgeschwindigkeit befahren werden.
+	
+7.1.4	Verständigung bei örtlicher Bewachung
+	
+	Bevor eine Fahrt den Abschnitt mit der gestörten überwachten Bahnübergangsanlage befahren darf, hat der FDL die zuständige Person, welche den Bahnübergang örtlich bewacht, über die bevorstehende Abfahrt zu verständigen. Vor dem Erteilen der Zustimmung hat der FDL von der zuständigen Person die Bestätigung einzuholen, dass das Aufhalten des Strassenverkehrs gewährleistet ist.
+Der FDL hat den LF quittungspflichtig über den gestörten überwachten Bahnübergang sowie die örtliche Bewachung zu verständigen. Diese Verständigung entfällt, wenn ein Zug auf Grund einer Störung mit Fahrt auf Sicht zu verkehren hat.
+	
+7.1.5	Ausschalten der überwachten Bahnübergangsanlage
+	
+	Schaltet die überwachte Bahnübergangsanlage nicht mit der automatischen Steuerung aus, dürfen die Schranken mit der Notbedienung in die Stellung offen verbracht bzw. die Blinklichtanlage manuell ausgeschaltet werden, wenn
+–	sich kein Schienenfahrzeug auf dem Bahnübergang befindet
+–	sich kein Schienenfahrzeug gegen den Bahnübergang bewegt
+–	kein Signal bzw. keine Zustimmung eine Fahrt über den Bahnüber­gang erlaubt
+–	ein Deckungssignal nicht vorgängig mit Nothalt auf Halt gestellt werden kann und die obgenannten Bedingungen erfüllt sind.
+	
+
+7.2	Störungen an Verkehrsregelungsanlagen
+7.2.1	Grundsatz
+	
+	Bei gestörter Verkehrsregelungsanlage zeigt das zugehörige Strassen­bahnsignal den Begriff Ausser Betrieb oder es bleibt auf Halt.
+Bleibt das Strassenbahnsignal bei gestörter Anlage auf Halt, ist nach Möglichkeit die Fahrt manuell anzumelden oder die Anlage ausser Betrieb zu setzen.
+	
+7.2.2	Befahren der gestörten oder ausser Betrieb gesetzten Verkehrsregelungsanlage
+	
+	Zeigt das Strassenbahnsignal den Begriff Ausser Betrieb, befährt der LF den Bereich der Verkehrsregelungsanlage nach den Vorschriften für Strassenbahnbereich.
+Bleibt das Strassenbahnsignal auf Halt, hat der LF den Bereich der Verkehrsregelungsanlage wie eine gestörte und nicht bewachte Bahn­übergangsanlage zu befahren.
+	
+7.2.3	Strassenbahnsignale in Abhängigkeit mit dem Stellwerk
+	
+	Für die Vorbeifahrt an Strassenbahnsignalen, die in Abhängigkeit mit dem Stellwerk stehen, ist bei den Begriffen Ausser Betrieb oder Halt vor dem Befahren eine protokollpflichtige Zustimmung vom FDL erforderlich.
+
+
+8	Unregelmässigkeiten an der Fahrbahn
+8.1	Erste Abklärungen
+	
+	Wird dem FDL eine Unregelmässigkeit an der Fahrbahn 
+(Schienenbruch, Gleisverwerfung, Unterspülung, usw.) gemeldet, hat der FDL folgende Abklärungen zu treffen:
+–	Ort der Schadenstelle
+–	Art des Schadens.
+	
+8.1.1	Massnahmen
+	
+	Der FDL hat:
+–	den betreffenden Abschnitt zu sichern
+–	den technischen Dienst zu verständigen
+–	nach Möglichkeit den betreffenden Abschnitt zu umfahren. Ist eine Umfahrung nicht möglich, hat der FDL abzuklären, ob die betreffende Stelle noch befahren werden kann.
+–	Kann die betreffende Stelle nicht mehr befahren werden, hat der FDL den Abschnitt zu sperren.
+–	Wird die Stelle als befahrbar beurteilt oder kann die Befahrbarkeit nicht beurteilt werden, hat der FDL die weiteren Fahrten gemäss den nachstehenden Bestimmungen über die betreffende Stelle verkehren zu lassen.
+	
+8.1.2	Weiteres Vorgehen
+	
+	Der FDL schreibt der nächsten Fahrt protokollpflichtig Fahrt auf Sicht und höchstens 10 km/h über die betreffende Stelle vor. 
+Bestätigt der LF den Schaden, sperrt der FDL das Gleis.
+Stellt der LF keinen Schaden fest, schreibt der FDL den LF der nächsten Fahrten protokollpflichtig eine Höchstgeschwindigkeit von 40 km/h über die betreffende Stelle vor.
+Solange keine Langsamfahrsignale aufgestellt sind, ist zusätzlich gemäss den Bestimmungen «Langsamfahrsignale nicht aufgestellt» vorzugehen.
+Dies gilt so lange, bis der technische Dienst die Stelle beurteilt und den FDL über das weitere Vorgehen verständigt hat.
+	
+
+
+9	Unregelmässigkeiten an der Fahrleitung
+9.1	Erste Abklärungen
+	
+	Wird dem FDL eine Unregelmässigkeit an der Fahrleitung 
+(Spurhalter defekt, Fahrdraht hängt herunter, usw.) gemeldet, hat der FDL folgende Abklärungen zu treffen:
+–	Ort der Schadenstelle
+–	Art des Schadens.
+	
+9.1.1	Massnahmen
+	
+	Stellt der LF Schäden an der Fahrleitung fest,
+–	hat der LF sofort die Stromabnehmer zu senken und sofern nötig anzuhalten
+–	darf der LF die Fahrt nur fortsetzen, wenn sichergestellt ist, dass die Stromabnehmer nicht und die Fahrleitung nicht zusätzlich beschädigt werden
+–	und kann der LF nicht mehr weiterfahren, muss der LF beurteilen, ob durch die heruntergerissene Fahrleitung oder herunterhängende Fahrleitungsteile eine unmittelbare Gefahr besteht. Bei Gefahr trifft der LF die notwendigen Massnahmen, damit die Reisenden den Zug nicht verlassen, und zwar bis die zuständigen Mitarbeitenden die entsprechenden Sicherungsmassnahmen vorgenommen haben. Erst wenn keine Gefahr mehr besteht, darf mit der Evakuierung des Zuges begonnen werden.
+Der FDL hat:
+–	den betreffenden Abschnitt zu sichern
+–	den technischen Dienst zu verständigen
+–	nach Möglichkeit den betreffenden Abschnitt zu umfahren. Ist eine Umfahrung nicht möglich, hat der FDL abzuklären, ob die betreffende Stelle noch befahren werden kann.
+–	Kann die betreffende Stelle nicht mehr befahren werden, hat der FDL den Abschnitt zu sperren.
+–	Wird die Stelle als befahrbar beurteilt oder kann die Befahrbarkeit nicht beurteilt werden, ist das Verkehren einer weiteren Fahrt nur erlaubt, wenn davon ausgegangen werden kann, dass keine zusätzlichen Unregelmässigkeiten verursacht werden und die Fahrt nicht gefährdet wird.
+	
+
+9.1.2	Weiteres Vorgehen
+	
+	Die nächste Fahrt darf die betreffende Stelle nur mit gesenkten Stromabnehmern oder thermisch geführt befahren.
+Beurteilt der LF die betreffende Stelle als nicht mehr befahrbar oder kann der LF dies nicht beurteilen, sperrt der FDL das Gleis.
+Andernfalls dürfen weitere Fahrten mit gesenkten Stromabnehmern oder thermisch geführt die betreffende Stelle befahren.
+Verkehren die Fahrten mit gesenkten Stromabnehmern, hat der FDL den LF mit dem Befehl 9 protokollpflichtig zu verständigen.
+Dies gilt so lange, bis der technische Dienst die Stelle beurteilt und den FDL über das weitere Vorgehen verständigt hat.
+	
+9.2	Fahrleitung spannungslos
+	
+	Stellt der LF fest, dass die Fahrleitung nach einem Spannungsausfall nicht sofort wieder unter Spannung kommt, hat der LF wie folgt vorzugehen:
+–	sofort mit Fahrt auf Sicht weiterfahren
+–	nur so lange weiterfahren, dass auf Grund der Bremsbauart noch sicher angehalten werden kann
+–	die Streckentrennung mit gesenktem Stromabnehmer befahren
+–	an geeigneter Stelle, jedoch spätestens im nächsten Bahnhof anhalten.
+Sobald die Spannung in der Fahrleitung wieder vorhanden ist, darf der LF die Fahrt ohne Einschränkung fortsetzen. Kann der LF nicht feststellen, ob die Spannung in der Fahrleitung wieder vorhanden ist, hat der LF mit dem FDL Kontakt aufzunehmen.
+Stellt der FDL einen Spannungsausfall fest, darf der FDL keine Zustimmung in den spannungslosen Abschnitt erteilen bzw. hat der FDL eine bereits erteilte Zustimmung zurückzunehmen. 
+	
+
+10	Störungen an Sicherheitseinrichtungen
+10.1	Ansprechen der Zugbeeinflussung bei einem Zustimmung zur Fahrt zeigenden Hauptsignal
+	
+	Übermittelt die Zugbeeinflussung unerwartet die Funktion «Halt» oder «Warnung» bei Vorbeifahrt an einem Zustimmung zur Fahrt zeigenden Hauptsignal, hat der LF anzunehmen, dass das Signal gewollt auf Halt zurück gestellt wurde. Der Zug ist unverzüglich anzuhalten. Die Fahrt darf nur mit quittungspflichtiger Zustimmung des FDL fortgesetzt werden.
+	
+10.2	Störungen an Streckengeräten der Zugbeeinflussung
+	
+	Übermittelt die Zugbeeinflussung eine Fehlermeldung beim Überfahren eines Streckengeräts der Zugbeeinflussung, informiert der LF den FDL unter Angabe des Signals und, sofern möglich, der Art des Fehlers.
+Bis zur Behebung von dauernden Störungen an Streckengeräten hat der FDL die LF quittungspflichtig über das Fehlansprechen bzw. das Nichtansprechen der Zugbeeinflussung zu verständigen. Der LF hat den Zug trotz des Ansprechens der Zugbeeinflussung an einem Zustimmung zur Fahrt zeigenden Hauptsignal nicht anzuhalten.
+Bahnübergangsanlagen, welche nur durch Zugbeeinflussung überwacht werden, sind als gestört zu betrachten.
+	
+10.3	Ausfall der Zugbeeinflussung auf dem Spitzenfahrzeug auf Adhäsionsstrecken
+	
+	Sofern keine Notwendigkeit besteht, sind Fahrzeuge mit Störungen an der Zugbeeinflussung nicht als Spitzenfahrzeug einzusetzen. Es dürfen keine Fahrzeuge mit Störungen an der Zugbeeinflussung aus der Instandhaltung eingesetzt werden.
+Versagt auf dem Spitzenfahrzeug die Zugbeeinflussung, hat der LF bei der ersten Gelegenheit einen LF oder entsprechend geprüftes Personal in den Führerstand anzufordern.
+Mit einem zusätzlichen LF oder entsprechend geprüftem Personal im Führerstand darf mit höchstens 80 km/h gefahren werden.
+Solange kein zusätzlicher LF oder entsprechend geprüftes Personal im Führerstand anwesend ist, darf mit höchstens 40 km/h gefahren werden.
+Bahnübergangsanlagen, welche nur durch Zugbeeinflussung überwacht werden, sind als gestört zu betrachten.
+Das Fahrzeug darf höchstens 6 Stunden ab Störungsbeginn als Spitzenfahrzeug mit einer defekten Zugbeeinflussung in Betrieb sein. Fahrten direkt zum Instandhaltungsstandort sind auch nach 6 Stunden zulässig, unter der Bedingung, dass mit einem zusätzlichen LF oder entsprechend geprüftem Personal und mit höchstens 80 km/h gefahren wird.
+10.4	Ausfall der Sicherheitssteuerung auf dem Spitzenfahrzeug auf Adhäsionsstrecken
+	
+	Sofern keine Notwendigkeit besteht, sind Fahrzeuge mit Störungen an der Sicherheitssteuerung nicht als Spitzenfahrzeug einzusetzen. Es dürfen keine Fahrzeuge mit Störungen an der Sicherheitssteuerung aus der Instandhaltung eingesetzt werden. 
+Versagt auf dem Spitzenfahrzeug die Sicherheitssteuerung, hat der LF bei der ersten Gelegenheit eine zusätzliche Person eines EBU in den Führerstand anzufordern. Der LF instruiert diese Person, wie der Zug im Notfall anzuhalten ist. Solange keine zusätzliche instruierte Person eines EBU im Führerstand anwesend ist, darf mit defekter Sicherheitssteuerung höchstens 60 km/h gefahren werden.
+Das Fahrzeug darf höchstens 6 Stunden ab Störungsbeginn als Spitzenfahrzeug mit einer defekten Sicherheitssteuerung verkehren. Fahrten direkt zum Instandhaltungsstandort sind auch nach 6 Stunden zulässig, unter der Bedingung, dass zusätzlich eine instruierte Person eines EBU im Führerstand anwesend ist, die den Zug im Notfall anhalten kann.
+	
+10.5	Ausfall einer Sicherheitseinrichtung auf einer Zahnstangenstrecke
+	
+	Versagt auf einer Zahnstangenstrecke eine Sicherheitseinrichtung, hat der LF gegebenenfalls sofort anzuhalten und zu prüfen, ob die Störung behoben werden kann. Funktioniert die Sicherheitseinrichtung wieder, darf der Betrieb fortgesetzt werden.
+Fällt die Sicherheitseinrichtung weiterhin aus und kann die Störung nicht behoben werden, darf der LF die Fahrt mit der Hälfte der für die Fahrt und die Strecke zulässigen Geschwindigkeit fortsetzen. Reisende sind beim nächstgelegenen geeigneten Ort zu evakuieren. Die Fahrt mit ausgefallener Sicherheitseinrichtung darf höchstens bis zum nächsten Ort fortgesetzt werden, wo der technische Dienst das Fahrzeug untersuchen oder reparieren kann.
+Funktioniert ein Teil einer Sicherheitseinrichtung bei redundanten Systemen weiterhin, darf der LF die Fahrt mit normaler Geschwindigkeit bis zum nächsten Ort fortsetzen, wo der technische Dienst das Fahrzeug untersuchen oder reparieren kann.
+Im Weiteren ist nach den Vorgaben der EVU zu verfahren.
+
+
+11	Unregelmässigkeiten an Fahrzeugen
+11.1	Grundsatz
+	
+	Bei Unregelmässigkeiten an Fahrzeugen, welche Personen, Anlagen oder Fahrzeuge gefährden bzw. beschädigen können, darf die Fahrt weder begonnen noch fortgesetzt werden.
+Werden Zugkontrolleinrichtungen zur Überwachung des technischen Zustands während der Fahrt eingesetzt, hat die ISB die dazu nötigen Ausführungsbestimmungen zu erlassen.
+	
+11.2	Erste Abklärungen
+	
+	Wird eine Unregelmässigkeit an einem Fahrzeug festgestellt, hat das verantwortliche Personal, unter Berücksichtigung der massgebenden Betriebsvorschriften, zu entscheiden, ob die Fahrt begonnen bzw. fortgesetzt werden darf. Kann das verantwortliche Personal vor Ort dies nicht selbst entscheiden, hat es den technischen Dienst zur Klärung des weiteren Vorgehens beizuziehen.
+Die Störungsabklärung bzw. -behebung an Fahrzeugen soll wenn möglich von der gleisabgewandten Seite oder von der Seite mit einem Sicherheits-Zwischenraum erfolgen. Ist dies nicht möglich, ist nach den Bestimmungen «Fehlender Sicherheits-Zwischenraum» vorzugehen.
+	
+11.3	Massnahmen bei bestimmten Unregelmässigkeiten 
+	
+	Bei den nachstehend aufgelisteten Unregelmässigkeiten gelten die entsprechend aufgeführten Massnahmen.
+	
+11.3.1	Offene Aussentüren, Seitenwände und Schiebedächer
+	
+	Offene Aussentüren, Seitenwände und Schiebedächer sind sofort zu schliessen.
+	
+11.3.2	Verschobene Ladungen
+	
+	Verschobene Ladungen sind sofort zu richten und zu sichern.
+	
+11.3.3	Entgleiste Fahrzeuge
+	
+	Entgleiste Fahrzeuge dürfen nach dem Aufgleisen nur mit Zustimmung und gemäss den Anweisungen des technischen Dienstes bewegt werden.
+	
+
+11.3.4	Vollständiger Ausfall der Frontscheinwerfer
+	
+	Ist der LF nicht in der Lage, Scheinwerfer an der Zugspitze zum Leuchten zu bringen, so gilt Folgendes:
+–	Bei guten Sichtverhältnissen	
+	Der LF meldet den Ausfall dem FDL. Der Zug fährt mit maximal zulässiger Geschwindigkeit an die nächstgelegene Stelle, an der der Frontscheinwerfer instand gesetzt oder ausgetauscht oder das Fahrzeug durch ein anderes ersetzt werden kann. Dabei betätigt der LF falls notwendig oder entsprechend den Anweisungen des FDL die Lokpfeife.
+ –	Bei Dunkelheit oder schlechten Sichtverhältnissen
+	Der LF meldet den Ausfall dem FDL. Mit einem an der Zugspitze angebrachten Handscheinwerfer mit weißem Licht darf der Zug an die nächstgelegene Stelle gefahren werden, an der der Frontscheinwerfer instand gesetzt oder ausgetauscht oder das Fahrzeug durch ein anderes ersetzt werden kann. Kann der Zug nur schlecht erkannt werden, ist nötigenfalls die Geschwindigkeit den Sichtverhältnissen angemessen zu reduzieren. Ist kein Handscheinwerfer vorhanden, so darf der Zug die Fahrt nicht fortsetzen, es sei denn, der FDL erteilt entsprechende Anweisungen zur Fortsetzung der Fahrt bis an die nächstgelegene geeignete Stelle, an der die Strecke freigemacht werden kann. Dabei betätigt der LF falls notwendig oder entsprechend den Anweisungen des FDL die Lokpfeife.
+	
+11.3.5	Ausfall der Lokpfeife
+	
+	Bei einem Ausfall der Lokpfeife hat der LF den FDL über den Ausfall zu informieren. Bei einem Defekt der Lokpfeife darf der Zug die maximal zulässige Geschwindigkeit nicht überschreiten und muss an die nächstgelegene Stelle fahren, an der die Lokpfeife instand gesetzt oder das betroffene Fahrzeug ausgetauscht werden kann. Der LF muss zum Anhalten des Zuges vor Bahnübergängen bereit sein, an denen die Lokpfeife betätigt werden muss, und darf die Fahrt nur dann fortsetzen, wenn der Bahnübergang gefahrlos befahren werden kann. Betrifft der Defekt ein Mehrklang-Warnsignal und ist noch mindestens einer der Töne funktionstüchtig, so darf die Zugfahrt normal fortgesetzt werden.
+
+11.3.6	Vollständiger Ausfall des Zugschlusssignals
+	
+	Stellt der FDL einen vollständigen Ausfall des Zugschlusssignals fest, so hat der FDL Vorkehrungen zu treffen, um den Zug an einer geeigneten Stelle anzuhalten und den LF zu informieren. 
+Der LF kontrolliert daraufhin die Zugvollständigkeit und setzt das Zugschlusssignal gegebenenfalls instand oder tauscht es aus. 
+Der LF informiert den FDL, wenn der Zug zur Weiterfahrt bereit ist. Andernfalls, wenn keine Instandsetzung möglich ist, darf die Zugfahrt nicht fortgesetzt werden, ausgenommen der FDL und der LF vereinbaren eine Sonderregelung.
+Wird auf Strecken mit Handrückmeldung oder auf Strecken ohne Block bei Nacht ein unbeleuchtetes Zugschlusssignal festgestellt, hat der FDL die folgenden Bahnhöfe quittungspflichtig zu verständigen.
+	
+11.3.7	Ausfall des Geschwindigkeitsmessers
+	
+	Fällt der Geschwindigkeitsmesser aus, hat der LF die Geschwindigkeit stark zu reduzieren, damit die zugelassene Höchstgeschwindigkeit nicht überschritten wird. Sofern möglich ermittelt der LF die Geschwindigkeit anhand der Kilometrierung.
+	
+11.3.8	Ausfall der Notbremsüberbrückung / Notbremsanforderung
+	
+	Es dürfen nur Züge mit betriebsbereiter Notbremsüberbrückung bzw. Notbremsanforderung Strecken befahren, auf welchen diese vorgeschrieben sind.
+	
+11.3.9	Ausfall des Kommunikationssystems für fernmündliche Übermittlung für Züge
+	
+	Ist gemäss den Betriebsvorschriften der ISB für Züge ein Kommunikationssystem für fernmündliche Übermittlung erforderlich, 
+–	darf ein Zug im Ausgangsbahnhof mit defektem Kommunikationssystem nicht abfahren
+–	darf ein Zug während der Fahrt so lange weiterfahren, wie die Notfallkommunikation sichergestellt ist oder eine andere Kommunikationsmöglichkeit zwischen FDL und LF besteht.
+Das Fahrzeug oder das Kommunikationssystem ist bei nächster Gelegenheit auszuwechseln.
+
+
+12	Bremsstörung und Zugtrennung
+12.1	Bremsstörung
+12.1.1	Sofortmassnahmen
+	
+	Wird die Bremse unterwegs unbrauchbar oder stellt der LF während der Fahrt eine ungenügende Bremswirkung fest, ist der Zug so rasch wie möglich anzuhalten.
+	
+12.2	Zugtrennung
+12.2.1	Bremskupplung
+	
+	Nach einer Zugtrennung darf der Kupplungshahn der Luftbremse am letzten Fahrzeug des mit der Spitzenlok verbundenen Zugteils erst nach Absprache mit dem LF geschlossen werden.
+	
+12.2.2	Zusammenfahren
+	
+	Für das Zusammenfahren nach einer Zugtrennung gelten die Vorschriften für Rangierbewegungen.
+Bei unbegleiteten Zügen darf der LF den Zugteil mit Zustimmung des FDL unter grösster Vorsicht rückwärts bewegen.
+	
+12.2.3	Zurücklassen / Sichern / Weiterfahrt von Zugteilen
+	
+	Der LF hat das weitere Vorgehen mit dem FDL abzusprechen, wenn Zugteile zurückgelassen werden müssen und die Weiterfahrt nur in Teilen möglich ist. Ohne Absprache mit dem FDL darf der LF höchstens bis zum nächsten Hauptsignal weiterfahren, auch wenn dieses Fahrt zeigt.
+Das Fahrpersonal hat die zurückgelassenen Zugteile gegen Entlaufen zu sichern.
+Der FDL hat den betreffenden Abschnitt zu sichern.
+	
+12.3	Weiterfahrt
+12.3.1	Ursache einer Bremsstörung nicht feststellbar
+	
+	Kann nach einer Bremsstörung die Ursache nicht einwandfrei festgestellt werden, ist eine Hauptbremsprobe durchzuführen.
+	
+
+12.3.2	Keine Bremsen weiterer Fahrzeuge ausgeschaltet
+	
+	Das nachstehende Vorgehen gilt 
+–	nach einer Bremsstörung
+–	nach einer Zugtrennung
+–	wenn die Kupplungen nach der Zugtrennung wieder verbunden werden können oder
+–	für das Abholen zurückgelassener Zugteile.
+Ist die Störung behoben und müssen keine Bremsen weiterer Fahrzeuge ausgeschaltet werden und kann
+–	eine Bremsprobe durchgeführt werden, ist nach dem vorhandenen Bremsverhältnis weiterzufahren
+–	keine Bremsprobe durchgeführt werden, ist nach dem vorhandenen Bremsverhältnis mit halber Geschwindigkeit der Zug- und Bremsreihe gemäss Bremsrechnung, aber mit höchstens 40 km/h weiterzufahren. Unmittelbar nach der Weiterfahrt ist eine Bremsprobe auf Wirkung durchzuführen. Im nächsten geeigneten Bahnhof ist die Bremsprobe nachzuholen.
+	
+12.3.3	Bremsen weiterer Fahrzeuge ausgeschaltet
+	
+	Lässt sich eine Störung nur beheben, indem eine oder mehrere Bremsen ausgeschaltet werden, darf unter folgenden Bedingungen weitergefahren werden:
+–	das Bremsverhältnis ist zu überprüfen
+–	die Bedingungen für das Teilbremsverhältnis müssen erfüllt sein.
+Es ist zusätzlich eine Bremsprobe durchzuführen. Ist dies nicht möglich, das verbleibende Bremsgewicht und das Teilbremsverhältnis jedoch für die tiefste Geschwindigkeit und die massgebende Neigung genügend, darf nach Bremsverhältnis mit halber Geschwindigkeit der Zug- und Bremsreihe gemäss Bremsrechnung, aber mit höchstens 40 km/h bis zum nächsten geeigneten Bahnhof weitergefahren werden, wo die Bremsprobe nachzuholen ist. Unmittelbar nach der Weiterfahrt ist eine Bremsprobe auf Wirkung durchzuführen.
+	
+
+12.3.4	Weiterfahrt mit einem ungebremsten Fahrzeug am Zugschluss
+	
+	Das nachstehende Vorgehen gilt für maximal ein ungebremstes Fahrzeug am Zugschluss, wenn die Bremse unterwegs, nach Abfahrt im Ausgangsbahnhof ausgeschaltet werden muss und bis maximal zur nächsten Änderung der Zusammenstellung des Zuges oder bis zu einem Richtungswechsel.
+Unter folgenden Bedingungen darf weitergefahren werden:
+–	das Bremsverhältnis und das Teilbremsverhältnis sind unter Anrechnung der verbleibenden Bremsen zu ermitteln und müssen mindestens für die tiefste Geschwindigkeit und die massgebende Neigung genügen, wobei das Teilbremsverhältnis für das ungebremste Fahrzeug am Zugschluss unter Einbezug von höchstens zwei unmittelbar vorlaufenden Fahrzeugen erfüllt sein muss
+–	die vom Fahrzeug aus bedienbare Feststellbremse eines mit Reisenden besetzten und nicht mit der Luftbremse gebremsten Wagens am Zugschluss ist zu besetzen
+–	das ungebremste Fahrzeug ist mit dem vorlaufenden straff zu kuppeln und die Hauptleitung ist wenn möglich bis zum Zugschluss zu verbinden.
+Können diese Bedingungen nicht erfüllt werden und
+–	befindet sich das Triebfahrzeug talseitig oder der Zug in der Ebene und genügt das verbleibende Bremsverhältnis für die tiefste Geschwindigkeit und das massgebende Gefälle, darf nach Bremsverhältnis mit höchstens 40 km/h bis zum nächsten Bahnhof gefahren werden
+–	befindet sich das Triebfahrzeug bergseitig, ist die Weiterfahrt verboten. Der Zug ist gegen Entlaufen zu sichern.
+	
+12.3.5	Bremsprobe bei Fahrzeugen mit Bremsprobeanzeigen im Führerstand
+	
+	An Fahrzeugen, bei welchen eine Bremsprobe mit Bremsprobeanzeigen möglich ist, muss die Bremsprobe im Störungsfall vom Boden aus durchgeführt werden.
+
+12.3.6	Zahnradfahrzeuge
+	Für die Weiterfahrt nach einer Bremsstörung gelten für Zahnradfahrzeuge die Vorschriften der EVU. 
+	
+
+13	Gefährdungen und Unfälle
+13.1	Allgemeines Vorgehen
+	
+	Wird eine Gefährdung oder ein Unfall verursacht, handelt das Personal in der Reihenfolge:
+–	Gefahr erkennen
+–	Auswirkungen abschätzen
+–	Gefahr vermindern
+–	Alarmieren
+–	Retten
+–	Betrieb weiterführen.
+	
+13.2	Arten von Gefährdungen
+	
+	Als Gefährdungen im Eisenbahnbetrieb gelten alle Ereignisse, die einen Unfall verursachen oder darauf hinweisen können.
+Darunter fallen insbesondere:
+–	Luftverlust in der Hauptleitung
+–	Entgleisung
+–	Anprall/Zusammenstoss
+–	Zugtrennung
+–	Fahrzeuge entlaufen
+–	Ladungsverschiebung
+–	Nicht erklärbare Unregelmässigkeit im Zuglauf
+–	Zug bleibt ohne ersichtlichen Grund stehen
+–	Unerwartetes Hindernis im Gleisbereich
+–	Gleis/Weiche/Fahrleitung beschädigt
+–	Überfahren eines Halt zeigenden Signals
+–	Notruf oder Alarm erhalten
+–	Freisetzung von gefährlichen Stoffen/Gefahrgut
+–	Naturgefahren (z.B. drohender Erdrutsch, Lawinengefahr).
+	
+
+13.3	Arten von Unfällen
+	
+	Als Unfälle im Eisenbahnbetrieb gelten insbesondere Ereignisse mit folgenden Auswirkungen:
+–	verletzte oder getötete Personen
+–	verletzte oder getötete grosse Tiere
+–	beschädigte Eisenbahninfrastrukturen
+–	entgleiste oder beschädigte Eisenbahnfahrzeuge
+–	beschädigte Strassenfahrzeuge
+–	Zusammenstösse mit Gegenständen im Gleisbereich, die aufgrund ihrer Grösse oder Beschaffenheit den Eisenbahnbetrieb gefährden können
+–	Brände
+–	mögliche schwere Schädigung von Bevölkerung und Umwelt (z.B. Unregelmässigkeiten mit gefährlichen Stoffen/Gefahrgut).
+	
+13.4	Gefahr vermindern
+	
+	Das Personal, welches eine Gefährdung oder einen Unfall feststellt, hat unter Beachtung des Selbstschutzes unverzüglich dafür zu sorgen, dass die Auswirkungen verringert werden, z.B. indem
+–	ein Notruf ausgesendet wird
+–	entlaufene Fahrzeuge aufgehalten werden
+–	der RA Haltbefehle gibt
+–	der SIWÄ das Gleis räumen lässt
+–	das Signal Nothalt auf Arbeitsstellen eingeschaltet wird
+–	der FDL Signale auf Halt stellt, Fahrleitungen ausschaltet, Bahnübergangsanlagen einschaltet, Gleise sichert, Verminderung der Geschwindigkeit anordnet, dem Zug die Fahrt aus dem Tunnel ermöglicht, keine weitere Fahrt in den Tunnel zulässt
+–	der LF den brennenden Zug, allenfalls unter Anwendung der Notbremsüberbrückung, aus dem Tunnel führt
+–	der LF den Zug, allenfalls unter Anwendung der Notbremsüberbrückung, an geeigneter Stelle anhält (z.B. nicht in Tunnels, Galerien oder auf Brücken), das Warnsignal einschaltet, einen Notruf aussendet und die Zugsammelschiene ausschaltet
+–	gefährdete Personen gewarnt werden.
+Für bestimmte Bauwerke werden durch die ISB spezifische Regelungen aufgrund des Alarm- und Rettungskonzeptes definiert. Diese spezifischen Regelungen haben Vorrang vor den allgemeingültigen Handlungsanweisungen.
+13.5 	Alarmieren	
+		
+	Das Personal, welches eine Gefährdung oder einen Unfall feststellt, hat unverzüglich den FDL nach dem Prinzip zu verständigen:
+–	Wer meldet?
+–	Was ist geschehen?
+–	Wo ist es geschehen?
+–	Wann ist es geschehen?
+Die ISB erlässt Ausführungsbestimmungen, nach denen der FDL die notwendigen weiteren Massnahmen einzuleiten hat.	
+		
+13.6 	Retten und Schutzmassnahmen für die Unfallstelle	
+		
+	Beim Bergen oder Retten von Personen, Tieren oder Sachen ist dem Schutz der Beteiligten besondere Beachtung zu schenken. Dazu sind beispielsweise
+–	Gleise gegen Befahren zu sichern
+–	Verminderung der Geschwindigkeit anzuordnen
+–	Fahrleitungen auszuschalten und zu erden
+–	SIWÄ zu stellen.	
+		
+13.7 	Weiterführen des Betriebs	
+		
+	Sobald Gefährdungen ausgeschlossen sind, von Seiten der zuständigen Dienste keine anders lautenden Weisungen vorliegen und die Untersuchungsorgane die Unfallstelle freigegeben haben, können die Massnahmen zur Verminderung der Gefahr aufgehoben und der Betrieb weitergeführt werden.	
+		
+
+
+14 	Ergänzende Bestimmungen bei Gefährdungen und Unfällen
+14.1 	Verhalten des LF bei Erkennung des Warnsignals und bei unklarem Notruf
+	
+	Bei Erkennung des Warnsignals hat der LF sofort anzuhalten und den Sachverhalt abzuklären. Wird keine Hilfe vor Ort benötigt, ist weiterzufahren, wenn dadurch keine Gefährdung entsteht.
+Bei unklarem Notruf hat der LF sofort mit Fahrt auf Sicht zu fahren. Die Einfahrt in Tunnels ist zu vermeiden. Der LF hat mit dem FDL Verbindung aufzunehmen. Ist dies nicht möglich und erhält der LF keine anders lautende Weisung, darf die Fahrt nach 10 Minuten ohne diese Einschränkungen fortgesetzt werden. 
+	
+14.2 	Notbremse betätigt
+	
+	Der LF hat den ZBE und die Reisenden zu verständigen, wenn der LF die Wirkung der Notbremse überbrückt.
+Die Notbremse darf nur nach Absprache mit dem LF zurückgestellt werden.
+	
+14.3 	Weiterfahrt vor Eintreffen der Hilfe
+	
+	Wurde Hilfe verlangt, darf der LF vor deren Eintreffen den Zug bzw. die Rangierbewegung nur mit Zustimmung des FDL bewegen.
+	
+14.4	Signal Nothalt auf Arbeitsstellen
+	
+	Bei Erkennung des Signals Nothalt auf Arbeitsstellen hat der LF sofort anzuhalten und mit dem FDL Kontakt aufzunehmen. 
+Der FDL klärt mit dem SC die Ursache ab. Erhält der FDL, nach dem Dunkelschalten des Signals, vom SC die Zustimmung zur Weiterfahrt, hat der FDL den LF darüber quittungspflichtig zu verständigen.
+Ist die Arbeitsstelle nicht besetzt oder kann der FDL mit dem SC keinen Kontakt aufnehmen, hat der FDL dem LF der ersten Fahrt protokollpflichtig Vorbeifahrt am Halt zeigenden Signal Nothalt auf Arbeitsstellen und Fahrt auf Sicht bis zum Ende der Arbeitsstelle vorzuschreiben.
+Wurde keine Unregelmässigkeit festgestellt, darf das Signal ausgeschaltet werden. Kann das Signal nicht ausgeschaltet werden, hat der FDL die LF protokollpflichtig über das Vorbeifahren am Signal Nothalt auf Arbeitsstellen zu verständigen.
+	
+
+14.5	Unfälle mit gefährlichen Gütern	
+		
+	Die EBU haben die bei Unfällen mit gefährlichen Gütern einzuleitenden Sofortmassnahmen in einem für ihr Personal verbindlichen Merkblatt zu regeln, und zwar in Abstimmung mit den Grundsätzen der Einsatzplanung bei Eisenbahnen gemäss Störfallverordnung (StFV, SR 814.012). Dieses Merkblatt muss insbesondere regeln:
+–	den Selbstschutz des Bahnpersonals
+–	das Erkennen von Gefahren (bahn- und stoffspezifische Gefahren)
+–	das Melden des Ereignisses (Meldestelle, Meldungsinhalt,
+Meldebeispiel)
+–	weitere Massnahmen (Unfallort sichern, Verletzte bergen, Einsatzkräfte einweisen).
+Die EBU haben den Verteiler für das Merkblatt festzulegen. Das betroffene Personal muss das Merkblatt auf sich tragen.	
+		
+14.6	Umgang mit betroffenen Personen	
+		
+	Verletzte Personen dürfen nicht ohne Betreuung zurückgelassen werden. Unter Schock stehende Personen sind soweit möglich zu betreuen.
+Über Unfallopfer darf nicht gefahren werden. Sie sind zuzudecken und zu bewachen.	
+		
+14.7	Massnahmen zur Sicherung der Unfallsituation	
+		
+	Die notwendigen Sicherungs- und Rettungsarbeiten sind unverzüglich einzuleiten. An der Unfallsituation dürfen sonst keine Veränderungen vorgenommen werden. Dadurch entstehende Änderungen sind zu dokumentieren. Die ursprüngliche Lage der Opfer, der Fahrzeuge und von Gegenständen sind deutlich zu kennzeichnen.
+Tote dürfen nur mit dem Einverständnis der Strafverfolgungsbehörde geborgen werden.
+Daten (z.B. Geschwindigkeitsaufzeichnungen, Gesprächsaufzeichnungen, protokollpflichtige Befehle) und Funktionszustände der Sicherungseinrichtungen, die der Klärung der Ursachen und Umstände des Ereignisses dienen könnten, sind von den Verantwortlichen der beteiligten Unternehmen zuhanden der Untersuchungsinstanz zu sichern und während mindestens sechs Monaten aufzubewahren.
+Die Namen und Adressen von Personen, die sachdienliche Hinweise zum Ablauf des Ereignisses geben könnten, sind festzuhalten.
+Sobald die Strafverfolgungsbehörde auf der Unfallstelle eintrifft, entscheidet sie über die Art und den Umfang der Sicherungsmassnahmen und die Bewachung.	
+15	Störungen im Trambetrieb 	
+15.1	Grundsatz	
+		
+	Die ISB definiert, bei welchen Störungen und Unregelmässigkeiten eine Information und bei welchen eine Erlaubnis der Leitstelle vor einer Fahrt oder einer Handlung eingeholt werden muss. Die Leitstelle übernimmt während ihrer Anwesenheit die Führung der Disposition und Information, ordnet Massnahmen an und hebt diese wieder auf. Die ISB regelt das Vorgehen bei Abwesenheit der Leitstelle in ihren Betriebsvorschriften. 
+Die ISB regelt den Einsatz, die Weisungsbefugnis, die zulässigen Bedienungen an Anlagen und die Ausrüstung von Personal zur örtlichen betrieblichen Intervention oder Unterstützung.	
+		
+15.1.1	Verständigung	
+		
+	Das beteiligte Personal verständigt sich nötigenfalls gegenseitig über Unregelmässigkeiten, Verspätungen sowie Ergebnisse und Massnahmen. 
+Bei Störungen mit Verspätungsfolgen sind die Reisenden über den Grund und soweit bekannt über die voraussichtliche Dauer bis zur Weiterfahrt zu informieren.
+Die Sicherheit der beteiligten Personen ist zu gewährleisten und die Personen sind auf mögliche Gefahren aufmerksam zu machen.
+Die ISB regelt das Aufbieten der betrieblichen Intervention und der technischen Dienste.	
+		
+15.1.2	Erste Abklärungen	
+		
+	Geht ein Signal nicht auf Fahrt oder erreicht eine Weiche oder ein anderes Element den angestrebten Zustand nicht, ist davon auszugehen, dass eine Bedienung unterlassen wurde oder betriebliche Gründe dies verhindern. Erst wenn feststeht, dass dies nicht zutrifft, kann von einer Störung ausgegangen werden.
+Als Elemente gelten insbesondere:
+-	Weichen, allenfalls mit zugehöriger GFM und Weichensignalen
+-	Verkehrsregelungsanlagen, allenfalls mit zugehöriger GFM
+-	ortsfeste Signale.	
+		
+
+15.2	Bestimmungen bei Störungen an Weichen	
+15.2.1	Grundsatz 	
+		
+	Weichen mit zweifelhafter Anzeige der Lage oder Weichen, die sich nicht in der Endlage befinden, dürfen nicht befahren werden.	
+		
+15.2.2	Weiche nicht umstellbar	
+		
+	Insbesondere folgende Ursachen können das Umstellen einer Weiche verhindern:
+-	Hindernis / Schmutz
+-	Weiche verschlossen
+-	GFM trotz freiem Zustand belegt
+-	Stromversorgung unterbrochen
+-	Anmeldung für Weichenstellung nicht empfangen
+-	andere Defekte an der Weiche.
+Können Weichen nicht oder nur mit aussergewöhnlicher Kraftanstrengung umgestellt werden, sind sie sofort in die ursprüngliche Lage zurückzustellen.
+Kann die Weiche auch mit örtlicher Bedienung oder mit dem Weichenstelleisen nicht umgestellt werden, ist die Leitstelle zu verständigen.	
+		
+15.2.3	Weiche mit fehlendem Verschluss oder fehlender Anzeige der Endlage	
+		
+	Wird eine Weiche mit Verschlussanzeige durch die Weichensteuerung nicht verschlossen, wird der Weichenverschluss nicht angezeigt. Es ist vor der Weichenzunge anzuhalten. Die Weichen müssen in diesem Fall soweit möglich erneut angesteuert oder manuell mit dem Weichenstelleisen gestellt werden. 
+Die ISB regeln das Befahren von Weichen bei fehlender Anzeige des Weichenverschlusses oder bei fehlender Endlage der Weiche. Sie legen insbesondere die Zulässigkeit, die Kontrolle der Endlage und die Höchstgeschwindigkeit für das Befahren fest.	
+		
+
+15.2.4	Weichenaufschneidung	
+		
+	Das Aufschneiden von Weichen ist verboten, da es betriebsgefährdende Beschädigungen zur Folge haben kann.
+Wurde eine Weiche aufgeschnitten, sind gefährdete Fahrten sofort aufzuhalten und die Beteiligten sind umgehend zu verständigen. Die Weiche ist zu sichern und muss von der Wurzel Richtung Spitze freigelegt werden. Die Weiche ist auf mechanische Schäden zu kontrollieren.
+Die Kontrolle einer aufgeschnittenen Weiche hat grundsätzlich durch den zuständigen technischen Dienst zu erfolgen. Die ISB regeln, ob und wie betriebliches Personal aufgeschnittene Weichen kontrollieren darf.
+Ist die Weiche mechanisch beschädigt oder ist der Befund unklar, darf sie nicht mehr befahren werden. 
+Das weitere Vorgehen richtet sich nach den Weisungen des zuständigen technischen Dienstes.	
+		
+15.2.5	Verkeilen oder ausser Betrieb setzen einer Weiche	
+		
+	Die ISB regelt das Verkeilen und das ausser Betrieb setzen einer Weiche.	
+		
+15.3	Bestimmungen bei Störungen an Verkehrsregelungsanlagen	
+		
+	Bei gestörter Verkehrsregelungsanlage zeigt das zugehörige Strassenbahnsignal den Begriff Ausser Betrieb oder es bleibt auf Halt.
+Bleibt das Strassenbahnsignal bei gestörter Anlage auf Halt, ist nach Möglichkeit die Fahrt manuell anzumelden oder die Anlage ausser Betrieb zu setzen.
+Für Fahrten bei Halt zeigendem Strassenbahnsignal regelt die ISB das Befahren und die Kompetenzen des Personals der EBU gegenüber dem Individualverkehr. Dazu stimmt sich die ISB mit den zuständigen kantonalen und kommunalen Behörden ab. 	
+		
+15.3.1	Befahren der gestörten oder ausser Betrieb gesetzten Verkehrsregelungsanlage	
+		
+	Zeigt das Strassenbahnsignal den Begriff Ausser Betrieb, hat der LF den Bereich besonders vorsichtig zu befahren. 
+Zeigt das Strassenbahnsignal den Begriff Halt und ist eine Person zur Verkehrsregelung auf Platz, befährt der LF den Bereich nach den Grundsätzen der Strassenverkehrsgesetzgebung. Zeigt das Strassenbahnsignal den Begriff Halt und es ist keine Person zur Verkehrsregelung auf Platz, befährt der LF den Bereich nach den Vorgaben der ISB.	
+		
+15.4	Unregelmässigkeiten an Gleisen und Weichen	
+15.4.1	Erste Abklärungen	
+		
+	Stellt der LF oder der RL eine Unregelmässigkeit an Gleisen und Weichen fest, hat der LF oder der RL nach Möglichkeit die Fahrt vor der Schadensstelle anzuhalten. Die Leitstelle ist unverzüglich unter Angabe von Ort der Schadensstelle und Art des Schadens zu verständigen.	
+		
+15.4.2	Massnahmen	
+		
+	Die Leitstelle hat:
+-	gegebenenfalls die nachfolgende Fahrt anzuhalten 
+-	durch Rückfrage mit dem LF oder dem RL nach Möglichkeit die Befahrbarkeit der Schadensstelle abzuklären 
+-	die nachfolgenden Fahrten nach Vorgaben der ISB zu verständigen 
+-	die betriebliche Intervention und die technischen Dienste aufzubieten oder zu verständigen.
+Kann die betreffende Stelle nicht mehr befahren werden, hat die Leitstelle das Sperren des Gleises oder der Weiche zu veranlassen.	
+		
+15.5	Unregelmässigkeiten an der Fahrleitung	
+15.5.1	Erste Abklärungen	
+		
+	Stellt der LF oder der RL eine Unregelmässigkeit an der Fahrleitung fest, hat der LF oder der RL nach Möglichkeit die Fahrt vor der Schadensstelle anzuhalten oder die Stromabnehmer zu senken. Die Leitstelle ist unverzüglich unter Angabe von Ort der Schadensstelle und Art des Schadens zu verständigen.	
+		
+15.5.2	Massnahmen	
+		
+	Die Leitstelle hat:
+-	gegebenenfalls die nachfolgende Fahrt anzuhalten 
+-	durch Rückfrage mit dem LF oder dem RL nach Möglichkeit die Befahrbarkeit der Schadensstelle abzuklären 
+-	die nachfolgenden Fahrten nach Vorgaben der ISB zu verständigen
+-	die betriebliche Intervention und die technischen Dienste aufzubieten oder zu verständigen.
+Kann die betreffende Stelle nicht mehr befahren werden, hat die Leitstelle das Sperren des Abschnitts zu veranlassen.
+Kann die Fahrt nicht mehr weiterfahren, muss der LF oder der RL beurteilen, ob durch eine heruntergerissene Fahrleitung oder herunterhängende Fahrleitungsteile eine unmittelbare Gefahr besteht. Bei Gefahr trifft der LF oder der RL die notwendigen Massnahmen, damit die Reisenden den Zug nicht verlassen, und zwar bis die zuständigen Mitarbeitenden die entsprechenden Sicherungsmassnahmen vorgenommen haben. Erst wenn keine Gefahr mehr besteht, darf mit der Evakuierung des Zuges begonnen werden.	
+		
+15.5.3	Weiteres Vorgehen	
+		
+	Die Befahrbarkeit der Stelle mit weiteren Fahrten, z.B. mit gesenkten Stromabnehmern, richtet sich nach den Vorgaben der ISB.	
+		
+15.5.4	Fahrleitung spannungslos	
+		
+	Stellt der LF fest, dass die Fahrleitung nach einem Spannungsausfall nicht sofort wieder unter Spannung kommt, hat der LF wie folgt vorzugehen:
+-	die Fahrt besonders vorsichtig fortsetzen
+-	an geeigneter Stelle, spätestens an der nächsten Haltestelle anhalten. Dies nach Möglichkeit ohne Behinderung des Verkehrsflusses. 	
+		
+15.6	Störungen an Sicherheitseinrichtungen	
+15.6.1	Ausfall der Sicherheitssteuerung auf dem Spitzenfahrzeug 	
+		
+	Sofern keine Notwendigkeit besteht, sind Fahrzeuge mit Störungen an der Sicherheitssteuerung nicht als Spitzenfahrzeug einzusetzen. Es dürfen keine Fahrzeuge mit Störungen an der Sicherheitssteuerung aus der Instandhaltung eingesetzt werden.
+Versagt auf dem Spitzenfahrzeug die Sicherheitssteuerung, hat der LF bei der ersten Gelegenheit eine zusätzliche Person eines EBU in den Führerstand anzufordern. Der LF instruiert diese Person, wie der Zug im Notfall anzuhalten ist.
+Das Fahrzeug darf höchstens 6 Stunden ab Störungsbeginn als Spitzenfahrzeug mit einer defekten Sicherheitssteuerung verkehren. Fahrten direkt zum Instandhaltungsstandort sind auch nach 6 Stunden zulässig, unter der Bedingung, dass zusätzlich eine instruierte Person eines EBU im Führerstand anwesend ist, die den Zug im Notfall anhalten kann.	
+		
+15.7	Unregelmässigkeiten an Fahrzeugen	
+15.7.1	Grundsatz	
+		
+	Bei Unregelmässigkeiten an Fahrzeugen, welche Personen, Anlagen oder Fahrzeuge gefährden oder beschädigen können, darf die Fahrt weder begonnen noch fortgesetzt werden.
+Werden Zugkontrolleinrichtungen zur Überwachung des technischen Zustands während der Fahrt eingesetzt, hat die ISB die dazu nötigen Ausführungsbestimmungen zu erlassen.
+Die Leitstelle entscheidet nach Rücksprache mit den technischen Diensten bei Störungen und Ausfällen über das Auswechseln des Fahrzeuges.	
+		
+15.7.2	Erste Abklärungen 	
+		
+	Wird eine Unregelmässigkeit an einem Fahrzeug festgestellt, hat das verantwortliche Personal, unter Berücksichtigung der massgebenden Betriebsvorschriften, zu entscheiden, ob die Fahrt begonnen oder fortgesetzt werden darf. Kann das verantwortliche Personal vor Ort dies nicht selbst entscheiden, hat es die Leitstelle zur Klärung des weiteren Vorgehens beizuziehen.
+Die Störungsabklärung und -behebung an Fahrzeugen soll wenn möglich von der gleisabgewandten Seite erfolgen. Dabei sind die Bestimmungen über die Arbeitssicherheit zu beachten.	
+		
+15.7.3	Massnahmen bei bestimmten Unregelmässigkeiten 	
+		
+	Bei den nachstehend aufgelisteten Unregelmässigkeiten gelten die entsprechend aufgeführten Massnahmen:
+-	Offene Aussentüren
+	Offene Aussentüren, sind sofort zu schliessen.
+-	Entgleiste Fahrzeuge
+	Entgleiste Fahrzeuge dürfen nach dem Aufgleisen nur mit Zustimmung und gemäss den Anweisungen des technischen Dienstes bewegt werden.
+-	Vollständiger Ausfall oder Teilausfall der Frontscheinwerfer 
+	Die EVU legen das Vorgehen bei Ausfällen der Frontscheinwerfer fest. Sie berücksichtigen die Sichtbarkeit der Fahrten für andere am Verkehr Beteiligte.
+-	Ausfall der Lokpfeife
+	Ist die Lokpfeife unbrauchbar, hat der LF oder der RL besonders vorsichtig zu fahren. Die Leitstelle ist über den Ausfall zu verständigen. Der Zug oder die Rangierbewegung muss an die nächstgelegene Stelle fahren, an der die Lokpfeife instandgesetzt oder das betroffene Fahrzeug ausgetauscht werden kann.
+-	Vollständiger Ausfall des Zugschlusssignals
+	Die EVU legen das Vorgehen bei Ausfällen des Zugschlusssignals fest. Sie berücksichtigen die Sichtbarkeit der Fahrten für andere am Verkehr Beteiligte.
+-	Ausfall des Geschwindigkeitsmessers
+	Fällt der Geschwindigkeitsmesser aus, hat der LF die Geschwindigkeit stark zu reduzieren, damit die zugelassene Höchstgeschwindigkeit nicht überschritten wird. Die EVU regeln das weitere Vorgehen.
+-	Ausfall der Notbremsüberbrückung / Notbremsanforderung
+	Es dürfen nur Züge mit betriebsbereiter Notbremsüberbrückung oder Notbremsanforderung Strecken befahren, auf welchen diese vorgeschrieben sind.
+-	Ausfall des Kommunikationssystems für fernmündliche Übermittlung für Züge
+	Die EBU regeln das Vorgehen, wenn Kommunikationssysteme ausfallen.
+    • Ausfall des Richtungsblinkers 
+	Bei Ausfall von Richtungsblinkern hat der LF oder der RL besonders vorsichtig zu fahren. Die Leitstelle ist über den Ausfall zu verständigen. Der Zug muss an die nächstgelegene Stelle fahren, wo der Richtungsblinker instandgesetzt oder das 	betroffene Fahrzeug ersetzt werden kann.	
+		
+15.8	Bremsstörung	
+15.8.1	Sofortmassnahmen 	
+		
+	Wird die Bremse unterwegs unbrauchbar oder stellt der LF während der Fahrt eine ungenügende Bremswirkung fest, ist der Zug so rasch wie möglich anzuhalten und die Ursache zu suchen. Es ist nach den Betriebsvorschriften für das entsprechende Fahrzeug vorzugehen.	
+		
+15.8.2	Weiterfahrt	
+		
+	Kann nach einer Bremsstörung die Ursache nicht einwandfrei festgestellt werden, ist eine Bremsprobe durchzuführen.	
+		
+15.8.3	Weiterfahrt mit einem ungebremsten Fahrzeug 	
+		
+	Für die Weiterfahrt mit einem ungebremsten Fahrzeug nach einer Bremsstörung regelt das EVU das Vorgehen.	
+		
+15.9	Gefährdungen und Unfälle	
+15.9.1	Allgemeines Vorgehen	
+		
+	Wird eine Gefährdung oder ein Unfall verursacht, handelt das Personal in der Reihenfolge:
+-	Gefahr erkennen
+-	Auswirkungen abschätzen
+-	Gefahr vermindern
+-	Alarmieren
+-	Retten
+-	Betrieb weiterführen.	
+		
+15.9.2	Arten von Gefährdungen 	
+		
+	Als Gefährdungen im Trambetrieb gelten alle Ereignisse, die einen Unfall verursachen oder darauf hinweisen können.
+Darunter fallen insbesondere:
+-	nicht betriebsbereite oder beschädigte Fahrzeuge
+-	Entgleisung
+-	Anprall / Zusammenstoss
+-	Fahrzeuge entlaufen
+-	nicht erklärbare Unregelmässigkeit im Zuglauf
+-	Zug bleibt ohne ersichtlichen Grund stehen
+-	Gleis / Weiche / Fahrleitung beschädigt
+-	Überfahren eines Halt zeigenden Signals 
+-	Notruf oder Alarm erhalten
+-	Naturgefahren sowie Elementarereignisse (z.B. Hochwasser, Sturm, Brand).	
+		
+15.9.3	Arten von Unfällen	
+		
+	Als Unfälle im Trambetrieb gelten insbesondere Ereignisse mit folgenden Auswirkungen:
+-	verletzte oder getötete Personen
+-	verletzte oder getötete grosse Tiere
+-	beschädigte Infrastrukturen
+-	entgleiste oder beschädigte Fahrzeuge
+-	beschädigte Strassenfahrzeuge
+-	Zusammenstösse mit Gegenständen im Gleisbereich, die aufgrund ihrer Grösse oder Beschaffenheit den Trambetrieb gefährden können
+-	Brände
+-	mögliche schwere Schädigung von Bevölkerung und Umwelt (z.B. Unregelmässigkeiten mit gefährlichen Stoffen / Gefahrgut).	
+		
+15.9.4	Gefahr vermindern	
+		
+	Das Personal, welches eine Gefährdung oder einen Unfall feststellt, hat unter Beachtung des Selbstschutzes unverzüglich dafür zu sorgen, dass die Auswirkungen verringert werden, z.B. indem
+-	ein Notruf ausgesendet wird
+-	entlaufene Fahrzeuge aufgehalten werden
+-	der RL Haltbefehle gibt
+-	der AVT das Gleis räumen lässt
+-	die Leitstelle den Betrieb anhalten lässt
+-	der LF den brennenden Zug, allenfalls unter Anwendung der Notbremsüberbrückung, aus dem Tunnel führt
+-	der LF den Zug, allenfalls unter Anwendung der Notbremsüberbrückung, an geeigneter Stelle anhält (z.B. nicht in Tunnels, Galerien oder auf Brücken) oder den Warnblinker einschaltet und einen Notruf aussendet 
+-	gefährdete Personen gewarnt werden.
+Für bestimmte Bauwerke werden durch die ISB spezifische Regelungen aufgrund des Alarm- und Rettungskonzeptes definiert. Diese spezifischen Regelungen haben Vorrang vor den allgemeingültigen Handlungsanweisungen.	
+		
+15.9.5	Alarmieren	
+		
+	Das Personal, welches eine Gefährdung oder einen Unfall feststellt, hat unverzüglich die Leitstelle nach dem Prinzip zu verständigen:
+-	Wer meldet?
+-	Was ist geschehen?
+-	Wo ist es geschehen?
+-	Wann ist es geschehen?
+Die ISB erlässt Ausführungsbestimmungen, nach denen die Leitstelle die notwendigen weiteren Massnahmen einzuleiten hat, z.B. die Information der anderen Fahrten, die Verwendung von Sammelrufen oder Netzdurchsagen. 	
+		
+
+15.9.6	Retten und Schutzmassnahmen für die Unfallstelle 	
+		
+	Beim Bergen oder Retten von Personen, Tieren oder Sachen ist dem Schutz der Beteiligten besondere Beachtung zu schenken. Dazu sind beispielsweise
+-	Gleise gegen Befahren zu sichern
+-	Verminderung der Geschwindigkeit anzuordnen
+-	Fahrleitungen auszuschalten und zu erden
+-	betrieblicher Interventionsdienst oder weitere Hilfskräfte vor Ort einzusetzen.	
+		
+15.9.7	Weiterführen des Betriebs	
+		
+	Sobald Gefährdungen ausgeschlossen sind, von Seiten der zuständigen Dienste keine anders lautenden Weisungen vorliegen und die Untersuchungsorgane die Unfallstelle freigegeben haben, können die Massnahmen zur Verminderung der Gefahr aufgehoben und der Betrieb weitergeführt werden.	
+		
+15.10	Ergänzende Bestimmungen bei Gefährdungen und Unfällen 	
+15.10.1	Verhalten des LF bei Erkennung von Warnblinkern und bei unklarem Notruf 	
+		
+	Bei Erkennung von Warnblinkern hat der LF oder der RL sofort besonders vorsichtig zu fahren und nötigenfalls anzuhalten sowie im Zweifelsfall den Sachverhalt abzuklären. Wird keine Hilfe vor Ort benötigt und besteht keine Gefahr, ist weiterzufahren. 
+Bei unklarem Notruf hat der LF sofort besonders vorsichtig zu fahren. Die Einfahrt in Tunnels ist zu vermeiden. Der LF hat mit der Leitstelle Verbindung aufzunehmen. Ist dies nicht möglich und erhält der LF keine anders lautende Weisung, darf die Fahrt nach 10 Minuten ohne diese Einschränkungen fortgesetzt werden. 	
+		
+15.10.2	Notbremse betätigt	
+		
+	Der LF hat die Reisenden zu verständigen, wenn der LF die Wirkung der Notbremse überbrückt.
+Die Notbremse darf nur nach Absprache mit dem LF zurückgestellt werden.	
+		
+
+

@@ -1,0 +1,150 @@
+﻿Chemins de fer suisses	R 300.8
+
+
+
+Sécurité au travail
+
+
+ 
+
+1	Sécurité au travail
+1.1	Principe
+	
+	L’exploitation ferroviaire comporte des dangers particuliers et exige une attention soutenue de la part de tous les collaborateurs.
+Les abords des voies ne peuvent être empruntés que pour y exercer des activités.
+Pour sa propre sécurité, on veillera donc à respecter les règles de comportement nécessaires de base ci-après, quelle que soit l’activité concernée.
+	
+1.2	Comportement de manière générale
+	
+	Afin d’éviter tout risque de blessure, les collaborateurs sont tenus d’appliquer les règles de base suivantes :
+–	identifier les dangers
+–	éviter les dangers
+–	diminuer les dangers. 
+	
+1.2.1	Identifier les dangers
+	
+	Avant de débuter une activité, les collaborateurs doivent évaluer les dangers qu’ils pourraient rencontrer, à savoir en particulier :
+–	être écrasé (par ex. par des mouvements de manœuvre, par des trains ou encore par des véhicules non assurés)
+–	être heurté (par ex. par des mouvements de manœuvre, par des véhicules non assurés ou des éléments ayant pénétré le profil d’espace libre)
+–	être touché (par ex. par du matériel qui tombe au sol, en déchargeant du matériel)
+–	tomber, s’encoubler, chuter (par ex. en montant sur un véhicule ou en redescendant, en se rendant dans les voies, sur du matériel abandonné, en effectuant des travaux en hauteur)
+–	être brûlé (par ex. par du courant électrique en grimpant sur un véhicule, en manipulant la ligne de train, en travaillant à proximité d’une ligne de contact)
+–	être empoisonné, brûlé par un acide (par ex. par des fuites de matières dangereuses, en manipulant des matières dangereuses).
+	
+
+1.2.2	Eviter les dangers
+	
+	Les collaborateurs doivent éviter tant que possible les dangers, en particulier en :
+–	respectant les avertissements
+–	utilisant les dispositifs de protection
+–	empruntant des chemins sûrs (passages souterrains compris) en dehors des abords des voies
+–	déclenchant les lignes de contact, en les mettant à la terre et en les protégeant contre tout enclenchement intempestif
+–	travaillant le plus possible en dehors des abords des voies
+–	choisissant des emplacements de travail sûrs
+–	montant uniquement sur des véhicules ou en y descendant seulement s’ils sont immobiles ou s’ils circulent à la vitesse d’un homme au pas au maximum
+–	prenant garde aux trains et aux mouvements de manœuvre en approche 
+–	annonçant les situations dangereuses
+–	éliminant les risques ou en les signalant.
+	
+1.2.3	Diminuer les dangers
+	
+	Les collaborateurs qui ne peuvent éviter certains dangers feront en sorte de les diminuer à l’aide des mesures suivantes :
+–	aux abords des voies, porter les vêtements de protection conformes aux normes en vigueur. Les vêtements de protection de couleur rouge sont cependant interdits.
+	En exploitation des tramways, le GI peut établir des dispositions divergentes pour l’obligation de port de vêtements de protection.
+–	porter l’équipement de protection personnel et ce, conformément aux dispositions de l’ECF
+–	enclencher l’éclairage
+–	utiliser les aides pour monter
+–	utiliser les dispositifs de sécurité
+–	avertir les personnes en danger.
+	
+
+2	Règles de comportement complémentaires
+2.1	Comportement sur et aux abords des voies en exploitation ferroviaire
+	
+	Avant de s’engager ou de se rendre (par ex. avec un chariot élévateur ou un chariot à bagages) sur et aux abords des voies, les collaborateurs doivent procéder comme suit :
+–	maintenir un arrêt de sécurité à au moins 1,5 mètre par rapport au rail le plus proche
+–	déterminer le chemin de fuite
+–	vérifier qu’aucun dispositif acoustique ou optique n’interdise de traverser les voies
+–	vérifier, en regardant dans les deux directions, qu’aucun véhicule ne s’approche. Les véhicules immobilisés doivent être distants d’au moins 5 mètres des collaborateurs.
+De plus, une fois dans les voies, les collaborateurs doivent prêter attention en particulier à :
+–	se déplacer dans les voies en avançant
+–	veiller à prendre pied sur une surface stable
+–	ne pas marcher sur le champignon des rails et sur les lames d’aiguille
+–	dans la mesure du possible, respecter une distance d’au moins 1,5 mètre par rapport au rail le plus proche
+–	quitter si possible rapidement les abords des voies.
+	
+2.1.1	Se tenir et réaliser des travaux entre des voies ou entre une voie et un obstacle fixe
+	
+	Une zone intermédiaire de sécurité doit être disponible pour s’y tenir ou pour réaliser des travaux entre des voies ou entre une voie et un obstacle fixe. Dans le cas contraire, il faut procéder selon les dispositions « Absence de zone intermédiaire de sécurité ». 
+En présence de chantiers, il faut procéder selon les dispositions « Travaux sur et aux abords des voies ».
+	
+
+2.1.2	Absence de zone intermédiaire de sécurité
+	
+	Si aucune zone intermédiaire de sécurité n’est disponible ou que, dans une situation concrète, le personnel concerné n’est pas en mesure de déterminer avec certitude s’il peut ou non pénétrer entre des voies, il convient de demander la protection des voies libres adjacentes à l’entre-voie contre quittance au CC. Le CC protégera et confirmera les mesures de sécurité contre quittance.
+Lorsque le personnel n’a plus besoin d’être entre des voies et qu’il a terminé les travaux, il doit aviser contre quittance le CC, qui supprimera la mesure de sécurité.
+En présence de chantiers, il faut procéder selon les dispositions « Travaux sur et aux abords des voies ».
+	
+2.2	Comportements sur et aux abords des voies en exploitation des tramways.
+	
+	Le personnel respecte les principes édictés dans la législation sur la circulation routière.
+Dans une zone avec plate-forme indépendante, les collaborateurs doivent s’orienter sur le comportement à adopter sur et aux abords des voies avant d’y pénétrer ou de les parcourir (par ex. avec une machine de nettoyage de la chaussée ou avec une tondeuse à gazon), en plus du comportement sur et aux abords des voies en exploitation ferroviaire.
+
+2.3	Véhicules
+2.3.1	Travaux auprès de véhicules
+	
+	Si les collaborateurs doivent se rendre sur, entre ou sous un véhicule, ils doivent s’assurer que les véhicules ne se mettent pas en mouvement involontairement. En outre, le personnel concerné doit être avisé en particulier dans les cas suivants :
+–	avant d’atteler ou dételer des véhicules
+–	dans la gare de formation lorsque la visite du train est déjà terminée
+–	dans une gare intermédiaire, pour les trains
+–	lorsqu’un ordre d’avancer a déjà été transmis, pour les mouvements de manœuvre
+–	avant de débuter les travaux de réparation ou d’entretien ainsi que pour lever un dérangement.
+Si les collaborateurs doivent monter sur des véhicules (par ex. pour un chargement ou un déchargement, pour faire un contrôle, pour lever un dérangement), ils doivent en plus respecter ce qui suit :
+–	les dispositions sur les « Dangers du courant électrique »
+–	utiliser les dispositifs fixes ou les moyens d’accès mobiles prévus à cet effet
+–	utiliser les dispositifs antichute en cas d’activités sur le toit d’un véhicule.
+La fin des travaux doit être annoncée au personnel concerné.
+	
+	
+
+2.3.2	Accompagnement sur ou dans un véhicule
+	
+	Si des collaborateurs doivent accompagner un véhicule, ils doivent respecter ce qui suit :
+–	n’accompagner un véhicule que si c’est nécessaire pour l’exercice de son travail
+–	en cas d’accompagnement dans la cabine de conduite, le MEC ne doit être ni gêné ni distrait dans l’accomplissement de sa tâche
+–	choisir un emplacement sûr (par ex. marchepied ou plate-forme, dispositif d’immobilisation prévu à cet effet)
+–	tenir compte des dangers potentiels le long du trajet (par ex. rampes, portiques, installations d’infrastructure avec distance de sécurité limitée). 
+	
+2.4	Dangers du courant électrique
+2.4.1	Principe
+	
+	Les installations électriques (par ex. ligne de contact, ligne de train) doivent toujours être considérées comme étant sous tension et ce, jusqu’à ce que l’on ait pu s’assurer du contraire.
+Pour diminuer les risques et les dangers, il faut
+–	avant le début des travaux ou
+–	avant de monter sur le toit d’un véhicule, sur un wagon citerne etc. ou sur le chargement d’un wagon
+s’assurer que la ligne de contact est déclenchée, mise à la terre et protégée contre tout enclenchement intempestif.
+Selon l’installation électrique ou s’il n’est pas possible de mettre à la terre, il faut s’adresser à une PECIE.
+Les PIIE peuvent exceptionnellement monter sur des parties hautes de véhicules et sur le chargement d’un wagon avec des lignes de contact enclenchées.
+
+2.4.2	Risques et dangers
+	
+	Avec les installations électriques, il peut y avoir danger de mort, en particulier :
+–	en cas de contact direct
+–	si l’on s’en approche trop
+–	lorsque l’on sépare ou relie certaines liaisons électriques enclenchées (par ex. ligne de train, interrupteur à cornes sous charge)
+–	en cas d’interruption du circuit du courant électrique de véhicules alimentés par le pantographe ou par la ligne de train. C’est notamment le cas lorsqu’on a affaire à des véhicules se trouvant immobilisés sur une surface sablonneuse, couverte de rouille, de déchets, de glace, de neige, etc. et toujours raccordés à la ligne de contact. En cas de déraillement, le pantographe doit être immédiatement abaissé et la ligne de train déclenchée. Au besoin, il faut quitter ces véhicules en sautant.
+Lors de l’exécution de certains travaux, il y a un risque que les distances de sécurité par rapport à la ligne de contact ou d’autres éléments sous tension ne soient pas respectées, notamment : 
+–	lors d’opération de chargement et de déchargement
+–	lors de l’utilisation d’outils de chantier ou d’engins élévateurs
+–	en cas de travaux de réparation devant être effectués en hauteur
+–	lors du remplacement d’ampoules à certains signaux
+–	lors du nettoyage de panneaux, d’inscription, de dispositifs d’éclairage, etc.
+–	lorsqu’une partie de la ligne de contact est endommagée ou pend
+–	lors de l’utilisation d’appareil à eau sous pression
+–	lors de travaux de reconnaissance (par ex. mesures).
+	
+2.4.3	Utilisation de lances à eau ou autres appareils
+	
+	Les lances ou jets à eau ne doivent pas être utilisés lorsque des installations sous tension se trouvent dans le champ d’action possible.
+Pour l’utilisation de lances-diffuseur ou d’appareils semblables avec seulement un champ d’action court, les ECF peuvent édicter des prescriptions d’exploitation.
+

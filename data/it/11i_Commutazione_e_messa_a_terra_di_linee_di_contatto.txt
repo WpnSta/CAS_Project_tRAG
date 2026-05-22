@@ -1,0 +1,79 @@
+﻿Ferrovie svizzere	R 300.11
+
+
+
+Commutazione e messa a terra di linee di contatto
+
+
+1	In generale
+1.1	Ambito di validità
+	
+	Queste prescrizioni riguardano gli aspetti dell’esercizio ferroviario in relazione con le linee di contatto.
+	
+
+
+2	Competenze e manipolazioni
+2.1	Commutazione della linea di contatto
+2.1.1	Autorizzazione a impartire ordini di commutazione 
+	
+	Sono autorizzate a impartire ordini di inserimento e di disinserimento:
+–	PESIE designate da un’IF
+–	PIIE.
+Sono autorizzati a impartire ordini di disinserimento:
+–	altro personale designato dall’IF
+–	terze persone, in caso d’emergenza.
+	
+2.1.2	Ordini di commutazione
+	
+	Gli ordini di commutazione devono essere dati in maniera chiara e inequivocabile.
+Gli ordini di commutazione devono essere impartiti indicando almeno:
+–	nome e designazione della funzione
+–	luogo (stazione, posto di cambio di binario, numero del binario, sezione interessata, ecc.)
+–	designazione dell’interruttore
+–	parola d’ordine, nei casi prescritti dal GI. La parola d’ordine viene assegnata dal servizio che esegue l’ordine di commutazione. Richieste di reinserimento del circuito in oggetto possono essere eseguite solo se accompagnate dalla stessa parola d’ordine.
+Le persone autorizzate a impartire solamente ordini di disinserimento designano i binari o le condotte da disinserire nel modo più preciso possibile. In caso d’emergenza o di dubbi, si procede a un disinserimento su un’area più ampia.
+Gli ordini di commutazione e la conferma dell’esecuzione di una commutazione sono trasmessi con obbligo di protocollo. Per i binari che sono normalmente disinseriti, gli ordini di commutazione e la conferma di esecuzione dell’ordine possono essere trasmessi con obbligo di quietanza.
+	
+
+2.1.3	Manovre di commutazione	
+		
+	Come regola generale, le manovre di commutazione di interruttori centralizzati sono eseguite dai rispettivi centri di telecomando. 
+Manovre di commutazione di interruttori comandati localmente della tratta o di stazione in settori di stazione o installazioni di manutenzione e di servizio sono eseguite da PESIE o PIIE, come pure su ordine del servizio preposto dalle PIIE designate dall’IF.
+Nell’esercizio di tram, per analogia, i GI devono disciplinare la commutazione di interruttori serviti sul posto da parte di PESIE o PIIE.	
+		
+	2.1.4	Assicuramento dalla commutazione
+		
+	Disinserimento di linee di contatto in esercizio ferroviario:
+Il CMOV deve assicurare lo sbarramento richiesto all’impianto di sicurezza. 
+La persona autorizzata alla commutazione che esegue la commutazione, deve proteggere l’interruttore contro l’eventuale involontario reinseri­mento. La protezione deve avvenire prima di trasmettere la conferma al committente. 
+Inserimento di linee di contatto in esercizio ferroviario: 
+La persona autorizzata alla commutazione rimuove la misura di protezione adottata contro l’involontario reinserimento, esegue la commutazione e ne dà conferma al committente. 
+Dopo l’inserimento, il CMOV elimina le misure di sicurezza adottate.
+In esercizio di tram, la protezione della commutazione viene disciplinata dal GI.	
+		
+	2.1.5	Manovra di interruttori a corna
+		
+	Gli interruttori a corna possono essere disinseriti unicamente dopo essersi accertati che i veicoli che si trovano sotto le rispettive linee di contatto abbiano abbassato i pantografi e che eventuali altri consumatori (p.es. gli impianti di preriscaldamento dei treni e di riscaldamento degli scambi) collegati a questo interruttore a corna o alla linea di contatto siano disinseriti.	
+		
+
+	2.2	Messa a terra
+	2.2.1	Autorizzazione alla messa a terra
+		
+	Sono autorizzate a mettere a terra le linee di contatto le PESIE in tutti gli impianti ferroviari; le PIIE possono mettere a terra negli impianti per i quali hanno ricevuto un’istruzione concreta.	
+
+2.2.2	Dispositivi di messa a terra e aste di prova
+	
+	I dispositivi di messa a terra e le aste di prova non controllati o difettosi non devono essere utilizzati e vanno annunciati al servizio preposto.
+	
+2.3	Stato d’inserimento della linea di contatto
+2.3.1	Binari di carico
+	
+	Per motivi di sicurezza, le linee di contatto su binari di carico e di scarico devono essere disinserite e messe a terra. 
+Il GI può autorizzare deroghe a tale disposizione solo se queste sono imperativamente necessarie e se le distanze di sicurezza secondo la legislazione ferroviaria sono garantite per ogni stato d’esercizio previsto nelle prescrizioni dell’impianto.
+Sui binari di rampa, di magazzino o in piazzali di carico che sono normalmente disinseriti, le linee di contatto vanno inserite solo poco prima che un veicolo motore elettrico debba entrare sui binari interessati. Le linee di contatto vanno nuovamente disinserite e messe a terra non appena il veicolo motore è uscito.
+	
+2.3.2	Informazione ai clienti
+	
+	I clienti che svolgono operazioni di carico o scarico devono essere resi attenti ai pericoli della corrente elettrica. Prima di annunciare a un cliente che un binario è disinserito, la linea di contatto dev’essere disinserita e messa a terra. Se è necessario inserire nuovamente la linea di contatto di un binario di carico, occorre dapprima avvisarne i clienti interessati. L’ITF che mette a disposizione i veicoli per il carico e lo scarico e che li ritira al termine di queste operazioni è responsabile per l’informazione ai propri clienti.
+	
+

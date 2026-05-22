@@ -1,0 +1,672 @@
+﻿Chemins de fer suisses	R 300.12
+
+
+
+Travaux sur et aux abords des voies
+
+
+
+
+
+1	Principe
+1.1	Champ d’application
+1.1.1	Travaux sur et aux abords des voies
+	
+	Dès que des travaux sont entrepris sur et aux abords des voies, il faut prévoir des mesures de sécurité. Il en va de même lorsque du personnel et/ou des équipements de travail risquent de pénétrer volontairement ou non sur les voies ou aux abords de celles-ci.
+	
+1.1.2	Objectif
+	
+	Les mesures de sécurité à prendre lors de travaux sur et aux abords des voies ont pour objectif de
+–	protéger le personnel sur les chantiers des dangers de l’exploita­tion ferroviaire et
+–	de garantir la sécurité de l’exploitation ferroviaire dans la zone des chantiers.
+	
+1.2	Dangers significatifs et principes de sécurité	
+1.2.1	Dangers significatifs	
+		
+	Lors de travaux sur et aux abords des voies, le personnel est mis en danger de manière significative par l’exploitation ferroviaire, les installations à haute tension et l’utilisation des équipements de travail.
+L’exploitation ferroviaire est menacée par les travaux sur et aux abords des voies, en particulier lors de l’utilisation de machines de chantier.	
+	
+1.2.2	Principes de sécurité
+	
+	Le personnel engagé sur des chantiers sur et aux abords des voies doit pouvoir exécuter ses tâches sans devoir vouer son attention sur l’exploi­tation ferroviaire. 
+En cas de danger, le personnel doit être averti à temps afin qu’il puisse évacuer la voie concernée et ses abords sans précipitation et en toute sécurité.
+	
+1.3	Responsabilité
+	
+	Le GI répond du respect des prescriptions relatives aux mesures de sécurité lors de travaux sur une voie et ses abords, tant sur ses propres chantiers que sur ceux de maîtres d’ouvrage étrangers à l’entreprise ferroviaire.
+
+1.4	Personnel d’entreprises privées
+	
+	Le GI définit, dans ses dispositions d’exécu­tion, selon quelles conditions le personnel d’une entreprise privée peut effectuer ses tâches.
+	
+
+2	Personnel
+2.1	Ensemble du personnel
+2.1.1	Obligations
+	
+	Si le personnel n’est pas orienté sur le DISPO, il doit se renseigner auprès du CS avant le début des travaux. 
+Par rapport aux autres travaux, les mesures de sécurité doivent être appliquées en priorité.
+	
+2.1.2	But des signaux d’alarme
+	
+	Les signaux d’alarme sont émis pour avertir le personnel.
+	
+2.1.3	Tâches lors de l’émission de signaux d’alarme
+	
+	Lorsque des signaux d’alarme sont émis, tous les collaborateurs doivent accomplir sans attendre 3 tâches :
+–	pour soi-même
+	interrompre immédiatement le travail et évacuer les voies en question et leurs abords
+–	pour les autres
+	observer si les collaborateurs réagissent aux signaux, au besoin les alarmer et les entraîner hors des voies en question et leurs abords
+–	pour les équipements de travail
+	s’assurer qu’aucun équipement de travail se trouvant près d’eux ne représente un danger pour le convoi suivant.
+	
+2.1.4	Emission des signaux d’alarme
+	
+	En principe, les signaux d’alarme acoustiques ne sont émis qu’une seule fois. Ils ne doivent être répétés qu’en cas de nécessité absolue (par ex. lorsqu’il n’y pas de réaction).
+Lorsque le signal d’alarme acoustique est complété par le signal optique, celui-ci assure le prolongement de l’alarme acoustique.
+	
+2.1.5	Comportement à adopter avec le signal d’alarme 1
+	
+	Le personnel doit interrompre le travail sur la voie en question et ses abords et se retirer sur la voie interdite.
+	
+
+2.1.6	Comportement à adopter avec le signal d’alarme 2	
+		
+	Le personnel doit évacuer toutes les voies et se retirer sur le dégagement de sécurité défini.	
+		
+2.1.7	Comportement à adopter avec le signal d’alarme danger	
+		
+	Le personnel doit quitter immédiatement toutes les voies.	
+		
+2.1.8	Comportement en cas de doute
+	
+	Lorsqu’un doute subsiste sur la signification des signaux d’alarme, il faut évacuer immédiatement toutes les voies ou appliquer les consignes du DISPO.
+	
+2.1.9	Comportement avec des signaux optiques
+	
+	Aussi longtemps que l’alarme optique fonctionne, il est interdit de pénétrer sur la voie et ses abords.
+	
+2.1.10	Reprise du travail
+	
+	Le travail ne peut être repris qu’avec l’autorisation du PROT.
+	
+2.2	Direction de la sécurité (DSEC)
+2.2.1	Responsabilité de la DSEC
+	
+	La DSEC est le service qui prescrit et surveille, sous la responsabilité du GI, le DISPO comprenant les mesures de sécurité pour le personnel. Cela comprend également les adaptations nécessaires en fonction de l’avancement des travaux.
+		
+2.3	Chef / cheffe de la sécurité (CS)	
+2.3.1	Responsabilité du CS	
+		
+	Le CS est responsable de l’application des mesures de sécurité sur le chantier.	
+		
+2.4	Protecteur / protectrice (PROT)	
+2.4.1	Responsabilité du PROT	
+		
+	Le PROT a pour mission d’alarmer à temps le personnel, de manière à lui permettre l’évacuation en toute sécurité de la voie en question et de ses abords.
+A l’approche d’un convoi, le PROT doit
+–	émettre le signal d’alarme ou veiller à ce que les moyens d’alarme automatiques se mettent en marche
+–	avant le passage d’un convoi, s’assurer que personne ne stationne sur la voie en question et ses abords.
+Après le passage d’un convoi, le PROT s’assure qu’aucun autre convoi ne s’approche du chantier et transmet l’autorisation de reprendre le travail.
+Le PROT n’est pas autorisé à effectuer d’autres tâches, si ce n’est d’assurer la desserte des moyens de communication et de l’installation d’alarme.	
+		
+2.4.2	Equipement du PROT	
+		
+	L’équipement de base du PROT comprend les éléments suivants :
+–	le DISPO
+–	un couvre-chef blanc
+–	un drapeau rouge
+–	de nuit, une lanterne à feu rouge et blanc
+–	les moyens de communication prévus pour la réception des annonces
+–	les moyens d’alarme prévus.	
+		
+2.5	Sentinelle (SENT)	
+2.5.1	Responsabilité de la SENT	
+		
+	La SENT a pour mission d’annoncer à temps les convois en approche. La SENT communique au PROT l’approche des convois avec les moyens de communication prévus dans le DISPO. 
+La SENT doit provoquer l’arrêt du convoi s’approchant au moyen du signal arrêt – danger lorsque
+–	le PROT ne quittance pas l’annonce comme prévu ou
+–	les moyens de communication prévus pour l’annonce sont défectueux.
+Pendant son engagement, la SENT n’est pas autorisée à effectuer d’autres travaux.	
+		
+
+2.5.2	Equipement de la SENT
+	
+	L’équipement de base de la SENT comprend les éléments suivants :
+–	un couvre-chef blanc
+–	un drapeau rouge
+–	de nuit, une lanterne à feu blanc et rouge
+–	les moyens de communication prévus pour les annonces.
+
+
+3	Déroulement
+3.1	Planification de l’organisation de la sécurité du chantier
+3.1.1	Evaluation des risques
+	
+	La DSEC définit les mesures de sécurité afin d’assurer la sécurité du personnel et de l’exploitation ferroviaire.
+Le choix des mesures de sécurité se base sur l’évaluation des risques. Pour cette appréciation, la DSEC évalue les dangers provoqués par l’exploitation ferroviaire pour le chantier prévu et vice versa. Sur cette base, elle décide des mesures de sécurité à prendre.
+	
+3.1.2	Critères à respecter
+	
+	Lors de l’évaluation des risques, il faut en particulier respecter les critères suivants :
+–	genre de travail
+–	utilisation des équipements de travail
+–	effectifs
+–	lieu de travail (par ex. pont, tunnel, terrain dégagé, zone intermédiaire de sécurité)
+–	déroulement de la circulation des trains et des mouvements de manœuvre
+–	vitesse des convois
+–	état d’enclenchement des installations à haute tension et des lignes de contact. 
+	
+3.1.3	Choix des mesures de sécurité
+	
+	Si les conditions locales sur le chantier et les conditions générales d’exploitation le permettent, il faut éliminer le danger.
+Si cela n’est pas possible, le danger doit être réduit par des mesures de sécurité complémentaires.
+Les mesures d’alarme sont définies en fonction des mesures de sécurité choisies et des mises en danger qui subsistent. Elles comprennent
+–	la désignation des voies (voie contiguë, voie en travaux, etc.)
+–	la fixation des délais de sécurité et des signaux d’alarme et
+–	la détermination du système d’avertissement.
+	
+
+3.1.4	Etablissement du DISPO	
+		
+	Le DISPO comprend toutes les mesures de sécurité choisies par la DSEC  pour le chantier en question.
+Pour des travaux planifiés, le DISPO doit être établi par écrit. Le dispositif écrit se trouve sur le chantier auprès du CS et du PROT.
+Comme moyen d’aide pour les engagements à court terme, par ex. levée d’un dérangement, la DSEC doit définir au préalable les lieux d’engagement critiques et fixer les mesures de sécurité à appliquer.
+Le GI définit dans ses dispositions d’exécution la forme et le contenu du DISPO.	
+		
+3.1.5	Travaux avec PROT et utilisation des moyens d’alarme	
+		
+	En principe, des moyens d’alarme doivent être engagés sur chaque chantier. Leur utilisation s’effectue en collaboration avec le PROT, la SENT ou au moyen d’installations d’annonce et d’alarme. Font exception, les travaux pour lesquels on peut renoncer au PROT ou sur les chantiers sans mesure d’alarme.	
+		
+3.1.6	Travaux sans PROT	
+		
+	Les travaux sans PROT ne sont autorisés que
+–	lors de travaux avec au maximum 2 personnes, permettant d’observer intégralement les convois et où il est possible d’éva­cuer de manière rapide et sûre en tout temps (par ex. garde-voie)
+–	sur les tronçons de voie où l’on circule toujours en marche à vue et à la vitesse maximale de 20 km/h et ce, en raison du concept d’exploitation
+–	pour les chantiers situés à proximité des voies et équipés d’un système d’avertissement automatique
+–	sur des chantiers ne nécessitant aucune mesure d’alarme.
+Les personnes qui travaillent sans PROT sur et aux abords des voies répondent elles-mêmes de leur sécurité. Cela comporte également la planification de leurs propres mesures de protection.
+Pour pouvoir effectuer des travaux sans PROT sur et aux abords des voies, il faut disposer notamment de connaissances suffisantes sur l’autoprotection devant les dangers de l’exploitation ferroviaire et des conditions locales.	
+	
+	
+		
+3.1.7	Chantiers sans mesure d’alarme	
+		
+	Si les dangers pour le personnel ou l’exploitation ferroviaire peuvent être éliminés, il n’est pas nécessaire de prévoir des mesures d’alarme. Cela s’applique en particulier en cas de travaux
+–	sur les tronçons à voie unique, lorsque la voie est interdite
+–	sur les tronçons à plusieurs voies, lorsque toutes les voies sont interdites simultanément
+–	se limitant aux abords d’une voie lorsque le chantier est assuré au moyen d’un barrage
+–	aux lignes de contact, aussi longtemps qu’aucuns travaux nécessitant des mesures d’alarme ne sont effectués dans la zone des voies contiguës 
+–	à proximité des voies, lorsque l’accès à la voie et ses abords est délimité et qu’aucune personne ou aucun équipement de travail ne peut involontairement pénétrer la zone protégée alors que les travaux sont en cours.	
+		
+3.2	Planification des mesures de sécurité d’exploitation
+3.2.1	Principe
+	
+	Des mesures de sécurité d’exploitation doivent être planifiées et convenues suffisamment tôt avec le service compétent du GI. Font partie des mesures de sécurité d’exploitation :
+–	l’établissement des annonces
+–	l’introduction de restrictions d’exploitation
+–	l’interdiction de voies/d’aiguilles.
+	
+3.2.2	Annonces
+	
+	Les annonces au chantier doivent coïncider avec les mesures d’alarme. Elles permettent de donner l’alarme à temps lorsque des conditions liées au système d’avertissement en place ne peuvent exceptionnellement pas être respectées (par ex. train franchissant un signal présentant l’image arrêt, différence par rapport à l’utilisation prévue des voies, etc.).
+Le GI fixe les annonces pouvant être convenues dans les dispositions d’exécution.
+
+	
+
+3.2.3	Restrictions d’exploitation
+	
+	Les restrictions d’exploitation doivent coïncider avec les mesures d’alarme ou avec les mesures de sécurité. Elles permettent d’alarmer à temps les chantiers (par ex. réduction de vitesse) ou sont utilisées en tant que mesures de sécurité (par ex. définir le sens de marche, enclencher le secteur de maintenance).
+Le GI fixe les restrictions d’exploitation pouvant être convenues dans les dispositions d’exécution. 
+	
+3.2.4	Interdiction de voies/d’aiguilles
+	
+	Les voies/aiguilles doivent être interdites 
+–	lorsque la sécurité du personnel ou de l’exploitation ferroviaire l’exige ou
+–	lorsque les voies/aiguilles ne sont pas franchissables à cause de travaux, de réparation, d’activités d’entretien ou de nettoyage, d’événements naturels, d’accidents ou pour d’autres raisons.
+Une interdiction est en particulier nécessaire
+–	pour des travaux qui entraînent l’interruption de la voie
+–	lorsque des équipements de travail fixés à la voie représentent un danger pour des convois. A cet effet, le profil d’espace libre doit être respecté
+–	lorsque l’évacuation de la voie n’est pas garantie de manière fiable et met ainsi en danger le convoi annoncé
+–	pour des travaux à la ligne de contact
+–	pour des travaux sans dégagement de sécurité
+–	lorsqu’il y a empiètement, même momentané, dans le profil d’espace libre d’une voie contiguë lors des manœuvres de pivotement d’une grue, par des machines de chantier ou par des véhicules.
+		
+3.2.5	Demande de mesures de sécurité d’exploitation	
+		
+	Des mesures de sécurité d’exploitation planifiées doivent être demandées à l’avance auprès du service compétent du GI. Exceptionnellement, des demandes à court terme peuvent être effectuées directement au CC compétent.
+La fin de l’interdiction doit être déterminée de telle manière que la voie concernée soit annoncée praticable suffisamment tôt avant qu’un convoi  ne s’engage sur le tronçon.	
+		
+
+3.2.6	Demande de déclenchement/enclenchement de ligne de contact	
+		
+	L’interdiction d’une voie et le déclenchement de la ligne de contact doivent être coordonnés.
+Les déclenchements de la ligne de contact planifiés doivent être demandés à l’avance au service compétent du GI. La procédure exacte est fixée dans les dispositions d’exécution du GI.	
+		
+3.2.7	Coordination de l’interdiction	
+		
+	Lorsque plusieurs chantiers se trouvent sur des voies interdites, un CS peut être engagé en tant que COC. A ce titre, il est responsable
+–	de coordonner les travaux des différents chantiers sur l’ensemble du tronçon concerné par l’interdiction
+–	d’annoncer le premier chantier engendrant l’interdiction du tronçon déterminé et
+–	d’annoncer la voie praticable du tronçon au CC compétent, après la fin de tous les travaux.
+L’engagement d’un COC doit être réglé à l’avance par la DSEC
+L’interdiction n’est annoncée qu’une seule fois par écrit pour l’ensemble des chantiers. Le COC responsable doit être mentionné sur l’annonce. Il doit être informé par avance sur tous les travaux liés aux différents chantiers. 
+Lorsque plusieurs chantiers se trouvent sur des voies interdites et que des mouvements de manœuvre s’y déroulent simultanément, un COC doit être impérativement engagé.	
+		
+3.3	Mise en pratique du DISPO	
+3.3.1	Orientation du CS	
+		
+	La DSEC s’assure que le CS est orienté  ou instruit sur les mesures de sécurité à prendre.	
+		
+3.3.2	Vérification de la situation locale
+	
+	Le CS vérifie si la situation locale actuelle est suffisamment prise en compte dans le DISPO et si les mesures de sécurité prévues sont opportunes. Si nécessaire, il adapte le DISPO aux conditions actuelles et en informe la DSEC.
+	
+
+3.3.3	Orientation et instruction
+	
+	Le CS sécurité oriente le personnel sur
+–	l’organisation et le déroulement des travaux
+–	les mesures de sécurité prévues dans le DISPO
+–	la signification exacte des signaux d’alarme.
+Le CS instruit les PROT et les SENT sur les fonctions à exercer.
+	
+3.3.4	Mise en place des mesures de sécurité
+	
+	Avant le début du travail sur et aux abords des voies,
+–	toutes les mesures de sécurité prescrites pour une protection efficace du personnel et de l’exploitation ferroviaire doivent être mises en place et
+–	les équipements nécessaires pour l’application des mesures de sécurité sont en service et contrôlés.
+		
+3.3.5	Sécurité plus assurée	
+		
+	Lorsque la sécurité sur le chantier n’est plus assurée, par ex. en raison
+–	d’un dérangement ou d’une panne d’un système d’avertissement ou 
+–	d’une modification soudaine de la situation sur le chantier,
+les voies et leurs abords doivent être évacués et le CS doit en être avisé. Les travaux ne peuvent reprendre que lorsque le dérangement a pu être levé ou lorsque le CS a mis en place d’autres mesures de sécurité.	
+		
+3.4	Mise en œuvre des mesures de sécurité d’exploitation	
+3.4.1	Principe	
+		
+	Lorsque des mesures de sécurité d’exploitation doivent être prises, le CS prend contact avec le CC compétent. Le chantier est annoncé parallèlement à la demande de mesures de sécurité d’exploitation. 
+Le GI peut également désigner d’autres cas pour lesquels une annonce est nécessaire dans ses dispositions d’exé­cution. Il établit les formulaires nécessaires dont le personnel sur le chantier a besoin pour appliquer les mesures de sécurité d’exploitation.
+Lorsque des chantiers sont déjà annoncés sur la même voie, le CC avise les CS concernés de la présence d’autres chantiers.
+
+
+Lorsqu’un COC est engagé, il répond de la communication avec le CC. Tous les travaux sur les différents chantiers doivent être annoncés au COC et approuvés par le COC.	
+		
+3.4.2	Demande d’annonces	
+		
+	Le CS demande les annonces auprès du CC par un ordre à protocoler.	
+		
+3.4.3	Demande de restrictions d’exploitation
+	
+	Le CS demande les restrictions d’exploitation auprès du CC par un ordre à protocoler.
+	
+3.4.4	Protection lors d’annonces ou de restrictions d’exploitation
+	
+	Le CC doit protéger le chantier sur la base des annonces demandées ou des restrictions d’exploitation et confirmer au CS, par un ordre à protocoler, l’efficience des annonces convenues ou des restrictions d’exploitation.
+		
+3.4.5	Transmission d’annonces	
+		
+	Le CC transmet les annonces convenues par un ordre à protocoler au CS, sur la base des check-lists correspondantes. Le CS protocole les annonces reçues sur le formulaire ad hoc.
+Si un chantier ne peut pas être atteint, le CC doit prescrire au MEC par un ordre à protocoler la marche à vue sur l’ensemble du tronçon protégé pour le chantier.
+Les mouvements de manœuvre en gare sont avisés contre quittance.	
+		
+3.4.6	Demande d’interdiction	
+		
+	Le CS demande au CC, par un ordre à protocoler, l’introduction de l’interdiction. Pour cela, le CS doit indiquer en particulier l’endroit (gare / pleine voie) et la désignation exacte de la voie / aiguille.
+	
+3.4.7	Protection de l’interdiction	
+		
+	Le CC doit protéger le tronçon à interdire et confirmer au CS que l’interdiction est effective par un ordre à protocoler avec le texte « (endroit), voie / aiguille ... interdite ». 	
+		
+
+3.4.8	Déclenchement des lignes de contact	
+		
+	La procédure exacte pour déclencher les lignes de contact est réglée dans les dispositions « Enclenchement, déclenchement et mise à la terre des lignes de contact ».	
+		
+3.4.9	Couvrir
+	
+	Un chantier doit être couvert lorsqu’il n’est pas possible de le protéger à l’appareil d’enclenchement.
+Une voie doit être couverte si des mouvements d’aller et retour répétés ont lieu en gare ou en pleine voie.
+Le GI détermine les autres cas qui requièrent une couverture.
+	
+3.5	Mouvements de manœuvre sur une voie interdite
+3.5.1	Autorisation du CS
+	
+	Pour des mouvements de manœuvre sur une voie interdite, une autorisation du CS est nécessaire.
+Avant que le CS ne transmette l’autorisation pour le mouvement de manœuvre au CC, l’avis au CMAN sur les respects des mesures particulières ou sur la suppression de la marche à vue doit être ordonné ou avoir eu lieu.
+	
+3.5.2	Mesures particulières dans la zone d’un chantier
+	
+	Si des mesures particulières sont nécessaires pour des mouvements de manœuvre dans la zone d’un chantier (par ex. pour des travaux sans PROT), le CMAN doit en être avisé.
+	
+3.5.3	Suppression de la marche à vue
+	
+	En dehors de la zone d’un chantier, la marche à vue peut être supprimée pour autant que cela soit prévu dans le DISPO.
+Sur la base de la situation actuelle, le CS décide si la suppression est possible.
+Le tronçon de voie doit être clairement définissable et le chantier aisément reconnaissable.
+Si d’autres chantiers sont annoncés sur la même voie, le CS doit se concerter avec ceux-ci sur la suppression de la marche à vue.
+	
+	
+	
+
+3.5.4	Avis au CMAN
+	
+	Avant de transmettre l’assentiment pour le mouvement de manœuvre, le CS avise le CMAN pour chaque convoi isolé, contre quittance,  
+–	les mesures particulières à observer dans la zone des chantiers
+–	le tronçon de voie où la marche à vue est supprimée.
+	
+3.6	Surveillance des mesures de sécurité
+3.6.1	Tâches de la DSEC
+	
+	La DSEC doit visiter régulièrement les chantiers. Elle examine le respect et l’efficience des mesures de sécurité prises et les complète en cas de nécessité. 
+	
+3.6.2	Tâches du CS
+	
+	Le CS doit toujours être présent sur le chantier. Le CS surveille le respect des mesures de sécurité. Lorsque des changements interviennent en cours de travaux, le CS adapte le DISPO et en informe la DSEC.
+	
+3.7	Suppression des mesures de sécurité d’exploitation
+3.7.1	Annoncer la voie praticable
+	
+	Avant qu’une voie interdite puisse être annoncée praticable, il faut, sur le chantier, éliminer toutes les causes qui ont nécessité une interdiction.
+En outre, il convient :
+–	d’évacuer tous les équipements de travail de sorte qu’ils ne représentent aucun danger et 
+–	d’enlever les signaux d’arrêt.
+De plus, il ne doit plus y avoir de véhicule sur des voies interdites, excepté en gare. 
+Le CS annonce la voie praticable au CC par un ordre à protocoler.
+Lorsque la voie est libre, l’annonce est la suivante : « (endroit),
+voie/aiguille ... praticable ».
+Lorsque des voies restent occupées, l’annonce est la suivante : « (endroit), voie/aiguille ... praticable; les voies (énumération des voies) restent occupées ». La désignation des voies occupées doit être transmise contre quittance.
+Le CC supprime les mesures de protection liées à l’interdiction de voie. 
+	
+	
+3.7.2	Suppression de restrictions d’exploitation
+	
+	Lorsque des restrictions d’exploitation ne sont plus nécessaires, le CS doit l’annoncer au CC par un ordre à protocoler.
+Le CC supprime les mesures de protection y relatives.
+	
+3.7.3	Suppression des annonces
+	
+	Si des annonces ne sont plus nécessaires, le CS doit l’annoncer au CC par un ordre à protocoler.
+Le CC supprime les mesures de protection y relatives. 
+	
+3.7.4	Enclenchement des lignes de contact
+	
+	La procédure exacte pour enclencher les lignes de contact est réglée dans les dispositions « Enclenchement, déclenchement et mise à la terre des lignes de contact ».
+		
+3.7.5	Annonce de fin du chantier	
+		
+	Lorsque toutes les mesures de sécurité d’exploitation sont supprimées, le chantier est considéré comme n’étant plus annoncé pour le CC.	
+3.8	Fin du chantier	
+		
+	A la fin des travaux, après avoir fait évacuer le chantier et supprimer les mesures de sécurité, le CS met fin au chantier.	
+
+4	Principes de base complémentaires
+4.1	Engagement de PROT et de SENT
+4.1.1	Planification des PROT et des SENT
+	
+	L’engagement des PROT et des SENT doit être planifié par la DSEC, de manière que
+–	le chantier à protéger puisse être surveillé constamment
+–	les signaux d’alarme puissent être donnés en tout temps
+–	la perception des signaux d’alarme et le délai de sécurité fixé soient assurés.
+Pour atteindre les conditions ou comme remplacement, une partie du système d’avertissement peut être complétée par une installation d’annonce et d’alarme ou remplacée par un système d’avertissement automatique. 
+	
+4.1.2	Critères pour la planification
+	
+	La planification du nombre de PROT et de SENT ainsi que leur emplacement sont déterminés en fonction des critères suivants :
+–	genre de travaux à effectuer
+–	équipements de travail engagés
+–	bruit provoqué par le chantier et bruit ambiant
+–	nombre de personnes sur le chantier
+–	visibilité sur la distance d’approche
+–	mesures d’alarme prévues.
+L’emplacement de la SENT doit être choisi de manière à ce que la SENT ait la possibilité de présenter le signal arrêt – danger au convoi en cas d’urgence.
+	
+4.2	Délai de sécurité et distance d’approche
+4.2.1	Délai de sécurité
+	
+	Le délai de sécurité est le temps nécessaire pour avertir le personnel d’un chantier et pour évacuer la voie et ses abords. Il varie en fonction des conditions locales et de la nature des travaux.
+Il tient compte
+–	des mises en danger émanant des travaux, par les moyens engagés, par l’exploitation ferroviaire et par le lieu de travail ainsi que
+–	par les mesures de sécurité prises.
+
+Le délai de sécurité est fixé dans le DISPO et doit être fixé à nouveau lorsque la situation change.
+	
+4.2.2	Contenu du délai de sécurité
+	
+	Le délai de sécurité représente la somme des temps suivants :
+–	le temps de réaction et de transmission nécessaire à la SENT pour apercevoir un convoi et annoncer l’approche de ce convoi au PROT 
+–	le temps de réaction et d’alarme nécessaire au PROT pour apercevoir le convoi ou pour quittancer l’annonce de la SENT et pour avertir le chantier
+–	le temps de dégagement, à savoir le temps nécessaire depuis l’émission de l’alarme pour évacuer complètement la voie et ses abords
+–	le temps envisagé pour un imprévu, comme marge supplémentaire de sécurité.
+	
+4.2.3	Délai de sécurité sur la voie en travaux
+	
+	Le délai de sécurité pour les convois sur la voie en travaux est d’au moins 20 secondes.
+	
+4.2.4	Délai de sécurité sur la voie contiguë
+	
+	Le délai de sécurité pour les convois circulant sur la voie contiguë est généralement plus court que pour ceux circulant sur la voie en travaux.
+Si des mesures d’alarme sont nécessaires pour la voie contiguë, le délai de sécurité ne doit pas être inférieur à 10 secondes.
+		
+4.2.5	Distance d’approche	
+		
+	La distance d’approche correspond au chemin parcouru par le convoi durant le délai de sécurité, soit depuis l’endroit où le convoi doit être aperçu ou être annoncé jusqu’au début du chantier.	
+		
+4.3	Restrictions de vitesse	
+4.3.1	Tronçons de ralentissement pour la protection du personnel	
+		
+	En cas de nécessité, des tronçons de ralentissement doivent être installés sur les voies contiguës pour protéger le personnel.
+
+
+Ces restrictions de vitesse doivent être limitées à la longueur du chantier et être supprimées à chaque changement d’équipe, lorsque le personnel a quitté le chantier.	
+		
+4.4	Systèmes d’avertissement et signaux d’alarme
+4.4.1	Utilisation des installations d’annonce et d’alarme ou des 
+systèmes d’avertissement automatiques
+	
+	Le GI détermine le genre d’installations d’annonce et d’alarme ou de systèmes d’avertissement automatiques qui vont être utilisés et définit les dispositions d’utilisation nécessaires.
+	
+4.4.2	Systèmes d’avertissement automatiques sans PROT
+	
+	Sur les chantiers, les systèmes d’avertissement automatiques ne doivent être utilisés sans PROT que
+–	lorsque le personnel n’est pas dans l’obligation de travailler sur les voies en service et
+–	qu’aucun équipement de travail ne représente un danger. A cet effet, le profil d’espace libre doit être respecté.
+	
+4.4.3	Moyen d’alarme
+	
+	Le GI détermine les sortes de moyens d’alarme à engager sur les chantiers et établit les dispositions d’utilisation nécessaires.
+	
+4.4.4	Signaux d’alarme acoustiques
+	
+	Les signaux d’alarme acoustiques peuvent être complétés de moyens d’alarme optiques ou, dans certains cas, être remplacés par ces derniers.
+	
+4.4.5	Signaux d’alarme acoustiques complétés par des signaux d’alarme optiques
+	
+	L’alarme optique complète les signaux d’alarme acoustiques émis sur les chantiers.
+L’alarme optique doit être utilisée sur tous les grands chantiers ou, selon les conditions locales, sur des chantiers bruyants.
+L’alarme optique doit pouvoir être perçue par l’ensemble du personnel. Elle est enclenchée par le PROT ou par l’installation d’alarme lorsqu’un convoi se trouve au début de la distance d’approche du chantier et n’est déclenchée qu’après le passage du convoi sur le chantier.
+		
+4.4.6	Alarme optique sans signaux d’alarme acoustiques	
+		
+	Le GI fixe dans les dispositions d’exécution les cas où les signaux d’alarme acoustiques peuvent être remplacés par l’alarme optique (par ex. pour éviter les émissions sonores lors de travaux de nuit).
+Lorsque seuls des moyens d’alarme optiques sont utilisés sur un chantier, la voie doit être interdite.	
+		
+4.4.7	Emission du signal d’alarme 1	
+	
+	Le signal d’alarme 1 est donné lorsqu’un convoi se trouvant sur la voie contiguë s’approche d’un chantier se trouvant sur une voie interdite.
+	
+4.4.8	Emission du signal d’alarme 2
+	
+	Le signal d’alarme 2 est donné lorsqu’un convoi se trouvant sur la voie en travaux ou sur la voie contiguë s’approche d’un chantier se trouvant sur ou à côté d’une voie en service.
+	
+4.4.9	Emission du signal d’alarme danger
+	
+	Le signal d’alarme danger n’est donné que dans les cas impératifs, lorsqu’un danger est imminent.
+	
+4.4.10	Voie en service sans mesure d’alarme
+	
+	Sur des chantiers, pour lesquels aucune mesure d’alarme n’est nécessaire, par ex. au-dessus ou au-dessous d’une voie, le signal d’alarme 2 peut être émis à titre informatif pour obvier à des dangers qui pourraient survenir par surprise.
+	
+
+5	Travaux sur et aux abords des voies en exploitation des tramways
+5.1	Objectif
+	
+	Les mesures de sécurité à prendre lors de travaux sur et aux abords des voies ont pour objectif de :
+–	protéger le personnel sur les chantiers des dangers de l’exploitation des tramways et
+–	de garantir la sécurité de l’exploitation des tramways dans la zone des chantiers.
+	
+5.1.1	Dangers significatifs	
+		
+	Lors de travaux sur et aux abords des voies, le personnel est mis en danger de manière significative par l’exploitation des tramways, les installations sous tension, le trafic routier et l’utilisation des équipements de travail. 
+L’exploitation des tramways est menacée par les travaux sur et aux abords des voies, en particulier lors de l’utilisation de machines de chantier.	
+	
+5.1.2	Principes de sécurité
+	
+	Le personnel engagé sur des chantiers sur et aux abords des voies doit pouvoir exécuter ses tâches sans devoir vouer son attention à l’exploitation des tramways. 
+Dès que le personnel travaillant sur le chantier reconnaît le MEC ou le CMAN d’un convoi à l’approche, celui-ci entre en contact visuel avec le MEC ou le CMAN et signale, en levant un bras ou par d'autres signes clairs de la main, si le convoi doit s'arrêter.
+	
+5.1.3	Responsabilité
+	
+	Le GI répond du respect des prescriptions relatives aux mesures de sécurité lors de travaux sur une voie et ses abords, tant sur ses propres chantiers que sur ceux de maîtres d’ouvrage étrangers à l’entreprise ferroviaire.
+
+5.1.4	Personnel d’entreprises privées
+	
+	Le GI définit, dans ses dispositions d’exécu­tion, selon quelles conditions le personnel d’une entreprise privée peut effectuer ses tâches.
+	
+5.2	Personnel	
+		
+	Par rapport aux autres travaux, les mesures de sécurité doivent être appliquées en priorité. Le personnel du GI et des ETF respecte les dispositions relatives à la sécurité au travail. 
+Si le personnel travaillant sur des chantiers avec un RESCT n’est pas orienté par ce dernier sur le DISPO, il doit se renseigner auprès du RESCT avant le début des travaux.	
+	
+5.2.1	Direction de la sécurité (DSEC)
+	
+	La DSEC est le service qui décide, sous la responsabilité du GI, de la nécessité de prendre des mesures de sécurité. Si c’est le cas, la DSEC établit le DISPO avec les mesures de sécurité pour le personnel. Cela comprend également les adaptations nécessaires en fonction de l’avancement des travaux.
+	
+5.2.2	Responsable de chantier tramway (RESCT)
+	
+	Le RESCT est responsable de l’application des mesures de sécurité sur le chantier.
+	
+5.2.3	Collaborateur du service de la circulation	
+		
+	Le collaborateur du service de la circulation règle le trafic routier et celui des tramways selon les principes de la législation sur la circulation routière. Sur les chantiers sur lesquels des mesures de sécurité s’appliquent, la régulation du trafic s’effectue sous la responsabilité du RESCT.	
+	
+5.3	Déroulement
+5.3.1	Evaluation des risques
+	
+	La DSEC décide, à l’aide de l’évaluation des risques, de la nécessité de prendre des mesures de sécurité. Le cas échéant, la DSEC définit les mesures de sécurité afin d’assurer la sécurité du personnel et de l’exploitation des tramways. 
+
+
+	Le choix des mesures de sécurité se base sur l’évaluation des risques. Pour cette appréciation, la DSEC évalue les dangers provoqués par l’exploitation des tramways pour le chantier prévu et vice versa. Des mesures de sécurité doivent en particulier être envisagées si la sécurité ne peut pas être suffisamment garantie par la marche à vue générale. 
+Lors de l’évaluation des risques, il faut en particulier respecter les critères suivants : 
+–	genre de travail 
+–	utilisation des équipements de travail 
+–	effectifs 
+–	lieu de travail (en particulier impact de la circulation routière et de l’environnement immédiat, pont, tunnel, terrain dégagé)
+–	déroulement de la circulation des trains et des mouvements de manœuvre 
+–	vitesse des convois 
+–	état d’enclenchement des installations d’alimentation en énergie et des lignes de contact.
+	
+5.3.2	Nécessité de prendre des mesures de sécurité
+	
+	Il faut prévoir des mesures de sécurité dès que du personnel et / ou des équipements de travail risquent de pénétrer inopinément, volontairement ou non sur les voies ou aux abords de celles-ci et dès que le chantier ne peut pas être évacué assez rapidement.
+	
+5.3.3	Travaux sans mesures de sécurité
+	
+	Pour les travaux réalisés sans mesure de sécurité, il n’est pas nécessaire de planifier plus l’organisation de la sécurité et aucun DISPO n’est donc requis.
+	
+5.3.4	Mesures de sécurité	
+		
+	Les différents types de mesures de sécurité sont énumérés ci-après :
+–	Les mesures de sécurité organisationnelles englobent la régulation des autres usagers concernés par le chantier ou son environnement. 
+	Exemples : service de circulation, guidage adapté du trafic et réduction de vitesse pour le trafic routier, orientation clientèle, barrières. 
+
+–	Les mesures de sécurité techniques englobent toutes les mesures techniques et constructives du chantier. 
+	Exemples : barrages, mesures et limites fixées pour les équipements de travail et les machines à des fins de protection par rapport à l’exploitation des tramways. 
+–	Les mesures de sécurité d’exploitation englobent la réduction de vitesse, l’interdiction de voies et d’aiguilles, le calage ou le verrouillage d’aiguilles, l’adaptation de la signalisation et la régulation du trafic de l’exploitation des tramways.
+Les voies / aiguilles doivent être interdites 
+–	lorsque la sécurité du personnel ou de l’exploitation des tramways l’exige ou 
+–	lorsque les voies / aiguilles ne sont pas franchissables à cause de travaux, de réparation, d’activités d’entretien ou de nettoyage, d’événements naturels, d’accidents ou pour d’autres raisons. 
+Une interdiction est en particulier nécessaire 
+–	pour des travaux qui entraînent l’interruption de la voie ou 
+–	lorsque des équipements de travail fixés à la voie représentent un danger pour des convois. À cet effet, le profil d’espace libre doit être respecté. 
+	Les voies et aiguilles interdites sont toujours couvertes sur place au moyen de signaux d’arrêt.
+–	Moyens d’alarme
+	En règle générale, les chantiers sont organisés de façon à ce qu’aucun moyen d’alarme ni aucune installation d’annonce et d’alarme ne soient utilisés. Si, exceptionnellement, des moyens d’alarme sont employés, il faut utiliser les signaux conformément aux consignes édictées pour l’exploitation ferroviaire.	
+	
+5.3.5	Etablissement du DISPO pour les chantiers avec mesures de sécurité
+	
+	Le GI définit dans ses dispositions d’exécution la forme et le contenu du DISPO. 
+Le DISPO comprend toutes les mesures de sécurité choisies par la DSEC pour le chantier en question. 
+Pour des travaux planifiés, le DISPO doit être établi par écrit sur la base de l’évaluation des risques. Le DISPO se trouve sur le chantier auprès du RESCT. 
+
+
+Pour les engagements à court terme, par ex. levée d’un dérangement, le GI peut établir des DISPO standardisés comprenant des mesures de sécurité standardisées.
+	
+5.3.6	Mise en pratique du DISPO, orientation du RESCT
+	
+	La DSEC s’assure que le RESCT est orienté ou instruit sur les mesures de sécurité à prendre.
+	
+5.3.7	Vérification de la situation locale	
+		
+	Le RESCT vérifie si la situation locale actuelle est suffisamment prise en compte dans le DISPO et si les mesures de sécurité prévues sont opportunes. Si nécessaire, le RESCT adapte le DISPO aux conditions actuelles et en informe la DSEC.	
+	
+5.3.8	Orientation et instruction
+	
+	Le RESCT oriente le personnel sur 
+–	l’organisation et le déroulement des travaux et 
+–	les mesures de sécurité prévues dans le DISPO.
+	
+5.3.9	Mise en place des mesures de sécurité
+	
+	Le GI règle dans les prescriptions d’exploitation les cas dans lesquels il est nécessaire d’effectuer une annonce et de se concerter avec le centre de gestion. 
+Avant le début du travail sur et aux abords des voies,
+–	toutes les mesures de sécurité prescrites pour une protection efficace du personnel et de l’exploitation des tramways doivent être mises en place et
+–	les équipements nécessaires pour l’application des mesures de sécurité sont en service et contrôlés.
+	
+5.3.10	Sécurité plus assurée
+	
+	Lorsque la sécurité sur le chantier n’est plus assurée, il faut immédiatement interrompre les travaux et en aviser le RESCT. Les travaux ne peuvent reprendre que lorsque le dérangement a pu être levé ou lorsque le RESCT a mis en place d’autres mesures de sécurité.
+	
+
+5.3.11	Mouvements de manœuvre sur une voie interdite	
+		
+	Pour des mouvements de manœuvre sur une voie interdite, une autorisation du RESCT est nécessaire. Le GI règle la procédure à suivre, les mesures particulières à prendre et l’avis à transmettre au cas par cas.	
+	
+5.3.12	Surveillance des mesures de sécurité
+	
+	La DSEC doit visiter régulièrement les chantiers. Elle examine le respect et l’efficience des mesures de sécurité prises et les complète en cas de nécessité. 
+Selon les directives du DISPO, le RESCT doit toujours être présent sur le chantier. Le RESCT surveille le respect des mesures de sécurité. Lorsque des changements interviennent en cours de travaux, le RESCT adapte le DISPO et en informe la DSEC.
+	
+5.3.13	Suppression des mesures de sécurité d’exploitation	
+		
+	Lorsque des mesures de sécurité d’exploitation ne sont plus nécessaires, il faut y mettre fin. Le GI règle les conditions dans lesquelles il est fait appel au centre de gestion. 
+Avant qu’une voie interdite puisse être annoncée praticable par le RESCT, il faut, sur le chantier, éliminer toutes les causes qui ont nécessité une interdiction. Auparavant, le RESCT fait si nécessaire appel aux personnes spécialistes responsables en se conformant aux consignes du GI. 
+En outre, il convient d’évacuer tous les équipements de travail de sorte qu’ils ne représentent aucun danger. Ensuite, il faut enlever les signaux d’arrêt.	
+	
+5.3.14	Fin et annonce de fin du chantier
+	
+	Le GI règle les cas dans lesquels il convient d’annoncer la praticabilité ou la fin du chantier au centre de gestion. 
+À la fin des travaux, après avoir fait évacuer le chantier et supprimer les mesures de sécurité, le RESCT met fin au chantier.
+	
+	
+	
+	
+	
+		
+		
+		
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+

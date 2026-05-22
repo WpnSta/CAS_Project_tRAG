@@ -1,0 +1,680 @@
+﻿Schweizerische Eisenbahnen	R 300.6
+
+
+
+Zugfahrten
+
+
+
+1	Grundlagen für Zugfahrten
+1.1	Einstellen und Auflösen von Fahrstrassen
+	
+	Unter Berücksichtigung der Betriebsprozesse werden Fahrstrassen bestimmt und mittels entsprechender Bedienung der Sicherungsanlage eingestellt und zum Schutz vor ungewollter Bedienung durch das Stellwerk verschlossen. Anschliessend werden die Signale auf Fahrt gestellt. Nach dem Befahren werden die Signale auf Halt gestellt, die Fahrstrassen aufgelöst und die durch Block gesicherten Züge rückgemeldet.
+Dies erfolgt teilweise oder vollständig automatisch durch das Stellwerk, allenfalls mit der Unterstützung eines Zuglenksystems. Manuelle Bedienungen der Sicherungsanlage erfolgen durch den FDL.
+	
+1.1.1	Überwachen der Automatik
+	
+	Das richtige Funktionieren des Zuglenksystems und der Stellwerkautomatik ist durch den FDL zu überwachen. Nötigenfalls ist manuell einzugreifen.
+Im Regelbetrieb kann auf diese Überwachung verzichtet werden, sofern die Einhaltung der betrieblichen Vorgaben gewährleistet wird. Zudem muss bei Störungen oder Ereignissen das Aufbieten der entsprechenden Dienste bzw. die Alarmierung sichergestellt sein.
+	
+1.1.2	Prüfen der Fahrstrasse
+	
+	Vor dem Einstellen einer Fahrstrasse ist zu prüfen, ob 
+    • der zu befahrende Fahrweg frei ist
+    • keine Rangierbewegungen und keine anderen Zugfahrten stattfinden, die den Zug gefährden 
+    • sich die Weichen in der richtigen Lage befinden
+    • die Rangiersignale das entsprechende Signalbild zeigen
+    • die überwachten Bahnübergangsanlagen der zu befahrenden Bahnübergänge eingeschaltet sind.
+Sofern die entsprechende Prüfung nicht durch das Stellwerk erfolgt, ist diese durch den FDL vorzunehmen.
+	
+
+1.1.3	Auflösen von Fahrstrassen ohne Notbedienung
+	
+	Im Bahnhof darf die Zugfahrstrasse aufgelöst werden, wenn sichergestellt ist, dass keine ungewollte Fahrstrasse in diesen Abschnitt eingestellt werden kann und wenn die Weichen und die überwachten Bahnübergänge in der Fahrstrasse befahren und wieder verlassen wurden oder nachdem der Zug angehalten hat, auch wenn Weichen oder überwachte Bahnübergänge belegt bleiben.
+Sofern die entsprechenden Bedingungen nicht durch das Stellwerk geprüft werden, sind diese durch den FDL zu kontrollieren.
+	
+1.1.4	Auflösen von Fahrstrassen mit Notbedienung
+	
+	Eine Zugfahrstrasse darf durch den FDL mit einer Notbedienung aufgelöst werden, wenn
+–	kein Zug betroffen ist oder 
+–	der betroffene Zug angehalten hat und sichergestellt ist, dass dieser nicht weiterfährt oder 
+–	der betroffene Zug die Fahrstrasse vollständig verlassen hat. Dabei ist gemäss den Bestimmungen «Kernprozess Störungen» vorzugehen.
+	
+1.1.5	Rückmelden der Züge
+	
+	Ein Zug darf erst rückgemeldet werden, wenn er vollständig am letzten Hauptsignal des entsprechenden Blockabschnittes vorbeigefahren ist und dieses auf Halt zurückgestellt wurde.
+	
+1.2	Beachten der Signale
+	
+	Der LF hat die für ihn geltenden Signale zu beachten.
+Wenn der LF Halt zeigende Signale antrifft, hat der LF den Zug anzuhalten. 
+Kann ein Zug vor einem Halt zeigenden Signal nicht zum Stillstand gebracht werden, darf er nach dem Anhalten nur mit Bewilligung des FDL bewegt werden.
+	
+
+1.2.1	Hauptsignal auf Halt 
+	
+	Geht ein Hauptsignal ohne offensichtlichen Grund nicht auf Fahrt, hat sich der LF beim FDL zu melden.
+	
+1.2.2	Kein Vorsignal
+	
+	Ist kein Vorsignal vorhanden, hat der LF am nächsten Hauptsignal immer Halt zu erwarten.
+	
+1.3	Zustimmung zur Fahrt
+	
+	Für jeden Zug ist eine Zustimmung zur Fahrt notwendig. 
+	
+1.3.1	Erteilen der Zustimmung zur Fahrt
+	
+	Der FDL erteilt dem LF die Zustimmung zur Fahrt mit der Fahrtstellung des Hauptsignals.
+	
+1.3.2	Gültigkeit der Zustimmung zur Fahrt
+	
+	Die erteilte Zustimmung zur Fahrt gilt
+–	auf der Strecke bis zum nächst folgenden Hauptsignal
+–	im Bahnhof bis der Zug angehalten hat. Liegt keine Zustimmung zur Fahrt in den nächsten Abschnitt vor, darf der LF den Zug nur mit quittungspflichtiger Zustimmung des FDL bewegen
+Die ISB regelt das Vorgehen, wenn für Züge innerhalb des gleichen Abschnittes mehr als ein Halt angeordnet ist.
+	
+1.3.3	Rücknahme der Zustimmung zur Fahrt
+	
+	Muss der FDL die erteilte Zustimmung zur Fahrt aus betrieblichen Gründen zurücknehmen, verständigt der FDL den LF quittungspflichtig vor der Rücknahme. Sofern sich kein Zug dem Vor- oder Hauptsignal nähert bzw. davor steht, darf auf die Verständigung verzichtet werden. 
+	
+1.3.4	Zustimmung zur Fahrt auf Strecken ohne Hauptsignale
+
+	Die Zustimmung zur Fahrt wird dem LF wie folgt erteilt:
+–	mittels Fahrplans oder
+–	mittels Fahrordnung oder
+–	mittels Befehls für Kreuzung und Überholung oder
+–	mündlich oder fernmündlich quittungspflichtig durch den FDL.
+Die ISB haben in ihren Betriebsvorschriften das Vorgehen zur Erteilung, die Gültigkeit und die Bedingungen für die Rücknahme der Zustimmung zur Fahrt unter Berücksichtigung der bestehenden Vorgaben bezüglich dem spätesten Halteort zu regeln.
+
+1.4	Gleisbenützung
+	
+	Grundsätzlich gilt die freie Gleisbenützung.
+	
+1.4.1	Gleisbenützung im Bahnhof
+	
+	Züge mit Personenbeförderung und vorgeschriebenem Halt haben Perrongleise zu befahren.
+	
+1.4.2	Gleisbenützung auf der Strecke
+	
+	Auf zweigleisiger Strecke mit Einrichtung für Einspurbetrieb ist in der Regel das linke Gleis zu benützen. 
+Die jeweilige Streckenausrüstung wird in der Streckentabelle gekennzeichnet.
+	
+1.5	Übergang von Zugfahrt auf Rangierbewegung
+	
+	Beim Übergang von Zugfahrt auf Rangierbewegung ist immer anzuhalten.
+
+2	Geschwindigkeitsschwelle
+2.1	Geschwindigkeitsänderung
+2.1.1	Geschwindigkeitsverminderung
+	
+	Bei einer Geschwindigkeitsverminderung muss die tiefere Geschwindigkeit erreicht sein, wenn die Zugspitze die Geschwindigkeitsschwelle befährt.
+	
+2.1.2	Geschwindigkeitserhöhung
+	
+	Bei einer Geschwindigkeitserhöhung ist die tiefere Geschwindigkeit beizubehalten, bis das Zugende die Geschwindigkeitsschwelle befahren hat.
+	
+2.1.3	Züge mit niedrigem Bremsverhältnis
+	
+	Bei Zügen mit niedrigem Bremsverhältnis kann es vorkommen, dass die vorgeschriebene Streckengeschwindigkeit tiefer ist, als die für den Bahnhof vorgeschriebene oder signalisierte Geschwin­digkeit. In solchen Fällen ist die höhere der vor oder nach dem Bahnhof vorgeschriebenen Streckengeschwindigkeit massgebend.
+	
+2.2	Geschwindigkeitsschwelle bei Freier Fahrt 
+2.2.1	Grundsatz
+	
+	Zeigen die Zugsignale Freie Fahrt oder Ankündigung Freie Fahrt, sind die Geschwindigkeiten immer der Streckentabelle zu entnehmen.
+	
+2.2.2	Geschwindigkeitsschwelle im Bahnhof
+	
+	Unterscheidet sich auf der Einfahrseite die Bahnhofgeschwindigkeit von der Streckengeschwindigkeit, befindet sich die Geschwindigkeitsschwelle
+    • bei der ersten Weiche oder
+    • ungefähr 200 m nach dem Einfahrsignal, wenn sich im betreffenden Gleis keine Weiche befindet.
+Unterscheidet sich auf der Ausfahrseite die Bahnhofgeschwindigkeit von der Streckengeschwindigkeit, befindet sich die Geschwindigkeitsschwelle
+    • bei der letzten Weiche oder
+    • beim Ausfahrsignal, wenn sich im betreffenden Gleis keine Weiche befindet.
+
+
+
+Unterscheidet sich die Einfahrgeschwindigkeit von der Ausfahrgeschwindigkeit, befindet sich die Geschwindigkeitsschwelle
+    • Mitte Perron des befahrenen Gleises oder
+    • Mitte Bahnhofgebäude bzw. Mitte Bahnhof, wenn kein Perron vorhanden ist.
+Der weichen- und kurvenfreie Abschnitt zwischen Ein- und Ausfahrseite darf mit der höheren der beiden Bahnhofsgeschwindigkeiten befahren werden.
+Sind in der Streckentabelle für die Ein- oder Ausfahrt in der Bahnhofspalte zwei oder mehr abgestufte Geschwindigkeiten angegeben, ist die Lage der Geschwindigkeitsschwellen in den Betriebsvorschriften der ISB geregelt. 
+Sind keine Bahnhofgeschwindigkeiten vorgeschrieben, gilt bei Freier Fahrt zwischen erster und letzter Weiche die höhere der vor oder nach dem Bahnhof zulässigen Streckengeschwindigkeit.
+	
+2.2.3	Geschwindigkeitsschwelle in der Haltestelle
+	
+	Die Geschwindigkeitsschwelle befindet sich Mitte Perron des befahrenen Gleises.
+Für Kurven, welche vor der Haltestelle beginnen oder nach dieser enden, liegt die Geschwindigkeitsschwelle Mitte Perron des befahrenen Gleises.
+	
+2.3	Geschwindigkeitsschwelle bei signalisierter Geschwindigkeit
+2.3.1	Grundsatz
+	
+	Eine Geschwindigkeit gilt als signalisiert, wenn ein Fahrt zeigendes Zugsignal weder Freie Fahrt noch Ankündigung freie Fahrt zeigt.
+Ein Wiederholungssignal gilt nie als Geschwindigkeitsschwelle.
+	
+2.3.2	Beginn der signalisierten Geschwindigkeit
+	
+	Die an einem Zugsignal angekündigte Geschwindigkeit gilt ab dem nachfolgenden Zugsignal.
+Die an einem Zugsignal signalisierte auszuführende Geschwindigkeit gilt ab diesem Zugsignal. 
+Ausgenommen 
+–	bei Einfahrsignalen des Systems L, wenn am vorausgehenden Signal eine Merktafel die Geschwindigkeitsschwelle bei der ersten Weiche anzeigt
+–	wenn Weichen vor einem Gruppensignal liegen, befindet sich die Geschwindigkeitsschwelle bei der ersten befahrenen Weiche auf der Ausfahrseite.
+Einzelne abweichende Geschwindigkeitsschwellen sind in den Betriebsvorschriften der ISB geregelt.
+	
+2.3.3	Änderung oder Ende der signalisierten Geschwindigkeit
+	
+	Eine signalisierte Geschwindigkeit gilt bis zum nächsten Zugsignal bzw. bis zur Merktafel für Streckengeschwindigkeit beim Signalsystem N.
+Zeigt das nächste Zugsignal eine höhere Geschwindigkeit oder folgt eine Merktafel für Streckengeschwindigkeit, darf beschleunigt werden, wenn
+    • das vollständige Signalbild bzw. die Merktafel für Streckengeschwindigkeit und die Zugehörigkeit zum befahrenen Gleis eindeutig erkannt werden und
+    • das Zugende die ablenkenden Weichen freigelegt hat und
+    • die Zugspitze die letzte Weiche des Abschnittes befahren hat und
+    • keine tiefere Geschwindigkeit durch ein Zugbeeinflussungssystem überwacht wird
+auf höchstens
+    • die angekündigte Geschwindigkeit oder
+    • die auszuführende Geschwindigkeit, sofern am gleichen Standort keine tiefere Geschwindigkeit angekündigt wird.
+Handelt es sich auf der Ausfahrseite oder vor der Spurwechselstelle um das letzte Zugsignal des Signalsystems L, darf beschleunigt werden, wenn
+    • das Zugende die ablenkenden Weichen freigelegt hat und
+    • die Zugspitze die letzte Weiche des Bahnhofes oder der Spurwechselstelle befahren hat.
+Folgt einem Warnung bzw. Vorwarnung zeigenden Zugsignal ein Warnung bzw. Vorwarnung zeigendes Zugsignal, darf höchstens auf eine Geschwindigkeit von 40 km/h beschleunigt werden. Für Schmalspurbahnen können tiefere Geschwindigkeiten gelten.
+	
+	
+	
+
+
+
+3	Abfahrt 
+3.1	Grundsatz
+	
+	Sind die Bedingungen für die Abfahrt eines Zuges erfüllt, ist die Fahrt zu beginnen oder nach einem Halt fortzusetzen.
+	
+3.1.1	Bedingungen für die Abfahrt eines Zuges
+	
+	Der LF darf beim Vorliegen der Zustimmung zur Fahrt erst abfahren, wenn
+    • die Zugvorbereitung abgeschlossen ist 
+    • die Türen geschlossen sind 
+und sofern erforderlich
+    • die kundendienstliche Bereitschaft erstellt ist 
+    • die Abfahrerlaubnis erteilt ist.
+	
+3.2	Zeitpunkt für die Erteilung der Zustimmung zur Fahrt
+	
+	Der FDL hat unter Berücksichtigung der betrieblichen Zweckmässigkeit die Zustimmung zur Fahrt so zu erteilen, dass ein rechtzeitiges Verkehren ermöglicht wird. 
+Bei den durch die ISB in den Ausführungsbestimmungen bezeichneten Bahnhöfen oder Bahnhofteilen, darf die Zustimmung zur Fahrt erst nach dem Vorliegen der Meldung vom Abschluss der Zugvorbereitung erteilt werden.
+Wenn die Zustimmung zur Fahrt ohne offensichtlichen Grund nicht rechtzeitig erteilt werden kann, verständigt der FDL den LF nach Möglichkeit.
+	
+3.3	Zustimmung zur Fahrt bei Gruppensignalen
+	
+	Sind Gruppensignale mit einer Zusatzsignalisierung ausgerüstet, ist diese zusätzlich zur Zustimmung zur Fahrt zu beachten. Als Zusatzsignalisierung werden Gruppensignal-Halttafeln mit Fahrtstellungsmelder oder mit Fahrbegrifftafeln, Zwergsignale, Gleisnummernsignale oder Hinweispfeile Gruppensignal verwendet.
+Steht die Zugspitze bei einem Halt zeigenden Gruppensignal zwischen der Gruppensignal-Halttafel und dem Gruppensignal, verständigt der LF den FDL über den Standort quittungspflichtig. Das weitere Vorgehen richtet sich nach den Bestimmungen für Gruppensignale ohne Zusatzsignalisierung.
+	
+
+3.3.1	Gruppensignale mit Zusatzsignalisierung
+	
+	Die Zustimmung zur Fahrt bei Fahrt zeigendem Gruppensignal gilt bei folgender Zusatzsignalisierung:
+–	Gruppensignal-Halttafel mit beleuchtetem Fahrtstellungsmelder oder
+–	Gruppensignal-Halttafel mit Fahrbegrifftafel. Der Fahrbegriff des Gruppensignals und derjenige der Fahrbegrifftafel müssen übereinstimmen oder
+    • Fahrt zeigendes Zwergsignal oder
+–	dem zugehörigen Gleis entsprechend beleuchtetes Gleisnummernsignal oder
+–	dem zugehörigen Gleis entsprechend beleuchteter Hinweispfeil Gruppensignal.
+In Anlagen mit Zwergsignalen und Fahrtstellungsmeldern muss das Zwergsignal Fahrt zeigen und der Fahrtstellungsmelder beleuchtet sein.
+Wird die Zustimmung zur Fahrt am Vorsignal festgestellt, dürfen LF von Zügen ohne vorgeschriebenen Halt auf die Beachtung der Gruppensignal-Zusatzsignalisierung verzichten. 
+	
+3.3.2	Gruppensignal mit Zwergsignal
+	
+	Der LF hat sich vor der Abfahrt zu vergewissern, dass zwischen der Zugspitze und dem Gruppensignal alle seinem Gleis zugeordneten Zwergsignale Fahrt zeigen. Befinden sich zwischen der Zugspitze und dem nächsten Zwergsignal unbelegte Weichen oder Kreuzungen, ist am rückliegenden Zwergsignal dessen Fahrtstellung zu überprüfen.
+Der LF hat mit dem FDL Kontakt aufzunehmen, wenn diese Kontrolle nicht durchgeführt werden kann. Die Kontaktaufnahme darf unterbleiben, wenn der Fahrtstellungsmelder beleuchtet ist oder eine Abfahrerlaubnis mittels ortsfesten Signals für Abfahrerlaubnis für das betreffende Gleis vorliegt.
+	
+3.3.3	Gruppensignal ohne Zusatzsignalisierung
+	
+	Stehen in einem örtlich besetzten Bahnhof mehrere Züge zur Abfahrt bereit, hat der FDL vor dem auf Fahrt stellen des Gruppensignals die LF derjenigen Züge, die nicht abfahren dürfen, darüber quittungspflichtig zu verständigen. Diese Verständigung ist auch erforderlich, bevor ein Gruppensignal für einen durchfahrenden Zug auf Fahrt gestellt wird.
+	
+	
+3.4	Kundendienstliche Bereitschaft
+	
+	Die kundendienstliche Bereitschaft ist erstellt, wenn der Fahrgastwechsel und der Ein- und Auslad beendet sind sowie die Abfahrtszeit erreicht oder das vorzeitige Verkehren zulässig ist. Für die Abfahrt des Zuges ist die Bahnhofuhr massgebend. Nicht öffentlich publizierte Züge dürfen vorzeitig verkehren.
+Falls es absehbar ist, dass die kundendienstliche Bereitschaft nicht rechtzeitig erstellt werden kann, verständigt der LF den FDL. Diese Information erfolgt so früh wie möglich, in der Regel vor dem Erteilen der Zustimmung zur Fahrt.
+	
+3.5	Abfahrerlaubnis
+3.5.1	Grundsatz
+	
+	In folgenden Fällen ist im Ausgangsbahnhof oder nach einem vorgeschriebenen Halt eine Abfahrerlaubnis notwendig:
+    • bei begleiteten Zügen, durch den ZBE oder
+    • bei bestimmten in der Fahrordnung gekennzeichneten Zügen, durch den FDL oder
+    • bei in der Streckentabelle gekennzeichneten Bahnhöfen, Bahnhofteilen oder einzelnen Gleisen durch den FDL.
+	
+3.5.2	Erteilen der Abfahrerlaubnis
+	
+	Vor dem Erteilen der Abfahrerlaubnis durch den ZBE oder den FDL, ist zu prüfen, ob eine Zustimmung zur Fahrt vorliegt und die kundendienstliche Bereitschaft erstellt ist.
+Die Abfahrerlaubnis ist gemäss den Signalvorschriften oder quittungspflichtig mit dem Befehl: «Zug ... abfahren» zu erteilen.
+Sind signalabhängige Mittel (z. B. ortsfeste Signale oder SMS-Systeme) zum Erteilen der Abfahrerlaubnis vorhanden, sind diese zu verwenden.
+	
+
+3.6	Zustimmung zur Fahrt ohne Sicht auf das Hauptsignal im Bahnhof
+3.6.1	Bestätigung für das Vorliegen der Zustimmung zur Fahrt
+	
+	Hat der LF im Bahnhof keine Sicht auf das nächst folgende Hauptsignal, benötigt der LF eine Bestätigung, dass die Zustimmung zur Fahrt vorliegt.
+Als Bestätigung gilt:
+–	die Zustimmung zur Fahrt ist am Wiederholungssignal ersichtlich oder
+–	der Fahrtstellungsmelder ist beleuchtet oder
+–	die Zugspitze befindet sich nach dem Ausfahrsignal und 
+–	der LF konnte die Zustimmung zur Fahrt vorgängig am Ausfahrsignal feststellen und dessen Fahrbegriff signalisierte nicht Kurze Fahrt und
+–	der LF ist an keinem Warnung zeigenden Zugsignal vorbeigefahren oder
+–	die mit signalabhängigen Mitteln (z. B ortsfeste Signale oder SMS-Systeme) erteilte Abfahrerlaubnis liegt vor.
+Liegt keine dieser Bestätigungen vor, benötigt der LF eine quittungspflichtige Bestätigung des FDL, dass die Zustimmung zur Fahrt vorliegt. Nötigenfalls verlangt der LF diese Bestätigung beim FDL.
+	
+3.6.2	Höchstgeschwindigkeiten
+	
+	Liegt
+–	die mit signalabhängigen Mitteln (z. B. ortsfeste Signale oder SMS-Systeme) erteilte Abfahrerlaubnis oder
+–	die quittungspflichtige Bestätigung des FDL 
+vor, beträgt die Höchstgeschwindigkeit 40 km/h und am nächsten Hauptsignal ist Halt zu erwarten.
+Ist der Fahrtstellungsmelder beleuchtet, beträgt die Höchstgeschwindigkeit 40 km/h.
+Ist die Zustimmung zur Fahrt am Wiederholungssignal ersichtlich bzw. wurde sie am rückliegenden Ausfahrsignal festgestellt, richtet sich die Höchstgeschwindigkeit nach dem angezeigten bzw. dem zuvor festgestellten Signalbegriff.
+Liegen mehrere Bestätigungen vor, darf die am wenigsten einschränkende Bestimmung angewendet werden.
+In allen Fällen sind für eine allfällig erlaubte Geschwindigkeitserhöhung die Bestimmungen bezüglich «Geschwindigkeitsschwelle» zu beachten.
+	
+3.7	Abfahrt auf einer Haltestelle ohne Sicht auf das Hauptsignal
+	
+	Hat der LF auf einer Haltestelle keine Sicht auf das Hauptsignal und sind die übrigen Bedingungen für die Abfahrt erfüllt, darf der LF abfahren. Dabei ist der rückliegend angezeigte Signalbegriff mitzuberücksichtigen.
+	
+	
+	
+
+
+4	Fahrt
+4.1	Fahrtstellungsmelder
+	
+	Wird an einem Warnung zeigenden Vorsignal vorbeigefahren und leuchtet der dem zu befahrenden Gleis zugehörige Fahrtstellungsmelder, ist die Fahrt mit einer Höchstgeschwindigkeit von 40 km/h fortzusetzen, bis die Fahrtstellung des Hauptsignals erkannt wird.
+	
+4.2	Befahren von Abschnitten mit verminderter Geschwindigkeit
+4.2.1	Ortsfeste Geschwindigkeitsverminderung
+	
+	Dauernd mit verminderter Höchstgeschwindigkeit zu befahrende Gleisabschnitte werden mit Geschwindigkeitstafeln gekennzeichnet.
+	
+4.2.2	Langsamfahrstellen
+	
+	Vorübergehend mit verminderter Höchstgeschwindigkeit zu befahrende Gleisabschnitte werden mit Langsamfahrsignalen gekennzeichnet.
+	
+4.2.3	Bekanntgabe
+	
+	Das Aufstellen und das Entfernen von Langsamfahrsignalen, ihre kilometrische Lage und die zulässige Höchstgeschwindigkeit sind durch die ISB bekannt zu geben. Die EVU verständigen die LF. Diese haben die einzelnen Anordnungen oder ein Verzeichnis der Langsamfahrstellen mitzuführen.
+	
+4.2.4	Bekanntgabefrist
+	
+	Das Aufstellen von Langsamfahrsignalen muss gemäss der von der ISB in den Ausführungsbestimmungen festgelegten Frist vorher den EVU bekannt sein, damit diese die LF rechtzeitig verständigen können. Das Entfernen der Signale soll so frühzeitig bekannt gegeben werden, dass die LF vor der Wegnahme der Signale davon Kenntnis erhalten.
+	
+4.2.5	Bekanntgabefrist nicht eingehalten
+	
+	Wird die Bekanntgabefrist nicht eingehalten, hat die ISB die Nachbarbahnhöfe des betreffenden Gleisabschnittes sowie die betreffenden EVU über die Lage der Langsamfahrsignale und über die zulässige Geschwindigkeit zu verständigen. Diese Bahnhöfe haben bis zum Ablauf der Bekanntgabefrist den LF den Standort der Signale und allenfalls die zulässige Geschwindigkeit protokollpflichtig bekannt zu geben. 
+
+
+4.2.6	Langsamfahrsignale nicht aufgestellt
+	
+	Wenn ein Gleisabschnitt mit vorübergehend verminderter Höchstgeschwindigkeit befahren werden muss, bevor Langsamfahrsignale aufgestellt sind, hat der FDL den LF protokollpflichtig über 
+    • die Lage des zu befahrenden Abschnittes
+    • die zulässige Höchstgeschwindigkeit
+    • das Fehlen der Langsamfahrsignale 
+zu verständigen. 
+Ab dem rückliegenden Hauptsignal, Bahnhof oder der Haltestelle bis zur Langsamfahrstelle ist die folgende Höchstgeschwindigkeit vorzuschreiben:
+    • 40 km/h, wenn die Langsamfahrstelle mit 40 km/h oder weniger befahren werden muss oder
+    • die für die Langsamfahrstelle zulässige Geschwindigkeit, wenn diese mehr als 40 km/h beträgt.
+	
+4.2.7	Verminderung der Geschwindigkeit
+	
+	Muss der FDL den LF protokollpflichtig über eine Geschwindigkeitsreduktion verständigen, hat der FDL den LF zusätzlich bei der Übermittlung des Befehls 5 und des Befehls 6 protokollpflichtig über die Art der Zustimmung zur Fahrt zu verständigen.
+	
+4.3	Befahren von Abschnitten mit gesenkten Stromabnehmern
+4.3.1	Spannungslose oder beschädigte Fahrleitungsabschnitte
+	
+	Gleisabschnitte, welche mit gesenkten Stromabnehmern zu befahren sind, werden mit Stromabnehmersignalen gekennzeichnet.
+	
+4.3.2	Bekanntgabe
+	
+	Das Aufstellen und das Entfernen von ortsveränderlichen Stromabnehmersignalen und ihre kilometrische Lage sind durch die ISB bekannt zu geben. Die EVU verständigen die LF. Diese haben die einzelnen Anordnungen mitzuführen.
+	
+4.3.3	Bekanntgabefrist
+	
+	Das Aufstellen von Stromabnehmersignalen muss gemäss der von der ISB in den Ausführungsbestimmungen festgelegten Frist vorher den EVU bekannt sein, damit diese die LF rechtzeitig verständigen können. Das Entfernen der Signale soll so frühzeitig bekannt gegeben werden, dass die LF vor der Wegnahme der Signale davon Kenntnis erhalten.
+4.3.4	Bekanntgabefrist nicht eingehalten
+	
+	Wird die Bekanntgabefrist nicht eingehalten, hat die ISB die Nachbarbahnhöfe des betreffenden Gleisabschnittes sowie die betreffenden EVU über die Lage der Stromabnehmersignale zu verständigen. Diese Bahnhöfe haben bis zum Ablauf der Bekanntgabefrist den LF den Standort der Signale protokollpflichtig bekannt zu geben. 
+	
+4.3.5	Stromabnehmersignale nicht aufgestellt
+	
+	Sind keine Stromabnehmersignale aufgestellt, hat der FDL den LF protokollpflichtig über 
+    • die Lage des zu befahrenden Abschnittes 
+    • das Fehlen der Stromabnehmersignale 
+zu verständigen.
+Beim Befahren müssen:
+–	bei der Einfahrt in den Bahnhof, alle Stromabnehmer vor der Vorbeifahrt am Einfahrsignal und bis zum Halt oder bis zum Aufnahmegebäude bzw. bis zur Bahnhofsmitte gesenkt sein. Befindet sich bei einem haltenden Zug das Triebfahrzeug noch auf der Einfahrseite, darf der LF den Stromabnehmer erst nach Absprache mit dem FDL wieder heben
+–	bei der Ausfahrt aus dem Bahnhof, alle Stromabnehmer ab dem Aufnahmegebäude bzw. ab der Bahnhofsmitte gesenkt sein und dürfen erst nach der Vorbeifahrt am Einfahrsignal der Gegenrichtung wieder gehoben werden
+–	bei der Durchfahrt durch den Bahnhof, alle Stromabnehmer vor der Vorbeifahrt am Einfahrsignal gesenkt sein und dürfen erst nach der Vorbeifahrt am Einfahrsignal der Gegenrichtung wieder gehoben werden. 
+	
+4.4	Strassenbahnbereich
+	
+	Im Strassenbahnbereich ist mit Fahrt auf Sicht zu fahren, wobei die zulässige Höchstgeschwindigkeit durch die ISB mit Rücksicht auf die Fahrzeuge und auf die örtlichen Verhältnisse festgelegt wird.
+Im Strassenbahnbereich gelten zusätzlich die Vorschriften der Strassenverkehrsgesetzgebung.
+	
+
+4.5	Einspurbetrieb auf zweigleisiger Strecke mit Einrichtung für Einspurbetrieb
+4.5.1	Einführung Einspurbetrieb
+	
+	Muss auf einer zweigleisigen Strecke mit Einrichtung für Einspurbetrieb ein Gleis gesperrt und auf dem rechten Gleis gefahren werden, ist Einspurbetrieb einzuführen. 
+Vor der Einführung des Einspurbetriebs hat der FDL
+    • die Rückmeldung des letzten Zuges der das linke Gleis befahren hat abzuwarten oder
+    • die LF aller sich auf dem linken Gleis befindenden Züge quittungspflichtig zu verständigen, dass sie nur mit Bewilligung des FDL weiterfahren dürfen und
+    • zu prüfen, dass alle Signale auf dem linken Gleis Halt zeigen.
+Kann das Stellwerk nicht auf Einspurbetrieb umgeschaltet werden, ist für Fahrten auf dem rechten Gleis gemäss den Bestimmungen «Kernprozess Störungen» vorzugehen. Dies gilt auch für die Einfahrt auf dem Nachbarbahnhof.
+	
+4.5.2	Verständigung der LF
+	
+	Die ISB bezeichnet die Strecken, bei denen bei Fahrt auf dem rechten Gleis aus technischen Gründen eine quittungspflichtige Verständigung notwendig ist.
+	
+	
+4.5.3	Gültigkeit der Signale
+	
+	Die Signale des linken Gleises gelten für den auf dem rechten Gleis verkehrenden Zug. Besitzt das rechte Gleis eigene Signale, gelten diese.
+	
+4.5.4	Wiedereinführung des zweigleisigen Betriebs
+	
+	Vor der Wiedereinführung des zweigleisigen Betriebs hat der FDL die Rückmeldung des letzten Zuges, der das rechte Gleis befahren hat abzuwarten.
+	
+
+4.6	Bedarfshalt
+	
+	Ein Bedarfshalt wird in der Fahrordnung gekennzeichnet.
+Der LF hat einen Zug mit Bedarfshalt anzuhalten, wenn
+    • das Signal für Bedarfshalt eingeschaltet ist oder
+    • erkennbar ist, dass Reisende einsteigen wollen oder
+    • im Zug die Haltanforderungstaste gedrückt wird oder
+    • bei ihm ein Halt verlangt wird.
+Bei Annäherung an eine Haltestelle oder einen Bahnhof hat der LF eines Zuges mit Bedarfshalt die Geschwindigkeit aufgrund der örtlichen und aktuellen Verhältnisse sowie der vorhandenen Bremsmittel zu vermindern. Die Geschwindigkeitsreduktion ist so zu bemessen, dass der Zug nötigenfalls rechtzeitig und an der vorgesehenen Stelle anhalten kann.
+Das EVU kann bei Bedarf die maximal zulässige Annäherungsgeschwindigkeit in den Ausführungsbestimmungen vorgeben.
+	
+4.7	Ausserordentlicher Halt bzw. ausserordentliche Durchfahrt
+	
+	Hat ein Zug ausnahmsweise anzuhalten bzw. durchzufahren, verständigt der FDL den LF quittungspflichtig.
+	
+4.8	Langsamfahrstellen im Übergangsbereich zwischen Aussensignalisierung und FSS
+	
+	Eine Langsamfahrstelle liegt im Übergangsbereich, wenn mindestens je ein Teil des langsam zu befahrenden Abschnittes im Bereich der FSS sowie im Bereich der Aussensignalisierung liegt. Die grösstmöglichen Bremswege vor der eigentlichen Langsamfahrstelle sind als Bestandteil dieser Langsamfahrstelle zu betrachten.
+Alle Langsamfahrstellen im Übergangsbereich werden am Ende der FSS in Richtung der Aussensignalisierung mit Wiederholungssignalen gekennzeichnet.
+Die Wiederholungssignale sind bei der Systemgrenze zwischen Aussen- und FSS aufzustellen. Als Wiederholungssignale werden verwendet:
+–	ein Vorsignal mit 2 Lampen, wenn dieses vor der Langsamfahrstelle steht oder
+–	ein Vorsignal mit 1 Lampe, wenn dieses im Bereich der Langsamfahrstelle steht.
+	
+
+4.9	Überwachte Bahnübergangsanlagen mit zeitabhängiger Ausschaltung
+	
+	Die ISB haben für überwachte Bahnübergangsanlagen mit zeitabhängiger Ausschaltung das Vorgehen bei einem Halt oder langsamer Fahrt zwischen dem Einschaltkontakt und der Bahnübergangsanlage in ihren Betriebsvorschriften zu regeln.
+	
+
+
+5	Einfahrt
+5.1	Einfahrt in einen Bahnhof ohne schienenfreie Zugänge
+	
+	Die nachfolgenden Vorschriften sind für Einfahrten in Bahnhöfe ohne schienenfreie Zugänge anzuwenden. Sie gelten nicht, wenn die Zugänge, welche durch die Reisenden überschritten werden können, mit Schranken ausgerüstet sind.
+	
+5.1.1	Grundsatz bei mehreren Zügen
+	
+	Sind ein oder mehrere Züge mit Personenbeförderung beteiligt und ist der erst einfahrende Zug ein Zug mit Personenbeförderung, muss dieser das dem Bahnhofgebäude näher liegende Hauptgleis befahren. 
+Wenn nach Einfahrt eines Zuges mit Personenbeförderung der nächste Zug ein dem Bahnhofgebäude näher liegendes Hauptgleis benützt, müssen die LF der beteiligten Züge entsprechend verständigt werden.
+	
+5.1.2	Gleichzeitige Einfahrt
+	
+	Ist bei gleichzeitiger Einfahrt ein Zug mit Personenbeförderung beteiligt, müssen die LF der beteiligten Züge entsprechend verständigt werden.
+	
+5.1.3	Massnahme bei örtlich nicht besetztem Bahnhof
+	
+	Befährt ein Zug ein dem Bahnhofgebäude näher liegendes Hauptgleis als das durch Züge mit Personenbeförderung und vorgeschriebenem Halt mehrheitlich benutzte Gleis, ist der LF entsprechend zu verständigen.
+Wenn ein Zug in einem Bahnhof mit Perrons bis zum normalen Halteort keine Zugänge befährt, welche durch die Reisenden überschritten werden, darf auf die Verständigung verzichtet werden. 
+	
+
+5.1.4	Verständigung und Einfahrt	
+		
+	Die LF werden wie folgt verständigt:
+    • mit dem Signal für Einfahrt in einen Bahnhof ohne schienenfreie Zugänge oder
+    • mit einer Kennzeichnung in der Streckentabelle oder
+    • quittungspflichtig durch den FDL. Die Einfahrsignale dürfen erst nach der Verständigung auf Fahrt gestellt werden.
+Diese Züge haben vom Anfang des Perrons bis 
+    • der Zug angehalten hat oder
+    • die Zugspitze das Ende des Perrons erreicht hat
+mit Fahrt auf Sicht und höchstens mit 20 km/h zu fahren. Ist kein Perron vorhanden, gilt der Bereich zwischen den Sicherheitszeichen der Ein- und der Ausfahrweiche.	
+		
+5.2	Halteort der Züge
+5.2.1	Spätester Halteort
+	
+	Züge haben spätestens vor dem Halt zeigenden Haupt-, Sperr- oder Strassenbahnsignal anzuhalten. 
+Befindet sich das dem Halt zeigenden Hauptsignal zugehörige Halt zeigende Zwergsignal unmittelbar vor dem betreffenden Hauptsignal, ist vor dem Halt zeigenden Zwergsignal anzuhalten.
+	
+5.2.2	Spätester Halteort bei einem Gruppensignal
+	
+	Bei einem Halt zeigenden Gruppensignal haben Züge spätestens anzuhalten:
+    • vor dem Gruppensignal, wenn dieses vor der Ausfahrweiche steht. Befindet sich das dem Halt zeigenden Gruppensignal zugehörige Halt zeigende Zwergsignal unmittelbar vor dem betreffenden Gruppensignal, ist vor dem Halt zeigenden Zwergsignal anzuhalten
+    • vor dem Sicherheitszeichen der Ausfahrweiche, wenn das Gruppensignal nach dem Sicherheitszeichen der Ausfahrweiche steht 
+    • vor der Gruppensignal-Halttafel. Der Abschnitt zwischen der Gruppensignal-Halttafel und dem Sicherheitszeichen der folgenden von der Wurzel aus befahrenen Weiche muss frei sein.
+Die Weiche auf der Ausfahrseite darf sich in beliebiger Stellung befinden.
+	
+
+5.2.3	Normaler Halteort
+	
+	Züge mit vorgeschriebenem Halt haben in Bahnhöfen am normalen Halteort anzuhalten. Das ist die für das Ein- und Aussteigen der Reisenden bzw. für den Ein- und Auslad von Gütern geeignete Stelle.
+Der Halteort kann mit Halteort- oder Zuglängentafeln angezeigt werden.
+Besondere Halteorte können in der Fahrordnung oder in den Ausführungsbestimmungen der ISB geregelt werden.
+	
+5.2.4	Halt vor dem normalen Halteort
+	
+	Hat ein Zug ausnahmsweise vor dem normalen Halteort anzuhalten, verständigt der FDL den LF quittungspflichtig.
+Das betreffende Hauptsignal darf erst nach erfolgter Verständigung des LF auf Fahrt gestellt werden.
+Ist der bezeichnete Halteort für den LF nicht ohne weiteres erkennbar, ist das Handsignal zu geben.
+	
+5.2.5	Halt nach dem normalen Halteort	
+		
+	Hat ein Zug ausnahmsweise über den normalen Halteort hinauszufahren, verständigt der FDL den LF quittungspflichtig. 
+Ist dies nicht möglich, hat der FDL oder die bezeichnete Person den einfahrenden Zug durch Winken zum Vorrücken aufzufordern.	
+		
+5.2.6	Vorbeifahrt am Halt zeigenden Sperr- oder Hauptsignal	
+		
+	In bestimmten Fällen, darf ohne anzuhalten über das Halt zeigende
+Sperr-, Gleisabschnitt- oder Ausfahrsignal vorgerückt werden. Diese Fälle sind in den Ausführungsbestimmungen der ISB zu bezeichnen.
+Der FDL oder die bezeichnete Person hat den einfahrenden Zug durch Winken zum Vorrücken aufzufordern.	
+		
+
+5.3	Kopfbahnhöfe und einzelne Kopfgleise
+	
+	Kopfbahnhöfe oder einzelne Kopfgleise in einem Bahnhof mit durchgehenden Gleisen werden in der Streckentabelle gekennzeichnet.
+Bei einzelnen Kopfgleisen darf die Angabe entfallen, wenn die Einfahrt mit Fahrbegriff Kurze Fahrt signalisiert wird, oder der Gleisabschluss mit einem roten Licht gekennzeichnet ist und dieses in annähernd gleicher Lage zu den übrigen Ausfahrsignalen liegt.
+In der Streckentabelle gekennzeichnete Kopfgleise von normaler Länge dürfen am Ende auf einer bestimmten Länge mit Fahrzeugen belegt sein, ohne dass dies als Einfahrt in ein besetztes Gleis gilt. Diese Gleise sind in den Ausführungsbestimmungen der ISB zu bezeichnen.
+	
+
+5.4	Einfahrt in ein besetztes Gleis
+5.4.1	Verständigung
+	
+	Eine Einfahrt in ein besetztes Gleis wird am betreffenden Hauptsignal mit dem Besetztsignal signalisiert oder in der Streckentabelle, in der Fahrordnung oder protokollpflichtig mit dem Befehl 5 angeordnet.
+	
+5.4.2	Bedingungen für eine Einfahrt in ein besetztes Gleis
+	
+	Bei der Geschwindigkeitsschwelle darf die Geschwindigkeit höchstens 40 km/h betragen. Ab Bremswegentfernung nach der Geschwindigkeitsschwelle ist mit Fahrt auf Sicht zu fahren.
+Fahrzeuge dürfen frühestens in Bremswegentfernung ab der Geschwindigkeitsschwelle aufgestellt sein. Die entsprechenden Mindestwerte sind in den Ausführungsbestimmungen der ISB festzulegen.
+	
+5.4.3	Ziffer entfällt
+	
+	
+5.4.4	Direktes Anfahren
+	
+	Züge dürfen ohne Halt direkt an Fahrzeuge anfahren.
+	
+5.5	Beschränkt ausnützbares Gleis
+	
+	Ein beschränkt ausnützbares Gleis kann ohne Einschränkung bis zum normalen, jedoch nicht bis zum spätesten Halteort befahren werden. 
+Als Einfahrt in ein beschränkt ausnützbares Gleis gilt:
+–	Einfahrt gegen ein Stumpengleis bzw. Stumpengleissignal
+–	Einfahrt gegen ein Halt zeigendes Zwergsignal
+–	Einfahrt in ein Gleis, das höchstens bis zum Sicherheitszeichen der ersten falsch stehenden Weiche befahren werden darf.
+Beschränkt ausnützbare Gleise sind in der Streckentabelle gekennzeichnet.
+Das Zeichen für beschränkt ausnützbares Gleis hat keine Bedeutung, wenn der LF feststellen kann, dass das Ausfahrsignal für den einfahrenden Zug Fahrt zeigt.
+	
+
+5.6	Offene Bahnübergangsanlagen vor dem Ausfahrsignal
+	
+	Einfahrten gegen offene Bahnübergangsanlagen vor dem Ausfahrsignal sind nur zulässig, wenn das Gleis ohne Einschränkung bis zum vorgesehenen normalen Halteort befahren werden kann.
+Ein haltender Zug hat am normalen Halteort, spätestens aber vor der offenen Bahnübergangsanlage anzuhalten.
+Bahnhöfe, in welchen Einfahrten gegen offene Bahnübergangsanlagen möglich sind, sind in der Streckentabelle gekennzeichnet. Diese Kennzeichnung hat auch zu erfolgen, wenn sich die Bahnübergangsanlage nach einer Gruppensignal-Halttafel befindet.
+Das Zeichen für offene Bahnübergangsanlagen vor dem Ausfahrsignal hat keine Bedeutung, wenn der LF feststellen kann, dass das Ausfahrsignal für den einfahrenden Zug Fahrt zeigt.
+
+
+6	Spezialfälle
+6.1	Probefahrten
+6.1.1	Zweck
+	
+	Probefahrten dienen der Erprobung von Fahrzeugen und Anlagen.
+	
+6.1.2	Anordnung
+	
+	Probefahrten werden als Fak- oder Extrazüge oder als Rangierbewegung auf die Strecke angeordnet.
+	
+6.1.3	Durchführung
+	
+	Die Planung allfällig notwendiger Massnahmen (z.B. Abweichungen zu den Fahrdienstvorschriften oder ausserordentliche Begleitung) sind zwischen der ISB und dem EVU schriftlich zu regeln.
+	
+6.2	Schneeräumungsfahrten
+6.2.1	Art
+	
+	Schneeräumungsfahrten werden mit Triebfahrzeugen mit fest montierten Schneepflügen, geschobenen Schneepflügen und Schneeschleudern auf eigenen Rädern ausgeführt.
+	
+6.2.2	Anordnung
+	
+	Der zuständige Dienst bestimmt, wann Schneeräumungsfahrten eingesetzt werden und wie zu räumen ist.
+Schneeräumungsfahrten werden als Fak- oder Extrazüge oder als Rangierbewegung auf die Strecke angeordnet.
+	
+6.2.3	Zugbegegnungen
+	
+	Eine gegen das Nachbargleis räumende Schneepflugfahrt darf andern Zügen und Rangierbewegungen nur in Bahnhöfen begegnen. Ist dies nicht möglich, hat die Schneepflugfahrt bei der Begegnung auf der Strecke anzuhalten.
+Schneeschleudern haben anzuhalten, sofern der Auswurf nicht rechtzeitig auf die der begegnenden Züge oder der Rangierbewegungen abgewandte Seite gerichtet werden kann.
+
+
+7	Zugfahrten im Trambetrieb	
+7.1	Grundlagen	
+7.1.1	Fahrweg	
+		
+	Fahrwege werden unter Berücksichtigung der Betriebsprozesse fortlaufend in Fahrrichtung bestimmt und eingestellt. Dies kann teilweise oder vollständig automatisiert erfolgen.	
+		
+7.1.2	Überwachen der Automatik	
+		
+	Das richtige Funktionieren der Automatik ist durch den LF für seine Fahrt zu überwachen, nötigenfalls ist manuell einzugreifen.	
+		
+7.1.3	Beachten der Signale	
+		
+	Der LF hat die für ihn geltenden Signale zu beachten.
+Wenn der LF Halt zeigende Signale antrifft, hat er den Zug anzuhalten.
+Die ISB regeln das Vorgehen, wenn ein Zug vor einem Halt zeigenden Signal nicht zum Stillstand gebracht werden konnte.	
+		
+7.1.4	Prüfen des Fahrwegs und Zustimmung zur Fahrt	
+		
+	Für jeden Zug ist eine Zustimmung zur Fahrt notwendig.
+Unter Berücksichtigung der Vortrittsregeln und Fahrvorrechte stellt der FDL im Fahrweg die Weichen und steuert die Verkehrsregelungsanlagen an.
+Der FDL prüft den Fahrweg und erteilt die Zustimmung zur Fahrt fortlaufend, soweit:
+-	die Weichen richtig stehen und
+-	wo nötig die Verschlussanzeigen der Weichen vorhanden sind und
+-	die Signale die Fahrt erlauben und
+-	der Fahrweg frei ist.	
+		
+7.1.5	Gültigkeit der Zustimmung zur Fahrt	
+		
+	Die festgestellte Zustimmung zur Fahrt gilt bis
+-	zu einem Hindernis im Fahrweg
+-	zu einem Halt zeigenden Signal
+-	zur Grenze vom Trambetrieb zum Bahnbetrieb.
+Nach einem Halt erlischt die Zustimmung zur Fahrt.	
+		
+7.1.6	Gleisbenützung	
+		
+	Die Züge benützen auf dem Liniengleis das in Fahrrichtung rechte Gleis. In Wendeschlaufen ist in der vorgesehenen Fahrrichtung zu fahren. 
+Hat es nur ein Liniengleis oder mehr als zwei parallele Liniengleise, legt die ISB die Fahrrichtung und die Gleisbenützung fest.
+In Dienstgleisen, die auch für Zugfahrten zulässig sind, legt die ISB die Bedienung und das Befahren der Anlage fest.	
+		
+7.2	Geschwindigkeitsschwelle	
+7.2.1	Geschwindigkeitsverminderung	
+		
+	Bei einer Geschwindigkeitsverminderung muss die tiefere Geschwindigkeit erreicht sein, wenn die Zugspitze die Geschwindigkeitsschwelle befährt.	
+		
+7.2.2	Geschwindigkeitserhöhung	
+		
+	Bei einer Geschwindigkeitserhöhung ist die tiefere Geschwindigkeit beizubehalten, bis das Zugende die Geschwindigkeitsschwelle befahren hat.
+Bei entsprechender Regelung in den Betriebsvorschriften der ISB, in Form einer ergänzenden Signalisierung an der Geschwindigkeitstafel oder auf Basis einer netzweiten Regelung, darf bereits beschleunigt werden, wenn die Zugspitze die Geschwindigkeitstafel erreicht hat. 	
+		
+7.3	Abfahrt	
+7.3.1	Grundsatz	
+		
+	Sind die Bedingungen für die Abfahrt eines Zuges erfüllt, ist die Fahrt zu beginnen oder nach einem Halt fortzusetzen.	
+		
+7.3.2	Bedingungen für die Abfahrt eines Zuges	
+		
+	Der LF darf beim Vorliegen der Zustimmung zur Fahrt erst abfahren, wenn
+-	die Zugvorbereitung abgeschlossen ist und
+-	die Türen geschlossen sind 
+und sofern erforderlich
+-	die kundendienstliche Bereitschaft erstellt ist. 
+Die EVU legen fest, in welchen Fällen zusätzlich eine Abfahrerlaubnis erforderlich ist und wie diese erteilt wird.	
+		
+
+7.3.3	Kundendienstliche Bereitschaft	
+		
+	Die kundendienstliche Bereitschaft ist erstellt, wenn der Fahrgastwechsel und der Ein- und Auslad beendet sind sowie die Abfahrtszeit erreicht oder das vorzeitige Verkehren zulässig ist.	
+		
+7.4	Fahrt	
+7.4.1	Ortsabhängige Höchstgeschwindigkeit 	
+		
+	Die Höchstgeschwindigkeit der Gleisabschnitte sowie über Weichen und Gleiskreuzungen werden mit Geschwindigkeitssignalen signalisiert oder durch die ISB in den Betriebsvorschriften festgelegt.	
+		
+7.4.2	Generelle Höchstgeschwindigkeit für Fahrwegelemente	
+		
+	Für Infrastrukturelemente können Höchstgeschwindigkeiten definiert werden. Die Elemente und die dazu entsprechenden Höchstgeschwindigkeiten sind durch die ISB in den Betriebsvorschriften zu regeln.	
+		
+7.4.3	Situationsbedingte Höchstgeschwindigkeit	
+		
+	Die ISB können situationsabhängige Höchstgeschwindigkeiten, beispielsweise bei Begegnungen von Zügen festlegen.	
+		
+7.4.4	Langsamfahrstellen	
+		
+	Vorübergehend mit verminderter Höchstgeschwindigkeit zu befahrende Gleisabschnitte werden mit Langsamfahrsignalen gekennzeichnet.
+Das Aufstellen und das Entfernen von Langsamfahrsignalen, ihre Lage und die zulässige Höchstgeschwindigkeit sind durch die ISB bekannt zu geben. 
+Die EVU informieren die LF.
+Die ISB kann für das Aufstellen von Langsamfahrsignalen eine Bekanntgabefrist festlegen.
+Wenn Langsamfahrsignale noch nicht aufgestellt sind, richtet sich das Vorgehen nach dem Störungsprozess.	
+		
+7.4.5	Befahren von spannungslosen Abschnitten und Fahrt bei beschädigter Fahrleitung	
+		
+	Die ISB regeln, ob spannungslose Gleisabschnitte oder Abschnitte mit beschädigter Fahrleitung befahren werden dürfen. Werden solche Abschnitte befahren, regeln die ISB das Vorgehen in den Betriebsvorschriften. 	
+
+7.4.6	Richtungsblinker	
+		
+	Der Richtungsblinker wird nach den Vorgaben der Strassenverkehrsgesetzgebung eingesetzt, z.B.:
+-	beim Abbiegen nach links oder nach rechts
+-	wo die Sicherheit des Verkehrs es erfordert, zur Warnung der übrigen Strassenbenützer, namentlich vor dem Anfahren.
+Die EBU können weitere Vorgaben über die Verwendung der Richtungsblinker und der Warnblinker erlassen.	
+		
+7.5	Halt	
+7.5.1	Spätester Halteort	
+		
+	Züge haben spätestens vor dem Halt zeigenden Strassenbahnsignal anzuhalten. Befindet sich vor dem Halt zeigenden Signal eine ergänzende Haltelinie ist davor anzuhalten.	
+		
+7.5.2	Normaler Halteort	
+		
+	Züge mit vorgeschriebenem Halt haben am normalen Halteort anzuhalten. Das ist die für das Ein- und Aussteigen der Reisenden geeignete Stelle.
+Der normale Halteort kann mit Halteorttafeln oder Halteortmarkierungen angezeigt werden. 
+Besondere Halteorte können in der Fahrordnung oder in den Ausführungsbestimmungen der ISB geregelt werden.	
+		
+7.6	Spezialfälle	
+7.6.1	Probefahrten	
+		
+	Probefahrten dienen der Erprobung von Fahrzeugen und Anlagen.
+Die Planung allfälliger Massnahmen (z.B. Abweichungen zu den FDV oder ausserordentliche Begleitung) sind zwischen der ISB und dem EVU schriftlich zu regeln.	
+		
+7.6.2	Schneeräumungsfahrten  	
+		
+	Schneeräumungsfahrten finden nach den Vorgaben der ISB statt.	
+		
+
+
+

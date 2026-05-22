@@ -1,0 +1,287 @@
+﻿Ferrovie svizzere	R 300.13
+
+
+
+Macchinista (MAC)
+
+
+
+1	Campo d’applicazione e ambito di validità
+	
+	Alle presenti prescrizioni soggiacciono
+–	i MAC (guida diretta e indiretta) 
+–	i MAC in formazione
+–	gli aiuto MAC.
+
+
+2	Norme e condizioni
+2.1	Responsabilità
+2.1.1	Principio 
+	
+	Il MAC è responsabile dello svolgimento appropriato del proprio lavoro, nel rispetto delle prescrizioni.
+Il MAC è corresponsabile del lavoro svolto dal MAC in formazione che gli è stato assegnato, secondo il livello d’istruzione di quest’ultimo.
+Il MAC in formazione è corresponsabile in maniera corrispondente al proprio livello d’istruzione.
+Il MAC è corresponsabile del lavoro svolto dall’aiuto MAC che gli è stato assegnato.
+	
+2.1.2	Consegna del servizio
+	
+	Alla consegna del servizio, il MAC che lascia il servizio trasmette a quello che lo assume gli ordini con obbligo di quietanza non ancora eseguiti. Allo stesso modo il MAC che lascia il servizio comunica a quello che lo assume gli ordini con obbligo di protocollo non ancora eseguiti, richiamando la sua attenzione, se del caso su situazioni straordinarie riguardo a veicoli ed impianti.
+Dopo la notifica o comunicazione di questi ordini, la responsabilità passa dal MAC che lascia il servizio a quello che lo assume.
+	
+2.1.3	Servizio di più veicoli motori
+	
+	In linea di principio, nel servizio di rinforzo in testa, di spinta e intermedio, come pure nel caso di condotta riunita di treni, il MAC di testa è responsabile della condotta del treno. I MAC dei veicoli motori che seguono sono corresponsabili nell’ambito delle loro possibilità, in particolare per il rispetto della velocità.
+	
+2.2	Competenze
+2.2.1	Facoltà di dare disposizioni 
+	
+	Nell’ambito dei processi relativi alla circolazione, possono dare disposizioni al MAC 
+–	il CMOV competente
+–	il CMAN, se del caso il MAN
+–	l’agente di scorta ai treni.
+Il MAC ha facoltà di dare disposizioni al MAC in formazione e all’aiuto MAC.
+
+2.2.2	Competenza nel caso di perturbazioni ai veicoli 
+	
+	Se non è disponibile alcuna persona esperta in materia, per le disposizioni tecniche nel caso di perturbazioni o danni ai veicoli motori è competente unicamente il MAC.
+	
+2.3	Incapacità di svolgere il servizio durante la corsa o dopo un’irregolarità
+	
+	Se il MAC non si sente più in grado di continuare il proprio lavoro, dopo aver fermato il treno deve chiedere di essere sostituito oppure richiedere una persona adeguata di un’IF per il proseguimento della corsa. Questa persona va istruito sul modo di fermare il treno in caso d’emergenza.
+	
+2.4	Dotazione
+	
+	Durante il servizio, il MAC deve portare con sé i documenti e i mezzi sussidiari necessari per uno svolgimento sicuro del proprio lavoro.
+	
+2.5	Conoscenze
+2.5.1	Pratica minima di guida
+	
+	Il MAC deve conseguire una pratica minima di guida conformemente all’ordinanza del DATEC concernente l’abilitazione alla guida di veicoli motore delle ferrovie.
+	
+2.5.2	Conoscenze della tratta e delle stazioni
+	
+	Il MAC è autorizzato a percorrere le tratte e le stazioni per le quali ha acquisito le necessarie conoscenze. Per acquisire le conoscenze delle tratte e delle stazioni è necessario percorrerle almeno quattro volte in ciascuna direzione, di cui una, se possibile, in condizioni d’oscurità. Se per tre anni consecutivi il MAC non ha più percorso una tratta o una stazione, le sue conoscenze vanno considerate insufficienti e devono essere aggiornate. Il MAC ha la corresponsabilità di assicurare che il livello delle proprie conoscenze sia aggiornato. Per rinfrescare le conoscenze delle tratte e delle stazioni, è necessario percorrerle almeno una volta in ciascuna direzione. 
+Per acquisire e aggiornare le conoscenze delle tratte e delle stazioni sono ammessi metodi di formazione alternativi. Ad esempio, possono essere utilizzati video che mostrano la tratta o la stazione dal punto di vista del MAC.
+  Il MAC è autorizzato a percorrere di propria responsabilità tratte o stazioni di cui non ha familiarità, se è pilotato da un MAC con conoscenze della tratta.
+In caso di perturbazioni dell’esercizio, è consentito al MAC di percorrere sotto la propria responsabilità tratte e stazioni di cui non ha familiarità. Il MAC dev’essere tuttavia in possesso delle necessarie tabelle della tratta, e conoscere le disposizioni esecutive concernenti la tratta e le stazioni. Il modo di circolare va adattato alla situazione vigente. Le ITF pubblicano le linee e le stazioni che non possono essere percorse con scarse conoscenze della tratta e delle stazioni.
+	
+2.5.3	Conoscenze dei veicoli
+	
+	Se per cinque anni consecutivi il MAC non ha mai servito un certo tipo di veicolo motore, o uno simile come impiego, le conoscenze al riguardo vanno considerate insufficienti e devono essere rinfrescate.
+	
+
+
+3	Prima e durante la corsa
+3.1	Controlli
+3.1.1	Controllo delle installazioni di sicurezza
+	
+	Il MAC deve controllare almeno una volta al giorno il corretto funzionamento delle installazioni di sicurezza sui veicoli motori e sui veicoli di comando, conformemente alle norme emanate dall’ITF. Il risultato dei controlli va messo a protocollo.
+	
+3.1.2	Controllo degli apparecchi di registrazione
+	
+	Il MAC deve controllare il regolare funzionamento degli apparecchi di registrazione per la velocità e per il controllo della marcia dei treni alla messa in servizio del veicolo e, secondo possibilità, anche durante la corsa, conformemente alle norme emanate dall’ITF.
+	
+3.2	Cabina di guida
+3.2.1	Occupazione della cabina di guida
+	
+	Sui veicoli motori con due cabine di guida separate, si deve servire quella anteriore in direzione di corsa, tranne che nel caso di perturbazioni. Le corse di manovra condotte indirettamente possono essere condotte dalla cabina di guida posteriore, le corse di manovra condotte direttamente, solo su itinerari ben visibili.
+	
+3.2.2	Stampati d’orario e della tratta, ordini
+	
+	I documenti necessari durante la corsa, quali orari di marcia, tabelle delle tratte e ordini, devono essere ben visibili in un luogo appropriato della cabina di guida.
+	
+3.2.3	Autorizzazione di accesso
+	
+	Oltre al MAC incaricato del servizio, durante la corsa sul veicolo motore possono sostare solo le persone che ne hanno il diritto e che possono legittimarsi. Fanno eccezione gli scompartimenti accessibili ai passeggeri di automotrici e di veicoli di comando come pure degli elettrotreni.
+L’ITF disciplina il numero massimo di persone che durante la corsa possono sostare nella cabina di guida occupata. Gli esperti d’esame e il personale istruttore possono decidere in deroga a questa disposizione, considerando la necessaria via di fuga.
+Se le cabine di guida di automotrici o di veicoli di comando sono predisposte per il trasporto di passeggeri, l’ITF può emanare corrispondenti prescrizioni.
+	
+
+3.2.4	Annuncio dei segnali
+	
+	Se oltre al MAC incaricato, in cabina di guida si trovano un superiore o un MAC in formazione, oppure un aiuto MAC o un altro MAC, questi devono annunciarsi reciprocamente la posizione dei segnali.
+L’annuncio dei segnali è fatto di principio come segue:
+		
+	Immagine del segnale per treni	Annuncio
+	Avvertimento o Fermata	«Chiuso»
+	Avviso di via libera o Via libera	«Aperto»
+	Annuncio di velocità o Esecuzione di velocità 	«Aperto» e, rispettivamente, la velocità segnalata o la velocità derogante indicata nella tabella della tratta
+	Corsa breve	«Corsa breve»
+	Al segnale d’entrata, oltre alla posizione del segnale va annunciato il nome della corrispondente stazione.
+	
+	Immagine del segnale basso	Annuncio
+	Fermata	«Chiuso»
+	Via libera	«Aperto diritto»
+	Via libera con prudenza	«Aperto obliquo»
+	
+	Immagine del segnale di manovra	Annuncio
+	Fermata per movimenti di manovra o Manovra vietata	«Chiuso»
+	Consenso per movimento di manovra
+o Manovra permessa 	«Aperto»
+	I segnali bassi e di manovra vanno annunciati soltanto per i movimenti di manovra.
+	
+	Luce di controllo per gli impianti di passaggio a livello	Annuncio
+	Impianto di passaggio a livello inserito
+lampeggia	«Luce di controllo lampeggia»
+	non lampeggia 	«Fermare! - Luce di controllo spenta»
+
+3.2.5	Ordini
+	
+	Se in cabina di guida oltre al MAC incaricato si trovano un superiore, un MAC in formazione, un aiuto MAC o un altro MAC, il MAC incaricato li deve mettere a conoscenza di eventuali ordini.
+Se un superiore, un MAC in formazione, un aiuto MAC o un altro MAC riceve un ordine, lo trasmette al MAC incaricato.
+	
+3.2.6	Trasporto di merci nella cabina di guida
+	
+	Il trasporto di merci di qualsiasi genere nella cabina di guida occupata è ammesso soltanto se queste non ostacolano il MAC nello svolgi­mento delle sue funzioni e se è assicurata la via di fuga. All’occorrenza, esse vanno trasportate nella cabina non occupata. L’ITF designa i trasporti ammissibili di beni privati o di servizio in cabina di guida.
+	
+3.2.7	Abbandono del veicolo motore
+	
+	Se il MAC si allontana dal veicolo motore o dal veicolo di comando, deve serrare il freno di stazionamento.
+Il MAC avvisa il CMOV, se si allontana dal veicolo motore al di fuori delle pause o delle interruzioni di lavoro consentite.
+	
+3.3	Modo di condurre il treno
+3.3.1	Principio 
+	
+	Il MAC deve condurre il treno in modo sicuro, puntuale e confortevole per i viaggiatori. Per quanto possibile, si adotterà una guida economica.
+	
+3.3.2	Attenzione al percorso e alla tratta
+	
+	Durante la corsa, il MAC deve rivolgere la sua attenzione al percorso e alla tratta. Oltre a ciò, deve essere osservare gli apparecchi e i dispositivi d’annuncio che servono alla guida del treno. Nel caso in cui durante la corsa debba compiere attività che distolgono l’attenzione, se necessario deve ridurre la velocità e, all’occorrenza, fermare. È proibito svolgere attività e colloqui che non hanno pertinenza con la circolazione o il servizio del veicolo motore.
+Prima di mettere in moto un veicolo motore, il MAC si assicura, nella misura del possibile, che nessuna persona o cosa sia esposta a pericolo. Immediatamente dopo l’inizio della corsa, deve verificare eventuali irregolarità al treno o al movimento di manovra. Nel limite del possibile, veglierà che nessuno sia in pericolo.
+A intervalli regolari, e prima di entrare in una galleria, il MAC deve sorvegliare il proprio treno nonché, per quanto possibile, altri treni e movimenti di manovra su binari attigui, in merito alla presenza di irregolarità che mettono a repentaglio l’esercizio.
+	
+3.3.3	Mancanza del consenso o dell’ordine di corsa
+	
+	Senza consenso o ordine di corsa, un treno o un movimento di manovra non possono essere avviati, salvo che vi sia un pericolo imminente.
+	
+3.3.4	Tutela dell’infrastruttura e dell’ambiente
+	
+	Se oltre alle luci di segnalazione della testa del treno, il veicolo motore è dotato di fari abbaglianti, questi ultimi devono essere usati in modo che nessuno sia abbagliato inutilmente.
+Per quanto possibile, occorre evitare di sabbiare:
+–	circolando sugli scambi e sulle crociere 
+–	a velocità inferiori a 20 km/h e all’arresto tranne che per partire.
+L’uso indebito del fischietto della locomotiva va evitato.
+	
+3.3.5	Servizio di rinforzo in testa, di spinta e intermedio, condotta riunita di treni
+	
+	Se la velocità massima consentita è superata del 10 %, si deve richiamare l’attenzione del MAC che si trova nel veicolo motore di testa. All’occorrenza occorre fermare la corsa.
+	
+
+
+4	Danni e irregolarità 
+4.1	In generale
+	
+	Se constata danni o irregolarità ad impianti o a veicoli, il MAC deve adottare adeguati provvedimenti. Danni o irregolarità vanno annun­ciati per iscritto al servizio competente.
+Se i danni o le irregolarità hanno un influsso diretto sulla corsa immi­nente, essi vanno annunciati anche al CMOV.
+	
+4.2	Provvedimenti dovuti alle condizioni atmosferiche
+	
+	Quando ritiene che vi siano cattive condizioni di aderenza, il MAC riduce di propria iniziativa la velocità, in particolare circolando in discesa.
+Qualora sussista un elevato pericolo di sviamento dovuto a forti nevicate, al rischio di valanghe o al congelamento delle gole della rotaia, il MAC può chiedere una locomotiva di rinforzo oppure che sia collocato in testa al treno il veicolo motore di un treno spola.
+
+
+Allegato 1
+
+
+
+Disposizioni supplementari per la trazione a vapore
+
+1	In generale
+1.1	Personale
+	
+	Per fuochista si intende la persona che cura la regolazione del fuoco come pure determinate mansioni tecniche sulla locomotiva a vapore. Egli non deve essere esaminato per le mansioni attinenti alla circolazione.
+Se le funzioni dell’aiuto MAC e del fuochista sono svolte da 
+un’unica persona, le mansioni di aiuto MAC hanno la priorità.
+	
+1.2	Veicoli
+	
+	Se non è altrimenti specificato, ai sensi delle presenti prescrizioni l’auto­motrice a vapore è equiparata alla locomotiva a vapore.
+
+
+2	Norme e condizioni
+2.1	Occupazione della locomotiva a vapore
+	
+	Il MAC può mettere in moto la locomotiva a vapore soltanto se in cabina di guida è presente un aiuto MAC. Per movimenti di manovra su corte distanze, l’ITF può prendere particolari disposizioni.
+Le locomotive a vapore che, di principio, possono essere servite da una sola persona, sono elencate nelle disposizioni esecutive dell’ITF.
+	
+2.2	Responsabilità
+	
+	Il MAC è corresponsabile per il lavoro del fuochista.
+	
+2.3	Competenze
+	
+	Il MAC ha facoltà di dare disposizioni al fuochista.
+
+
+3	Prima e durante la corsa
+3.1	Pericoli della corrente elettrica
+	
+	È vietato salire sulla caldaia della loc e sul tender, come pure innaffiare il carbone sui binari con linea di contatto, se quest’ultima non è disinserita, messa a terra e protetta contro il reinserimento involontario.
+Sotto la linea di contatto inserita è permesso innaffiare il carbone solo nel settore di carico nella cabina di guida.
+È raccomandata la massima prudenza nel maneggiare attrezzi da fuoco sotto la linea di contatto inserita.
+	
+3.2	Scorte
+	
+	Il tender va caricato rispettando la quantità massima indicata e in modo che durante la corsa non ne cada materiale infiammabile.
+	
+3.3	Controlli
+3.3.1	Indicatori del livello dell’acqua
+	
+	Per garantire che gli indicatori del livello dell’acqua indichino valori corretti, questi vanno soffiati ad intervalli regolari nel corso del riscaldamento e in seguito durante la circolazione.
+Il personale responsabile deve assicurare in modo previdente che nella caldaia vi sia sempre un livello d’acqua sufficiente. Il livello dell’acqua presente va sorvegliato costantemente osservando i due indicatori.
+	
+3.3.2	Valvole di sicurezza
+	
+	Il MAC controlla almeno una volta al giorno la funzione delle valvole di sicurezza della caldaia, possibilmente durante la corsa.
+	
+3.3.3	Iniettori, pompe di alimentazione
+	
+	Prima di cominciare la corsa, tutti i dispositivi di alimentazione devono essere controllati e in buon funzionamento.
+	
+3.4	Riscaldamento a vapore
+	
+	Prima di accoppiare e di sganciare veicoli dotati di condotta del riscaldamento a vapore, nella cabina di guida il rispettivo rubinetto d’isolamento dev’essere chiuso.
+	
+
+3.5	Corsa
+3.5.1	Attrezzi per il fuoco
+	
+	Durante la corsa, è vietato maneggiare attrezzi per il fuoco in maniera che possano sporgere dalla sagoma limite del veicolo.
+	
+3.5.2	Emanazione di scintille
+	
+	Si deve evitare lo sprigionamento di scintille.
+Se sulle locomotive a vapore sono prescritti dispositivi di protezione contro lo sprigionarsi di scintille, questi ultimi devono sempre essere funzionanti ed in ottimo stato.
+	
+3.5.3	Molestie
+	
+	Il fuoco va servito in modo tale da provocare il minimo possibile di fumo.
+L’apertura degli spurgatori nel settore del marciapiede, in vicinanza di strade, edifici ed animali dev’essere possibilmente evitato. Si deve evitare il soffiamento inutile delle valvole di sicurezza.
+Durante le operazioni di alimentazione della caldaia e di innaffiamento del carbone nessuno deve subire molestie o danni provocati dal getto d’acqua.
+	
+3.5.4	Spurgo
+	
+	Lo spurgo sopra le installazioni di sicurezza dev’essere evitato.
+	
+3.5.5	Linee di contatto
+	
+	Per quanto possibile, ci si deve fermare in modo che sopra il camino o le valvole di sicurezza non si trovino direttamente pali portanti o isolatori. Si deve pure evitare che l’acqua lanciata dal tubo soffiante ausiliare o dal tubo di scappamento del vapore del cilindro e della pompa ad aria provochi delle scariche elettriche.
+	
+
+3.6	Ricovero della locomotiva a vapore
+3.6.1	Abbandono della loc a vapore (sosta d’esercizio)
+	
+	Di principio, una locomotiva a vapore va occupata per l’intera durata dell’esercizio. Se ciò eccezionalmente non è possibile, bisogna procedere come segue:
+–	controllare se
+–	il regolatore è chiuso
+–	il comando è in posizione mediana
+–	i rubinetti di spurgo sono aperti
+–	chiudere i rubinetti del livello d’acqua
+–	chiudere la botola del cenerario
+–	chiudere le porte della cabina.
+	
+3.6.2	Luogo di ricovero
+	
+	Le locomotive a vapore sotto pressione non occupate possono essere ricoverate soltanto sui binari indicati dall’IF.
+
+

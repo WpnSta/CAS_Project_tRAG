@@ -1,0 +1,2673 @@
+﻿Chemins de fer suisses	R 300.2
+
+
+
+Signaux
+
+
+
+
+
+1	Généralités
+1.1	Dispositions générales
+1.1.1	Validité des signaux
+	
+	Il ne peut être fait usage que des signaux et images de signaux décrits et reproduits dans les présentes prescriptions. Des prescriptions d’exploi­tation spéciales demeurent toutefois réservées pour des essais et des conditions locales particulières. Sauf indication contraire, les signaux fixes sont reproduits tels qu’ils se présentent dans le sens de marche.
+Les signaux qui, contrairement aux prescriptions, ne sont pas allumés ou dont l’image est douteuse, doivent être considérés comme donnant l’ordre d’arrêt, respectivement l’avertissement pour les signaux avancés.
+Les signaux sont valables de jour comme de nuit. Les signaux spécifiques de nuit sont utilisés depuis le crépuscule jusqu’au lever du jour, ainsi que lorsque les conditions de visibilité ne sont pas bonnes et dans les tunnels. Les signaux de nuit donnés par les agents doivent être également transmis durant la journée quand, du fait de la mauvaise visibilité, on les distingue mieux que les signaux de jour.
+	
+1.1.2	Signaux fixes manquants ou pas clairement reconnaissables
+	
+	Si le personnel constate qu’un signal fixe est manquant ou n’est pas clairement reconnaissable, il doit en aviser le CC. 
+	
+1.1.3	Emplacement des signaux
+	
+	Les signaux fixes sont placés à gauche de la voie. Sur les tronçons à simple voie, les signaux peuvent également être placés à droite de la voie, pour des raisons de visibilité. Sur les tronçons à deux ou plusieurs voies et dans les gares, les signaux de la voie se trouvant tout à droite peuvent être disposés à droite de cette voie. La distinction gauche et droite s’entend dans le sens de marche du convoi.
+Dans les tunnels à double voie, les signaux des deux voies peuvent être disposés côte à côte entre les voies.
+En exploitation des tramways, l’emplacement des signaux peut déroger à ces principes si l’affectation est claire. Les signaux fixes peuvent également être fixés au-dessus des voies, à la ligne de contact par exemple. Les marquages au sol sont autorisés en tant qu'information complémentaire à un signal fixe existant. Les marquages au sol ne sont autorisés comme alternative à un signal fixe que s'ils sont définis dans les PCT.
+	
+	
+	
+	
+1.1.4	Exécution des signaux donnés par le personnel
+	
+	Il faut prescrire et donner les signaux avec calme et réflexion. Les signaux doivent être clairs et être rigoureusement observés. Si on craint un malentendu, il faut donner un avis complémentaire aux collaborateurs qui doivent observer le signal. Lorsqu’un signal n’est pas clair ou qu’il est impossible de le distinguer avec certitude, il faut au besoin s’arrêter et en attendre ou en demander la répétition.
+Les signaux acoustiques doivent être limités au strict nécessaire.
+1.1.5	Signaux ou images de signaux désignés par le symbole #
+	
+	Les signaux ou les images de signaux désignés par le symbole # ne doivent pas être utilisés pour la conception de nouvelles installations et de nouveaux véhicules ou pour le renouvellement d’installations et de véhicules.
+	
+1.1.6	Application des prescriptions des signaux en exploitation des tramways
+	
+	Les prescriptions des signaux s’appliquent dans le cadre de l’exploitation des tramways. 
+Les dispositions relatives aux signaux d’indication de vitesse et aux signaux d’aiguilles qui sont applicables à l’exploitation des tramways sont présentées à la fin des chiffres suivants, dans des chiffres de sous-sections spécifiques :
+    • signaux d’indication de vitesse chiffre 2.3, plus spécifiquement au chiffre 2.3.7 
+    • signaux d’aiguilles chiffre 2.5, plus spécifiquement aux chiffres 2.5.9 et 2.5.10.
+Les compléments 1 et 2 au R 300.2 ne sont pas applicables.
+	
+1.2	Représentation
+1.2.1	Couleurs des signaux
+	
+	Les couleurs suivantes sont utilisées en règle générale pour les signaux optiques :
+	rouge	arrêt, danger
+	orange	prudence, avertissement, ralentissement
+	vert	voie libre
+	jaune	traction électrique
+	violet	signaux SIM
+	blanc	signaux nains, signaux d’aiguilles, signaux indicateurs etc. ainsi que les signaux lumineux confirmant ou remplaçant des signaux acoustiques.
+1.2.2	Représentation des signaux clignotants
+	
+	Dans les dessins, les signaux clignotants sont représentés comme suit :
+	
+	
+	signal clignotant
+
+
+	
+1.2.3	Représentation des signaux acoustiques
+	
+	Dans les dessins, les signaux acoustiques sont représentés comme suit :
+		son long
+
+
+son court
+
+
+son oscillant 	
+	
+	
+1.2.4	Représentation des signaux donnés par le personnel
+	
+	Dans les dessins des présentes prescriptions on utilise :
+	une ligne pointillée	. . . . . . . . .	pour les mouvements rapides
+	une ligne discontinue	- - - - - - - -	pour les mouvements lents
+
+
+2	Signaux pour les trains et les mouvements de manœuvre
+2.1	Signaux de barrage
+2.1.1	Signal de barrage
+	
+	
+	Image	arrêt
+		Signification	arrêt devant le signal
+		En relation avec d’autres signaux
+			lorsqu’un itinéraire de train prend fin devant un tel signal, ce dernier est précédé d’un signal présentant l’image :
+– avertissement
+– itinéraire court
+	
+2.1.2	Signalisation de la position des sabots de déraillement, des sabots d’arrêt ou d’aiguilles menant à un cul-de-sac de sécurité
+	
+	La signalisation des sabots de déraillement ou des sabots d’arrêt ainsi que des aiguilles menant à un cul-de-sac de sécurité sans longueur utile peut être de construction analogue à celle des lanternes d’aguille ou être réalisée au moyen de signaux lumineux.
+Lanterne d’aguille pivotante
+		Image
+Signification	arrêt
+arrêt devant le signal
+		
+	
+	Le signal ne présente aucune image lorsque le dispositif de déraillement ou le sabot d’arrêt est rabattu.
+Le signal présente l’image correspondant à la position de l’aiguille lorsque l’aiguille ne mène pas au cul-de-sac de sécurité.
+
+
+	Signal lumineux
+		Image
+Signification	arrêt
+arrêt devant le signal
+		
+	
+		Image
+
+Signification	sabot de déraillement ou d’arrêt pas sur la voie
+sabot de déraillement ou d’arrêt correspondant rabattu
+	
+	
+	
+	Le signal présente l’image correspondant à la position de l’aiguille lorsque l’aiguille ne mène pas au cul-de-sac de sécurité.
+
+2.2	Signaux d’arrêt, de contrôle et de mise en garde
+2.2.1	Signal d’arrêt utilisé pour la couverture d’un obstacle
+	
+	
+de jour   
+une cible rouge   
+
+
+
+de nuit un feu rouge  	Image	arrêt
+		Signification	arrêt devant le signal, respectivement devant l’objet correspondant
+		En relation avec d’autres signaux
+			lorsqu’un itinéraire de train prend fin devant un tel signal, le signal précédant peut présenter l’image
+– avertissement
+– itinéraire court
+– circulation sur voie occupée
+– exécution de vitesse 40 km/h    pour les voies en cul-de-sac
+	
+
+	Les signaux d’arrêt sont utilisés pour
+–	la couverture de voies interdites, en particulier celles qui ne peuvent pas être protégées à l’appareil d’enclenchement. Dans les cas urgents, s’il n’y a pas de cible rouge à disposition, il est permis d’utiliser uniquement une lanterne à feu rouge ou un drapeau rouge déployé
+–	l’indication de l’extrémité de voies, les voies en impasse étant signalées par une cible ou un feu rouge, les voies en cul-de-sac de sécurité seulement par une cible rouge
+–	la couverture de plaques tournantes et de chariots transbordeurs non verrouillés (interdiction de circuler). Le signal présente un feu rouge, dans certains cas, une cible rouge.
+	Lorsque la plaque tournante ou le chariot transbordeur est verrouillé, (autorisation de circuler), le signal présente un feu blanc ou une cible de profil
+–	la couverture de ponts-bascules, gabarits mobiles, etc. Le signal présente une cible rouge lorsque le passage n’est pas libre. Quand l’éclairage est suffisant, il n’y a pas de signal de nuit.
+Sur les voies à trois ou quatre rails, la fin de la voie normale, respectivement de la voie étroite est signalée par un signal d’arrêt complété par la lettre N (voie normale) ou S (voie étroite). Dans ce cas, le signal d’arrêt n’est valable que pour les véhicules ayant l’écartement correspondant. Ce signal peut être utilisé seul ou combiné avec une lanterne d’aiguille.
+	Le GI peut autoriser dans les prescriptions d’exploitation de garer directement les véhicules contre les heurtoirs.
+	
+
+2.2.2	Feu de contrôle pour installation de passage à niveau
+	
+		Image
+
+
+Signification	signal avancé du feu de 
+contrôle pour installation de passage à niveau
+ce signal précède une 
+installation de passage à niveau équipée d’un feu de contrôle
+	
+		Image
+
+Signification	installation de passage à niveau enclenchée
+si le feu de contrôle, orange ou blanc, clignote, l’installation de passage à niveau est enclenchée ou les barrières sont fermées
+		En relation avec d’autres signaux
+			ce signal peut être précédé d’un signal avancé
+	
+	ou
+	
+	
+	
+	Les anciens signaux peuvent également présenter une forme triangulaire, analogue au signal avancé du feu de contrôle pour installation de passage à niveau. Ils sont implantés de manière uniforme sur l’ensemble de la ligne.
+Si le feu de contrôle surveille plus d’un passage à niveau surveillé, le feu de contrôle est équipé par une plaque complémentaire sur laquelle est indiqué le nombre de passages à niveau surveillés. Il faut renoncer à la plaque complémentaire à l’intérieur d’une zone avec imbrication d’installations de passage à niveau.
+Le feu de contrôle peut être aussi implanté sans repère noir et blanc.
+	
+2.2.3	Signal d’avertissement
+	
+	Le signal d’avertissement sert à éveiller l’attention ou à avertir des personnes.
+	
+	
+1 coup de sifflet  	Image
+Signification	avertissement
+prudence, un convoi s’approche
+		
+	
+	Le MEC donne le signal avec le sifflet de locomotive, les autres agents avec le sifflet de poche ou la corne d’appel. Suivant la distance à laquelle le signal doit être perçu, il faut siffler plus ou moins longtemps et plus ou moins fort. En cas de nécessité, il faut répéter plusieurs fois de suite le signal d’avertissement.
+En exploitation des tramways, si plusieurs moyens sont disponibles pour émettre le signal d’avertissement, leur utilisation doit être précisée par l'ETF.
+	
+2.2.4	Siffler
+	
+		Image
+Signification	siffler
+il faut donner le signal d’avertissement
+		
+	
+	Si le signal d’avertissement ne doit être donné qu’à certaines heures ou que pour certains trains, les indications correspondantes figurent sur une plaque complémentaire.
+	
+
+2.3	Signaux d’indication de vitesse
+2.3.1	Ecrans de vitesse pour les tronçons de voie devant être 
+parcourus à vitesse réduite
+	
+	Pour signaler les tronçons de pleine voie devant être parcourus en permanence à vitesse réduite, il est fait usage d’écran de vitesse. Entre la première et la dernière aiguille d’une gare, ces écrans de vitesses sont supprimés.
+Pour l’implantation des écrans de vitesse et les modifications de vitesses ultérieures, les dispositions du complément 1 sont applicables par analogie.
+	
+	Image
+
+Signification	signal avancé pour réduction de vitesse
+à partir du signal d’exécution correspondant, la vitesse maximale indiquée en km/h doit être respectée
+Quand le signal avancé indique deux vitesses, celle du haut (la plus faible) s’applique aux trains de la catégorie inférieure et aux mouvements de manœuvre, celle du bas 
+(la plus grande) concerne 
+les trains de la catégorie supérieure
+		En relation avec d’autres signaux
+			ce signal précède un signal d’exécution
+	
+		Image
+
+Signification	signal d’exécution pour réduction de vitesse
+à partir de ce signal, la vitesse maximale réduite doit être 
+respectée
+		En relation avec d’autres signaux
+			le signal d’exécution est précédé d’un signal avancé pour réduction de vitesse et peut être suivi d’un signal final
+			
+		Image
+
+Signification	signal final pour réduction de vitesse
+la vitesse réduite doit être 
+respectée jusqu’à ce que le dernier véhicule du convoi ait franchi ce signal
+		En relation avec d’autres signaux
+			ce signal peut être précédé d’un signal d’exécution pour réduction de vitesse
+			
+	Écrans de vitesse pour trains pendulaires circulant selon la catégorie de train correspondante
+	
+		Image
+
+
+
+Signification	signal avancé de réduction de vitesse pour trains pendulaires, circulant selon la catégorie de train correspondante
+à partir du signal d’exécution correspondant, la vitesse maximale indiquée en km/h doit être respectée
+		En relation avec d’autres signaux
+			ce signal précède un signal d’exécution
+	
+		Image
+
+
+
+
+Signification	signal d’exécution de réduction de vitesse pour trains pendulaires, circulant selon la catégorie de train correspondante
+à partir de ce signal, la vitesse maximale réduite doit être 
+respectée
+		En relation avec d’autres signaux
+			le signal d’exécution est précédé d’un signal avancé pour réduction de vitesse et peut être suivi d’un signal final
+			
+		Image
+
+
+
+Signification	signal final de réduction de vitesse pour trains pendulaires, circulant selon la catégorie de train correspondante
+la vitesse réduite doit être 
+respectée jusqu’à ce que le dernier véhicule du convoi ait franchi ce signal
+		En relation avec d’autres signaux
+			ce signal peut être précédé d’un signal d’exécution pour réduction de vitesse
+	
+2.3.2	Ecrans de vitesse pour la signalisation continue de la vitesse
+	
+	En cas de signalisation continue de la vitesse, les signaux d’exécution et finaux ne sont pas implantés. La vitesse maximale signalée est valable dès le signal avancé pour réduction de vitesse jusqu’au prochain écran de vitesse correspondant ou jusqu’à la prochaine gare. Le GI indique les tronçons équipés de la signalisation continue de la vitesse dans les prescriptions d’exploitation.
+Pour l’implantation des écrans de vitesse pour la signalisation continue de la vitesse, les dispositions du complément 3, chiffre 1, sont applicables.
+	
+2.3.3	Repère pour modification de vitesse maximale
+	
+		Image
+
+Signification	modification de vitesse 
+maximale
+Pleine voie
+une modification de vitesse maximale indiquée dans les tableaux des parcours avec la mention du point kilométrique doit être respectée à partir de ce signal
+Gare
+une modification de vitesse maximale indiquée dans les prescriptions d’exploitation du GI avec la mention d’un point kilométrique et qui est signalée doit être respectée dès ce signal
+
+2.3.4	Signaux de ralentissement
+	
+	Les lampes clignotent la nuit. L’implantation des signaux fait l’objet du complément 1.
+			
+		Image
+
+Signification	signal avancé du tronçon de ralentissement
+à partir du signal d’exécution correspondant, la vitesse en km/h ne doit pas dépasser 
+la valeur indiquée par le 
+nombre  10 
+		En relation avec d’autres signaux
+			ce signal est suivi d’un signal d’exécution.
+Il peut être suivi d’un signal de suppression
+			
+		Image
+
+Signification	signal d’exécution du tronçon de ralentissement
+à partir de ce signal, la vitesse maximale indiquée par le signal avancé correspondant doit être respectée
+		En relation avec d’autres signaux	
+			le signal d’exécution est précédé d’un signal avancé et suivi d’un signal final ou d’un autre signal avancé	
+		
+		Image
+
+Signification	signal final du tronçon 
+de ralentissement
+la vitesse réduite doit être 
+respectée jusqu’à ce que le dernier véhicule du convoi ait franchi ce signal
+		En relation avec d’autres signaux
+			ce signal est précédé d’un 
+signal d’exécution
+	
+
+
+	Lorsqu’une aiguille abordée par la pointe est située entre le signal avancé et le signal d’exécution et que la réduction de vitesse n’est applicable que sur certains des parcours possibles, la réduction de vitesse est supprimée par un signal de suppression.
+	
+		Image
+Signification	signal de suppression
+à partir de ce signal, le convoi ne se trouve plus sur le tronçon de ralentissement précédemment signalé.
+Lorsque le premier véhicule du convoi atteint ce signal, il est permis de reprendre la marche à la vitesse maximale prescrite
+		En relation avec d’autres signaux
+			ce signal est précédé en règle générale d’un signal avancé 
+	
+	Généralités
+Lorsque, sur une voie, plusieurs tronçons de ralentissement se succèdent, il faut observer les points suivants au signal avancé indiquant une vitesse plus élevée :
+–	ce signal avancé sert de signal final pour le tronçon de ralentissement précédent qu’il faut franchir à une vitesse inférieure
+–	ce signal avancé n’est équipé que d’un seul feu clignotant orange et vaut comme signal d’exécution du deuxième tronçon de ralentissement à franchir à une vitesse supérieure
+–	ce signal avancé n’est pas équipé du contrôle de la marche des trains à avertissement.
+Lorsque, dans une gare ou dans une halte, le point d’arrêt usuel des trains se situe après le signal avancé, respectivement le signal d’exécution d’un tronçon de ralentissement et que le signal d’exécution, respectivement le signal final n’est pas visible depuis le point d’arrêt usuel, il y a lieu de poser un signal de répétition. Ce signal de répétition peut être :
+–	un deuxième signal avancé, mais sans contrôle de la marche des trains à avertissement, lorsqu’il se situe avant le tronçon de ralentissement, 
+–	un deuxième signal d’exécution lorsqu’il se situe dans le tronçon de ralentissement.
+	
+		Image
+Signification	panneau complémentaire
+le tronçon de ralentissement signalé n’est valable que pour les voies indiquées sur le panneau complémentaire
+		
+			 
+	
+	Signification	le panneau complémentaire, comportant une ou deux flèches, placé au-dessus de signaux de ralentissement 
+situés entre deux voies, indique les voies auxquelles s’adresse le signal.
+	
+2.3.5	Indicateurs de vitesse pour le franchissement de ponts-bascules, freins de voie, remises, voies de raccordement, etc.
+	
+		Signification	la vitesse prescrite par l’indicateur de vitesse doit être respectée pour franchir les ponts-bascules et les freins de voie. Pour les remises et les voies de raccordement, la vitesse doit être respectée à partir du signal
+	
+
+2.3.6	Signaux de crémaillère
+	
+	Les tronçons équipés de crémaillère sont marqués par des signaux de crémaillère.
+L’implantation des signaux est conforme au complément 1 par analogie.
+	
+		Image
+
+Signification	signal avancé pour tronçon à crémaillère
+pour aborder la crémaillère, la vitesse maximale indiquée doit être respectée
+		En relation avec d’autres signaux
+			le signal avancé est situé environ 150 m avant le signal d’exécution
+	
+		Image
+
+Signification	signal d’exécution pour tronçon à crémaillère
+le début du tronçon à crémaillère se trouve à la hauteur de ce signal. Pour aborder la crémaillère, il ne faut pas dépasser la vitesse maximale signalée
+		En relation avec d’autres signaux
+			un signal avancé peut précéder ce signal. Il est suivi d’un signal final
+	
+		Image
+
+Signification	signal final pour tronçon à crémaillère
+la fin du tronçon à crémaillère se situe à la hauteur de ce signal
+		En relation avec d’autres signaux
+			ce signal est précédé par un signal d’exécution
+	
+	Dans les régions germanophones, les lettres «C» et «F» sont remplacées respectivement par «A» et «E».
+	
+	
+	
+2.3.7	Signaux d’indication de vitesse en exploitation des tramways
+	Ecrans de vitesse
+	
+	La vitesse maximale autorisée sur les tronçons de voie est signalée par des écrans de vitesse. Sur les voies de service, il est possible de ne pas utiliser de signalisation si la vitesse est réglée dans les prescriptions d’exploitation. 
+		Image
+Signification	vitesse maximale signalée
+à partir du signal, la vitesse maximale indiquée en km/h doit être respectée
+
+		
+			
+	Les GI peuvent définir les couleurs de fond et d'écriture des écrans de vitesse dans les prescriptions d'exploitation.
+Pour les aiguilles, il est possible d’ajouter des flèches directionnelles aux écrans de vitesse. Pour l’implantation, les dispositions du chiffre 2 du complément 3 sont applicables.
+Pour l'augmentation de la vitesse à partir de la tête du train, une signalisation complémentaire supplémentaire peut être installée conformément aux prescriptions d'exploitation du GI.
+			
+	Ecran de vitesse dans une courbe
+	
+	La vitesse maximale dans une courbe est signalée par des écrans de vitesse dans une courbe de forme ronde.
+		Image
+
+Signification	vitesse maximale dans une courbe
+à partir de la courbe, la vitesse maximale dans une courbe indiquée doit être respectée
+		
+			
+	Les GI peuvent définir les couleurs de fond et d'écriture des écrans de vitesse dans les prescriptions d'exploitation.
+Les fins de courbe ne sont en règle générale pas signalées. Les GI peuvent définir des signaux ou des marquages au sol matérialisant la fin de validité de la vitesse dans la courbe. 
+
+	Pour les aiguilles, il est possible d’ajouter des flèches directionnelles aux écrans de vitesse dans la courbe, analogues à celles utilisées pour les écrans de vitesse.
+	
+	Signalisation continue de la vitesse
+	
+	En cas de signalisation continue de la vitesse, aucun écran de vitesse dans une courbe n’est implanté, ni aucune signalisation de fin de courbe. La vitesse maximale signalée est valable de l’écran vitesse maximale signalée à l’écran suivant. 
+Pour l’implantation des écrans de vitesse pour la signalisation continue de la vitesse, les dispositions du chiffre 2 du complément 3 sont applicables.
+	
+	Signalisation non continue de la vitesse
+	
+	Le GI indique les voies de ligne régulière dépourvues de signalisation continue de la vitesse dans les prescriptions d’exploitation.
+	
+2.3.8	Signaux de ralentissement en exploitation des tramways
+	
+	Pour une meilleure visibilité, les signaux de ralentissement peuvent être éclairés.
+		Image
+
+Signification	signal avancé du tronçon de ralentissement
+le chiffre mentionné indique la 
+vitesse maximale autorisée en km/h à partir du signal d’exécution
+		En relation avec d’autres signaux
+			ce signal est suivi d’un signal d’exécution
+	Le signal avancé doit être implanté en règle générale sur des tronçons de voie admettant une vitesse maximale supérieure à 50 km/h. En cas de vitesses inférieures, le GI peut implanter le signal avancé si nécessaire
+	
+
+		Image
+
+Signification	signal d’exécution du tronçon de ralentissement
+à partir de ce signal, la vitesse maximale en km/h indiquée par le panneau complémentaire doit être respectée
+		En relation avec d’autres signaux
+			le signal d’exécution peut être précédé d’un signal avancé. Il est suivi d’un signal final ou d’un autre signal d’exécution
+	Les signaux d’exécution de tronçons de ralentissement sont complétés par un panneau complémentaire rectangulaire, analogue à l’écran de vitesse, qui indique la vitesse autorisée. Le panneau complémentaire peut être fixé au-dessous, à côté ou au-dessus du signal d’exécution.
+	
+		Image
+
+Signification	signal final du tronçon de 
+ralentissement
+la vitesse réduite doit être respectée jusqu’à ce que le dernier véhicule du convoi ait franchi ce signal
+		En relation avec d’autres signaux
+			ce signal est précédé d’un signal d’exécution
+	
+2.4	Signaux nains
+2.4.1	Généralités
+	
+	Les signaux nains ont pour fonction de régler les mouvements de 
+manœuvre ainsi que de protéger les mouvements de manœuvre entre eux et contre les trains.
+Les signaux nains sont désignés par un nombre et une lettre.
+	
+2.4.2	Validité et disposition des signaux nains
+	
+	Les signaux nains sont placés à proximité des ELV. Quand ils sont placés dans la zone d’un branchement, leur implantation est telle que la voie pour laquelle le signal est valable puisse être identifiée sans risque d’erreur.
+
+
+Les signaux nains indépendant des aiguilles servent, soit à couvrir les 
+installations de passage à niveau, soit à subdiviser des voies de grande longueur.
+Les signaux nains sont situés près du sol. Exceptionnellement, ils peuvent être surélevés et fixés à un mât par exemple, ou placés de l’autre côté de la voie.
+	
+	Signaux nains placés à droite
+		Les signaux nains placés à droite de la voie portent sur la face avant une flèche lumineuse désignant la voie pour laquelle ils sont valables
+	
+	Dos du signal nain
+		Au dos du signal nain, une flèche blanche peinte indique la voie à laquelle il s’adresse.
+Quand le signal nain indique l’image avancer ou avancer prudemment, un trait lumineux oblique s’allume au dos du signal nain (feu arrière).
+	
+	Sur les voies à trois ou quatre rails, le signal nain peut être complété par un N (voie normale) ou un S (voie étroite) lumineux. L’assentiment n’est alors valable que pour les véhicules ayant l’écartement indiqué.
+	
+2.4.3	Signaux nains dans les itinéraires de trains
+	
+	Les signaux nains compris dans un itinéraire de train présentent l’image avancer. Si un signal principal ou un signal de barrage présente l’image d’arrêt, le signal nain précédant présente l’image avancer prudemment.
+	
+2.4.4	Dernier signal nain en direction de la pleine voie
+	
+	Pour un train, le dernier signal nain avant la pleine voie présente l’image avancer, pour un mouvement de manœuvre, le signal nain présente l’image avancer prudemment.
+	
+	
+	
+	
+	
+2.4.5	Images présentées par les signaux nains
+	
+		Image
+Signification	arrêt 
+arrêt devant le signal
+		En relation avec d’autres signaux
+			un signal nain précédent présente l’image avancer prudemment
+	
+		Image
+Signification	avancer prudemment
+le mouvement peut commencer ou être poursuivi. Il faut s’attendre à trouver un obstacle immédiatement après le signal nain
+		En relation avec d’autres signaux
+			le signal nain suivant présente l’image arrêt, avancer prudemment, ou il s’agit du dernier signal nain
+	
+		Image
+Signification	avancer
+le mouvement peut commencer ou être poursuivi
+		En relation avec d’autres signaux
+			le signal nain suivant présente l’image avancer ou avancer prudemment
+	
+
+2.4.6	Signaux nains situés dans les zones de branchements
+	
+	Lorsqu’un signal nain se trouve au centre d’une traversée jonction, il s’adresse aux deux branches de l’aiguille. Si le signal nain présente l’image d’arrêt, il faut s’arrêter avant les lames d’aiguille.
+	
+	
+	
+	Si un signal nain est situé près des lames d’un branchement simple, il vaut pour les deux branches de l’aiguille. A l’approche du signal présentant l’image d’arrêt, en abordant l’aiguille par la pointe, il faut s’arrêter devant le signal nain, avant les lames. En venant depuis le talon, il faut s’arrêter devant le signal nain en position d’arrêt.
+	
+	
+
+
+	Lorsque le signal nain est situé entre le cœur d’aiguille et le signal limite de garage fictif d’un branchement simple, il n’est valable que pour une branche de l’aiguille. S’il présente l’ordre d’arrêt, il faut s’arrêter avant le signal nain.
+	
+	
+	
+2.5	Signaux d’aiguilles
+2.5.1	Généralités
+	
+	Les signaux d’aiguilles indiquent pour quel parcours l’aiguille est disposée et présentent la même image pour les deux sens de marche. Ils signalent :
+–	la position droite quand l’aiguille conduit sur sa branche rectili­gne ou, si les deux branches sont courbes, sur la branche extérieure
+–	la position en déviation quand l’aiguille conduit sur sa branche déviée ou, si les deux branches sont en courbe, sur la branche intérieure.
+Les signaux d’aiguilles sont constitués :
+–	de lanternes pivotantes pour les branchements simples et les traversées de jonction simples
+–	de signaux électriques de contrôle d’aiguille pour les branchements simples et pour les traversées de jonction
+–	de lanternes fixes à volets mobiles pour les traversées de jonction
+    • de signaux d’aiguille constitués d’un écran en tôle.
+
+Les signaux d’aiguilles peuvent être placés à gauche ou à droite de l’aiguille correspondante.
+	
+2.5.2	Signalisation de la position des branchements simples
+	
+	Lanterne pivotante
+	
+		Image
+Signification	aiguille en position droite
+circulation sur la branche rectiligne
+	
+		Image
+Signification	aiguille en position déviée
+circulation sur la branche déviée
+	
+	La position des aiguilles symétriques ou proches de la symétrie est indiquée au moyen de flèches.
+	
+		Image
+Signification	aiguille conduisant à gauche 
+circulation sur la branche de gauche 
+	
+		Image
+Signification	aiguille conduisant à droite
+circulation sur la branche de droite
+	
+	Signal électrique de contrôle d’aiguille
+	
+		Image
+Signification 	aiguille en position droite
+circulation sur la branche rectiligne
+	
+		Image
+Signification	aiguille en position déviée
+circulation sur la branche déviée
+	
+	Si le signal électrique de contrôle d’aiguille est éteint ou s’il clignote, l’aiguille n’a pas atteint sa position de fin de course.
+	
+2.5.3	Chiffre plus valable
+	
+	
+
+2.5.4	Signalisation de la position des traversées de jonction simples
+	
+	
+ou
+	Image
+Signification	aiguille en position droite
+circulation sur la voie rectili­gne de la direction principale
+	
+	
+ou
+	Image
+Signification	aiguille en position droite
+circulation sur la voie rectiligne de la direction transversale
+	
+	
+ou
+	Image
+Signification	aiguille en position déviée
+circulation de la voie de la direction principale à la voie de la direction transversale ou inversement
+	
+
+2.5.5	Signalisation de la position des traversées de jonction doubles
+	
+	Lanterne fixe à volets mobiles
+	
+		Image
+Signification	aiguille en position droite
+circulation sur la voie rectiligne de la direction principale
+	
+		Image
+Signification	aiguille en position droite
+circulation sur la voie rectiligne de la direction transversale
+	
+		Image
+Signification	aiguille en position déviée
+circulation de la voie de la direction principale à la voie de la direction transversale ou inversement
+	
+		Image
+Signification	aiguille en position déviée
+circulation de la voie de la direction transversale à la voie de la direction principale ou inversement
+	
+
+	Signal électrique de contrôle d’aiguille
+	
+			Image
+Signification	aiguille en position droite
+circulation sur la voie rectiligne de la direction principale
+	
+			Image
+Signification	aiguille en position droite
+circulation sur la voie rectiligne de la direction transversale
+	
+	ou
+				Ne doit pas être utilisé sur un réseau à voie normale
+	
+		
+	Image
+Signification	aiguille en position déviée
+circulation de la voie de la direction principale à la voie de la direction transversale ou inversement
+	
+			Image
+Signification	aiguille en position déviée
+circulation de la voie de la direction transversale à la voie de la direction principale ou inversement
+	
+	Si le signal électrique de contrôle d’aiguille est éteint ou s’il clignote, l’aiguille n’a pas atteint sa position de fin de course.
+
+2.5.6	Signalisation des aiguilles talonnables
+	
+	Franchissement depuis la pointe
+	
+		Image
+
+Signification	aiguille en position de fin de course
+aiguille franchissable
+	
+	Si la lampe de contrôle est éteinte ou clignotante, l’aiguille ne se trouve pas en position de fin de course.
+	Franchissement depuis le talon
+	
+		Image
+Signification	aiguille en position de base
+autorisation de franchissement
+	
+	Elles sont signalées par des lanternes pivotantes ou des signaux 
+électriques de contrôle d’aiguille avec une image blanche et verte ou seulement verte.
+2.5.7	Signaux limites de garage pour aiguilles et croisements
+	
+	Le signal est situé entre les voies qui se rejoignent.
+	
+		Image
+Signification	signal limite de garage
+le signal indique jusqu’à quel point les véhicules peuvent s’approcher de l’aiguille ou du croisement sans mettre en danger d’autres véhicules et sans être mis en danger eux-mêmes
+	Sur les réseaux à voie étroite avec des voies à trois ou quatre rails ou lors de l’utilisation de trucs et de bogies transporteurs, il peut y avoir différents signaux limite de garage pour les véhicules à voie normale respectivement pour les véhicules à voie étroite.
+	
+2.5.8	Signalisation des tronçons équipés d’ELV
+	
+	Les extrémités d’un tronçon équipé d’un ELV peuvent être signalées par un piquet jaune ou une boîte d’extrémité de câble peinte en jaune.
+	
+		Image
+
+
+Signification	signalisation de tronçon équipé d’ELV
+le signal indique jusqu’à quel point les véhicules peuvent s’approcher de l’ELV sans empêcher la manœuvre des aiguilles correspondantes, des sabots de déraillement ou des sabots d’arrêt basculants
+	
+2.5.9	Signaux d’aiguilles en exploitation des tramways
+	
+	En exploitation des tramways, la position de l’aiguille est en général indiquée par des signaux d’aiguilles, uniquement pour le franchissement depuis la pointe. 
+
+	Ces signaux d’aiguilles signalent : 
+–	la position droite quand l’aiguille conduit sur sa branche rectiligne ou, si les deux branches sont courbes, sur la branche extérieure
+–	la position en déviation quand l’aiguille conduit sur sa branche déviée ou, si les deux branches sont en courbe, sur la branche intérieure.
+Les signaux d’aiguilles sont constitués : 
+–	de signaux électriques de contrôle d’aiguille
+–	de signaux d’aiguilles constitués d’un écran en tôle.
+	
+	Signalisation de la position des branchements simples à l’aide de signaux électriques de contrôle d’aiguille
+	
+		Image
+Signification	aiguille en position droite 
+circulation sur la branche 
+rectiligne 
+	
+	ou
+	
+			
+	
+	ou
+	
+			
+	
+	
+		Image
+Signification	aiguille en position déviée 
+circulation sur la branche 
+déviée 
+	
+	ou
+	
+			
+	
+		Image
+Signification	indication de verrouillage
+aiguille protégée contre les manœuvres électriques 
+	
+	ou
+	
+			
+	
+	La désignation des aiguilles est fixée sur le cadre ou sur un panneau complémentaire. 
+Les signaux d’aiguilles peuvent présenter une lumière blanche, jaune ou orange. 
+Si le signal électrique de contrôle d’aiguille est éteint ou s’il clignote, l’aiguille n’a pas atteint sa position de fin de course.
+
+
+Informations complémentaires que le GI peut régler dans les prescriptions d’exploitation pour la signalisation des aiguilles : 
+–	Le type d’aiguille (par ex. aiguille à main, aiguille commandée de manière automatique, aiguille talonnable) peut être indiqué par une information complémentaire signalée à l’aide de cadres de différentes couleurs ou de plaques indicatrices de différentes couleurs.
+–	L’emplacement des récepteurs pour la commande d’aiguille peut être signalé par une image sur un panneau ou un marquage au sol. La vitesse prévue pour le franchissement des récepteurs correspondants peut être fixée sous la forme d’une vitesse maximale qui s’applique de manière générale et diffère de la vitesse de pleine voie ou être signalée spécifiquement pour le lieu, compte tenu des distances et de la capacité de freinage figurant sur l’image sur le panneau.
+	
+	Signalisation de la position des branchements simples à l’aide de signaux d’aiguilles constitués d’un écran en tôle
+	
+	La position des branchements simples peut être signalée à l’aide de signaux d’aiguilles constitués d’un écran en tôle, en lieu et place des signaux électriques de contrôle d’aiguille. Dans ce cas, le signal d’aiguille constitué d’un écran en tôle présente l’image correspondante comme le signal électrique de contrôle d’aiguille.
+	
+	Signal complémentaire au signal d’aiguille, indicateur de numéro de voie
+	
+		Image
+Signification	indicateur de numéro de voie
+le parcours est établi depuis ou en direction de la voie indiquée sur l’indicateur de numéro de voie 
+	
+	Les signaux électriques de contrôle d’aiguille ou la position des aiguilles doivent être contrôlés en plus.
+L’indicateur de numéro de voie peut présenter une lumière blanche, jaune ou orange.
+
+2.5.10	Signaux limites de garage pour aiguilles et croisements en exploitation des tramways
+	
+	Le signal est situé entre les voies qui se rejoignent.
+	
+		Image
+Signification	signal limite de garage
+le signal indique jusqu’à quel point les véhicules peuvent s’approcher de l’aiguille ou du croisement sans être mis en 
+danger eux-mêmes et sans mettre en danger d’autres véhicules
+	
+	Les signaux 299.15 et 299.16 peuvent être peints sur une surface de circulation commune.
+	
+2.6	Signaux d’indication
+2.6.1	Indicateurs pour équipements de voie du contrôle de la marche des trains
+	
+	L’emplacement des équipements de voie du contrôle de la marche des trains n’est, en principe, pas indiqué, à l’exception des cas suivants :
+	
+		Signification	le contrôle de la marche des trains sert à contrôler le 
+fonctionnement des 
+installations de passage à niveau sans feu de contrôle
+	
+		Signification	l’équipement de voie ne se trouve pas à proximité du signal principal correspondant, à proximité de l’indicateur de point d’arrêt pour signal de groupe ou il n’existe pas de signal.
+	
+		Signification	le contrôle de la marche des trains sert au contrôle de la vitesse
+	
+	Pour des raisons de profil, ces signaux peuvent aussi être disposés verticalement.
+	
+2.6.2	Indicateurs pour récepteur d’impulsion en exploitation ferroviaire
+	
+		Signification	début de la boucle du récepteur d’impulsion
+	
+		Signification	fin de la boucle du récepteur d’impulsion
+	
+
+2.6.3	Indicateurs pour récepteur d’impulsion en exploitation des tramways
+	
+		Signification	emplacement du récepteur de la commande de signal ou de l’aiguille
+Utilisation selon les prescriptions d’exploitation du GI.
+Le signal d’indication peut être complété par des flèches directionnelles qui indiquent pour quel sens de marche le signal doit être actionné.
+	
+	
+2.6.4	Indicateurs de début et de fin de gare
+	
+	L’indicateur de début de gare est toujours présent avec le système de signalisation N; avec le système de signalisation L, il n’est apposé qu’en cas de besoin.
+L’indicateur de fin de gare n’est apposé qu’en cas de besoin, indépendamment du système de signaux principaux. Il peut se trouver à droite s’il est apposé directement au dos du signal d’entrée.
+Pour les gares dépourvues de signaux d’entrée, les indicateurs de début et de fin de gare sont apposés en cas de besoin. S’ils sont présents, ils sont apposés ensemble à chaque emplacement.
+Les indicateurs de début et de fin de gare comportent l’abréviation officielle du nom de la gare concernée.
+	
+
+		Image
+Signification	début de la gare
+limite de manœuvre pleine voie–gare
+	
+		Image
+Signification	fin de la gare
+limite de manœuvre 
+gare–pleine voie
+	
+2.6.5	Indicateurs de déclivité
+	
+	Comme aide aux MEC, une modification de déclivité de 2 ‰ ou plus peut être signalée au moyen d’indicateurs de déclivité. Sur les tronçons à plusieurs voies, ils ne sont disposés que d’un seul côté des voies.
+	
+		Image
+
+Signification	début ou modification d’une rampe
+le nombre écrit en grand indique la rampe en ‰.
+le nombre écrit en petit indique la longueur en mètres de la rampe correspondante 
+	
+		Image
+
+Signification	début ou modification d’une pente
+le nombre écrit en grand indique la pente en ‰.
+le nombre écrit en petit indique la longueur en mètres de la pente
+	
+		Image
+Signification	début d’un tronçon en palier
+le nombre écrit en petit indique la longueur en mètres du tronçon en palier
+	
+
+2.6.6	Indicateurs kilométriques, hectométriques et métriques
+	
+	Le kilométrage des voies est signalé par des indicateurs kilométriques et hectométriques, le cas échéant par des indicateurs comportant les mètres.
+	
+		Image
+Signification	indicateur kilométrique
+le nombre indique le point 
+kilométrique
+	
+		Image
+Signification	indicateur hectométrique
+le nombre supérieur indique les kilomètres, le chiffre inférieur indique les hectomètres
+	
+		Image
+Signification	indicateur métrique
+le nombre supérieur indique les kilomètres, le nombre inférieur les mètres
+	
+2.6.7	Indicateur de canal de communication
+	
+	L’indicateur de canal de communication informe le MEC sur le canal de la radio à utiliser ou sur le moyen de communication mobile à appliquer.
+	
+		Image
+Signification	canal de communication
+dès cet indicateur, le moyen de communication mobile indiqué doit être utilisé, le cas échéant avec le canal correspondant
+	
+			
+			
+2.6.8	Signalisation de l’emplacement des téléphones
+	
+		Image
+Signification	emplacement d’un téléphone
+un téléphone se trouve à cet endroit
+	
+	Dans les tunnels, l’emplacement des téléphones peut être signalé par des lanternes.
+Suivant les conditions locales, des flèches peuvent indiquer dans quelle direction se trouve le poste de téléphone le plus proche.
+	
+2.6.9	Indicateurs de zone intermédiaire de sécurité
+	
+		Image
+Signification	zone intermédiaire de sécurité
+il est permis de s’y tenir et de réaliser des travaux entre des voies ou entre une voie et un obstacle fixe, en faisant preuve de la vigilance nécessaire
+	
+		Signification	il n’est permis de s’y tenir et de réaliser des travaux qu’entre les deux voies centrales, en faisant preuve de la vigilance nécessaire
+	
+		Signification	il n’est permis de s’y tenir et de réaliser des travaux qu’entre l’obstacle fixe et la voie contiguë, en faisant preuve de la vigilance nécessaire
+	
+	Les indicateurs peuvent être adaptés en fonction des différentes situations.
+	
+
+2.6.10	Signalisation des installations de passage à niveau
+	
+		Image
+
+Signification	installation de passage à niveau surveillée
+le passage à niveau est protégé au moyen d’une installation de passage à niveau surveillée. 
+La signalisation est numérique, en règle générale en spécifiant le point kilométrique
+	
+		Image
+
+Signification	Installation de passage à niveau à sécurité intrinsèque
+le passage à niveau est protégé au moyen d’une installation de passage à niveau à sécurité intrinsèque
+La signalisation est numérique, en règle générale en spécifiant le point kilométrique
+	
+2.6.11	Signalisation de zone avec imbrication d’installations de passage à niveau
+	
+	Les zones présentant une imbrication peuvent être identifiées au moyen d’une signalisation d’une zone avec imbrication d’installations de passage à niveau. La signalisation est fixée sur chaque mât de ligne de contact dans la zone d’imbrication.
+	
+		Image
+
+
+Signification	zone avec imbrication d’installations de passage à niveau
+à l’intérieur de la zone avec imbrication signalée, 
+–	en présence d’un assentiment pour circuler au moyen d’un signal principal pour installation de passage à niveau en dérangement
+–	en présence d’un feu de contrôle éteint
+–	en cas de fonctionnement du contrôle de la marche des trains au niveau de l’indicateur pour équipements de voie du contrôle de la marche des trains,
+toutes les installations de passage à niveau suivantes doivent être franchies selon les dispositions « Franchissement d’une installation de passage à niveau surveillée en dérangement ».
+			
+2.6.12	Indicateurs pour voie de raccordement
+	
+		Image
+
+Signification	début de la voie de raccordement
+limite infrastructure ferroviaire – voie de raccordement
+	
+		Image
+Signification	fin de la voie de raccordement
+limite voie de raccordement – infrastructure ferroviaire
+	
+
+2.6.13	Limites d’infrastructure en exploitation des tramways
+	
+		Image
+
+Signification	limite d’infrastructure
+
+passage au GI correspondant
+			
+2.7	Signaux donnés par le personnel
+2.7.1	Balancement du bras
+	
+	Le balancement du bras décrit un mouvement vertical circulaire, dans le sens de marche :
+–	de jour, selon les conditions de visibilité, avec le bras, le drapeau roulé ou avec un objet bien visible
+–	de nuit, avec une lanterne à feu blanc.
+	
+		Image
+Signification	balancement du bras
+–	pour les mouvements de manœuvre :
+assentiment pour le mouvement de manœuvre
+–	pour les trains :
+dépassement du point d’arrêt usuel
+	
+
+2.7.2	Signe de la main
+	
+	
+de jour	De jour
+tendre le bras perpendiculairement à la voie
+De nuit
+tendre le bras perpendiculairement à la voie, en tenant une lampe à feu blanc
+		Image
+Signification	signe de la main
+arrêt au niveau de la personne qui tend le bras
+	
+	
+de nuit		
+	
+
+2.8	Signaux pour la zone pour les chemins de fer routiers
+2.8.1	Début et fin de la zone pour les chemins de fer routiers
+	
+	Les zones pour les chemins de fer routiers en exploitation ferroviaire en pleine voie et en gare sont signalées au moyen de signaux pour la zone pour les chemins de fer routiers. Pour l’implantation des écrans de vitesse pour la signalisation continue de la vitesse, les dispositions du complément 3 sont applicables.
+	
+		Image
+
+Signification	signal avancé de la zone pour les chemins de fer routiers
+à partir du signal d’exécution, les prescriptions pour franchir une zone pour les chemins de fer routiers sont valables
+		En relation avec d’autres signaux
+			ce signal précède un signal d’exécution
+	
+		Image
+
+Signification	signal d’exécution de la zone pour les chemins de fer routiers
+à partir de ce signal, les prescriptions pour franchir une zone pour les chemins de fer routiers sont valables
+		En relation avec d’autres signaux
+			il peut être précédé d’un signal avancé et suivi d’un signal final
+	
+		Image
+
+Signification	signal final de la zone pour les chemins de fer routiers
+les prescriptions pour franchir une zone pour les chemins de fer routiers sont valables jusqu’à ce que le dernier véhicule ait franchi ce signal
+		En relation avec d’autres signaux
+			il peut être précédé d’un signal d’exécution
+	
+	
+2.8.2	Signaux de chemins de fer routiers
+	
+	Les signaux de chemins de fer routiers se trouvent à proximité immédiate de l’installation de régulation du trafic et sont dépendants avec celle-ci.
+La signalisation des signaux qui sont en dépendance avec un appareil d’enclenchement est à régler dans les prescriptions d’exploitation du GI.
+L’image du signal peut présenter une rangée de feu ou une barre allumée.
+	
+		Image	arrêt
+		Signification	arrêt devant le signal
+	
+	
+		Image	circulation autorisée
+		Signification	circulation autorisée
+	
+	Avec la mise à voie libre du signal, la direction correspondante peut être indiquée à droite ou à gauche.
+	
+		Image	hors service
+		Signification	marche prudente
+L’installation de régulation du trafic est hors service
+	
+	L’image hors service peut être signalée alternativement par un ou plusieurs points lumineux clignotants, conformément aux prescriptions d'exploitation. 
+
+	Informations complémentaires aux signaux de chemins de fer routiers en exploitation des tramways qui peuvent être réglées par le GI dans les prescriptions d’exploitation : 
+–	signalisation complémentaire pour la validité du signal selon 
+–	le mode de transport (par ex. tramway, bus)
+–	la direction (par ex. flèche) 
+–	la ligne
+–	annonce à l’installation de régulation du trafic
+–	changement de phase à venir.
+En exploitation des tramways, les GI peuvent définir dans quels cas les signaux lumineux clignotants jaunes de l’installation de signalisation lumineuse correspondent à la signification hors service des signaux de chemins de fer routiers. 
+	
+2.9	Limite entre l’exploitation ferroviaire et l’exploitation des tramways
+	
+		Image
+
+
+Signification	début de l’exploitation des tramways / fin de l’exploitation ferroviaire
+limite exploitation ferroviaire – exploitation des tramways
+		
+			
+		Image
+
+
+Signification	début de l’exploitation ferroviaire / fin de l’exploitation des tramways
+limite exploitation des tramways – exploitation ferroviaire
+		
+			
+	
+
+
+3	Signaux pour les mouvements de manœuvre
+3.1	Signaux fixes de manœuvres
+	
+	Les dispositions relatives aux signaux fixes de manœuvre s’appliquent à l’exploitation ferroviaire. 
+En exploitation des tramways, les GI définissent les signaux fixes de manœuvre dans les prescriptions d’exploitation. Les GI s'orientent alors à l'aide des signaux de manœuvre utilisés en exploitation ferroviaire.
+	
+3.1.1	Généralités
+	
+	Les signaux de manœuvre ont pour fonction de régler les mouvements de manœuvre ainsi que de protéger les mouvements de manœuvre entre eux et contre les trains.
+Les signaux de manœuvre sont désignés par une lettre et un nombre.
+	
+3.1.2	Validité et disposition des signaux de manœuvre
+	
+	Les signaux de manœuvre présentent des images lumineuses ou des combinaisons de signal lumineux et d’image sur un panneau. Les signaux de manœuvre qui présentent des images lumineuses peuvent montrer au même signal l’image d’arrêt de manœuvre ou l’image d’évacuation. Les signaux lumineux peuvent également présenter le signal de barrage.
+	
+	Signaux de manœuvre placés à droite de la voie
+	
+		Si le signal est placé à droite de la voie, un panneau complémentaire portant une flèche indique la voie à laquelle s’adresse le signal
+	
+	Dos des signaux de manœuvre
+	
+		Quand un signal de manœuvre indique l’image assentiment pour le mouvement de manœuvre ou manœuvre autorisée, un feu blanc s’allume au dos du signal (feu arrière).
+	
+3.1.3	Images des signaux de manœuvre
+	
+	Signal d’arrêt de manœuvre
+	
+		Image
+
+Signification	arrêt pour le mouvement 
+de manœuvre
+les mouvements de manœuvre doivent s’arrêter devant le 
+signal. Si le signal est valable pour plusieurs voies, il y a lieu de s’arrêter avant le signal 
+limite de garage de l’aiguille concernée
+	
+		Image 
+
+Signification	assentiment pour le mouvement de manœuvre
+le mouvement peut commencer ou être poursuivi	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Signal d’évacuation
+	
+	Le rayon de validité des signaux d’évacuation est réglé dans les prescriptions d’exploitation locales.
+	
+		Image
+Signification	manœuvre interdite
+l’itinéraire de train protégé par ce signal doit être immédiate­ment évacué et maintenu libre
+	
+	Avec l’assentiment du CC, des mouvements de manœuvre peuvent toutefois être exécutés malgré la position d’interdiction du signal d’évacuation.
+	
+		Image
+Signification	manœuvre autorisée
+aucun itinéraire de train n’est établi dans la zone de validité du signal
+	
+	
+	
+	
+	
+	
+3.2	Signalisation des véhicules durant la manœuvre
+3.2.1	Signalisation des véhicules moteurs en service durant la manœuvre en gare
+	
+	Locomotive de manœuvre
+	
+		De jour
+–	à l’avant (en avant) : au milieu, en haut : un «V» non éclairé
+–	à l’arrière (en arrière) : aucun signal
+De nuit 
+–	à l’avant (en avant) : au milieu, en haut : un «V» blanc illuminé et deux feux blancs
+–	à l’arrière (en arrière) : deux feux blancs
+	
+	Dans les installations où plusieurs locomotives de manœuvre sont utilisées simultanément, le numéro de service est indiqué à l’avant et à l’arrière.
+	
+3.2.2	Signalisation pour les mouvements de manœuvre en pleine voie
+	
+	Véhicule moteur
+	
+		A l’avant deux feux blancs
+	
+	Il faut éteindre la signalisation à l’avant des véhicules moteurs qui ne sont pas en tête du convoi.
+	
+		A l’arrière éteint ou un feu blanc en bas
+De nuit, en queue du mouvement de manœuvre, un feu blanc ou rouge en bas
+	
+	Wagons et voitures
+	
+		De jour, les wagons et les voitures ne doivent porter aucune signalisation
+De nuit
+–	un feu blanc en tête du mouvement de 
+manœuvre
+–	un feu blanc ou rouge en queue de mouvement de manœuvre
+	
+	Les mouvements de manœuvre constitués d’un véhicule moteur et de wagonnets (échelles roulantes, lorry, etc.) ne portent les signaux que sur le véhicule moteur s’il est impossible de les fixer aux wagonnets.
+Les véhicules rail-route qui ne peuvent pas être signalés comme des véhicules moteurs présentent, en marche avant et en marche arrière, la signalisation conformément à la loi sur la circulation routière.
+	
+3.2.3	Signalisation des véhicules moteurs durant la manœuvre en exploitation des tramways
+	
+	La signalisation des véhicules utilisée durant la manœuvre est la même que celle des trains en exploitation des tramways.
+	
+
+3.2.4	Signalisation des véhicules dont l’accostage est interdit
+	
+	
+de jour	Image
+Signification	arrêt
+arrêt avant ces véhicules
+			
+	
+de nuit feu rouge   		
+	
+	Si de tels signaux ne sont pas disponibles, il faut placer un signal d’arrêt avant et après les véhicules.
+	
+3.2.5	Panneau de préchauffage
+	
+	Les véhicules qui sont raccordés à l’installation fixe de préchauffage ou qui sont préchauffés par un véhicule moteur non occupé doivent être signalés par des panneaux de préchauffage. Excepté les trains-navettes qui sont préchauffés par le véhicule moteur, même s’ils comportent des véhicules supplémentaires.
+	
+		Signification	la ligne de train est sous 
+tension
+	
+	Cette signalisation est également utilisée pour les véhicules alimentés en électricité à d’autres fins, à partir d’une installation fixe.
+	
+3.2.6	Panneau de mise en garde pour sabot d’arrêt
+	
+		Signification	les véhicules sont assurés contre la dérive à l’aide de sabots d’arrêt
+3.3	Signaux pour les mouvements de manœuvre, donnés par le personnel
+3.3.1	Généralités
+	
+	Les signaux acoustiques doivent être donnés à l’aide du sifflet de poche et confirmés par des mouvements du bras, de nuit, en tenant une lampe à feu blanc si rien d’autre n’est expressément mentionné. Ces signaux acoustiques et optiques ne sont pas donnés lorsque les ordres sont transmis par radio ou de vive voix. 
+	
+3.3.2	En avant
+	
+		Donner un long coup de sifflet et effectuer avec le bras levé un demi-cercle verticalement dans le sens de marche.
+		Image
+Signification	en avant 
+mettre en mouvement, en avant
+		En relation avec d’autres signaux
+			ce signal peut être suivi du 
+signal liaison visuelle
+	
+3.3.3	En arrière
+	
+		Donner deux longs coups de sifflet et effectuer avec le bras levé deux demi-cercles verticalement, dans le sens de marche.
+		Image
+Signification	en arrière 
+mettre en mouvement, en 
+arrière
+		En relation avec d’autres signaux
+			ce signal peut être suivi du 
+signal liaison visuelle
+	
+3.3.4	Garer
+	
+	Garer en avant
+	
+		Donner un long coup de sifflet, lever et rapprocher les deux bras d’un mouvement circulaire perpendiculairement à la voie.
+		Image
+Signification	garer en avant
+garer en avant en direction d’un obstacle
+		En relation avec d’autres signaux
+			ce signal peut être suivi du 
+signal liaison visuelle
+	
+	Garer en arrière 
+	
+		Donner deux longs coups de sifflet, lever et 
+rapprocher deux fois les deux bras d’un 
+mouvement circulaire perpendiculairement à la voie.
+		Image
+Signification	garer en arrière
+garer en arrière en direction d’un obstacle
+		En relation avec d’autres signaux
+			ce signal peut être suivi du 
+signal liaison visuelle
+	
+	Les signaux garer en avant et garer en arrière doivent être complétés par l’ordre garer donné de vive voix.
+	
+3.3.5	Liaison visuelle
+	
+		Balancer lentement le bras dirigé vers le bas, 
+obliquement à la voie.
+		Image
+Signification	liaison visuelle
+contrôle optique de liaison entre le CMAN et le MEC
+		En relation avec d’autres signaux
+		Signification	on peut ensuite donner les indications de distance
+	
+	Après avoir commencé de donner les indications de distance, ce signal n’est plus transmis.
+	
+3.3.6	Indications de distance
+	
+	Pour indiquer la distance séparant les véhicules en mouvement de l’obstacle, il faut donner verbalement les indications «un wagon – demi – quatre mètres – deux mètres – un mètre», en complétant chaque indication comme suit :
+	
+		Lever le bras tendu une fois à la hauteur de l’épaule, perpendiculairement à la voie; pour l’indication deux mètres, lever deux fois le bras tendu.
+		Signification	indication de distance
+		En relation avec d’autres signaux
+			l’ordre d’arrêt peut être ensuite donné
+	
+3.3.7	Lancer
+	
+		Donner un coup de sifflet court suivi d’un long et lever une fois le bras d’un geste rapide dans le sens du lancer, en décrivant un demi-cercle.
+Le signal doit être complété par l’ordre lancer donné de vive voix.
+		Image	lancer
+		Signification	accélération rapide du mouvement de manœuvre
+	
+	Si des véhicules se trouvent de part et d’autre de la locomotive, il faut aviser le MEC sur la direction du lancer.
+	Après avoir donné l’ordre de lancer, il faut donner l’ordre suivant :
+	
+		Balancer rapidement le bras dirigé vers le bas, obliquement à la voie, jusqu’à ce que la vitesse voulue soit atteinte.
+		Signification	contrôle optique de liaison entre le CMAN qui observe le parcours et le MEC
+		En relation avec d’autres signaux
+			l’ordre suivant est l’arrêt
+	
+3.3.8	Ralentir
+	
+		Agiter légèrement le bras tendu perpendiculairement à la voie, verticalement.
+		Image	ralentir
+		Signification	réduction de la vitesse du mouvement de manœuvre
+	
+
+3.3.9	Arrêt
+	
+		De jour
+donner trois brefs coups de sifflet et agiter rapidement le bras tendu verticalement, perpendiculairement à la voie.
+De nuit
+donner trois brefs coups de sifflet et agiter rapidement une lampe à feu rouge verticalement, perpendiculairement à la voie. A défaut de lampe à feu rouge, il est exceptionnellement possible d’utiliser une lampe à feu blanc.
+		Image	arrêt
+		Signification	le mouvement de manœuvre doit être arrêté
+	
+3.3.10	Appuyer
+	
+		Avis verbal et lever les deux bras en avant à la hauteur des épaules, puis rapprocher et écarter à plusieurs reprises les mains ouvertes paume contre paume.
+		Image	appuyer
+		Signification	le mouvement doit avancer prudemment dans la direction du CMAN
+	
+	Quand l’entente verbale est impossible, à cause de la distance ou pendant l’attelage ou le dételage de véhicules, l’ordre appuyer peut être complété par deux brefs coups de sifflet.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3.3.11	Mouvements en avant et en arrière sur de courtes distances
+	
+		Donner un, respectivement deux longs coups de sifflet et agiter lentement le bras dirigé vers le bas, dans le sens de marche.
+		Signification	mettre en mouvement en avant, respectivement en arrière
+		En relation avec d’autres signaux
+			peu de temps après la trans­mission de ce signal, il faut s’attendre à recevoir l’ordre d’arrêt
+	
+3.3.12	Sonnerie d’entente et corne de manœuvre
+	
+	Dans les situations simples, on peut aussi transmettre un assentiment à 
+un mouvement de manœuvre à l’aide de la sonnerie d’entente ou de la corne de manœuvre, au moyen du signal  (long–court–long).
+	
+
+3.4	Signaux d’indication pour les mouvements de manœuvre
+3.4.1	Signalisation des postes d’interphone et d’annonce pour les 
+mécaniciens de locomotive
+	
+	Les postes d’interphone et d’annonce pour les mécaniciens de locomotives servent à l’entente entre le MEC et le CC. Ils peuvent être utilisés depuis la cabine de conduite et depuis le sol.
+	
+		Avec support rayé noir et orange
+		Image	appel obligatoire
+		Signification	le MEC doit obligatoirement s’annoncer auprès du CC.
+L’appel obligatoire est supprimé si le signal fixe situé à la suite du poste d’annonce ou d’interphone présente un assentiment pour avancer.
+
+	
+		Avec support rayé noir et blanc
+		Image	appel facultatif
+		Signification	le MEC peut, s’il le faut, prendre contact avec le CC.
+Il peut y avoir une lampe 
+blanche clignotante placée 
+au-dessus du haut-parleur 
+pour inviter le MEC à s’annoncer.
+	
+
+3.4.2	Signaux de mise en garde
+	
+	Des bandes jaunes et noires signalent les obstacles qui se trouvent près du profil d’espace libre ou qui représentent une source de danger non recon­naissable sans autre.
+	
+		Image	attention au profil
+		Signification	il faut redoubler de prudence
+
+4	Signaux pour la préparation des trains
+4.1	Essai des freins
+4.1.1	Signaux fixes pour l’essai des freins
+	
+		Image	serrer
+		Signification	ordre de serrer les freins
+	
+		Image	serrer les freins magnétiques
+		Signification	ordre de serrer les freins de façon à faire entrer en action les freins magnétiques sur rail
+	
+		Image	lâcher
+		Signification	ordre de desserrer les freins
+	
+		Image	frein bon
+		Signification	les freins sont bons
+4.1.2	Signaux donnés par le personnel pour l’exécution de l’essai des freins
+	
+	Si les ordres et les annonces relatifs à l’essai des freins ne peuvent pas être transmis au MEC de vive voix, en phonie ou à l’aide des signaux fixes, il faut les transmettre à l’aide du sifflet de poche et les compléter par des mouvements du bras ou, de nuit, si rien d’autre n’est explicitement indiqué, par un feu blanc.
+	
+	Serrer
+	
+	
+de jour	De jour
+donner trois brefs coups de sifflet, lever les deux bras verticalement et joindre les paumes ouvertes au-dessus de la tête, perpendiculairement à la voie.
+De nuit
+donner trois brefs coups de sifflet, élever lentement le feu blanc en décrivant un demi-cercle perpendiculairement à la voie, puis l’abaisser verticalement, en un geste rapide.
+		Image	serrer
+		Signification	ordre de serrer les freins
+	
+	
+de nuit	
+		
+	Desserrer les freins
+	
+		Donner deux brefs coups de sifflet et balancer le bras levé, perpendiculairement à la voie.
+		Image	lâcher
+		Signification	ordre de desserrer les freins
+	
+	Frein bon
+	
+		Lever le bras en présentant au MEC la paume de la main.
+Le signal donné par le personnel frein bon doit être quittancé par le MEC par le même signal.
+		Image	frein bon
+		Signification	les freins sont bons
+	
+
+4.2	Annonce de prêt
+	
+		Lever le bras, de nuit, en tenant un feu blanc, en direction de la personne chargée de donner l’autorisation de départ.
+		Image	prêt
+		Signification	le prêt est annoncé
+
+
+5	Signaux pour la circulation des trains	
+5.1	Signaux pour les trains	
+5.1.1	Généralités	
+		
+	Les signaux pour les trains sont valables pour la circulation des trains. En principe, on fait une distinction entre les signaux avancés et les signaux principaux et on différencie les signaux des systèmes L et N.
+En principe, les signaux principaux peuvent présenter toutes les images de signaux et l’image de base d’un signal principal est l’image d’arrêt. A l’inverse, les signaux avancés ne peuvent pas présenter l’image d’arrêt et leur image de base est l’avertissement.	
+		
+5.1.2	Signaux du système L	
+		
+	L’annonce de vitesse et l’exécution de vitesse sont représentées par des combinaisons de points lumineux de couleur.	
+		
+5.1.3	Signaux du système N	
+		
+	L’annonce de vitesse et l’exécution de vitesse sont signalées par un point lumineux et un nombre.	
+		
+5.1.4	Signaux avancés	
+		
+	Signaux avancés du système L	
+		
+		Le signal avancé du système L peut présenter :
+–	avertissement
+–	annonce de vitesse
+–	exécution de vitesse
+–	annonce de voie libre
+–	 voie libre	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	Signaux avancés du système N	
+		
+		Le signal avancé du système N est reconnaissable au cadre carré réfléchissant qui entoure les lampes de couleur.
+Ce signal peut présenter :
+–	avertissement
+–	annonce de vitesse
+–	exécution de vitesse
+–	voie libre	
+		
+	Signaux répétiteurs	
+	Lorsqu’après un signal la visibilité sur le prochain signal est entravée, le signal peut être répété. Depuis un signal répétiteur, la distance de freinage à la vitesse maximale admissible n’est donc pas respectée. Dans l’esprit des prescriptions, le signal répétiteur n’est pas considéré comme étant le prochain signal.	
+		
+	Panneau complémentaire pour signaux répétiteurs du système N	
+		
+		Le signal répétiteur du système N est reconnaissable au panneau réfléchissant blanc comprenant deux étoiles noires.	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+5.1.5	Signaux principaux	
+		
+	Signaux principaux du système L	
+		
+		Les lampes des signaux principaux sont alignées en une seule rangée verticale, parfois, pour des raisons de place, les lampes du rouge et du rouge de secours peuvent être légèrement décalées en une rangée verticale parallèle.
+Les signaux principaux du 
+système L peuvent présenter l’image :
+–	arrêt 
+–	avertissement
+–	annonce de vitesse
+–	exécution de vitesse
+–	annonce de voie libre
+–	voie libre
+–	itinéraire court
+–	signal auxiliaire
+Si, du fait de l’alignement des lampes, il n’est pas possible de reconnaître un signal principal, celui-ci sera complété par une plaque complémentaire blanche à cadre noir et comportant un point noir en son centre.	
+		
+	Signaux principaux du système N	
+		
+		Le signal principal du système N est reconnaissable au cercle réfléchissant blanc entourant les ampoules de couleurs. Ce signal peut présenter l’image :
+–	arrêt
+–	avertissement
+– 	annonce de vitesse
+–	exécution de vitesse
+–	voie libre
+–	itinéraire court
+– 	voie occupée
+–	signal auxiliaire	
+	Signaux principaux mini	
+	Les signaux principaux mini sont utilisés dans les installations marchandises, de manœuvre et d’entretien, dans lesquelles la vitesse maximale est de 40 km/h.
+Le signal principal mini est placé près du sol et n’est valable que pour une seule voie. Dans les installations dotées de signaux nains, le signal principal mini est placé au-dessus du signal nain.	
+		
+		Le signal principal mini est équipé de 2 lampes placées en une rangée verticale.
+Le signal principal mini peut présenter l’image arrêt ou avertissement.
+	
+		
+5.1.6	Signal avancé et signal principal du système L implantés au même endroit	
+		
+	Le signal avancé placé au même endroit qu’un signal principal se rapporte toujours au signal principal suivant.
+Le signal avancé indique l’avertissement ou il est éteint aussi longtemps que le signal principal implanté au même endroit présente l’image d’arrêt.
+Le signal avancé reste éteint aussi longtemps que le signal principal implanté au même endroit indique l’image itinéraire court.	
+		
+		
+		
+5.1.7	Désignation des signaux	
+		
+		Le signal principal est désigné par une lettre. Au besoin, on la fait suivre du numéro de la voie à laquelle il se rapporte.
+
+	
+	
+		Le signal avancé porte la dénomination du signal principal suivant, complétée d’une étoile, le signal répétiteur de deux, respectivement de trois étoiles.		
+			
+5.2	Images des signaux pour les trains		
+5.2.1	Principe de base dans l’enchaînement des signaux pour les trains		
+			
+	Un signal ne peut présenter une image d’exécution de vitesse inférieure que s’il a été précédé d’un signal présentant une image d’annonce de vitesse inférieure.
+Un signal peut présenter une image d’exécution de vitesse supérieure sans que cela ait été précédemment signalé.		
+			
+5.2.2	Avertissement et préavertissement		
+			
+		Image
+Signification	avertissement
+la vitesse doit être réduite de façon à pouvoir arrêter le convoi devant le prochain signal présentant l’image arrêt.		
+			
+			
+		Image
+Signification	avertissement
+la vitesse doit être réduite de façon à pouvoir arrêter le convoi devant le prochain signal présentant l’image arrêt.	
+		
+		Image	avertissement	
+		Signification	la vitesse doit être réduite de façon à pouvoir arrêter le convoi devant le prochain signal présentant l’image arrêt.	
+			
+				
+		
+		Image	préavertissement	
+		Signification	la vitesse doit être réduite de façon à pouvoir arrêter le convoi devant le deuxième signal successif. Depuis le prochain signal, la distance de freinage à la vitesse maximale admissible n’est pas respectée.	
+		En relation avec d’autres signaux	
+			le prochain signal présente l’image avertissement, le suivant ordonne arrêt.	
+		
+
+5.2.3	Arrêt 
+	
+		Image	arrêt
+		Signification	arrêt devant le signal
+		En relation avec d’autres signaux
+			ce signal est précédé d’un 
+signal présentant l’image avertissement.
+Exception :
+Le signal précédent peut présenter l’image itinéraire court ou il y a un panneau annonçant un signal d’entrée sans signal avancé.
+			
+		Image	arrêt
+		Signification	arrêt devant le signal
+		En relation avec d’autres signaux	
+			ce signal est précédé d’un 
+signal présentant l’image 
+avertissement.
+	
+	
+	
+	
+	
+5.2.4	Annonce de voie libre
+	
+		Image	annonce de voie libre 
+(Image 1*)
+		Signification	depuis le prochain signal, circulation à la vitesse maximale indiquée dans les tableaux des parcours.
+	
+		Image
+
+Signification	annonce de voie libre
+(Image 1*)
+depuis le prochain signal, circulation à la vitesse maximale indiquée dans les tableaux des parcours.
+			
+	
+
+5.2.5	Voie libre
+	
+		Image
+Signification	voie libre (Image 1)
+circulation à la vitesse maximale indiquée dans les tableaux des parcours.
+	
+		Image	voie libre
+		Signification	circulation à la vitesse maximale indiquée dans les tableaux des parcours.
+	
+
+5.2.6	Annonce de vitesse	
+		
+		Image	annonce de vitesse 40 km/h
+(Image 2*)	
+		Signification	à partir du prochain signal, 
+respectivement de l’aiguille en relation, la vitesse maximale de 40 km/h doit être respectée. Si une vitesse inférieure est prévue dans les tableaux des parcours, c’est cette vitesse qu’il faut respecter.
+Les réseaux à voie étroite peuvent prescrire des vitesses inférieures.	
+		
+		Image	annonce de vitesse 60 km/h
+(Image 3*)	
+		Signification	à partir du prochain signal, 
+respectivement de l’aiguille en relation, la vitesse maximale de 60 km/h doit être respectée. Des vitesses supérieures peuvent figurer dans les tableaux des parcours.
+Les réseaux à voie étroite peuvent prescrire des vitesses inférieures.	
+	
+
+		Image	annonce de vitesse 90 km/h
+(Image 5*)
+		Signification	à partir du prochain signal, 
+respectivement de l’aiguille en relation, la vitesse maximale de 90 km/h doit être respectée.
+Les réseaux à voie étroite peuvent prescrire des vitesses inférieures.
+	
+		Image	annonce de vitesse
+		Signification	à partir du prochain signal, la vitesse maximale en km/h à respecter équivaut au nombre indiqué  10.
+	
+	
+	
+5.2.7	Exécution de vitesse
+	
+		Image
+
+Signification	exécution de vitesse 40 km/h
+(Image 2)
+depuis ce signal, respective­-
+ment depuis l’aiguille en relation, la vitesse maximale à 
+respecter est de 40 km/h. Si une vitesse inférieure figure dans les tableaux des parcours, c’est cette vitesse qu’il faut respecter.
+Les réseaux à voie étroite peuvent prescrire des vitesses inférieures.
+	
+		Image	exécution de vitesse 60 km/h
+(Image 3)
+		Signification	depuis ce signal, respective­ment depuis l’aiguille en relation, la vitesse maximale à 
+respecter est de 60 km/h. Si des vitesses supérieures figurent dans les tableaux des parcours, ce sont ces vitesses qu’il faut respecter.
+Les réseaux à voie étroite peuvent prescrire des vitesses inférieures.
+		Image	exécution de vitesse 90 km/h
+(Image 5)
+		Signification	depuis ce signal, respective­ment depuis l’aiguille en 
+relation, la vitesse maximale à respecter est de 90 km/h.
+Les réseaux à voie étroite 
+peuvent prescrire des vitesses inférieures.
+			
+		Image	exécution de vitesse
+		Signification	depuis ce signal, la vitesse maximale en km/h à respecter équivaut au nombre
+indiqué  10.
+	
+
+5.2.8	Itinéraire court
+	
+		Image	itinéraire court (Image 6)
+		Signification 	depuis ce signal respectivement depuis l’aiguille en relation, la vitesse maximale est de 40 km/h. Si une vitesse inférieure est indiquée dans les tableaux des parcours, c’est cette vitesse qu’il faut respecter.
+Les réseaux à voie étroite peuvent prescrire des vitesses inférieures.
+Le prochain signal se trouve à distance réduite.
+		En relation avec d’autres signaux
+			le prochain signal présente l’image d’arrêt
+le prochain signal peut égale­ment être
+–	un signal de barrage
+–	une extrémité d’une voie avec feu rouge
+	
+		Image	itinéraire court
+		Signification	depuis ce signal, la vitesse maximale est de 40 km/h. Si une vitesse inférieure est indiquée dans les tableaux des parcours, c’est cette vitesse qu’il faut respecter.
+Le prochain signal se trouve à distance réduite.
+		En relation avec d’autres signaux
+			Le prochain signal présente l’image d’arrêt.
+Le prochain signal peut égale­ment être une extrémité d’une voie avec feu rouge
+
+5.3	Signaux complémentaires
+5.3.1	Voie occupée
+	
+		Image	voie occupée
+		Signification	il faut s’attendre à trouver un obstacle sur le tronçon suivant le signal
+		En relation avec d’autres signaux
+			lorsque le signal de voie occupée est allumé, le signal principal correspondant présente l’image exécution de vitesse 40 km/h ou itinéraire court. Le signal avancé fixé au même endroit est éteint.
+	
+		Image	voie occupée
+		Signification	il faut s’attendre à trouver un obstacle sur le tronçon suivant le signal
+		En relation avec d’autres signaux
+			lorsque le signal de voie occu­pée est allumé, le signal précé­dent présente l’image annonce de vitesse ou exécution de vitesse 40 km/h. Le signal correspondant présente l’image avertissement.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+5.3.2	Signal pour entrée dans une gare sans accès dénivelé aux quais
+	
+		Image	entrée dans une gare sans 
+accès dénivelé aux quais
+		Signification	entrée sur la voie la plus proche du bâtiment de la gare
+ou
+entrées simultanées
+		En relation avec d’autres signaux
+			lorsque le signal est allumé, le signal correspondant présente l’image exécution de vitesse 40 km/h ou itinéraire court. Le signal avancé situé au même endroit est éteint
+	
+5.3.3	Tableaux indicateurs de voie et de direction pour les signaux du système L
+	
+	Indicateur de numéro de voie
+	
+		Image	indicateur de numéro de voie
+		Signification	l’itinéraire est établi depuis, respectivement, en direction de la voie indiquée sur l’indicateur de numéro de voie
+		En relation avec d’autres signaux
+			l’indicateur de numéro de voie est en relation avec le signal principal situé sur le même support.
+	
+
+	Indicateur de direction
+	
+		Image	indicateur de direction
+		Signification	l’itinéraire est établi depuis, respectivement, dans la direction ou le faisceau de voies indiqué par l’indicateur de direction
+		En relation avec d’autres signaux
+			l’indicateur de direction est en relation avec le signal principal fixé au même support
+	
+5.3.4	Flèche indicatrice pour signal de groupe
+	
+		Image	flèche indicatrice pour signal de groupe
+		Signification	la flèche indique la voie à partir de laquelle l’itinéraire est établi
+		En relation avec d’autres signaux
+			la flèche indicatrice se rapporte au signal principal situé sur le même support
+	
+5.3.5	Signal annonciateur de voie libre
+	
+		Image	signal annonciateur de voie 
+libre
+		Signification	le signal principal corres­pondant présente une image de voie libre à partir de cette voie
+	
+
+5.3.6	Indicateur de point d’arrêt pour signal de groupe
+	
+	Dans les gares pourvues de signaux de groupe, des indicateurs de point d’arrêt peuvent être placés avant le signal limite de garage ou avant l’ELV correspondant pouvant être utilisé pour un croisement ou un dépassement.
+L’indicateur de point d’arrêt pour signal de groupe est toujours complété par un signal annonciateur de voie libre ou par un indicateur d’image de voie libre.
+	Signalisation combinée avec un signal annonciateur de voie libre
+	
+		Image	indicateur de point d’arrêt pour signal de groupe combiné avec un signal annonciateur de voie libre
+		Signification	Lors de l’entrée
+arrêt avant l’indicateur de point d’arrêt pour signal de groupe lorsque le signal de groupe présente l’image arrêt
+Lors du départ
+lorsque le signal de groupe est à voie libre, le signal annonciateur de voie libre allumé vaut comme assentiment pour circuler
+	
+
+	Signalisation avec indicateur d’image de voie libre
+	
+		Image	indicateur de point d’arrêt pour signal de groupe combiné avec un indicateur d’image de voie libre
+		Signification	Lors de l’entrée
+arrêt avant l’indicateur de point d’arrêt pour signal de groupe lorsque le signal de groupe présente l’image arrêt
+Lors du départ
+si l’image du signal de groupe à voie libre correspond avec celle indiquée sur l’indicateur d’image de voie libre, cela vaut comme assentiment pour circuler (Im = image de voie libre)
+	
+	Indicateur d’image de voie libre combiné avec un indicateur de point d’arrêt
+	En plus de l’indicateur de point d’arrêt pour signal de groupe, il est également possible de compléter l’indicateur de point d’arrêt usuel par un indicateur d’image de voie libre.
+	
+		Image	indicateur d’image de voie libre combiné avec un indicateur de point d’arrêt
+		Signification	l’indicateur d’image de voie libre indique l’image du signal de groupe correspondant à l’itinéraire de sortie depuis la voie concernée (Im = image de voie libre)
+	
+
+5.3.7	Signaux de cul-de-sac
+	
+	Aiguille munie d’une lanterne pivotante
+	
+ 	
+	de jour	de jour	Image
+Signification	voie en cul-de-sac
+les trains doivent s’arrêter devant l’aiguille menant au cul-de-sac.
+	
+	
+	de nuit	de nuit		
+	
+
+	Aiguille munie d’une lanterne fixe
+	
+	
+de jour	Image	voie en cul-de-sac
+		Signification	les trains doivent s’arrêter devant l’aiguille menant au cul-de-sac
+			
+	
+de nuit   		
+			
+	
+5.4	Panneau d’indication lorsqu’un signal principal ou avancé manque
+5.4.1	Panneau pour annoncer l’absence de signal avancé d’entrée
+	
+		Image	absence de signal avancé d’entrée
+		Signification	ce panneau se trouve à distance de freinage du signal d’entrée.
+Il faut s’attendre à trouver le signal d’entrée à l’arrêt.
+	
+
+5.4.2	Panneau S pour annoncer l’absence de signal d’entrée
+	
+		Image	absence de signal d’entrée
+		Signification	ce panneau se trouve à distance de freinage de la première aiguille d’une gare
+	
+5.5	Signaux d’indication pour la circulation des trains
+5.5.1	Panneau H pour annoncer une halte
+	
+		Image 	halte
+		Signification	le signal H se trouve à distance de freinage du milieu de la halte
+	
+5.5.2	Signal pour arrêt facultatif
+	
+	Le signal est utilisé pour les haltes et dans les gares où l’arrêt est facultatif. Il se trouve dans la zone du lieu d’embarquement.
+	
+		Image	arrêt facultatif
+		Signification	les trains dont la marche comporte une remarque correspondante doivent s’arrêter
+	
+	Les anciens signaux ne sont équipés que d’une lampe.
+	
+
+5.5.3	Panneau d’indication pour seuil de vitesse d’entrée, 
+pour les signaux du système L
+	
+		Image	seuil de vitesse à la première aiguille
+		Signification	le seuil de vitesse se trouve à hauteur de la première aiguille
+		En relation avec d’autres signaux
+			ce panneau se trouve à l’emplacement du signal avancé d’entrée correspondant
+	
+5.5.4	Panneau de préannonce d’un signal d’entrée du système N
+	
+		Image	préannonce d’un signal d’entrée du système N
+		Signification	le signal suivant est le signal d’entrée
+		En relation avec d’autres signaux
+			si le signal suivant est un signal répétiteur, le signal qui suit ce dernier est le signal d’entrée
+	
+5.5.5	Panneau de seuil de vitesse pour la vitesse de pleine voie, pour les signaux du système N
+	
+		Image	vitesse de pleine voie
+		Signification	dès ce panneau, le convoi peut circuler à la vitesse de pleine voie
+		En relation avec d’autres signaux
+			ce panneau est précédé d’un signal principal
+	
+
+5.5.6	Panneau d’annonce de fonctionnement du contrôle de la marche des trains
+	
+	Ce panneau se trouve juste avant le signal avancé concerné.
+	
+		Signification	le contrôle de la marche des trains entre en action non seulement quand le signal présente l’image avertissement mais aussi avec certaines images de voie libre.
+	
+5.5.7	Indicateurs de point d’arrêt et de longueur de trains qui s’arrêtent en exploitation ferroviaire
+	
+		Image	point d’arrêt
+		Signification	point d’arrêt pour les trains de voyageurs
+	
+		Image	point d’arrêt
+		Signification	point d’arrêt pour les trains de voyageurs d’une longueur de 100 m
+		En relation avec d’autres signaux
+			En plus de l’indicateur illustré, on peut ensuite trouver des indicateurs similaires portant l’indication 05, 15, 2, 25, 3, 35, 4 etc. pour les trains de 50 m, 150 m, 200 m, 250 m, 300 m, 350 m, 400 m, etc.
+	
+		Image	longueur du train
+		Signification	point d’arrêt pour les trains dont la longueur correspond à la longueur du train indiquée
+	
+
+	Les trains dont la longueur ne correspond pas à la valeur mentionnée sur les indicateurs s’arrêtent en se décalant en conséquence.
+Les indications mentionnées sur les indicateurs tiennent compte de la longueur du train, y compris le véhicule moteur.
+	
+		Image	longueur du train
+		Signification	point d’arrêt pour les trains dont le nombre d’essieux correspond au nombre indiqué
+	
+	Les anciens indicateurs peuvent également mentionner la longueur du train en nombre d’essieux.
+	
+5.5.8	Signalisation du point d’arrêt en exploitation des tramways
+	
+	En exploitation des tramways, le GI détermine les signaux servant à la signalisation des points d’arrêt.
+	
+5.5.9	Affichage d'état pour les signaux de chemins de fer routiers en exploitation de tramways
+	
+	En exploitation de tram, les GI peuvent régler les affichages d'état pour les signaux de chemins de fer routiers dans les prescriptions d'exploitation. Ces affichages d'état indiquent l'état attendu du signal de chemins de fer routiers correspondant, sans que la signification d'un signal avancé puisse leur être attribuée.
+	
+5.6	Signaux de départ
+	
+	Le signal d’autorisation de départ ne doit être transmis que si l’assen­timent pour la sortie a été donné.
+	
+
+5.6.1	Signaux fixes pour l’autorisation de départ	
+		
+		Image	autorisation de départ	
+		Signification	transmission de l’autorisation de départ	
+		
+5.6.2	Signaux du personnel pour l’autorisation de départ	
+		
+	S’il n’est pas possible de transmettre l’autorisation de départ au MEC au moyen des signaux fixes de départ, il faut la transmettre de la façon suivante :	
+		
+	Sifflet à roulette	
+		
+		Donner un long coup de sifflet à roulette et lever une fois le bras dans la direction de marche du train, de nuit avec une lampe à feu blanc ou vert, dans le sens de marche.	
+		Image	autorisation de départ	
+		Signification	transmission de l’autorisation de départ	
+	
+
+	Palette de commandement ou lanterne à main
+	
+	
+de jour   	De jour
+balancer lentement la palette de commandement perpendiculairement au train jusqu’à ce qu’il se mette en mouvement
+De nuit
+balancer lentement la lanterne ou la lampe de poche à feu vert perpendiculairement au train jusqu’à ce qu’il se mette en mouvement.	
+		Image	autorisation de départ	
+		Signification	transmission de l’autorisation de départ	
+			
+	
+de nuit		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+5.7	Signalisation des véhicules pour la circulation des trains	
+5.7.1	Signalisation des véhicules moteurs en service dans les trains	
+		
+	Dans le cadre de ces prescriptions, les unités de trains-navettes sont assimilés à des véhicules moteurs.	
+		
+		A l’avant trois feux blancs	
+		Image	tête du train	
+		
+	Lorsqu’un véhicule moteur circule ailleurs qu’en tête du train, ses feux avant doivent être éteints.	
+		
+		A l’arrière éteint ou un feu blanc en bas	
+				
+				
+		
+	Entre les véhicules moteurs circulant en commande multiple, tous les feux doivent être éteints.	
+		
+
+5.7.2	Signalisation de la queue du train
+	
+	
+	Image	signal de queue du train
+		Le dernier véhicule porte à l’arrière sur un axe transversal au-dessus du tampon :
+–	pour les trains voyageurs et en 
+exploitation des tramways
+–	deux feux rouges (feu continu) selon figure 587
+–	pour les trains de marchandises
+–	deux cibles rouges et blanches réfléchissantes selon figure 588 ou
+–	deux feux rouges (feu continu) selon figure 587
+Si cela s’avère nécessaire à cause des conditions de construction des véhicules ou en tenant compte des exigences du GI, le dernier véhicule des trains voyageurs et des trains de marchandises peut porter sur des lignes non interopérables et des lignes du réseau complémentaire interopérable ainsi qu’en exploitation des tramways :
+–	un feu rouge (feu continu) # ou
+–	un feu rouge clignotant # ou
+–	une cible rouge et blanche réfléchissante #
+		
+5.7.3	Signalisation des trains conduits de manière indirecte
+	
+	Les véhicules situés en tête du train portent un feu blanc à l’avant dans le sens de marche. A l’extérieur des tunnels, il est possible de renoncer de jour à la signalisation de la tête du train. 
+	
+5.7.4	Signalisation de la locomotive de renfort en queue, non attelée
+	
+	La locomotive qui pousse un train en pleine voie sans être attelée au train porte, lors de la pousse et du retour en gare
+    • à l’avant trois feux blancs
+    • à l’arrière un feu blanc.
+Le dernier véhicule attelé porte le signal de queue du train.
+	
+
+6	Chiffre plus valable
+
+	
+	
+	
+
+	
+
+7	Signaux pour la traction électrique
+	
+	Les signaux pour la traction électrique doivent être clairement 
+reconnaissable également de nuit.
+	
+7.1	Signaux valables pour la traction électrique en général
+7.1.1	Signalisation des dispositifs de mise à terre
+	
+	
+de jour    	Image	tronçon de ligne de contact déclenché et mis à terre
+		Signification	arrêt pour les véhicules avec pantographe levé avant le tronçon de ligne de contact concerné
+	
+
+	
+de nuit   		
+			
+	
+	Si le dispositif de mise à terre est suspendu dans le profil d’espace libre, le drapeau rouge, respectivement la lampe à feu rouge équivaut à un signal d’arrêt qui s’adresse à tous les mouvements.
+	
+7.1.2	Signaux de manœuvre de pantographes
+	
+		Image	signal avancé d’abaissement
+		Signification	les pantographes doivent être abaissés au plus tard au niveau du signal d’abaissement.
+		En relation avec d’autres signaux
+			ce signal est suivi d’un signal d’abaissement.
+Ce signal peut être suivi d’un signal de suppression d’abais­sement.
+	
+
+		Image	signal d’abaissement
+		Signification	arrêt pour les véhicules avec pantographe levé
+		En relation avec d’autres signaux
+			ce signal peut être précédé d’un signal avancé d’abaisse­ment et peut être suivi d’un signal final d’abaissement.
+Dans les gares et sur les voies de raccordement, ce signal peut être utilisé seul sous forme :
+–	de panneau fixe
+–	de panneau mobile
+–	de panneau pivotant sur un mât ou sur une lanterne d’aiguille.
+Le signal d’abaissement peut également se présenter sous la forme d’un signal lumineux surmonté d’un triangle blanc.
+	
+		Image	signal final d’abaissement
+		Signification	autorisation de relever les pantographes
+		En relation avec d’autres signaux
+			ce signal est précédé d’un signal d’abaissement.
+	
+
+		Image	signal de suppression d’abaissement
+		Signification	à partir de ce signal, le convoi ne se trouve plus sur le tronçon à parcourir avec pantographe abaissé
+		En relation avec d’autres signaux
+			ce signal est précédé d’un signal avancé d’abaissement.
+	
+7.1.3	Signaux pour les sections de protection
+	
+	Le début et la fin des sections de protection permanentes sont marqués par des signaux.
+Le début et la fin des sections de protection facultatives sont marqués par des signaux lumineux.
+En exploitation des tramways, le signal de déclenchement peut être indiqué sans être précédé d’un signal avancé et sans signal d’enclenchement. Au lieu du déclenchement du disjoncteur principal, la zone de séparation doit être franchie dans la mesure du possible sans courant de traction et de freinage. Les zones de séparation se trouvent directement après le signal de déclenchement.
+	
+		Image	signal avancé de déclenche­ment
+		Signification	préparation du déclenchement
+		En relation avec d’autres signaux
+			ce signal est suivi d’un signal de déclenchement
+	
+	
+	
+
+		Image	signal de déclenchement
+		Signification	passage avec disjoncteur principal déclenché
+		En relation avec d’autres signaux
+			ce signal peut être précédé d’un signal avancé de déclenchement et est suivi d’un signal d’enclenchement.
+			
+		Image	signal d’enclenchement
+		Signification	poursuite de la marche avec disjoncteur principal enclenché
+		En relation avec d’autres signaux
+			ce signal est précédé d’un signal de déclenchement.
+Lorsque la section de protec­tion est sous tension et qu’elle peut être franchie sans dé­clenche­ment, si elle est équi­pée de la signalisation lumi­neuse, le signal avancé de déclenchement et le signal de déclenchement présentent aussi l’image d’enclenchement, pour autant qu’ils soient allumés.
+	
+
+7.1.4	Signaux de sectionnement en exploitation ferroviaire
+	
+		Image	sectionnement
+		Signification	arrêt pour les véhicules circulant avec pantographe levé, lorsque la ligne de contact de la pleine voie est déclenchée.
+		En relation avec d’autres signaux
+			Le début du sectionnement est indiqué, du côté de la gare par le signal de sectionnement, du côté de la pleine voie par le signal d’entrée.
+	
+7.1.5	Signal pour les zones de séparation en exploitation des tramways
+	
+		Image
+Signification	zone de séparation
+emplacement de la zone de 
+séparation électrique
+	
+7.2	Signaux des zones de transition entre différents courants
+7.2.1	Signal d’abaissement de pantographe au début des sections 
+de protection entre courants différents
+	
+	Le début d’une section de protection qui sépare les caténaires appartenant à des systèmes de courants différents et qui ne peut être franchie qu’avec les pantographes abaissés est indiquée avec le signal d’abaissement.
+	
+
+7.2.2	Signal de protection des zones commutables
+	
+	Dans les gares à zones commutables, les sections de protection entre les différents courants sont indiquées par le signal de protection de zone commutable.
+	
+		Image	début de protection de zone commutable
+		Signification	–	arrêt pour les véhicules moteurs monocourants avec le pantographe levé
+–	arrêt pour les véhicules moteurs polycourants avec le pantographe levé
+Exception :
+Si les pantographes sont utilisables pour les différents courants, il est permis de franchir ce signal avec le disjoncteur principal déclenché.
+	
+
+7.2.3	Signal de zone commutable
+	
+	Le signal de zone commutable informe le personnel de la tension appliquée à la zone commutable.
+	
+			Chiffre	Système de courant
+		Signification	 0
+11
+15
+25
+ 3–
+ 1–	ligne déclenchée
+11 000 Volt, 16,7 Hz
+15 000 Volt, 16,7 Hz
+25 000 Volt, 50 Hz
+ 3 000 Volt, continu
+ jusqu’à 1 500 Volt, 
+  continu
+	
+	
+
+	
+
+7.2.4	Signal de changement de tension
+	
+	En pleine voie et dans les gares, les sections de protection munies de signaux de changement de tension sont signalées comme suit :
+    • au moyen d’images sur des panneaux ou 
+    • au moyen de signaux lumineux
+–	dans les installations avec des zones commutables, pour autant que le signal début de protection de zone commutable ne s’applique pas
+–	lorsque l’itinéraire établi peut mener sur une section de protection.
+En simple voie, le signal de commutation se trouve à gauche du fil de contact et le signal final se trouve à droite. Les nombres ont la même signification que pour le signal de zone commutable.
+	
+		Image	signal avancé de commutation
+		Signification 	le prochain signal de changement de tension est suivi d’une section de protection avec changement de tension.
+Le nombre annonce la nouvelle tension après la section de protection.
+		En relation avec d’autres signaux
+			ce signal est suivi d’un signal de commutation.
+	
+
+		Image	signal de commutation
+		Signification	le nombre placé en haut se rapporte à la tension appliquée avant la section de protection, le nombre placé en bas annonce la tension au-delà de la section de protection.
+–	arrêt pour les véhicules moteurs monocourants avec pantographe levé
+–	arrêt pour les véhicules moteurs polycourants avec pantographe levé
+Exception :
+Si les pantographes sont utilisables pour les différents courants, il est permis de franchir ce signal avec le pantographe levé et le disjoncteur principal déclenché.
+		En relation avec d’autres signaux
+			avec des signaux lumineux, ce signal est précédé d’un signal avancé.
+Ce signal est suivi d’un signal final de section de commutation.
+			
+
+		Image	signal final de section de commutation
+		Signification	poursuite de la marche avec le système de courant indiqué 
+		En relation avec d’autres signaux
+			ce signal est précédé d’un signal de commutation.
+
+
+
+8	Signaux lors de perturbations
+8.1	Signaux lors de danger
+8.1.1	Signal d’arrêt lors de danger
+	
+	Si un train ou un mouvement de manœuvre doit être arrêté parce qu’un danger le menace, il faut donner le signal arrêt – danger.
+	
+	
+de jour    	Image	arrêt – danger
+		Signification	arrêt pour les trains et les mouvements de manœuvre, par tous les moyens
+	
+	
+lampe rouge
+de nuit		
+			
+	
+	Le signal doit être donné aux abords immédiats de la voie empruntée, au besoin en le répétant; le drapeau ou la lampe rouge seront agités jusqu’à l’arrêt complet du train ou du mouvement de manœuvre.
+Si aucun drapeau rouge ou aucune lampe à feu rouge n’est à disposition, le signal peut également être transmis à l’aide de la main ou d’une lampe à feu blanc.
+Le MEC donne ce signal à l’aide du sifflet de locomotive.
+	
+	
+8.1.2	Signal d’alerte
+	
+		Image	signal d’alerte
+		Signification	arrêt pour les trains et les mouvements de manœuvre circulant sur des voies parallèles
+	ou		
+			
+8.1.3	Arrêt de secours sur les chantiers
+	
+	
+plusieurs feux
+rouges	Image	arrêt de secours sur les chantiers
+		Signification	arrêt pour les trains et les mouvements de manœuvre
+	
+8.2	Signaux lors de dérangements
+8.2.1	Chiffre plus valable
+	
+
+8.2.2	Signal auxiliaire
+	
+	Signal auxiliaire du système L
+	
+	
+ou
+	Image	signal auxiliaire du système L
+		Signification	assentiment pour franchir 
+–	un signal principal présentant l’image arrêt ou éteint (figure 807)
+–	un signal principal présentant un feu rouge clignotant (figure 809)
+et en marche à vue
+		En relation avec d’autres signaux
+			Il faut s’attendre à trouver le prochain signal présentant l’image arrêt, ou avertissement s’il s’agit d’un signal avancé.
+Le signal auxiliaire est situé au même emplacement que le signal principal présentant l’image arrêt ou éteint (figure 807).
+			
+			
+			
+	
+	Signal auxiliaire du système N
+	
+		Image	signal auxiliaire N
+		Signification	assentiment pour le franchissement d’un signal principal présentant un feu rouge clignotant et en marche à vue
+		En relation avec d’autres signaux
+			il faut s’attendre à trouver le prochain signal à l’arrêt ou à l’avertissement. Après un panneau de seuil de vitesse pour la vitesse de pleine voie, il n’y a plus de signal principal à l’arrêt.
+	
+
+8.2.3	Signal principal pour installation de passage à niveau en dérangement
+	
+	Signal principal pour installation de passage à niveau en dérangement du système L
+	
+		Image	installation de passage à niveau en dérangement
+		Signification	assentiment pour le franchissement d’un signal principal présentant un feu rouge clignotant et d’une installation de passage à niveau en dérangement. 
+Les éléments de l’itinéraire contrôlés et situés dans la zone du signal ainsi que le block de ligne correspondant fonctionnent normalement. 
+Si le signal principal surveille plusieurs installations de passage à niveau, il est complété par une plaque complémentaire indiquant le nombre d’installations de passage à niveau. Il faut renoncer à la plaque complémentaire à l’intérieur d’une zone avec imbrication d’installations de passage à niveau.
+		En relation avec d’autres signaux
+			ce signal peut être précédé d’un signal avancé présentant l’image avertissement.
+	
+
+
+9	Signaux non valables ou à validité temporaire
+9.1	Signaux non valables
+9.1.1	Signalisation
+	
+		Un signal qui n’est pas valable porte un croisillon noir et blanc, à moins d’être masqué.
+	
+9.1.2	Image de signaux
+	
+		Quand plusieurs signaux sont réunis sur le même support, ceux qui ne sont pas munis d’un croisillon ou qui ne sont pas masqués sont valables.
+	
+	Les signaux non valables ne présentent aucune image. S’il n’en résulte aucun risque de confusion, les signaux désignés comme non valables peuvent présenter une image de signaux pour effectuer des essais.
+	
+
+9.2	Signaux lumineux à validité temporaire
+9.2.1	Signaux lumineux surmontés d’un triangle blanc
+	
+	Les signaux lumineux fixes à validité temporaire sont surmontés d’un panneau triangulaire blanc.
+	
+		Signification	lorsqu’il est éteint, le signal n’a aucune signification
+			
+	
+9.2.2	Signaux lumineux qui ne sont pas surmontés d’un triangle blanc
+	
+	Les signaux lumineux suivants n’ont aucune signification lorsqu’ils sont éteints :
+    • signal de voie occupée du système L
+    • signal pour entrées simultanées
+    • signal indicateur de numéro de voie
+    • signal indicateur de direction
+    • signal auxiliaire du système L
+    • signal pour arrêt facultatif
+    • signal pour section de protection facultative #
+    • signal de protection des zones commutables #
+    • signal de changement de tension #
+	
+
+10	Signaux pour les travaux sur et aux abords des voies
+	
+	Les signaux pour les travaux sur et aux abords des voies n’ont aucune signification pour le MEC.
+	
+10.1	Alarme de chantier, fixe ou mobile
+10.1.1	Alarme optique
+	
+		Image	installation d’alarme optique
+		Signification	complète les signaux d’alarme acoustiques ou les remplace selon les instructions du GI.
+	
+10.1.2	Alarme acoustique
+	
+		1 long son oscillant ou continu, avec un moyen d’alarme acoustique
+		Image	signal d’alarme 1
+		Signification	approche d’un convoi sur la voie contiguë
+	
+		2 longs sons oscillants ou continus, avec un moyen d’alarme acoustique
+		Image	signal d’alarme 2
+		Signification	approche d’un convoi sur la voie en travaux ou sur la voie contiguë
+	
+		rafale d’au moins 4 sons courts, avec un moyen d’alarme acoustique
+		Image	signal d’alarme danger
+		Signification	danger immédiat
+	
+	
+	
+	
+	
+10.2	Repère pour les travaux de déneigement
+	
+	Les obstacles qui peuvent perturber le déneigement en pleine voie sont signalés par des repères.
+Les obstacles d’une certaine longueur, par exemple les passages à niveau, peuvent être marqués d’un repère à chacune de leurs extrémités.
+	
+		Image	obstacle pour le déneigement
+		Signification	l’étrave ou la turbine du chasse-neige doivent être momentanément relevées.
+	D’autres signalisations peuvent être aussi admises.
+	
+10.3	Repères pour les zones de protection des nappes phréatiques
+	
+	Les zones de nappes phréatiques à protéger de l’épandage de produit désherbant sont signalées par des repères, placés près du sol.
+	
+		Image	début de la zone d’une nappe phréatique
+			
+	
+		Image	fin de la zone d’une nappe phréatique
+			
+	
+		Image	début de la zone d’infiltration d’une nappe phréatique
+			
+	
+		Image	fin de la zone d’infiltration d’une nappe phréatique
+			
+
+Complément 1
+
+
+
+Exemples pour l’implantation des signaux de 
+ralentissement
+
+1	Implantation des signaux de ralentissement
+1.1	Légende
+	
+		tronçon de ralentissement
+distance de freinage dans une zone de SCab
+
+sens de circulation
+contrôle de la marche des trains
+	
+	Les signaux sont représentés comme le MEC les voit dans le sens de marche. Le haut de chaque signal marque son emplace­ment effectif perpendiculairement à la voie. 
+	
+1.2	Limitation unique de vitesse sur la même voie
+1.2.1	Simple voie
+	
+	
+	
+1.2.2	Tronçon à deux voies équipé pour l’exploitation à voie unique
+	
+	
+	
+1.2.3	Tronçon à deux voies banalisées
+	
+	
+	
+
+1.2.4	Tronçon à trois voies banalisées
+	
+	
+	
+1.2.5	Tronçon à quatre voies banalisées
+	
+	
+	
+1.3	Limitations de vitesse différentes sur la même voie
+1.3.1	Simple voie
+	
+	
+	
+1.3.2	Tronçon à deux voies équipé pour l’exploitation à voie unique
+	
+	
+	
+1.4	Limitations différentes sur des voies parallèles après un poste à diagonales d’échange
+	
+	Pour faciliter la compréhension de ce chapitre, on n’a dessiné les signaux que pour une seule direction.
+	
+1.4.1	Tronçon à deux voies banalisées
+	
+	
+	
+1.4.2	Tronçon à trois voies banalisées
+	
+	
+	
+1.4.3	Tronçon à deux voies banalisées et voies d’une gare
+	
+	
+
+1.5	Signalisation des tronçons de ralentissement dans la transition vers la SCab
+1.5.1	Chiffre plus valable
+	
+	
+1.5.2	Tronçon de ralentissement à l’intérieur d’une zone de SCab avec distance de freinage partiellement dans la zone de la signalisation extérieure
+	
+	
+	
+1.5.3	Tronçon de ralentissement dans la zone de transition entre la signalisation extérieure et la SCab
+	
+	
+	
+1.5.4	Tronçon de ralentissement à l’intérieur d’un tronçon équipé de la signalisation extérieure avec distance de freinage partiellement dans une zone de SCab
+	
+	
+	
+Complément 2
+
+
+
+Exemples de succession de signaux pour les trains
+
+
+1. Arrêt 		
+
+
+2. Entrée avec image de voie libre et arrêt devant le signal de sortie	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+3. Passage avec image de voie libre		
+
+
+4. Entrée avec vitesse signalée et arrêt devant le signal de sortie
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+5. Passage avec vitesses signalées 
+    Vitesse d׳entrée supérieure à la vitesse de sortie		
+
+6. Passage avec vitesses signalées 
+    Vitesse d׳entrée inférieure à la vitesse de sortie	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+7. Entrée sur une voie occupée		
+
+
+8. Itinéraire court indiqué au signal d׳entrée
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+9. Itinéraire court sur une voie occupée		
+
+
+10. Entrée longue avec signaux de tronçons de voies
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+11. Entrée longue sur voie occupée		
+
+
+12. Préavertissement – avertissement – arrêt sur cantons de block courts
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Complément 3
+
+
+
+Exemples pour la signalisation continue de la vitesse
+	
+	
+	
+
+
+1. Signalisation continue de la vitesse avec une zone pour les chemins de fer routiers en exploitation ferroviaire
+
+Afin d’avoir une meilleure vue d’ensemble, les signaux sont représentés que pour une seule 
+direction dans le dessin ci-dessous		
+	
+
+
+Signalisation de la zone pour les chemins de fer routiers
+
+Signalisation de la vitesse
+
+
+Légende	
+	
+			Exploitation des tramways
+			Exploitation ferroviaire (à l’intérieur de 			l’exploitaton ferroviaire, voir chiffre 1)
+	
+
+
+
+
+
+
+Signalisation limite entre exploitation 
+ferroviaire et exploitation des tramways
+
+Signalisation de la 
+vitesse
+
+
+Annexe 1
+
+
+
+Signaux SIM
+
+
+
+
+
+1	Signaux SIM
+	
+	Ces signaux ne sont valables que pour les trains SIM (Simplon-Inter-Modal) ainsi que pour les mouvements de manœuvre qui acheminent des véhicules SIM.
+	
+1.1	Panneaux d’annonce d’entrée dans le corridor
+	
+		Image	panneau initial d’annonce d’entrée dans le corridor
+		Signification	le point d’annonce du numéro du train se situe entre le panneau initial et le panneau final d’entrée dans le corridor
+		En relation avec d’autres signaux
+			ce panneau est suivi d’un panneau final d’annonce d’entrée dans le corridor
+	
+		Image	panneau final d’annonce d’entrée dans le corridor
+		Signification	l’annonce est achevée
+		En relation avec d’autres signaux
+			ce panneau est précédé d’un panneau initial d’annonce d’entrée dans le corridor
+	
+1.2	Panneau d’interdiction SIM
+	
+	Le panneau d’interdiction SIM est placé près du sol, en principe à gauche, exceptionnellement aussi à droite de la voie. La pointe du signal est dirigée vers la voie concernée.
+	
+		Image	arrêt
+		Signification	arrêt devant le signal
+	
+	
+	
+1.3	Signaux d’interdiction SIM
+1.3.1	Signal avancé SIM
+	
+		Image	avertissement
+		Signification	arrêt devant le prochain signal d’interdiction SIM
+		En relation avec d’autres signaux
+			Ce signal est suivi d’un signal d’interdiction SIM
+	
+1.3.2	Signal d’interdiction SIM
+	
+		Image	arrêt
+		Signification	arrêt devant le signal
+		En relation avec d’autres signaux
+			Ce signal est précédé d’un signal avancé SIM
+	
+1.4	Panneau de parcours SIM
+	
+	Les panneaux de parcours SIM indiquent les parcours autorisés.
+		Signification	arrêt devant l’aiguille menant dans la direction du point violet, lors du franchissement d’un signal principal présentant l’arrêt
+
+
+
+
+Annexe 2
+
+
+
+Sémaphores
+
+ 
+
+1	Sémaphore pour la circulation des trains
+1.1	Signal principal
+1.1.1	Arrêt
+	
+	Le sémaphore présente, de jour, une aile abaissée horizontalement à droite, de nuit, un feu rouge
+	
+		Image	arrêt
+		Signification	arrêt avant le signal
+		En relation avec d’autres signaux
+			ce signal peut être précédé d’un signal présentant l’image avertissement
+	
+1.1.2	Voie libre
+	
+	Le sémaphore présente, de jour, l’aile supérieure levée obliquement à droite, de nuit, un feu vert.
+	
+		Image	voie libre (Image 1)
+		Signification	circulation à la vitesse maximale indiquée dans les tableaux des parcours
+		En relation avec d’autres signaux
+			le prochain signal présente
+–	avertissement
+–	annonce de vitesse
+–	voie libre
+	
+1.1.3	Exécution de vitesse
+	
+	Le sémaphore présente, de jour, deux ailes levées obliquement à droite, de nuit, un feu vert au-dessus d’un feu orange. 
+	
+		Image	exécution de vitesse à 40 km/h (Image 2)
+		Signification	depuis ce signal, respective­ment depuis l’aiguille en relation, la vitesse maximale à 
+respecter est de 40 km/h. Si une vitesse inférieure figure dans les tableaux des parcours, c’est cette vitesse qu’il faut respecter
+		En relation avec d’autres signaux
+			le prochain signal présente
+–	avertissement
+–	annonce de vitesse
+–	exécution de vitesse
+–	voie libre
+	
+
+2	Sémaphore pour les mouvements de manœuvre
+2.1	Signal d’évacuation
+	
+	Le sémaphore présente, de jour, deux ailes bleues et blanches en forme de croix biaise, de nuit, un feu bleu.
+	
+		Image	manœuvre interdite
+		Signification	évacuation et maintien libre de l’itinéraire couvert par ce signal
+	
+	Sur assentiment du CC, des mouvements de manœuvre peuvent toutefois être exécutés malgré la position d’interdiction du signal d’évacuation.
+	
+	Le sémaphore présente, de jour, les ailes bleues et blanches rabattues verti­calement, de nuit, un feu blanc.
+	
+		Image	manœuvre autorisée
+		Signification	aucun itinéraire de train n’est établi dans la zone de validité du signal
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+Annexe 3
+
+
+
+Signaux de manœuvre pour installations de débranchement
+ 
+
+1	Signaux de manœuvre pour installations de débranchement
+1.1	Chiffre plus valable
+	
+1.2	Signal de débranchement
+1.2.1	Généralités
+	
+	Les signaux de débranchement ordonnent la pousse, l’arrêt et le retrait sur une bosse de débranchement. L’image présentée apparaît sur les deux faces. Ils sont normalement éteints et n’ont alors aucune signification.
+Les signaux de débranchement ont la même forme et présentent les mêmes images que les signaux de manœuvre correspondants. Pour s’en distinguer, les signaux de débranchement sont surmontés d’un demi-cercle blanc.
+Les ordres donnés par les signaux de débranchement s’adressent directement au MEC.
+	
+1.2.2	Images des signaux de débranchement
+	
+	Arrêt
+	
+		Image
+Signification	arrêt
+arrêt du mouvement de manœuvre
+		
+	
+
+	Pousser
+	
+		Image
+Signification	pousser
+pousser lentement en direction de la bosse de débranchement
+		
+	
+	
+	
+	
+ 
+

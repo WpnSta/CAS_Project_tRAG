@@ -1,0 +1,1594 @@
+﻿Ferrovie svizzere	R 300.4
+
+
+
+Movimenti di manovra 
+
+
+
+
+
+
+1	Preparazione e conclusione
+1.1	Consegna del servizio
+	
+	Alla fine del servizio, il CMAN consegna il servizio al suo successore con le informazioni necessarie. Se non vi è consegna diretta, essa va fornita per iscritto.
+	
+1.2	Direzione
+	
+	Ogni movimento di manovra viene diretto da un CMAN. 
+Di regola la funzione del CMAN viene assunta da un MAN. Previa intesa la direzione può anche essere assicurata dal MAC. Se il MAC è solo, in generale riprende la funzione del CMAN.
+Il CMAN avvisa tutti i MAN e il MAC in merito ai lavori da eseguire e assegna i compiti.
+Se la direzione del movimento di manovra cambia, i CMAN devono informarsi reciprocamente.
+	
+1.3	Tipi di movimento
+	
+	Si distingue fra i movimenti di manovra seguenti:
+–	corse di manovra condotte direttamente e indirettamente
+–	lancio
+–	colpo
+–	movimenti di manovra con la fune o l’argano
+–	movimenti di manovra con veicoli stradali
+–	movimenti di manovra a braccia o con mezzi meccanici.
+	
+1.3.1	Guida diretta delle corse di manovra 
+	La guida diretta delle corse di manovra è ammessa alle seguenti condizioni
+–	il MAC ha costantemente la visuale libera sull’itinerario e sui segnali, e 
+–	il MAC serve i freni, e 
+–	il MAC ha la possibilità di dare segnali di attenzione.
+La guida diretta delle corse di manovra avviene da un solo posto.
+Se la cabina di guida servita non si trova alla testa della corsa di manovra, devono essere applicate le disposizioni per la spinta non scortata.
+	
+
+1.3.2	Guida indiretta delle corse di manovra		
+			
+	Le corse di manovra sono condotte mediante la guida indiretta se il MAC non ha la visuale libera sull’itinerario e sui segnali.
+Durante la guida indiretta il CMAN deve collocarsi in modo tale da poter vedere l’itinerario e osservare i segnali in modo ineccepibile.		
+			
+1.4	Lato della manovra		
+			
+	Qualora sono impartiti ordini con segnali ottici e acustici in base alle prescrizioni sui segnali, il CMAN deve prima informare il MAC sul lato dal quale deve attendersi di ricevere ordini. Il lato della manovra può essere fissato anche sul posto.
+Nel caso di veicoli motori dotati di 2 cabine di guida separate, il lato della manovra deve coincidere con il lato servito in cabina.		
+	
+1.5	Limite per la manovra
+	
+	I movimenti di manovra in stazione possono essere eseguiti solo fino ai segnali d’entrata, o fino alle tavole indicanti la fine della stazione. Su una tratta a doppio binario priva di dispositivo per l’esercizio banalizzato questo limite vale per i due binari. Se mancano i segnali d’entrata la manovra è consentita solo fino ai segni di sicurezza degli scambi d’entrata. Se in mancanza di segnali d’entrata sono collocate tavole di inizio e fine della stazione, è permesso manovrare fino al punto in cui è situata la tavola di fine stazione.
+	
+1.6	Contrassegno 	
+1.6.1	Veicoli motori 	
+		
+	Devono essere contrassegnati in base alle prescrizioni sui segnali:
+–	come locomotiva di manovra, quelli impiegati costantemente in stazione o costantemente nei settori di manovra
+–	come treno o movimento di manovra sulla tratta i veicoli motori che come tali sono impiegati immediatamente prima o dopo movimenti di manovra in stazione.	
+		
+
+1.6.2	Direzione di corsa del movimento di manovra
+	
+	Qualora sono impartiti ordini con segnali ottici e acustici in base alle prescrizioni sui segnali è determinante il contrassegno del veicolo motore per trasmettere gli ordini di avanti o indietro. Sulle locomotive a vapore, la direzione di avanzamento è in ogni caso quella del lato del camino.
+All’interno di una stazione, si deve fissare la stessa direzione di marcia in avanti per tutti i veicoli motori.
+Il contrassegno della parte anteriore del veicolo motore per i movimenti di manovra in stazione deve concordare con la direzione di marcia in avanti designata nella cabina di guida. Se ciò non corrisponde alla direzione di marcia in avanti fissata per la stazione, il veicolo motore deve essere per quanto possibile girato. Se si deroga a questa regola, il CMAN e il MAC devono accordarsi.
+Se a un movimento di manovra partecipano più veicoli motori serviti, per tutti si deve fissare la stessa direzione di marcia in avanti. Quando ciò non è possibile, è determinante il contrassegno del veicolo motore di testa.
+	
+1.6.3	Veicoli ai quali non si può accostare o ai quali si può accostare solo con prudenza
+	
+	I veicoli ai quali vengono eseguiti lavori di riparazione o che sono allacciati a impianti di riempimento o di trasbordo, vanno contrassegnati secondo le prescrizioni sui segnali. 
+Prima dell’inizio del lavoro, va apportato il segnale in modo ben visibile al veicolo stesso. Nei binari di marciapiede sul lato della salita, negli altri binari sul lato della manovra e in caso di necessità alle due estremità della composizione.
+I veicoli preriscaldati con impianti fissi o con veicoli motori non occupati, o che per altri scopi sono collegati mediante cavi ad impianti fissi, vanno contrassegnati in base alle prescrizioni sui segnali.
+Le tavole di preriscaldamento devono essere applicate, prima di accoppiare la condotta elettrica ad alta tensione, all’estremità alla quale si può accostare; nei treni spola alle due estremità. Nei binari di marciapiede la tavola di preriscaldamento deve essere applicata sul lato della salita, negli altri binari sul lato della manovra.
+Se i treni spola, anche quelli con carrozze supplementari, sono preriscaldati per mezzo del veicolo motore, si tralascia il contrassegno con la tavola di preriscaldamento.
+	
+
+1.6.4	Veicoli assicurati con staffe d’arresto
+	
+	I veicoli assicurati contro la fuga mediante staffe d’arresto, vanno contrassegnati in base alle prescrizioni sui segnali.
+	
+1.7	Assicuramento e accoppiamento dei veicoli
+1.7.1	In generale
+	
+	I veicoli ricoverati vanno assicurati contro la fuga. In generale si devono utilizzare mezzi di frenatura indipendenti dal freno ad aria.
+In tale ambito occorre procedere come per «l’assicuramento di treni fermi».
+	
+1.7.2	Assicuramento di veicoli
+	
+	Per l’assicuramento dei veicoli ricoverati si possono utilizzare i mezzi seguenti:
+–	staffe d’arresto
+–	freno d’immobilizzazione. 
+In ogni caso, i veicoli ricoverati su una discesa di oltre il 20 ‰ o nelle sue immediate vicinanze, devono essere assicurati, in più della forza di ritenuta minima necessaria, con una staffa d’arresto.
+Il freno ad aria può essere utilizzato per l’assicuramento dei veicoli ricoverati, solo se entro la prossima mezz’ora vi sarà un nuovo accostamento a questi veicoli e se essi non si trovano su una discesa di oltre il 2 ‰ o nelle sue immediate vicinanze. I veicoli devono inoltre essere frenati completamente.
+Un veicolo ricoverato singolarmente va sempre assicurato subito con mezzi di frenatura indipendenti dal freno ad aria.
+I GI possono emanare prescrizioni d’esercizio in deroga per l’assicuramento su binari concavi come pure nelle discese contro il paraurti per i veicoli che vi sono accostati.
+Se veicoli motori o veicoli dei servizi di manutenzione sono assicurati con staffe d’arresto, queste vanno posate in modo tale che non possano essere espulse da cacciasassi, tubi dei sabbiatori, dispositivi di misura ecc.
+	
+
+1.7.3	Assicuramento di treni
+	
+	Il MAN che accoppia o sgancia il veicolo motore è responsabile per
+–	l’allontanamento della staffa d’arresto utilizzata per assicurare o l’allentamento dei freni d’immobilizzazione per un treno in partenza 
+–	l’assicuramento contro la fuga per un treno in arrivo.  
+	
+1.7.4	Accoppiamento di veicoli
+	
+	In linea di principio, il MAN può entrare fra i veicoli per eseguire l’agganciamento soltanto, quando sono fermi e i respingenti o gli accoppiamenti si toccano reciprocamente. Durante una fermata di sicurezza con una distanza fra 5 e 10 metri fra i veicoli, è ammesso entrare in posizione eretta fra i veicoli fermi. In seguito, con l’ordine «appoggiare» si può accostare con prudenza ai veicoli. Se le distanze sono inferiori a quelle indicate, il MAN deve entrare fra i veicoli fermi chinandosi sotto i respingenti.
+Se si deve muovere leggermente, il MAN deve sistemarsi in modo tale da poter seguire il movimento.
+Fra i veicoli con uno spazio di sicurezza limitato tra i respingenti o gli accoppiamenti si può entrare in ogni caso soltanto quando questi veicoli sono fermi e i respingenti o gli accoppiamenti si toccano reciprocamente. 
+Questa condizione va osservata in particolare nel caso di veicoli
+–	carrozze viaggiatori
+–	carri con piano ribassato
+–	veicoli con pareti frontali o passerelle abbassate
+–	carri carichi senza pareti o stanti frontali
+–	veicoli con accoppiamenti automatici
+–	veicoli con attacco a respingente centrale
+–	veicoli con respingenti o accoppiamenti danneggiati o mancanti
+–	veicoli motore e veicoli di comando con cabina di guida sporgente in avanti.
+Se il punto d’accoppiamento si trova su uno scambio o in una curva stretta, si può entrare fra i veicoli soltanto quando essi sono fermi e i respingenti o gli accoppiamenti si toccano reciprocamente.
+Lavorando da soli con il radiotelecomando si può entrare fra i veicoli soltanto quando essi sono fermi e i respingenti o gli accoppiamenti si toccano reciprocamente.
+
+	
+1.7.5	Accoppiamento e sganciamento durante la corsa
+	
+	L’accoppiamento dei veicoli durante la corsa è proibito.
+Lo sganciamento di veicoli durante la corsa è ammesso solo se può essere eseguito con attrezzi, e se per far ciò non si deve stare sui respingenti, sui ganci di trazione o su altri dispositivi d’accoppiamento.
+	
+1.8	Freno ad aria 
+1.8.1	Impiego del freno ad aria 
+	
+	Le corse di manovra devono poter essere frenate con il freno ad aria. Sulle pendenze fino al 10 ‰, almeno la metà dei veicoli dev’essere frenata col freno ad aria e sulle pendenze superiori al 10 ‰ tutti i veicoli della corsa di manovra devono essere frenati ad aria.
+Mancando il freno ad aria automatico o se il suo impiego non è appropriato in seguito a particolari decorsi dell’esercizio, la velocità massima è di 10 km/h. A questo riguardo, il peso del carico rimorchiato non frenato verso e sulle pendenze indicate può ammontare
+	–	  0 – 15 ‰
+–	16 – 30 ‰
+–	31 – 50 ‰	al massimo al quintuplo
+al massimo al doppio
+al massimo a una volta
+	del peso del veicolo motore. Per i veicoli strada/rotaia con trasmissione di forza mediante ruote gommate, le ITF possono fissare valori più alti nelle prescrizioni d’esercizio.
+Sulle pendenze superiori al 30 ‰ l’ultimo veicolo sul lato a valle dev’essere frenato ad aria.
+Sulle pendenze superiori al 50 ‰ tutto il peso della corsa di manovra 
+dev’essere frenato ad aria.
+Se con il freno ad aria non si può ottenere un’azione frenante sufficiente, bisogna servire in più i freni a mano.
+Negli impianti di lancio fanno stato le prescrizioni relative alla rinuncia al freno ad aria in questi impianti.
+Per gli elettrotreni si applicano le prescrizioni d’esercizio in materia dell’ITF.
+	
+1.8.2	Prova del freno
+	
+	Se il peso del carico rimorchiato supera il quintuplo del peso del veicolo motore, bisogna eseguire una prova del freno all’ultimo veicolo frenato a aria. L’annuncio dell’avvenuta prova del freno è: prova del freno di manovra buona.
+
+		
+1.8.3	Impiego del freno d’emergenza	
+		
+	Salendo su un veicolo, il MAN deve accertarsi dove si trova il rubinetto d’allarme. 
+Il rubinetto di testata o il rubinetto d’allarme possono essere utilizzati per fermare soltanto in caso di pericolo.	
+		
+1.8.4	Vuotatura degli apparecchi di frenatura	
+		
+	Negli impianti di lancio o nelle stazioni di smistamento con molte manovre a colpo gli apparecchi di frenatura devono essere vuotati, prima che i veicoli siano portati al lancio o al colpo, in modo che il freno ad aria sia allentato.
+Non è ammesso bloccare i dispositivi di vuotatura degli apparecchi del freno.	
+		
+1.9	Freno a mano 	
+1.9.1	In generale 	
+		
+	Nel caso di movimenti di manovra che non sono o non possono essere frenati a sufficienza col freno ad aria, bisogna servire freni a mano. Il loro numero dev’essere adeguato al peso dei veicoli, all’efficacia del freno a mano, alla velocità, alla pendenza del binario, allo stato delle rotaie e alle condizioni locali. Con riguardo all’osservazione dell’itinerario, per quanto possibile si devono servire i freni a mano dei veicoli più pesanti.
+	
+1.9.2	Verifica del freno a mano in caso di lancio e di colpo
+	
+	Se per il lancio o il colpo di veicoli devono essere serviti freni a mano, il MAN ne deve verificare l’efficacia.
+La prova d’efficacia va eseguita nel corso del movimento di manovra che precede il lancio o il colpo. Qualora non è possibile bisogna muoverli per la prova del freno a mano oppure si deve verificare da terra se i dispositivi di frenatura aderiscono saldamente.
+L’avvenuta prova d’efficacia dei freni va annunciata al CMAN con freno buono. Tale annuncio vale al contempo come conferma dell’occu­pazione del lancio o del colpo. 
+
+1.10	Fermata dei veicoli con staffe d’arresto		
+1.10.1	In generale		
+			
+	Nel caso di lancio o di colpo i relativi veicoli col freno a mano non servito devono essere fermati con staffe d’arresto.
+Con le staffe d’arresto si possono fermare veicoli o gruppi di veicoli con una lunghezza massima di 40 metri, nel qual caso i veicoli leggeri non possono essere lanciati davanti a veicoli pesanti. All’occorrenza i veicoli leggeri vanno portati al lancio o al colpo per conto proprio. Sono considerati veicoli leggeri quelli con un peso assiale inferiore a 12 t.
+Per ogni profilo di rotaia bisogna utilizzare il tipo di staffa d’arresto appropriato. 
+Davanti agli aghi, ai cuori, alle crociere di scambi e su rotaie immerse nel cemento, possono essere utilizzate solo staffe d’arresto a molla.
+Le staffe d’arresto non possono essere utilizzate per fermare veicoli motori.
+	
+1.10.2	Controllo delle staffe d’arresto	
+		
+	Le staffe d’arresto e i rispettivi binari devono essere lubrificati in modo appropriato. Prima di utilizzare le staffe d’arresto, lo staffista deve controllarne la lubrificazione e lo stato generale.
+Se, per ragioni sconosciute, una staffa d’arresto non ha svolto la sua funzione, può essere riutilizzata solo dopo che essa e il tratto di binario interessato sono stati esaminati e trovati in ordine.	
+		
+
+1.10.3	Distanza di frenatura
+	
+	Tenendo conto della distanza di frenatura, le staffe d’arresto devono essere collocate davanti a veicoli o a ostacoli nel binario, ad una distanza tale che i veicoli che si avvicinano si fermino in modo sicuro, senza urti.
+Per il calcolo della distanza di frenatura occorre badare a quanto segue:
+–	al peso dei veicoli che si avvicinano
+–	al rapporto fra il carico dell’asse più vicino alla staffa d’arresto e il peso totale dei veicoli che si avvicinano
+–	alla velocità dei veicoli
+–	alla direzione e alla forza del vento
+–	allo stato delle rotaie
+–	alla pendenza del binario
+–	all’efficacia frenante delle staffe d’arresto 
+–	alla quantità delle staffe d’arresto. 
+	
+1.10.4	Posa	
+		
+	Nelle curve la staffa d’arresto va posata sulla rotaia interna.
+Se si devono collocare 2 staffe d’arresto, esse vanno posate alla stessa altezza. Due staffe d’arresto vanno posate in particolare qualora esista il rischio che una sola staffa venga espulsa dal binario o che i cerchioni siano sfaccettati.
+Attenzione: se si fermano veicoli con 2 staffe d’arresto, la distanza di frenatura è più lunga rispetto a quella del veicolo fermato con una sola staffa d’arresto.	
+		
+1.10.5	Rimozione delle staffe d’arresto 
+	
+	Per quanto attiene all’attraversamento dei binari valgono di principio le medesime distanze di sicurezza prescritte per l’agganciamento e lo sganciamento dei veicoli. Se un veicolo fermo è assicurato da almeno 1 staffa d’arresto, lo staffista può attraversare il binario senza osservare la distanza minima di 5 metri.
+	
+
+1.11	Casi speciali		
+1.11.1	Corse di prova e corse per lo sgombero della neve		
+			
+	Per le corse di prova e le corse per lo sgombero della neve sono applicabili per analogia le disposizioni per le corse di prova e le corse per lo sgombero della neve nell’ambito di corse dei treni.
+1.11.2	Trasporti eccezionali	
+		
+	I GI e le ITF disciplinano il trattamento dei trasporti eccezionali nelle loro prescrizioni d’esercizio.	
+1.11.3	Veicoli non impiegabili liberamente
+	
+	I GI e le ITF disciplinano il trattamento dei veicoli non impiegabili liberamente nelle loro prescrizioni d’esercizio.
+
+1.12	Sistemi di frenatura di veicoli a cremagliera		
+	Ulteriori direttive necessarie per la frenatura di corse di manovra devono essere fissate dalle ITF, tenendo in considerazione le condizioni d’impiego dalle omologazioni dei veicoli. I mezzi di frenatura prescritti devono essere verificati prima di iniziare la corsa di manovra.
+
+2	Esecuzione
+2.1	Principio
+	
+	Consensi e ordini vanno impartiti in modo chiaro. Ogni annuncio e ogni ordine deve essere quietanzato dal destinatario.
+Se i consensi non sono chiari, il CMAN non può impartire l’ordine di corsa. Se gli ordini non sono chiari, il MAC non può mettere in movimento il veicolo motore e il movimento di manovra in corso deve essere fermato. Bisogna esigere la ripetizione del consenso o dell’ordine.
+Durante la sosta e l’esecuzione di lavori fra i binari, o fra un binario e un ostacolo fisso, deve esistere uno spazio di sicurezza intermedio. In caso contrario occorre procedere secondo le disposizioni «Mancanza di uno spazio di sicurezza intermedio». Nel caso di aree dei lavori si deve procedere secondo le disposizioni per i «lavori nella zona dei binari».
+	
+2.2	Richiesta dell’itinerario 
+2.2.1	Principio
+	
+	Negli impianti con scambi centralizzati, il CMAN richiede l’itinerario al CMOV.
+Prima di richiedere l’itinerario, il CMAN verifica se
+–	ai veicoli non sono applicati segnali per il contrassegno di veicoli ai quali non si può accostare, tavole di avvertimento per il preriscaldamento o per le staffe d’arresto
+–	i lavori di carico sono sospesi, i mezzi di carico sono stati rimossi e il carico di veicoli che sono in fase di carico o scarico è assicurato in conformità
+–	le porte, le pareti scorrevoli, i tetti scorrevoli, le valvole di svuotamento ecc. sono chiusi o bloccati nella misura prescritta e se nessuna parte dei veicoli o del carico oltrepassa le dimensioni ammesse
+–	tutti i veicoli sono accoppiati regolarmente.
+Un itinerario va richiesto immediatamente prima dell’esecuzione e fino al binario finale del movimento di manovra. Il binario finale di un movimento di manovra è quello in cui
+–	dev’essere svolta una certa attività (p.es. il ricovero o la presa di veicoli) o
+–	attendersi una condizione per il proseguimento della corsa o
+–	dove cambia la direzione di marcia.
+
+2.2.2	Richiesta
+	
+	Il testo per la richiesta di un itinerario è: «da (binario) ... a (binario) ...».
+Se occorre percorrere binari occupati, l’itinerario va richiesto dapprima verso il binario occupato e in seguito dal binario occupato al binario d’arrivo.
+Il CMAN deve avvisare il CMOV se si deve effettuare 
+–	un lancio
+–	un colpo 
+–	una spinta non scortata
+–	un movimento di manovra con veicoli speciali.
+La richiesta di un itinerario per veicoli che ingombrano il profilo di singoli binari o su tutta la rete deve essere regolata dal GI nelle proprie prescrizioni d’esercizio.
+	
+2.2.3	Disposizione dell’itinerario senza richiesta
+	
+	Per le corse di manovra condotte direttamente, il CMOV può disporre l’itinerario senza previa richiesta, se ne conosce il binario di partenza e il binario di destinazione. 
+	
+2.2.4	Veicoli speciali
+	
+	Per la messa sul binario e la circolazione di materiale rotabile speciale come piccoli veicoli, veicoli su gomma o leggeri, che possono provocare un funzionamento irregolare dei ABL si deve procedere nel modo seguente: 
+–	il CMAN annuncia al CMOV la presenza di veicoli speciali al momento di richiedere l’itinerario
+–	i veicoli speciali possono essere messi sul binario solo con l’auto­rizzazione del CMOV
+–	prima di dare il consenso, il CMOV adotta provvedimenti per impedire l’inversione di scambi sotto il movimento di manovra
+–	il CMAN annuncia al CMOV l’arrivo dei veicoli speciali nel binario d’arrivo.
+–	fintantoché i veicoli speciali si trovano su un binario dotato di ABL, il CMOV lo deve assicurare all’apparecchio centrale.
+La rimozione dal binario dei veicoli speciali va annunciata al CMOV.
+
+2.3	Disposizione dell’itinerario
+2.3.1	Presupposti d’esercizio
+	
+	Prima di disporre l’itinerario, il CMOV deve assicurare che nessun percorso treno o altri movimenti di manovra siano messi in pericolo. Scambi di protezione e dispositivi di sviamento sono sufficienti come misura di sicurezza. 
+	
+2.3.2	Movimento di manovra verso percorso treno
+	
+	Si considera un movimento di manovra verso un percorso treno disposto qualsiasi movimento di manovra che, in seguito ad una frenatura eseguita troppo tardi, potrebbe mettere in pericolo la corsa treno a causa di una corsa di fianco.
+I movimenti di manovra verso percorsi treni disposti sono ammessi purché siano soddisfatte le condizioni seguenti:
+–	circolando verso o accostando a veicoli frenati che si trovano prima del percorso treno disposto, o
+–	se, su impianti dotati di segnali bassi, il binario finale della corsa di manovra si trova prima del percorso treno disposto e 1 segnale basso mostra fermata, e 
+–	l’itinerario viene richiesto dal CMAN e non viene effettuata una spinta non scortata, o 
+–	per l’approntamento di treni al marciapiede del binario di partenza, quando siano adempiute le premesse per la disposizione dell’itinerario senza richiesta.
+Tutti gli altri movimenti di manovra verso percorsi treno disposti sono vietati.
+	
+2.3.3	Cifra stralciata.
+	
+	
+2.3.4	Cifra stralciata.
+	
+	
+2.3.5	Impianti dotati di segnali bassi 
+	
+	Il CMOV sceglie il punto di partenza in modo tale che tutti gli scambi da percorrere siano vincolati e che i segnali bassi nella zona dei veicoli da spostare mostrino via libera o via libera con prudenza. Su binari già occupati da veicoli, il percorso di manovra deve essere disposto in modo tale che l’ultimo segnale basso prima dell’ostacolo mostri via libera con prudenza.
+
+2.3.6	Impianti con scambi centralizzati senza segnali bassi
+	
+	Il CMOV dispone l’itinerario di manovra a partire dal punto d’arrivo. Il CMOV deve assicurare che i binari, fatta eccezione per quello di arrivo, sono liberi. Gli scambi possono essere invertiti solo se questi e le staffe di protezione, i dispositivi di sviamento e gli scambi di protezione rispettivi sono liberi. Nessun veicolo può muoversi in direzione di questi scambi e i rispettivi ABL devono indicare la posizione libera.
+	
+2.3.7	Memorizzazione di percorsi 
+	
+	La memorizzazione dei percorsi è vietata nei casi seguenti:
+–	per la corsa successiva a un colpo 
+–	se il percorso da memorizzare tocca l’itinerario di veicoli speciali.
+	
+2.4	Consenso a svolgere il movimento di manovra
+2.4.1	Principio
+	
+	Il CMOV deve impartire un consenso per ogni singolo movimento di manovra. Il consenso è diretto al CMAN.
+Tale consenso vale al massimo fino alla fermata nel binario di arrivo. Se nel binario d’arrivo occorre accostare ad altri veicoli, non è necessario un altro consenso.
+Per il colpo, il lancio o per la spinta non scortata, il consenso può essere dato solo se l’itinerario è disposto fino al binario d’arrivo richiesto.
+Se il CMAN non può accertare in maniera inequivocabile se si tratta di un impianto con scambi centralizzati o non centralizzati, il CMAN deve prendere contatto con il CMOV.
+	
+
+2.4.2	Provvedimenti prima di impartire il consenso	
+		
+	Prima di impartire il consenso, il CMOV verifica se
+–	gli impianti di passaggio a livello sorvegliati sono inseriti
+–	gli scambi sono nella posizione corretta e hanno raggiunto la posizione finale, i dispositivi di sviamento e le staffe di protezione sono aperti 
+–	i segnali lungo l’itinerario permettono il movimento di manovra  
+–	il CMAN è avvisato in merito ai tratti di rallentamento come pure alle sezioni di binario lungo l’itinerario disinserite o messe a terra. Se le sezioni disinserite o messe a terra sono segnalate da un segnale d’abbassamento fisso o girevole, il CMAN vale come avvisato
+–	il CMAN è avvisato in merito ai provvedimenti particolari da osservare nel settore di un’area dei lavori.	
+		
+2.4.3	Avviso prima di impartire il consenso	
+		
+	Se il CMOV dispone l’itinerario verso un binario d’arrivo diverso da quello richiesto, il CMOV deve avvisare il CMAN prima di dare il consenso.
+Se il consenso non può essere accordato fino al binario d’arrivo, il CMAN va avvisato, purché nessun segnale fisso per i movimenti di manovra mostri la fermata. 	
+		
+2.4.4	Impianti dotati di segnali bassi
+	
+	Il consenso viene accordato al segnale basso. 
+Se fra i veicoli da spostare e il prossimo segnale basso vi sono scambi o crociere non occupati, il CMAN può impartire l’ordine di corsa solo se anche il segnale basso retrostante mostra via libera o via libera con prudenza. Se esso non può essere riconosciuto o se la sua luce posteriore non è accesa, il CMAN deve procurarsi il consenso del CMOV.
+	
+2.4.5	Impianti con scambi centralizzati senza segnali bassi
+	
+	Il consenso viene dato al segnale di fermata per la manovra con l’imma­gine consenso per movimento di manovra. Se non vi è un segnale di fermata per la manovra, il consenso viene dato verbalmente o mediante cenni.
+Se un segnale di fermata per la manovra che mostra consenso per movimento di manovra torna anzitempo su posizione di fermata, è ammesso proseguire il movimento di manovra soltanto se almeno un’asse del movimento ha superato il segnale in questione.
+	
+2.4.6	Impianti con scambi non centralizzati
+	
+	Qualora siano coinvolti dei binari secondari, nei settori non centralizzati il CMAN assume in più i compiti del CMOV. 
+Un consenso del CMOV è necessario per circolare su binari principali.
+Gli scambi, le staffe di protezione e i dispositivi di sviamento possono essere comandati solo se sono liberi o se possono essere invertiti in modo sicuro nella posizione desiderata prima dell’eventuale avvicinarsi di veicoli. Dopo l’inversione di uno scambio a mano si deve verificare che la lingua dello stesso aderisca bene al contrago.
+Percorrendo scambi tallonabili, si deve proseguire sempre fino a quando tutti i veicoli hanno liberato completamente lo scambio. Prima di retrocedere, occorre verificare se dopo il movimento d’inversione ritardato idraulicamente gli aghi dello scambio hanno raggiunto la posizione finale.
+Per i movimenti di manovra dal settore centralizzato a quello non centralizzato o viceversa, è necessario avere il consenso del CMOV. Tale consenso vale fino e dal punto di passaggio.
+Nei settori non centralizzati si deve contare in ogni momento sulla presenza di altri movimenti di manovra. I CMAN devono avvisarsi reciprocamente in merito ai movimenti di manovra da eseguire.
+	
+2.4.7	Segnale di fermata per la manovra
+	
+	Se più movimenti di manovra si trovano davanti a un segnale per i movimenti di manovra, il consenso vale solo per il primo.
+Se si deve superare un segnale di fermata per la manovra che non può mostrare il consenso per movimento di manovra, il CMOV deve assicurare l’itinerario e per quanto possibile vincolarlo. Il CMOV impartisce al CMAN, con obbligo di quietanza, l’ordine di superare il segnale di fermata per la manovra. L’ordine va impartito singolarmente per ogni corsa.
+
+2.5	Ordini al movimento di manovra
+2.5.1	Verifica prima dell’ordine di corsa
+	
+	Prima di impartire l’ordine di corsa il CMAN verifica, per quanto sia in grado di riconoscerlo, se
+–	le persone che potrebbero essere messe in pericolo sono avvertite per tempo
+–	i freni sono allentati ed eventuali mezzi di frenatura sono stati rimossi
+–	il MAC è avvisato in merito al mancato impiego del freno ad aria automatico 
+–	il MAC è avvisato in merito ai tratti di rallentamento come pure alle sezioni di binario lungo l’itinerario disinserite o messe a terra.
+–	il MAC è avvisato in merito ai provvedimenti particolari da osservare nel settore di un’area dei lavori e all’occorrenza circa la revoca della corsa a vista.
+–	gli impianti di passaggi a livello sorvegliati da percorrere sono inseriti 
+–	ai passaggi a livello designati dal GI e non segnalati sul lato strada, il traffico stradale è regolato da collaboratori 
+–	i segnali mostrano l’immagine corretta 
+–	gli scambi sono nella posizione corretta e, per quanto si possa verificare, hanno raggiunto la posizione finale come pure se i dispositivi di sviamento e le staffe di protezione sono aperti. 
+Se un movimento di manovra non può essere eseguito immediatamente, se ne deve avvisare il CMOV. All’occorrenza il CMAN deve richiedere nuovamente l’itinerario.
+	
+
+2.5.2	Trasmissione degli ordini
+	
+	Il CMAN deve dare singolarmente l’ordine di corsa al MAC per ogni movimento di manovra come segue:
+–	verbalmente o per telefono con il testo «Loc / M ...» o
+–	con ordini ottici o acustici secondo le prescrizioni sui segnali.
+I testi degli ordini sono i seguenti:
+			
+	italiano	tedesco	francese	
+				
+	sganciato	abgehängt	coupé	
+				
+	avanti	vorwärts	en avant	
+				
+	indietro	rückwärts	en arrière	
+				
+	accostare
+(avanti / indietro)	anfahren 
+(vorwärts / rückwärts)	garer
+(en avant / en arrière)	
+				
+	   un vagone
+   mezzo
+   quattro
+   due
+   uno	   wagenlang
+   halbe
+   vier
+   zwo (statt zwei)
+   einen	   un wagon
+   demi
+   quatre mètres
+   deux mètres
+   un mètre	
+				
+	fermare	anhalten	arrêter	
+				
+	colpo	Stoss	lancer (tampon)	
+				
+	rallentare	langsamer	ralentir	
+				
+	appoggiare	bewegen	appuyer	
+				
+	spingere lentamente
+   (ordine di manovra
+   per spinte lente)	schieben
+   (Fahrbefehl für 
+   langsames Schieben)	pousser
+   (ordre de pousser 
+   lentement)	
+				
+	spingere più in fretta	schneller schieben	pousser plus fort	
+				
+	spingere più adagio	langsamer schieben	pousser plus lentement	
+				
+	retrocedere	zurückziehen	retirer	
+				
+				
+
+2.5.3	Indicazioni di distanza
+	
+	Nell’accostare a veicoli fermi o quando si deve fermare in un determinato punto, il CMAN deve dare al MAC le indicazioni di distanza. Le indicazioni di distanza vanno calcolate in conformità con la velocità di corsa, con il peso della corsa di manovra, con l’efficacia dei freni, le condizioni locali, lo stato e la pendenza del binario.
+Con una corsa di manovra condotta direttamente, si possono tralasciare le indicazioni di distanza e l’ordine di fermare.
+
+	
+2.5.4	Quietanza e esecuzione degli ordini
+	
+	Il MAC deve quietanzare gli ordini e subito dopo eseguirli.
+Le indicazioni della distanza devono essere confermate con una corrispondente diminuzione della velocità. La prima di esse va quietanzata dopo la diminuzione della velocità. Se la prima indicazione della distanza è data con l’ordine d’avanzare, anche la prima indicazione della distanza vale come quietanzata.
+Se dopo un’indicazione di distanza la velocità non viene adeguatamente ridotta, bisogna dare segnali di fermata.
+L’ordine di fermata va osservato immediatamente e non va quietanzato.
+Gli ordini dati otticamente e acusticamente secondo le prescrizioni sui segnali non vanno quietanzati.
+	
+2.5.5	Proseguimento della corsa dopo una fermata davanti a un segnale
+	
+	Se la corsa di manovra è condotta direttamente, il CMAN può concordare con il MAC che il MAC, dopo una fermata davanti ad un segnale fisso per i movimenti di manovra, prosegue di propria iniziativa quando viene accordato il consenso al segnale interessato.
+	
+2.5.6	Allontanare dopo lo sganciamento del veicolo motore
+	
+	Il MAN annuncia al MAC lo sganciamento del veicolo motore con: «sganciato». In seguito il MAC deve allontanare il veicolo motore dal treno a una distanza tale da permettere al MAN di uscire dai veicoli senza pericolo.
+	
+2.6	Osservazione dell’itinerario
+2.6.1	Principio
+	
+	L’osservazione dell’itinerario durante la corsa compete al CMAN. Il CMAN deve scegliere la sua posizione in modo tale da poter scorgere l’itinerario ed osservare i segnali in maniera ineccepibile.
+Affinché il CMAN sia in grado di osservare perfettamente i segnali riflettenti non illuminati, la testa del movimento di manovra di notte, in gallerie o con cattive condizioni di visibilità deve disporre di una sufficiente illuminazione come p.es.: 
+–	illuminazione frontale del veicolo motore, 
+–	illuminazione per il CMAN (p.es. lampada portatile o lampada frontale / da casco).
+Dopo un segnale basso che mostra via libera con prudenza o in impianti privi di segnali bassi, si deve poter fermare prima di un veicolo ferroviario.
+2.6.2	Corsa di manovra condotta direttamente
+	
+	Se la corsa di manovra è condotta direttamente, il MAC è responsabile dell’osservazione dell’itinerario. I MAN che viaggiano insieme sul veicolo motore coadiuvano il MAC nell’osservazione, purché possano scorgere l’itinerario.
+	
+2.6.3	Contatto visivo 
+	
+	Se con una corsa di manovra condotta indirettamente, che viene diretta con ordini ottici e acustici in base alle prescrizioni sui segnali, il MAC perde il contatto visivo col CMAN, deve ridurre immediatamente la velocità a passo d’uomo. In caso di necessità bisogna fermarsi.
+	
+2.6.4	Sezionamento di tratta/isolatore di sezione
+	
+	I sezionamenti e gli isolatori di sezione possono essere percorsi con i pantografi alzati soltanto se le linee di contatto sono sotto tensione da entrambe le parti.
+	
+2.7	Zona tranvie e passaggi a livello senza segnalazione lato strada 
+2.7.1	Movimenti di manovra nella zona delle tranvie 
+	
+	In una zona tranvie si deve circolare con corsa a vista; a tale riguardo, la velocità massima consentita è stabilita dal GI tenendo conto dei veicoli e delle caratteristiche del luogo.
+Nell’ambito delle tranvie si applicano inoltre le prescrizioni della normativa in materia di traffico stradale.
+Se necessario, il traffico stradale deve essere regolato da collaboratori.
+	
+2.7.2	Passaggi a livello senza segnalazione lato strada 
+	
+	Il GI designa nelle prescrizioni d’esercizio i passaggi a livello sui quali il traffico stradale deve essere regolato da collaboratori.
+	
+2.7.3	Regolazione del traffico ad opera di collaboratori 
+	
+	Il traffico stradale viene regolato da collaboratori con una bandiera o una luce rossa.
+
+2.8	Arresto del movimento di manovra
+2.8.1	Posto di fermata estremo
+	
+	Un movimento di manovra deve fermarsi al più tardi 
+–	davanti a un segnale valevole per i movimenti di manovra e che mostra fermata,
+–	nel binario d’arrivo secondo il consenso verbale o telefonico,
+–	prima del segno di sicurezza di uno scambio preso di calcio e disposto in posizione falsa,
+–	prima del limite per la manovra.
+	
+2.8.2	Accostamento a veicoli
+	
+	Se si accosta a veicoli, quest’ultimi devono essere assicurati contro il rischio di fuga.
+Nel premere, occorre prestare attenzione affinché, quanto possibile, nessun veicolo venga spostato. Comunque non deve derivare nessuna messa in pericolo a causa di un eventuale spostamento di veicoli.
+È vietato accostare a veicoli ai quali vengono apportati lavori di riparazione o che sono raccordati con condotte di tubi flessibili o di tubi a impianti di travaso. Tutti i movimenti di manovra devono fermarsi ad almeno 5 metri da tali veicoli.
+Ai veicoli che sono allacciati a impianti fissi di preriscaldamento o preriscaldati con veicoli motori non occupati, si può accostare con prudenza senza muoverli. È permesso accoppiare gli accoppiamenti a vite e allacciare gli accoppiamenti dei freni.
+	
+2.8.3	Ricovero all’esterno del profilo di spazio libero
+	
+	I veicoli vanno sistemati in modo tale che nessuna delle loro parti fuoriesca dalle linee limite date dal segno di sicurezza o dal segnale basso.
+
+2.9	Utilizzazione, richiamo e svincolo 
+2.9.1	Utilizzazione del percorso di manovra 
+	
+	Le corse di manovra devono utilizzare il percorso di manovra come segue:
+–	fino al prossimo segnale basso che mostra fermata, o 
+–	se invertono la direzione di marcia, fino a dietro il segnale basso nella direzione opposta sul binario d’inversione. A tale riguardo, per quanto possibile occorre fermare in una sezione senza scambi. 
+2.9.2	Richiamo di segnali su via libera 
+	
+	Il CMOV può riportare su fermata i segnali di manovra e i segnali bassi su posizione di via libera, solo dopo aver avvisato tutte le persone interessate dal movimento di manovra e dopo che lo stesso si è fermato. 
+	
+2.9.3	Svincolo di chiavistellamenti e di percorsi 
+	
+	Il CMOV può svincolare chiavistellamenti o percorsi, soltanto quando il movimento di manovra si è fermato o ha superato il punto chiavistellato.
+	
+
+
+3	Disposizioni per i tipi di movimento
+3.1	Spinta non scortata 
+	
+	Se la cabina di guida occupata di una corsa di manovra condotta direttamente non si trova in testa, si tratta di una spinta non scortata, ammessa alle condizioni che seguono:
+–	la corsa di manovra non percorre alcun passaggio a livello non assicurato o segnalato unicamente da una croce di S. Andrea 
+–	la corsa di manovra non percorre nessuna zona delle tranvie
+–	non vi è alcuna messa in pericolo di persone.
+Prima della corsa
+–	l’itinerario deve essere disposto fino al binario d’arrivo e
+–	per quanto possibile l’itinerario deve essere verificato dal MAC.
+Durante la spinta il MAC deve avere la visuale libera sull’itinerario e sui segnali. Se su una breve distanza l’osservazione non è possibile, la velocità deve essere ridotta a passo d’uomo.
+Nelle stazioni, la cabina di guida occupata può trovarsi al massimo a 40 metri dietro la testa della corsa di manovra. Il GI indica le stazioni nelle quali sono ammessi fino a 100 metri. Per i movimenti di manovra sulla tratta sono ammessi fino a 100 metri. Questo vale anche in stazione, dal binario di partenza e fino al binario di arrivo.
+	
+3.2	Lanci e colpi
+3.2.1	Staffisti
+	
+	Nel servizio di lancio o di colpo, gli staffisti devono essere informati anticipatamente in merito alla successione dei lanci e dei colpi e, per quanto necessario, avvisati con l’annuncio «carro pesante» circa la presenza di questi vagoni. Si considerano veicoli pesanti quelli con un peso lordo superiore a 120 t. 
+Il lancio o il colpo possono essere iniziati solo se gli staffisti hanno annunciato di essere pronti. Se uno staffista non riesce a posare tempestivamente le staffe d’arresto per ogni lancio o colpo, deve dare segnali di fermata.
+	
+3.2.2	Colpo
+	
+	Per il colpo, il CMAN deve definire la velocità dello stesso conformemente al peso dei relativi veicoli, la distanza fino al posto di fermata voluto, lo stato e la pendenza del binario e i mezzi di frenatura utilizzabili.
+
+3.2.3	Limitazioni dovute agli impianti	
+		
+		Tipo di impianto	Lancio o colpo		
+		Su o verso binari, mentre questi devono essere attraversati da viaggiatori che si recano o provengono da treni	vietato		
+		Su passaggi a livello incustoditi o segnalati soltanto con Croci di S. Andrea, nella zona delle tranvie e su binari integrati nel terreno stradale	vietato		
+		Su impianti privi di illuminazione dei binari, con l’oscurità 	vietato		
+		Verso carrelli trasbordatori e piattaforme girevoli	vietato		
+		Per il carico su carrelli trasportatori	vietato		
+		Su binari che conducono verso percorsi treno disposti	vietato		
+		Verso tratte in discesa superiori al 20 ‰	vietato		
+		Verso tratte in discesa fino al 20 ‰	Solo con freno a mano servito 		
+		Verso portoni (rimesse, depositi ecc.) come pure prima e su bilance a ponte 	Solo con freno a mano servito		
+	
+
+3.2.4	Limitazioni dovute ai veicoli
+	
+		vietato	
+	due staffe d’arresto
+		solo con freno a mano servito 		eccezioni locali
+
+	Specie di veicoli e di carichi	Lancio	Lancio in impianti senza fermata dei veicoli con staffa d’arresto	Percorrere la sella di lancio	Colpo	Lancio / colpo verso questi veicoli	
+	Loc di linea, elettrotreni, automotrici e veicoli di comando			 	 	
+
+o
+	
+	Locomotive di manovra				 	
+
+o
+	
+	Trattori, veicoli semoventi quali macchine da costruzione ecc.
+1)	Colpo permesso in un gruppo di veicoli frenato a mano 				1)	
+
+o
+	
+	Carrozze occupate da viaggiatori, bagagliai occupati come pure veicoli occupati da personale addetto al carico / scarico o da accompagnatori del trasporto 
+Carrozze letti e ristorante 						
+	Carrozze viaggiatori vuote, con freno magnetico o a disco 						
+	Carrozze viaggiatori vuote 						
+	Veicoli col segno  o con la scritta «Non può circolare sulla sella di lancio»		 	 			
+	Veicoli con carico spostato o insufficientemente assicurato o con un peso assiale non uniforme (carri in fase di carico / scarico)					
+
+o
+	
+	Specie di veicoli e di carichi	Lancio	Lancio in impianti senza fermata dei veicoli con staffa d’arresto	Percorrere la sella di lancio	Colpo	Lancio / colpo verso questi veicoli	
+	Carri precauzione con il segno 
+Veicoli con la scritta «Colpo (spinta) / lancio vietata/o»
+Veicoli carichi che sono collegati tra loro solo per mezzo del carico o di una sbarra d’accoppiamento
+Carri trasportatori o cavalletti trasportatori (carichi o vuoti)					
+
+o
+	
+	Altri carri precauzione 
+Gruppi di due e più veicoli con carico comune 	
+
+o
+			
+
+o
+	
+
+o
+	
+	Veicoli e gruppi di veicoli con più di 40 metri di lunghezza 	 					
+	Veicoli per gas compresso, carichi o vuoti (strisce longitudinali color arancione sul serbatoio)					
+
+o
+	
+	Se il veicolo circola in testa al lancio o al colpo, e viene fermato con staffe d’arresto:
+–	veicoli a carrelli carichi
+–	carri merci dotati di freni a tamburo o a disco 	
+			
+		
+	Veicoli raccordati ad impianti di travaso con tubi flessibili o tubi
+Veicoli che recano un segnale per lavori di riparazione 					
+Accostamento vietato	
+	
+3.2.5	Locomotive, elettrotreni e automotrici
+	
+	Se le prescrizioni locali permettono il lancio o il colpo di locomotive, elettrotreni e automotrici, questi veicoli devono essere occupati da un MAC e vanno fermati con il freno ad aria.
+	
+
+3.2.6	Successione di corse in settori con scambi centralizzati 
+	
+	Nel settore degli scambi centralizzati non è ammesso circolare dopo un colpo.
+	
+3.2.7	Corse successive e trasversali 
+	
+	L’itinerario per una corsa successiva o trasversale dopo un colpo può essere disposto o memorizzato solo quando si è fermata la parte che spinge.
+	
+3.3	Movimenti di manovra con la fune o l’argano	
+3.3.1	Fune di manovra	
+		
+	La fune deve avere una lunghezza minima di 10 m ed essere dotata di un gancio con maniglia. Si può utilizzarla per rimorchiare veicoli con veicoli motori o veicoli stradali. Il peso dei veicoli rimorchiati non può superare le 100 t.
+L’utilizzazione di catene o di funi di manovra annodate è vietata. I veicoli stradali devono circolare all’esterno del binario sul quale circolano i veicoli.
+La fune di manovra va dapprima tesa con prudenza, in seguito i veicoli possono essere trainati lentamente.
+Il MAN deve mantenersi a una distanza sufficiente dalla corda, onde evitare di essere colpito o ferito in caso di rottura della stessa. 	
+		
+3.3.2	Argano, verricelli	
+		
+	Se la fune è fissata al gancio di trazione del veicolo anteriore, il peso dei veicoli trainati con argani o verricelli non può superare quello ammissibile per l’argano o il verricello. 
+Se la fune è fissata a ganci o ad anelli di traino dei veicoli, il peso non può superare i 100 t.
+Il GI rispettivamente l’ITF possono fissare valori superiori. Questi valori vengono stabiliti per mezzo di una valutazione dei rischi che consideri le specificità locali, il tipo di impianto a fune e il peso massimo che può essere esercitato sul gancio o sull’anello di traino.
+Le disposizioni sulla fune di manovra, sul fissaggio e sulla fermata valgono anche per i movimenti di manovra eseguiti con argani e verricelli.	
+		
+
+3.3.3	Fissaggio	
+		
+	Un’estremità della fune dev’essere fissata al gancio di trazione del locomotore o dell’autoveicolo e l’altra al gancio di rimorchio laterale del veicolo.
+In caso di utilizzazione di funi di nylon bisogna mettere l’anello ovale nel gancio di trazione del locomotore.	
+		
+3.3.4	Trazione con veicoli motori	
+		
+	I locomotori possono rimorchiare con la fune solo i veicoli situati sullo stesso binario o su quello adiacente. Per rimorchiare i veicoli dal binario occupato dal locomotore al binario adiacente la fune può essere agganciata solamente a partire dal momento in cui il locomotore ha oltrepassato lo scambio da percorrere e quest’ultimo è stato invertito.	
+		
+3.3.5	Trazione con veicoli stradali
+	
+	Oltre al conducente del veicolo stradale, deve essere presente almeno un MAN che osserva l’itinerario, ferma i veicoli e, all’occorrenza, può sganciare la fune durante la corsa.
+	
+3.3.6	Fermata
+	
+	In ogni momento si deve poter fermare il movimento di manovra per mezzo di freni a mano o di staffe d’arresto.
+	
+3.4	Movimento di manovra a braccia, con mezzi meccanici 
+ausiliari o con veicoli stradali
+3.4.1	Movimenti di manovra a forza di braccia o con mezzi meccanici ausiliari
+	
+	Per qualsiasi movimento di manovra a braccia o con mezzi meccanici ausiliari quali p.es. leva, il MAN deve sistemarsi in modo tale da poter scorgere il binario percorso e poter fermare i veicoli con il freno a mano o con staffe d’arresto.
+È permesso il traino o la spinta di veicoli solo rimanendo sul lato degli stessi.
+	
+
+3.4.2	Movimento di manovra con veicoli stradali
+	
+	I veicoli stradali possono essere utilizzati solo se ciò è previsto nelle istruzioni d’uso. Essi devono presentare particolari dispositivi di trazione o repulsione, in modo da escludere qualsiasi danno ai veicoli. I veicoli vanno spinti o tirati senza scosse, concentrando lo sforzo direttamente sulla traversa o sui respingenti e nel senso del binario, o al dispositivo di trazione.
+	
+3.4.3	Cooperazione di terzi
+	
+	Su binari di raccordo ecc. i veicoli possono essere spostati anche dal personale ivi occupato. Eccezionalmente, per spingere i veicoli si possono impiegare anche terze persone, con il consenso e sotto la direzione del CMAN.
+	
+3.5	Particolarità
+3.5.1	Movimento di manovra su piattaforme girevoli e su carrelli trasbordatori
+	
+	I veicoli possono percorrere le piattaforme girevoli e i carrelli trasbordatori solo se sono bloccati o se il segnale di fermata non è visibile. Le piattaforme girevoli e i carrelli trasbordatori possono essere messi in moto solo se i veicoli sopra di essi sono stati assicurati contro la fuga. Per i veicoli dotati di pantografi bisogna abbassare gli stessi e controllarne la posizione.
+	
+3.5.2	Carri precauzione 
+	
+	I MAN devono segnalarsi reciprocamente i carri precauzione.
+Sono considerati carri precauzione:
+–	i carri con l’etichetta «Manovrare con precauzione» o con i segni
+	   o 
+–	i carri con merci pericolose
+–	i carri con animali vivi
+–	i carri con frutta
+–	i carri con veicoli stradali, macchine da costruzione, carri armati, ecc.
+	
+
+3.5.3	Veicoli collegati con sbarra d’accoppiamento
+	
+	I veicoli accoppiati con una sbarra o quelli con dispositivi di repulsione mancanti o danneggiati non si possono manovrare ubicati fra gli altri veicoli. 
+Sui binari di raccordo con curve a raggio corto, per i movimenti di manovra con sbarre d’accoppiamento o tiranti di corda valgono le disposizioni esecutive dell’IF competente.
+	
+3.5.4	Spostamento del carico o carico assicurato in modo 
+insufficiente
+	
+	I carri con carico spostato o insufficientemente assicurato oppure con peso assiale non uniforme devono essere spostati senza scosse e non vanno esposti ad urti. I tenditori devono essere tesi adeguatamente e il MAC va avvisato di circolare con precauzione.
+	
+3.5.5	Più veicoli motori
+	
+	Nei treni con locomotiva di rinforzo in testa, intermedia o di spinta la manovra va limitata
+–	alla separazione in caso di incroci e precedenze o per la liberazione di un passaggio a livello
+–	all’avanzamento e all’arretramento
+–	all’allontanamento e all’aggiunta di veicoli.
+In tutti gli altri casi è ammesso manovrare con un solo veicolo motore. I veicoli motori accoppiati in trazione multipla e telecomandati contano in questo senso come un solo veicolo motore.
+	
+3.6	Velocità di corsa
+3.6.1	Principio
+	
+	Durante la manovra, la velocità di corsa va adattata alla visibilità, alle condizioni locali e ai mezzi di frenatura disponibili. Si può circolare solo alla velocità che permette di fermare con sicurezza nel punto previsto.
+	
+
+3.6.2	Velocità massima in stazione
+	
+	30 km/h	–	velocità massima in generale
+	15 km/h	–	per i veicoli motori al passaggio del culmine di selle di lancio 
+	10 km/h	–	per la spinta non scortata, se la cabina di guida occupata si trova al massimo 40 metri dietro la testa della corsa di manovra 
+–	se durante una corsa di manovra condotta direttamente è occupata la cabina di guida posteriore
+–	se la quantità dei veicoli non frenati supera la quantità dei veicoli frenati ad aria, salvo su impianti di lancio
+–	sui binari di carico, nella zona dei binari immersi nel terreno
+–	per corse di manovra su binari che possono essere attraversati da viaggiatori 
+–	per veicoli stradali con impiego del freno ad aria dei veicoli ferroviari da manovrare 
+	6 km/h	–	per la spinta sulla sella di lancio. Su impianti di lancio computerizzati, la velocità massima dipende dalle norme stabilite dal calcolatore
+	5 km/h	–	per circolare in depositi, rimesse, impianti di manutenzione e capannoni di trasbordo 
+–	su piattaforme girevoli e carrelli trasbordatori
+–	nelle curve con scanalature di guida e controrotaie
+–	durante le manovre con la fune
+–	durante le manovre a braccia o con mezzi meccanici ausiliari
+–	per la spinta non scortata, se la cabina di guida occupata si trova a più di 40 metri e al massimo 100 metri dietro la testa della corsa di manovra. 
+–	per veicoli stradali senza impiego del freno ad aria dei veicoli ferroviari da manovrare
+	Sul piano locale possono essere prescritte velocità massime inferiori. 
+Prima dell’entrata e dell’uscita verso e da depositi, rimesse, impianti di manutenzione e capannoni di trasbordo bisogna effettuare una fermata di sicurezza.
+	
+
+3.6.3	Eccezione in stazione
+	
+	Se entrambi i binari attigui sono liberi, nelle stazioni si può circolare alla velocità massima di 40 km/h, 
+–	come corsa di manovra, se 
+–	l’itinerario è visibile e se la cabina di guida occupata dal MAC è quella di testa e
+–	si attraversano zone senza scambi e
+–	tutti i veicoli possono essere frenati con il freno ad aria e 
+–	la corsa di manovra non è radiotelecomandata 
+–	per un colpo.
+Sul piano locale possono essere prescritte velocità massime inferiori.
+	
+3.6.4	Velocità massima sulla tratta
+	
+	La soglia di velocità per i movimenti di manovra che vanno o che tornano dalla tratta è situata all’altezza del segnale d’entrata; se questo manca, all’altezza dello scambio d’entrata. 
+Valgono per principio le velocità secondo il calcolo di frenatura e la tabella delle tratte, ma al massimo:
+	
+	60 km/h	–	velocità massima in generale
+	40 km/h	–	se si conducono veicoli senza i normali dispositivi di trazione e repulsione
+–	sugli scambi
+	30 km/h	–	in caso di corsa di manovra condotta indirettamente se tra il MAC e il CMAN non vi è alcun collegamento telefonico
+–	con la spinta non scortata.
+	
+3.6.5	Velocità massima su binari di raccordo
+	
+	La velocità massima su binari di raccordo è di 10 km/h. Nel caso in cui valgano velocità superiori o se vengono percorse zone tranvie, queste sono riportate nelle prescrizioni d’esercizio del GI. 
+	
+3.7	Sosta sul movimento di manovra 
+	
+	Di principio, il MAN deve sostare su una piattaforma o un predellino o una pedana di manovra laterale, in modo da non superare il profilo laterale dei veicoli.
+Se questo non è possibile, la sosta su un predellino o una pedana di manovra laterale è permessa solo sul lato opposto a quello del binario o nelle zone in cui esiste uno spazio di sicurezza intermedio. In tal caso occorre prestare attenzione ad eventuali ostacoli.
+Dove non esiste uno spazio di sicurezza intermedio, il profilo laterale del veicolo può essere superato brevemente per salire e scendere, se è possibile accertarsi con sicurezza che sul binario adiacente non si avvicini alcuna corsa. Se questo non è possibile, non è ammesso invadere il profilo laterale del veicolo. All’occorrenza occorre procedere secondo le disposizioni «Mancanza di uno spazio di sicurezza intermedio».
+
+
+4	Disposizioni complementari per i movimenti di manovra sulla tratta 
+4.1	In generale
+4.1.1	Principio  
+	
+	Nella misura del possibile, le corse sulla tratta devono avvenire come corse treno.
+Nei casi seguenti si deve eseguire un movimento di manovra sulla tratta senza impiego dei segnali principali:
+–	se, per ragioni tecniche, la corsa treno influenza l’impianto di sicurezza in modo tale che dopo la corsa esso non raggiunge la posizione di base
+–	se veicoli non possono essere ubicati nei treni
+–	per recuperare un treno rimasto incagliato o parti di treno lasciate sul posto.
+Le prescrizioni «Disposizioni complementari per i movimenti di manovra sulla tratta» devono essere applicate per i binari in servizio. Corse su binari di tratta sbarrati vengono eseguite secondo le «Disposizioni complementari per i movimenti di manovra su binari sbarrati».
+Un movimento di manovra sulla tratta comincia e termina:
+–	in stazione 
+–	all’interno di una sezione di tratta
+–	in un binario di raccordo sulla tratta.
+Un movimento di manovra sulla tratta può circolare su una o più sezioni di binario o di tratta.
+	
+4.1.2	Delimitazione della sezione di tratta
+	
+	Un binario di tratta può essere costituito da una o più sezioni di tratta. Una sezione di tratta viene così delimitata:
+–	contigua a una stazione per mezzo del limite per la manovra
+–	sulla tratta, mediante i segnali principali del binario percorso, sia nella propria direzione, sia in quella opposta.
+	
+4.2	Ordinazione, preparazione e prontezza della corsa
+4.2.1	Ordinazione
+	
+	I movimenti di manovra sulla tratta devono essere ordinati e necessitano di un orario di marcia.
+
+4.2.2	Prescrizioni di frenatura per movimenti di manovra sulla tratta
+	
+	Si applicano le stesse prescrizioni per la prova del freno e di frenatura in vigore per i treni.
+	
+4.2.3	Movimenti di manovra che seguono un treno 
+	
+	Sulle tratte o parti della rete previste nelle prescrizioni d’esercizio del GI, un movimento di manovra sulla tratta può seguire un treno precedente circolando con corsa a vista se questo non ha ancora lasciato la tratta o la sezione di blocco. Il segnale d’uscita deve mostrare fermata prima di impartire il consenso.
+	
+4.2.4	Annuncio di prontezza
+	
+	Il CMAN dopo aver terminato la preparazione annuncia la prontezza al CMOV.  
+	
+4.3	Itinerario
+4.3.1	Disporre e assicurare l’itinerario
+	
+	Il CMOV deve disporre l’itinerario e assicurarlo fino al punto d’arrivo della corsa. Tenuto conto delle possibilità tecniche, la suddivisione in più itinerari parziali è ammessa, purché questi possano essere assicurati.
+A dipendenza dell’itinerario assicurato, il CMOV stabilisce il corrispondente punto d’arrivo.
+	
+4.3.2	Punti d’arrivo nell’itinerario
+	
+	Sono considerati punto d’arrivo: 
+–	un segnale principale
+–	un segnale principale nella direzione opposta
+–	un segnale di sbarramento o un segnale basso
+–	un binario di raccordo
+–	il binario d’arrivo in stazione
+–	lo scambio d’entrata, nelle stazioni senza segnale d’entrata o, dove presente, la tavola d’inizio stazione.
+Su una tratta a doppio binario priva d’esercizio banalizzato, per le corse dalla tratta in direzione della stazione, il segnale d’entrata vale come punto d’arrivo per entrambi i binari.
+
+4.4	Provvedimenti da adottare prima di impartire il consenso
+4.4.1	Più movimenti di manovra
+	
+	Se sulla tratta circolano più movimenti di manovra, si deve circolare con corsa a vista.
+Prima di impartire il consenso, il CMOV controlla se sull’itinerario vi sono o sono stati ordinati altri movimenti di manovra sulla tratta.
+Si può accordare il consenso per un altro movimento di manovra, solo se esso e tutti gli altri movimenti di manovra sono avvisati con obbligo di protocollo circa la circolazione di altri movimenti di manovra.
+	
+4.4.2	Annunci
+	
+	Prima di impartire il consenso, il CMOV controlla se sono stati trasmessi tutti gli annunci necessari quali ad esempio gli annunci concordati ad un’area dei lavori.
+	
+4.5	Consenso per movimento di manovra sulla tratta
+4.5.1	Validità del consenso
+	
+	Ogni movimento di manovra sulla tratta necessita di un consenso del CMOV. 
+Il consenso vale per la corsa fino al punto d’arrivo. All’interno della rispettiva sezione di tratta, è ammesso eseguire corse in avanti e all’indietro senza consenso, salvo che sugli scambi.
+Se il CMAN necessita di un consenso ulteriore per il proseguimento o retrocessione della corsa, deve di nuovo annunciare la prontezza al CMOV.
+	
+4.5.2	Trasmissione del consenso
+	
+	Il consenso va dato al CMAN con obbligo di quietanza, secondo il testo seguente: «Per (numero) R, assicurato da (punto di partenza) a (punto d’arrivo)».
+Il punto di partenza e il punto d’arrivo devono essere designati inequivocabilmente e se necessario completati con il nome della stazione.
+Se il consenso non può essere trasmesso sino al prossimo punto d’arrivo indicato nell’orario di marcia, esso va completato con il testo seguente: «Attenzione, ripeto, assicurato solo fino a (punto d’arrivo)». Il CMAN e il MAC devono annotare per iscritto il punto d’arrivo indicato.
+	
+
+4.5.3	Ripetuta circolazione su scambi sulla tratta
+	
+	Per ogni nuova circolazione su scambi sulla tratta è necessario avere il consenso del CMOV. Sulla sezione di tratta assicurata, invece del consenso con obbligo di quietanza può essere dato un consenso con il segnale basso.
+Scambi sulla tratta che vengono azionati dal CMAN possono essere percorsi senza ulteriore consenso del CMOV.
+	
+4.5.4	Consenso per l’entrata in stazione
+	
+	Previa intesa, invece del consenso con obbligo di quietanza, il consenso per entrare in stazione può essere dato con i segnali bassi.
+Il GI può designare le stazioni in cui il consenso per l’entrata viene dato con il segnale d’entrata su posizione di via libera. In tali casi, il GI indica anche il posto di fermata più lontano.
+	
+4.6	Corsa 
+4.6.1	Ordine di corsa
+	
+	Per i movimenti di manovra sulla tratta, il CMAN trasmette verbalmente o telefonicamente l’ordine di corsa al MAC nel modo seguente: «(numero) R avanti / indietro fino a (punto d’arrivo)».
+	
+4.6.2	Osservanza dei segnali bassi, di sbarramento e di manovra 
+	
+	I segnali bassi e i segnali di sbarramento vanno rispettati. Se per ragioni tecniche i segnali bassi non possono essere disposti su via libera, si deve procedere conformemente al «processo chiave in caso di perturbazioni».
+I movimenti di manovra sulla tratta non devono osservare i segnali di manovra.
+	
+4.6.3	Circolazione su impianti di passaggio a livello e di regolazione del traffico
+	
+	Gli impianti di passaggio a livello e di regolazione del traffico sulla tratta e nelle stazioni intermedie vanno considerati per principio come non inseriti. Per quanto tecnicamente possibile, tuttavia, essi devono essere inseriti dal CMOV o sul posto dal CMAN.
+Per percorrere impianti non inseriti, si deve procedere secondo le           «Disposizioni complementari per perturbazioni a impianti di passaggi a livello sorvegliati e di regolazione del traffico».
+Se è assicurato che un impianto di passaggio a livello o di regolazione del traffico è inserito, lo si può percorrere senza restrizioni. Le condizioni devono essere fissate dal GI.
+	
+4.7	Arrivo
+4.7.1	Annuncio d’arrivo
+	
+	Un annuncio d’arrivo è necessario nei casi seguenti: 
+–	all’arrivo alla stazione di destinazione
+–	dopo l’arrivo in un binario sbarrato
+–	dopo aver rimosso dai binari veicoli speciali, se sulla sezione di tratta non si trovano più altri veicoli appartenenti a questo movimento di manovra.
+L’annuncio d’arrivo viene trasmesso quando il movimento di manovra è rientrato completamente. Il CMAN annuncia al CMOV con obbligo di quietanza «(numero) R a (luogo / binario)».
+Dietro preventiva intesa, il CMOV può richiedere un annuncio d’arrivo in un altro luogo appropriato, in particolare:
+–	all’arrivo in un binario di raccordo 
+–	all’arrivo in una stazione intermedia
+–	all’arrivo in una determinata sezione di tratta.
+	
+4.7.2	Soppressione della protezione
+	
+	Dopo aver ricevuto l’annuncio d’arrivo, il CMOV può sopprimere la corrispondente protezione.
+	
+4.8	Recupero di un treno rimasto incagliato
+4.8.1	Parti di treno lasciate sul posto
+	
+	Le disposizioni per il recupero di un treno rimasto incagliato si applicano, per analogia, al recupero di parti di treno lasciate sul posto. 
+	
+4.8.2	Corsa di andata
+	
+	Per il recupero di un treno rimasto incagliato sulla tratta, all’andata si deve circolare con corsa a vista. 
+Si può accordare il consenso al movimento di manovra, solo se è sicuro che il treno incagliato non si muove più.
+	
+
+4.8.3	Corsa a ritroso o proseguimento della corsa
+	
+	Il CMOV decide se la corsa a ritroso o il proseguimento deve avvenire come treno o come movimento di manovra sulla tratta, e lo comunica al personale viaggiante. 
+Il CMAN annuncia la prontezza di corsa al CMOV. Se il proseguimento della corsa avviene come treno, tale annuncio comprende anche l’annuncio d’arrivo del movimento di manovra. Il CMOV può di seguito sopprimere le protezioni apportate.
+	
+4.9	Movimento di manovra che non lascia completamente la stazione
+	
+	Le corse di manovra che non lasciano completamente la stazione circolano secondo le prescrizioni per i movimenti di manovra in stazione. Si rinuncia all’attribuzione di un numero e alla stesura dell’orario di marcia. Vale inoltre quanto segue:
+–	alla richiesta dell’itinerario, il CMAN chiede in più il consenso di superare il limite per la manovra
+–	il CMOV assicura secondo «Disposizioni complementari per i movimenti di manovra sulla tratta»
+–	il CMOV dà al CMAN, con obbligo di quietanza, il consenso di superare il limite per la manovra
+–	il CMAN trasmette un annuncio d’arrivo al CMOV, quando tutta la corsa si trova nuovamente sul territorio della stazione
+–	in seguito, il CMOV sopprime le misure di protezione.
+	
+
+5	Disposizioni complementari per movimenti di manovra su binario sbarrato
+5.1	In generale
+5.1.1	Principio
+	
+	Queste prescrizioni si applicano per i binari sbarrati sulla tratta e in stazione.
+Per i movimenti di manovra sulla tratta eseguiti al di fuori dei binari sbarrati fanno stato le «Disposizioni complementari per i movimenti di manovra sulla tratta».
+	
+5.1.2	Ampiezza dello sbarramento del binario
+	
+	I binari sbarrati comprendono le rispettive sezioni di binari e di tratta come pure gli scambi che sono stati sbarrati conformemente alle disposizioni circa i «lavori nella zona dei binari».
+	
+5.1.3	Assicuramento dei movimenti di manovra su binari sbarrati
+	
+	Sui binari sbarrati, ogni movimento di manovra non viene assicurato singolarmente, ma in modo subordinato allo sbarramento del binario.
+	
+5.1.4	Corsa a vista
+	
+	Di principio, sui binari sbarrati si deve circolare con corsa a vista.
+	
+5.2	Competenza del CS
+5.2.1	Coordinamento dei movimenti di manovra
+	
+	Sui binari sbarrati, il CS coordina e avvisa il personale dei movimenti di manovra in relazione con:
+–	gli altri movimenti di manovra
+–	gli aspetti legati alla costruzione
+–	la sicurezza sulle aree dei lavori.
+Se può revocare la corsa a vista su una sezione di binario, rispettivamente se il personale viaggiante del movimento di manovra deve attenersi a provvedimenti particolari nel settore dell’area dei lavori, il CS deve assicurare l’avviso al CMAN conformemente alle disposizioni sui «lavori nella zona dei binari».
+Il CS autorizza movimenti di manovra su binari sbarrati. Il CS tiene un controllo scritto dei movimenti di manovra e dei veicoli che si trovano sui binari sbarrati.
+
+5.3	Preparazione
+5.3.1	Pianificazione
+	
+	La pianificazione dei movimenti di manovra su binari sbarrati dev’essere coordinata con la pianificazione dell’area dei lavori.
+I movimenti di manovra che circolano su binari sbarrati non vengono ordinati.
+	
+5.3.2	Limiti dei binari sbarrati
+	
+	Il CS informa il CMAN in merito ai limiti dei binari sbarrati e ne assicura l’informazione costante. 
+Il CMAN viene informato sui limiti dei binari sbarrati come segue:
+–	mediante la protezione con segnali di fermata, o 
+–	se i limiti sono designati e riconoscibili in modo inequivocabile, mediante 
+–	avviso con obbligo di protocollo, o 
+–	consegna di una copia 
+–	della notifica d’esercizio dello sbarramento del binario, o 
+–	del DISPO.
+	
+5.3.3	Designazione e preparazione del movimento di manovra
+	
+	Il CS deve designare in modo inequivocabile i vari movimenti di manovra, d’intesa con il CMAN.
+Per la preparazione di un movimento di manovra sul binario sbarrato é competente il CMAN, d’intesa con il MAC.
+	
+
+5.3.4	Prescrizioni di frenatura per movimenti di manovra su binari sbarrati
+	
+	In stazione valgono le prescrizioni per la prova dei freni e di frenatura per i movimenti di manovra.
+Sulla tratta valgono le prescrizioni per la prova del freno e di frenatura per i treni.
+Per i veicoli dotati di sistemi di frenatura diversi dal freno ad aria, le ITF fissano la procedura.
+5.4	Movimenti di manovra su un binario sbarrato
+5.4.1	Autorizzazione per il movimento di manovra
+	
+	Prima di dare al CMAN il consenso per la corsa su un binario sbarrato, il CMOV deve chiedere l’autorizzazione al CS.
+	
+5.4.2	Consenso
+	
+	Il CMOV dà al CMAN il consenso verso un binario sbarrato con obbligo di quietanza.
+Il consenso viene così formulato: «disposto da (binario) verso (binario) sbarrato».
+Previa intesa e avviso con obbligo di quietanza che il binario d’arrivo è sbarrato, il consenso può essere dato con un segnale basso.
+	
+5.5	Circolazione all’interno di binari sbarrati
+5.5.1	Circolazione senza consenso
+	
+	Se non vengono percorsi scambi, all’interno di binari sbarrati si può rinunciare a un consenso. In tal caso, non si devono osservare i segnali principali e di manovra e il limite per la manovra.
+Se circolano più movimenti di manovra, i CMAN si avvisano, d’intesa con il CS, sul tipo e la successione dei movimenti di manovra da eseguire.
+	
+
+5.5.2	Modifica della formazione di un movimento di manovra
+	
+	Se la formazione di un movimento di manovra cambia, il CMAN ne avvisa il CS con obbligo di quietanza.
+	
+5.5.3	Circolazione su scambi
+	
+	Su binari sbarrati, senza un reciproco accordo gli scambi non si trovano in una determinata posizione.
+Se all’interno di binari sbarrati è necessario invertire un singolo scambio, il CMAN e il CS si intendono reciprocamente. Per quanto necessario, il CMAN richiede l’inversione dello scambio al CMOV.
+Per percorrere scambi centralizzati è necessario avere il consenso del CMOV. A dipendenza del tipo di assicuramento, esso può essere impartito una volta o, in generale, per più corse. Se esistono segnali bassi il consenso può essere dato per mezzo di questi.
+Le disposizioni concernenti gli scambi valgono anche per i dispositivi di sviamento, gli incroci e le intersezioni di binari.
+	
+5.5.4	Circolazione su impianti di passaggio a livello e di regolazione del traffico
+	
+	Di principio, gli impianti di passaggio a livello e di regolazione del traffico sono da considerare come non inseriti. Per quanto tecnicamente possibile, tuttavia, essi devono essere inseriti sul posto dal CMAN o, su richiesta di quest’ultimo, dal CMOV.
+Per percorrere impianti non inseriti, si deve procedere secondo le «Disposizioni complementari per perturbazioni a impianti di passaggi a livello sorvegliati e di regolazione del traffico».
+Se è assicurato che un impianto di passaggio a livello o di regolazione del traffico è inserito, lo si può percorrere senza restrizioni. Le condizioni devono essere fissate dal GI.
+	
+5.6	Movimento di manovra da un binario sbarrato
+5.6.1	Prontezza
+	
+	Il CMAN chiede il consenso per uscire da un binario sbarrato al CMOV.
+	
+
+5.6.2	Consenso del CMOV 
+	
+	Il CMOV dà al CMAN il consenso per uscire dal settore sbarrato a quello non sbarrato. 
+Il consenso può essere dato come segue:
+–	con trasmissione con obbligo di quietanza
+–	previa intesa 
+–	con un segnale basso
+–	per le stazioni designate del GI con il segnale d’entrata su posizione di via libera, se il binario di tratta sbarrato è immediatamente contiguo a una stazione
+–	con un segnale principale, se il proseguimento avviene come corsa treno.
+	
+5.7	Annuncio d’arrivo
+	
+	Quando tutto il movimento di manovra ha lasciato i binari sbarrati, il CMAN trasmette al CS un annuncio d’arrivo con obbligo di quietanza.
+	
+5.8	Annuncio di percorribilità
+5.8.1	Constatazione dello stato d’occupazione prima dell’annuncio di percorribilità
+	
+	Il CS accerta lo stato di occupazione dei binari in base agli annunci d’arrivo e dei controlli iscritti. Se esiste un dubbio, i binari sbarrati devono essere controllati sul posto. 
+Prima di dare l’annuncio di percorribilità i binari di tratta devono essere liberi da veicoli.
+	
+5.8.2	Annuncio di percorribilità con binari liberi
+	
+	Se il CS ha accertato lo stato libero dei binari sbarrati, annuncia al CMOV la liberazione dei binari secondo le disposizioni per i «lavori nella zona dei binari». 
+	
+5.8.3	Annuncio di percorribilità con binari occupati da veicoli
+	
+	Se binari di stazione, rimangono occupati da veicoli, il CS lo comunica al CMOV in occasione dell’annuncio di percorribilità secondo le disposizioni per i «lavori nella zona dei binari». 
+Dov’è necessario il CMOV assicura i binari occupati all’im­pianto di sicurezza.
+	
+
+
+6	Disposizioni complementari per il servizio di lancio	
+6.1	Freni di binario, impianti per raggruppare i veicoli	
+		
+	Il GI emana le prescrizioni necessarie per impianti in cui i lanci
+–	avvengono mediante freni di binario e impianti per il raggruppamento dei veicoli, e
+–	sono arrestati mediante freni di binario combinati con staffe d’arresto.	
+	
+6.2	Allungamento e allentamento dei tenditori	
+		
+	Prima di allungare i tenditori a vite fra i singoli lanci e di allentare i freni, si devono assicurare i veicoli contro la fuga.
+Se esiste il pericolo che con il lancio i tubi flessibili del freno possano essere danneggiati o strappati, essi vanno collocati negli appositi supporti.	
+		
+6.3	Rinuncia all’uso del freno ad aria in impianti di lancio	
+		
+	Se il carico dev’essere spostato sul binario di lancio, ciò può avvenire con corse di manovra
+–	dai binari di raggruppamento e di direzione per il lancio immediatamente successivo (anche sulla sella di lancio) o
+–	per il ricovero prima della successiva scomposizione
+con il carico rimorchiato non frenato.
+A tale riguardo, il peso rimorchiato non frenato verso e su pendenze non deve superare	
+	–	  0 –   6 ‰
+–	  7 – 15 ‰
+–	16 – 30 ‰	il decuplo
+il quintuplo
+il doppio	
+	del peso del veicolo motore.	
+		
+6.4	Richiesta dell’esercizio di lancio e concessione del consenso	
+		
+	Il CMAN richiede l’esercizio di lancio al CMOV. Quest’ultimo verifica per quanto possibile se la zona del lancio è libera, commuta l’apparecchio centrale sull’esercizio di lancio e dà il relativo consenso.
+Il CMAN controlla se l’esercizio di lancio è inserito.	
+
+6.5	Annuncio dei lanci e osservazione della zona di lancio
+	
+	Negli impianti non o solo parzialmente automatizzati, prima di ogni lancio il CMAN annuncia agli scambisti e agli staffisti il binario d’arrivo e i carri da fermare con 2 staffe d’arresto.
+L’osservazione della zona dei lanci compete, nella misura del possibile, a tutto il personale che partecipa a questa manovra. 
+È ammesso invertire gli scambi anche davanti a veicoli in avvicinamento, purché sia sicuro che essi raggiungano la posizione finale prima di essere percorsi.
+	
+6.6	Sganciamento
+	
+	Sulla sella di lancio, gli accoppiamenti sono staccati durante la spinta mediante l’apposita asta. Se è necessario sganciare a mano, si deve fermare il movimento di manovra. L’agganciatore può entrare fra i veicoli solo quando il movimento di manovra si è fermato.
+Dopo lo sganciamento, si può rinunciare a collocare i tenditori nei supporti previsti allo scopo.
+	
+6.7	Assicuramento 
+	
+	Le estremità dei binari in cui avvengono lanci devono essere assicurate con una staffa d’arresto doppia o 2 staffe d’arresto. 
+Se i carri lanciati sono assicurati con staffe d’arresto, nei binari di direzione si può rinunciare ad appendere una tavola d’avvertimento per staffe d’arresto. Il CMAN deve partire dal presupposto che i carri sono assicurati con staffe d’arresto e comportarsi di conseguenza.
+	
+6.8	Arresto prematuro del lancio
+	
+	I veicoli che durante la manovra di lancio si fermano prematuramente, possono essere accostati anche se non sono assicurati contro la fuga. Questo a condizione che l’itinerario nel binario corrispondente sia sbarrato e che in caso di eventuale fuga dei veicoli
+–	sia escluso un urto
+–	i veicoli non lascino l’itinerario assicurato
+–	nessuno sia messo in pericolo.
+	
+
+
+7	Movimenti di manovra in esercizio di tram	
+7.1	Preparazione e conclusione	
+7.1.1	Dirigenza	
+		
+	Ogni movimento di manovra viene diretto da un CMAN. 
+Se la dirigenza del movimento di manovra cambia, i CMAN devono informarsi reciprocamente.	
+		
+7.1.2	Tipi di movimento	
+		
+	Si distingue fra i movimenti di manovra seguenti: 
+–	corse di manovra condotte direttamente e indirettamente
+–	movimenti di manovra con veicoli stradali
+–	movimenti di manovra a braccia o con mezzi meccanici.	
+		
+7.1.3	Guida diretta delle corse di manovra	
+		
+	La guida diretta delle corse di manovra è ammessa alle seguenti condizioni
+–	il MAC ha costantemente la visuale libera sull’itinerario e sui segnali, e
+–	il MAC serve i freni, e
+–	il MAC ha la possibilità di dare segnali di attenzione. 	
+		
+7.1.4	Guida indiretta delle corse di manovra	
+		
+	Le corse di manovra sono condotte mediante la guida indiretta se il MAC non ha la visuale libera sull’itinerario e sui segnali. 
+Durante la guida indiretta il CMAN deve collocarsi in modo tale da poter vedere l’itinerario e osservare i segnali in modo ineccepibile	
+		
+7.1.5	Limite per la manovra e applicazione delle disposizioni complementari	
+		
+	I movimenti di manovra possono essere eseguiti entro i limiti per la manovra. I GI stabiliscono i limiti per la manovra. Di regola questi sono situati al limite tra binari di linea e di servizio. 
+Fuori dei limiti per la manovra si devono applicare le «Disposizioni complementari per i movimenti di manovra su binari di linea». 
+Sui binari sbarrati devono essere applicate le «Disposizioni complementari per i movimenti di manovra sul binario sbarrato». 
+Nel caso di movimenti di manovra all’interno del binario sbarrato fanno stato unicamente i limiti dello sbarramento.	
+	
+7.1.6	Contrassegno dei veicoli motore	
+		
+	I veicoli motore sono contrassegnati secondo le prescrizioni sui segnali.	
+		
+7.1.7	Direzione di corsa del movimento di manovra	
+		
+	Nel caso di movimenti di manovra a guida indiretta il CMAN fissa la direzione di marcia in avanti.	
+		
+7.1.8	Veicoli ai quali non si può accostare o ai quali si può accostare solo con prudenza	
+		
+	I veicoli ai quali vengono eseguiti lavori di riparazione o che non devono essere spostati vanno protetti contro il rischio di fuga e contrassegnati secondo le prescrizioni sui segnali. 
+I veicoli collegati mediante cavi ad impianti fissi vanno contrassegnati in base alle prescrizioni sui segnali. 
+Al posto della segnalazione, le ITF possono prescrivere misure di sicurezza alternative. 
+Prima dell’inizio del lavoro al veicolo, la segnalazione va apposta in modo ben visibile al veicolo stesso, se necessario alle due estremità, o devono essere attuate le misure di sicurezza.	
+		
+7.1.9	Assicuramento di veicoli	
+		
+	I veicoli ricoverati vanno assicurati contro la fuga. Le ITF disciplinano i mezzi di frenatura e le procedure nelle prescrizioni d’esercizio.	
+		
+7.1.10	Freni	
+		
+	I movimenti di manovra devono poter essere frenati e arrestati in sicurezza. Le ITF emanano le necessarie prescrizioni d’esercizio. 
+Salendo su un veicolo, il MAN deve accertarsi dove può essere attivato il freno d’emergenza. 
+Le ITF disciplinano la procedura nel caso in cui i freni devono essere completamente o in parte disinseriti.	
+
+7.2	Esecuzione
+7.2.1	Principio
+	
+	Nei settori non centralizzati, la persona con la funzione di CMAN assume i compiti della funzione di CMOV. I GI emanano le necessarie prescrizioni d’esercizio per gli impianti con percorsi o con comando centralizzato degli itinerari. 
+Consensi e ordini vanno impartiti in modo chiaro. Se sono interessate più persone, ogni annuncio e ogni ordine deve essere quietanzato dal destinatario. 
+Si deve contare in ogni momento sulla presenza di altri movimenti di manovra. I CMAN devono avvisarsi reciprocamente in merito ai movimenti di manovra da eseguire. 
+Se i consensi non sono chiari, il CMAN non può impartire l’ordine di corsa. Se gli ordini non sono chiari, il MAC non può mettere in movimento il veicolo motore o il movimento di manovra in corso deve essere fermato. Bisogna esigere la ripetizione del consenso o dell’ordine.
+	
+7.2.2	Veicoli speciali
+	
+	Le ITF disciplinano, con il coinvolgimento dei GI, la procedura per la messa sul binario e la rimozione di veicoli per strada e rotaia e per i veicoli che possono provocare un funzionamento irregolare di parti dell’infrastruttura.
+	
+7.2.3	Disposizione dell’itinerario, presupposti d’esercizio
+	
+	Gli scambi possono essere invertiti solo se sono liberi e se possono essere invertiti in modo sicuro nella posizione desiderata prima dell'eventuale arrivo di veicoli. Dopo l’inversione di uno scambio a mano si deve verificare che la lingua dello stesso aderisca bene al contrago.
+Percorrendo scambi tallonabili, si deve proseguire sempre fino a quando tutti i veicoli hanno liberato completamente lo scambio.
+	
+7.2.4	Consenso a svolgere il movimento di manovra, principio
+	
+	Il CMAN stabilisce il binario d’arrivo. Il CMAN si dà il consenso per ogni movimento di manovra.
+	
+
+7.2.5	Provvedimenti prima di impartire il consenso
+	
+	Prima di impartire il consenso, il CMAN verifica se
+–	gli scambi sono nella posizione corretta e hanno raggiunto la posizione finale, e
+–	dove necessario sono presenti gli indicatori di vincolo degli scambi, e
+–	i segnali lungo l’itinerario permettono il movimento di manovra.
+	
+7.2.6	Verifica prima dell’ordine di corsa
+	
+	Prima di impartire l’ordine di corsa il CMAN verifica, per quanto sia in grado di riconoscerlo, se
+–	i veicoli sono pronti per il movimento di manovra
+–	le persone che potrebbero essere messe in pericolo sono avvertite per tempo
+–	il MAC è avvisato in merito alle sezioni di binario lungo l’itinerario disinserite o messe a terra.
+
+7.2.7	Trasmissione degli ordini al movimento di manovra	
+		
+	Il CMAN deve dare singolarmente l’ordine di corsa al MAC per ogni movimento di manovra come segue:
+–	verbalmente o per telefono con il testo: «M ...» o
+–	con ordini ottici o acustici secondo le prescrizioni sui segnali.
+I testi degli ordini sono i seguenti:	
+	italiano	tedesco	francese
+			
+	sganciato	abgehängt	coupé
+			
+	avanti	vorwärts	en avant
+			
+	indietro	rückwärts	en arrière
+			
+	accostare
+(avanti / indietro)	anfahren 
+(vorwärts / rückwärts)	garer
+(en avant / en arrière)
+			
+	   un vagone
+   mezzo
+   quattro
+   due
+   uno	   wagenlang
+   halbe
+   vier
+   zwo (statt zwei)
+   einen	   un wagon
+   demi
+   quatre mètres
+   deux mètres
+   un mètre
+			
+	fermare	anhalten	arrêter
+			
+	rallentare	langsamer	ralentir
+			
+	appoggiare	bewegen	appuyer
+			
+		
+7.2.8	Indicazioni di distanza	
+		
+	Nell’accostare a veicoli fermi o quando si deve fermare in un determinato punto, il CMAN deve dare al MAC le indicazioni di distanza. Le indicazioni di distanza vanno calcolate in conformità con la velocità di corsa, con il peso della corsa di manovra, con l’efficacia dei freni, le condizioni locali, lo stato e la pendenza del binario. 
+Con una corsa di manovra condotta direttamente, si possono tralasciare le indicazioni di distanza e l’ordine di fermare.	
+		
+7.2.9	Quietanza e esecuzione degli ordini	
+		
+	Il MAC deve quietanzare gli ordini e subito dopo eseguirli. 
+Le indicazioni della distanza devono essere confermate con una corrispondente diminuzione della velocità. La prima di esse va quietanzata dopo la diminuzione della velocità. Se la prima indicazione della distanza è data con l’ordine d’avanzare, anche la prima indicazione della distanza vale come quietanzata. La prima indicazione può essere confermata anche acusticamente. 
+Se dopo un’indicazione di distanza la velocità non viene adeguatamente ridotta, il CMAN deve dare segnali di fermata. 
+Il MAC deve rispettare immediatamente l’ordine di fermata, senza quietanzarlo. 
+Gli ordini dati otticamente e acusticamente secondo le prescrizioni sui segnali non vanno quietanzati.	
+		
+7.2.10	Osservazione dell’itinerario	
+		
+	L’osservazione dell’itinerario durante la corsa compete al CMAN. Il CMAN deve scegliere la sua posizione in modo tale da poter scorgere l’itinerario e osservare i segnali in maniera ineccepibile. 
+Se la corsa di manovra è condotta direttamente, il MAC è responsabile dell’osservazione dell’itinerario. 
+Se con una corsa di manovra condotta indirettamente, che viene diretta con ordini ottici e acustici in base alle prescrizioni sui segnali, il MAC perde il contatto visivo col CMAN, deve fermarsi.	
+		
+7.2.11	Punti di separazione elettrica	
+		
+	I GI disciplinano la circolazione sui punti di separazione elettrica nelle prescrizioni d’esercizio.	
+		
+7.2.12	Arresto del movimento di manovra, posto di fermata più lontano	
+		
+	Un movimento di manovra deve fermarsi al più tardi
+–	davanti a un segnale valevole per i movimenti di manovra e che mostra fermata
+–	nel binario d’arrivo secondo il consenso
+–	prima del segno di sicurezza di uno scambio preso di calcio non tallonabile e disposto in posizione falsa
+–	prima del limite per la manovra.	
+		
+7.2.13	Accostamento a veicoli	
+	Se si accosta a veicoli, quest’ultimi devono essere assicurati contro il rischio di fuga. 
+Nel premere, occorre prestare attenzione affinché, per quanto possibile, nessun veicolo venga spostato. Comunque non deve derivare nessuna messa in pericolo a causa di un eventuale spostamento di veicoli. 
+È vietato accostare a veicoli sui quali vengono effettuati lavori di riparazione. Tutti i movimenti di manovra devono fermarsi ad almeno un metro da tali veicoli. 
+Ai veicoli che sono allacciati a impianti fissi o che vengono preriscaldati con veicoli motore non occupati, si può accostare con prudenza senza muoverli.	
+7.2.14	Ricovero all’esterno del profilo di spazio libero	
+		
+	I veicoli vanno sistemati in modo tale che nessuna delle loro parti fuoriesca dalle linee limite date dal segno di sicurezza. I GI possono disciplinare le eccezioni nelle loro prescrizioni d’esercizio.	
+		
+7.3	Disposizioni per tipi di movimento	
+7.3.1	Movimento di manovra a braccia, con mezzi meccanici ausiliari o con veicoli stradali	
+		
+	Le ITF stabiliscono la procedura per i movimenti di manovra eseguiti a braccia, con mezzi meccanici ausiliari o con veicoli stradali.	
+		
+7.3.2	Veicoli collegati con accoppiamento ausiliario e sbarra d’accoppiamento	
+		
+	Le ITF disciplinano l’impiego di accoppiamenti ausiliari e di sbarre d’accoppiamento nelle loro prescrizioni d’esercizio.	
+		
+7.3.3	Velocità di corsa	
+		
+	I GI disciplinano le velocità di corsa nelle loro prescrizioni d’esercizio.
+Le velocità massime indicate da segnali di velocità devono essere rispettate. 
+Per elementi dell’infrastruttura possono essere definite delle velocità massime generali. Questi elementi e le relative velocità massime sono da disciplinare dai GI nelle prescrizioni d’esercizio.
+La velocità di corsa va adattata alle condizioni locali e ai mezzi di frenatura disponibili.	
+		
+7.4	Disposizioni complementari per i movimenti di manovra su binari di linea	
+7.4.1	Principio	
+		
+	Le prescrizioni «Disposizioni complementari per i movimenti di manovra su binari di linea» devono essere applicate per i binari di linea in esercizio. Corse all’interno di binari sbarrati vengono eseguite secondo le «Disposizioni complementari per i movimenti di manovra su binari sbarrati».	
+7.4.2	Avviso e itinerario	
+		
+	I GI disciplinano l’avviso, all’occorrenza la necessità di un consenso dato dalla centrale di comando per i movimenti di manovra sul binario di linea. 
+L’itinerario viene disposto dal CMAN. I GI disciplinano la regolazione del traffico come pure il servizio e la verifica degli scambi e degli impianti di regolazione del traffico. 
+In caso di corse in senso contrario alla direzione di marcia del binario di linea, le corse susseguenti che circolano nella direzione di marcia ordinaria devono essere informate secondo le disposizioni del GI. 
+I GI disciplinano l’informazione dopo la fine del movimento di manovra.	
+		
+7.4.3	Recupero di un treno rimasto incagliato	
+		
+	I GI disciplinano la procedura per il recupero di un treno rimasto incagliato.	
+		
+7.5	Disposizioni complementari per i movimenti di manovra su binari sbarrati	
+7.5.1	Principio	
+		
+	Queste prescrizioni si applicano per i binari di linea e di servizio sbarrati.	
+		
+7.5.2	Ampiezza dello sbarramento del binario	
+		
+	I binari sbarrati comprendono le rispettive sezioni di binari come pure gli scambi che sono stati sbarrati conformemente alle disposizioni circa i «Lavori nella zona dei binari».	
+		
+7.5.3	Competenza del RALT	
+		
+	Sui binari sbarrati, il RALT coordina e avvisa il personale dei movimenti di manovra in relazione con:
+–	gli altri movimenti di manovra
+–	gli aspetti legati alla costruzione
+–	la sicurezza sulle aree dei lavori
+–	la regolazione del traffico. 
+Il RALT autorizza movimenti di manovra su binari sbarrati.	
+
+7.5.4	Pianificazione
+	
+	La pianificazione dei movimenti di manovra su binari sbarrati dev’essere coordinata con la pianificazione dell’area dei lavori.
+	
+7.5.5	Limiti dei binari sbarrati
+	
+	I limiti dei binari sbarrati devono essere protetti mediante segnali di fermata. 
+Il RALT informa il CMAN in merito ai limiti dello sbarramento.
+	
+7.5.6	Designazione e preparazione del movimento di manovra
+	
+	Il RALT deve designare in modo inequivocabile i vari movimenti di manovra, d’intesa con il CMAN. 
+Per la preparazione di un movimento di manovra sul binario sbarrato è competente il CMAN, d’intesa con il MAC.
+	
+7.5.7	Circolazione sui binari sbarrati
+	
+	Le corse all’interno del binario sbarrato non è necessario alcun consenso. I GI disciplinano nel dispositivo di sicurezza (DISPO) la circolazione sulla sezione sbarrata per il singolo caso, in particolare la regolazione del traffico, il servizio degli scambi, degli impianti di regolazione del traffico, delle installazioni elettriche e delle linee di contatto. 
+Se all’interno di binari sbarrati è necessario invertire un singolo scambio, il CMAN e il RALT si intendono reciprocamente.
+	
+7.5.8	Movimento di manovra tra binari sbarrati e in esercizio
+	
+	I GI disciplinano in via generale o nel singolo caso nel DISPO a quali condizioni sono ammesse corse sul e fuori del settore sbarrato.
+	
+7.5.9	Informazione dei movimenti di manovra rimanenti
+	
+	Prima che il RALT annunci la percorribilità del binario conformemente alle disposizioni circa i «Lavori nella zona dei binari» e termini l’area dei lavori, informa i movimenti di manovra rimanenti della fine dello sbarramento di binario.
+	
+
+
+Allegato 1
+
+
+
+Dispositivi d’accoppiamento con accoppiamento a vite tipo UIC
+
+
+
+
+
+
+
+
+1	In generale	
+1.1	Successione delle operazioni di accoppiamento	
+1.1.1	Principio	
+		
+	Per l’accoppiamento bisogna osservare la successione seguente:
+1.	accoppiamento meccanico
+2.	raccordi pneumatici
+3.	raccordi elettrici
+4.	passerelle per persone.
+Per lo sganciamento bisogna procedere nella successione inversa.
+Tutti i dispositivi d’accoppiamento non utilizzati devono essere sistemati nei supporti previsti.
+Al termine, l’accoppiamento corretto dev’essere verificato con un controllo visivo.	
+		
+1.1.2	Disposizione d’eccezione	
+	
+	Si può derogare alla successione prescritta nelle operazioni di accoppiamento, se 
+–	se i carri sono assicurati contro la fuga mediante staffe d’arresto o con il freno d’immobilizzazione e la condotta principale è stata svuotata, o
+–	entrambe le parti di treno sono accoppiate al veicolo occupato.
+	
+1.2	Curve e controcurve con raggi ridotti
+	
+	I GI designano nelle loro prescrizioni d’esercizio le curve aventi raggi < 150 m e le controcurve con raggi ridotti.
+Le ITF disciplinano nelle loro prescrizioni d’esercizio per quali veicoli e su quali raggi di curva gli accoppiamenti devono essere svitati oppure si deve accoppiare con la fune di manovra o la sbarra d’accoppiamento.
+
+2	Accoppiamento a vite tipo UIC
+2.1	Struttura
+	
+	
+	
+2.2	Servizio dell’accoppiamento 
+	
+	Per accoppiare 2 veicoli bisogna attaccare un tenditore a vite nel gancio di trazione dell’altro veicolo. Le staffe d’agganciamento difficili da muovere vanno premute bene nel gancio affinché non siano espulse durante la corsa. Il manubrio del tenditore degli organi d’attacco va sistemato nella sicurezza; se questa non esiste, esso deve pendere perpendicolarmente. Nei treni i tenditori a vite vanno serrati in modo tale che sul binario diritto e orizzontale i repulsori si tocchino.
+
+
+
+3	Raccordi pneumatici
+3.1	Condotta principale
+	
+	Nei treni la condotta principale del freno ad aria deve sempre essere accoppiata, nei movimenti di manovra solo se viene utilizzato il freno ad aria.
+Per quanto possibile, vanno allacciati i tubi della condotta principale e aperti i rubinetti d’accoppiamento che si trovano sullo stesso lato. I tubi della condotta principale possono essere accoppiati obliquamente, solo se in tal modo non sono né piegati né tesi.
+	
+3.2 	Condotta d’alimentazione
+	
+	La condotta d’alimentazione deve sempre essere accoppiata tra i veicoli e con i veicoli motori.
+	
+3.3	Condotta del freno di manovra
+	
+	Se veicoli motori vicini in comando multiplo sono dotati di tubi d’accoppiamento per il freno di manovra, essi devono essere allacciati. Per l’accoppiamento e lo sganciamento dei tubi, il freno di manovra deve essere allentato.
+
+
+4	Raccordi elettrici 
+4.1	Condotta elettrica ad alta tensione
+4.1.1	Accoppiamento
+	
+	Nei treni la condotta elettrica ad alta tensione deve sempre essere accoppiata.
+Per principio la condotta elettrica ad alta tensione deve sempre essere considerata sotto tensione, finché non è stato accertato il contrario.
+La condotta elettrica ad alta tensione può essere accoppiata o sganciata solo se il pantografo è abbassato, l’impianto di riscaldamento fisso è disinserito e il motore Diesel è fermo. Il MAN deve farsi confermare dal MAC che la condotta elettrica ad alta tensione è disinserita.
+Quando la formazione del treno è terminata, bisogna incaricare il MAC di inserire la condotta elettrica ad alta tensione.
+	
+4.1.2	Inserimento
+	
+	Nei treni trainati da locomotive la condotta elettrica ad alta tensione deve essere inserita
+–	dopo averne ricevuto l’incarico
+–	immediatamente prima della partenza, se l’incarico non è stato dato.
+Nei treni spola, anche con veicoli supplementari, la condotta elettrica ad alta tensione deve essere inserita con la messa in servizio della cabina di guida. Se la condotta ad alta tensione non può essere inserita o se il preriscaldamento (preventilazione / preclimatizzazione) deve essere interrotto, bisogna avvisare il MAC.
+Se in una stazione d’inversione del senso di marcia ci sono veicoli pronti per l’accoppiamento, la condotta elettrica ad alta tensione può essere inserita solo dopo averne ricevuto l’incarico. Se non viene dato alcun incarico, la condotta elettrica ad alta tensione va inserita immediatamente prima della partenza.
+	
+
+4.1.3	Disinserimento
+	
+	Il MAC deve disinserire la condotta elettrica ad alta tensione
+–	dopo aver ricevuto l’incarico
+–	tra il segnale d’entrata e l’inizio del marciapiede delle stazioni in cui la composizione del treno cambia, salvo nel caso in cui si utilizza l’accoppiamento automatico per gli elettrotreni.
+–	in caso di danneggiamento della condotta elettrica ad alta tensione al veicolo motore o ai veicoli
+–	dopo una caduta di pressione non voluta nella condotta principale.
+4.2	Condotta di comando UIC
+	
+	Vengono utilizzate condotte di comando UIC con 13 o 18 fili (poli). Le spine e le prese d’accoppiamento a 18 poli sono contrassegnate con una marcatura rossa. Le spine della condotta di comando UIC vanno inserite nelle prese previste allo scopo. L’accoppiamento di spine a 18 poli in prese a 13 poli non è possibile. Viceversa, le spine d’accoppiamento a 13 poli possono senz’altro essere inserite in una presa a 18 poli.
+I cavi vanno bloccati sotto le linguette di fissaggio, alle porte frontali, affinché non abbiano ad ostacolare i viaggiatori durante il passaggio.
+La condotta UIC può essere accoppiata o staccata col veicolo motore inserito.
+
+
+5	Passaggi per persone
+5.1	Passerelle
+	
+	Nei treni con trasporto di viaggiatori e nei treni con bagagliaio o furgone postale servito, le passerelle devono essere ribaltate, se i due veicoli ne sono dotati. Se nel veicolo adiacente il passaggio frontale manca, la passerella va bloccata in posizione rialzata. All’atto dello sganciamento le passerelle vanno rialzate e bloccate. Le porte delle pareti frontali verso il veicolo motore e in coda al treno vanno chiuse a chiave.
+	
+5.2	Mantici, intercomunicanti
+	
+	Nei treni viaggiatori, i mantici vanno collegati tra loro o con gli intercomunicanti.
+All’atto dello sganciamento, se non vengono riutilizzati subito, i mantici vanno sistemati nei supporti e assicurati con tutti i chiavistelli di chiusura.
+
+
+
+Allegato 2
+
+
+
+Dispositivi d’accoppiamento con attacco a respingente 
+centrale
+
+
+
+
+1	In generale
+1.1	Successione delle operazioni di accoppiamento
+1.1.1	Principio
+	
+	All’accoppiamento bisogna osservare la successione seguente:
+1.	accoppiamento meccanico
+2.	raccordi pneumatici
+3.	raccordi elettrici
+4.	passerelle per persone.
+Per lo sganciamento bisogna procedere nella successione inversa.
+Tutti i dispositivi d’accoppiamento non utilizzati devono essere sistemati nei supporti previsti.
+In seguito, l’accoppiamento corretto va controllato mediante un controllo visivo.
+
+
+
+2	Attacco a respingente centrale 
+2.1	Struttura
+2.1.1	Attacco a respingente centrale con ganci di trazione laterali 
+	
+	
+
+
+
+
+
+
+
+
+	
+2.1.2	Attacco a respingente centrale con gancio di trazione centrale 
+	
+	
+	              Corsa del respingente ↓
+
+2.2	Servizio dell’accoppiamento 
+2.2.1	Principio
+	
+	Le staffe d’agganciamento difficili da muovere vanno premute bene nel gancio affinché non siano espulse durante la corsa. Il manubrio del tenditore degli organi d’attacco va sistemato nella rispettiva sicurezza; se questa non esiste, esso deve pendere perpendicolarmente.
+I tenditori a vite non utilizzati vanno appesi nelle rispettive sicurezze; se queste non esistono vanno rimossi e collocati nel luogo previsto allo scopo.
+	
+
+2.2.2	Attacco con ganci laterali 
+	
+	Accoppiando 2 veicoli, bisogna attaccare entrambi i tenditori a vite nei ganci di trazione dell’altro veicolo. La circolazione con veicoli accoppiati su un solo lato è proibita. Nei treni i tenditori a vite vanno serrati in modo tale che i repulsori si tocchino. Essi tuttavia non devono essere tesi. Su entrambi i lati deve restare la stessa quantità libera di avvitamenti.
+	
+2.2.3	Attacco con gancio centrale
+	
+	Nei treni, dopo aver attaccato l’accoppiamento a vite, prima di serrare i tenditori a vite si deve osservare la posizione dei repulsori. Se la corsa residua del respingente è inferiore a 50 mm, i tenditori a vite non vanno serrati completamente.
+
+3	Raccordi pneumatici
+3.1	Condotta principale
+	
+	Nei treni la condotta principale del freno ad aria deve sempre essere accoppiata, in quelli frenati a vuoto essa va accoppiata su entrambi i lati.
+Le corse di manovra nelle stazioni possono avvenire anche con la condotta principale accoppiata su un solo lato.
+Dopo lo sganciamento, le testate di accoppiamento devono essere chiuse con il coperchio cieco.
+	
+3.2	Condotta d’alimentazione
+	
+	La condotta d’alimentazione tra i veicoli e con i veicoli motori va accoppiata da una sola parte.
+	
+3.3	Condotta del freno di manovra
+	
+	In comando multiplo, se i veicoli motori vicini in telecomando sono dotati di tubi d’accoppiamento per il freno di manovra, devono essere allacciati. Per l’accoppiamento e lo sganciamento dei tubi, il freno di manovra deve essere allentato.
+
+
+4	Raccordi elettrici 
+4.1	Condotta elettrica ad alta tensione
+4.1.1	Accoppiamento
+	
+	Nei treni viaggiatori, la condotta elettrica ad alta tensione deve sempre essere accoppiata. Nei treni merci essa va accoppiata se è necessario per garantire l’alimentazione di energia ai veicoli.
+Per principio la condotta elettrica ad alta tensione deve sempre essere considerata sotto tensione, finché non è stato accertato il contrario.
+La condotta elettrica ad alta tensione può essere accoppiata o sganciata solo se il pantografo è abbassato, l’impianto di riscaldamento fisso è disinserito e il motore Diesel è fermo. Il MAN deve farsi confermare dal MAC che la condotta elettrica ad alta tensione è disinserita.
+Quando la formazione del treno è terminata, bisogna incaricare il MAC di inserire la condotta elettrica ad alta tensione.
+	
+4.1.2	Inserimento
+	
+	Nei treni trainati da locomotive la condotta elettrica ad alta tensione deve essere inserita
+–	dopo aver ricevuto l’ordine
+–	se non è stato dato l’ordine, immediatamente prima della partenza.
+Nei treni spola, anche con veicoli supplementari, la condotta elettrica ad alta tensione deve essere inserita con la messa in servizio della cabina di guida. Se la condotta ad alta tensione non può essere inserita o se il preriscaldamento (preventilazione / preclimatizzazione) deve essere interrotto, bisogna informare il MAC.
+Se in una stazione d’inversione del senso di marcia ci sono veicoli pronti per l’accoppiamento, la condotta elettrica ad alta tensione può essere inserita solo dopo averne ricevuto l’incarico. Se non viene dato alcun incarico, la condotta elettrica ad alta tensione va inserita immediatamente prima della partenza.
+	
+
+4.1.3	Disinserimento
+	
+	Il MAC deve disinserire la condotta elettrica ad alta tensione:
+–	dopo aver ricevuto l’incarico
+–	tra il segnale d’entrata e l’inizio del marciapiede delle stazioni in cui la composizione del treno cambia, salvo nel caso in cui si utilizza l’accoppiamento automatico per gli elettrotreni 
+–	in caso di danneggiamento della condotta elettrica ad alta tensione al veicolo motore o ai veicoli
+Sui treni spola frenati a vuoto e condotti dal veicolo di comando, la condotta elettrica ad alta tensione va disinserita solo immediatamente dopo l’arresto.
+	
+4.2	Condotta di comando LBT
+	
+	Nei treni con trasporto di viaggiatori bisogna inserire, se esiste, la condotta di comando degli altoparlanti, dell’illuminazione e delle porte (LBT). Se la condotta manca, i singoli cavi vanno inseriti separatamente.
+La condotta LBT può essere accoppiata o staccata col veicolo motore inserito.
+Eccezione: qualora 2 veicoli motori sono accoppiati o nuovamente sganciati per la trazione in comando multiplo, se i veicoli motori sono inseriti occorre avere l’accordo del MAC. 
+
+
+
+5	Passaggi per persone
+5.1	Passerelle
+	
+	Nei treni con trasporto di viaggiatori e nei treni con bagagliaio o furgone postale servito, le passerelle devono essere ribaltate, se i 2 veicoli ne sono dotati. Se nel veicolo adiacente il passaggio frontale manca, la passerella va bloccata in posizione rialzata. All’atto dello sganciamento le passerelle vanno rialzate e bloccate. Le porte delle pareti frontali verso il veicolo motore e in coda al treno vanno chiuse a chiave.
+	
+5.2	Mantici 
+	
+	Nei treni viaggiatori i mantici vanno collegati tra loro.
+All’atto dello sganciamento, se non vengono riutilizzati subito, i mantici vanno sistemati nei supporti e assicurati con tutti i chiavistelli di chiusura.
+
+

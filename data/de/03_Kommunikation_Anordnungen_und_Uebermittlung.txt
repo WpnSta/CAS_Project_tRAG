@@ -1,0 +1,984 @@
+﻿Schweizerische Eisenbahnen	R 300.3
+
+
+
+Kommunikation, Anordnungen und Übermittlung
+
+
+
+1	Allgemeines
+1.1	Geltungsbereich
+	
+	Diese Vorschriften regeln das Vorgehen bei der Übermittlung von Nach-richten und die Verwendung der jeweiligen Mittel.
+Nicht Gegenstand dieser Vorschriften sind:
+–	Datenübermittlung für die Steuerung technischer Einrichtungen
+–	besondere, automatisierte Warnverfahren (z.B. automatische Warnsysteme auf Arbeitsstellen).
+	
+1.2	Sicherheit und sicherheitsrelevante Kommunikation
+	
+	Die Sicherheit darf keinesfalls vom Zustandekommen einer Kommunikationsverbindung abhängig sein. Sicherheitsrelevante Kommunikation hat Vorrang vor jeder anderen Kommunikation.
+	
+1.3	Sprache
+	
+	Für die schriftliche Übermittlung sind die Amtssprachen (Schriftsprache) anzuwenden. 
+Für die mündliche Übermittlung dürfen die Landessprachen (Dialekt) verwendet werden. Bei Uneinigkeit der am Gespräch Beteiligten und bei Verständigungsschwierigkeiten ist die örtliche Amtssprache anzuwenden.
+Die ISB regeln die gegenseitigen sprachlichen Schnittstellen in den Betriebsvorschriften.
+	
+1.4	Kundeninformation
+	
+	Die ISB und die EVU regeln die gemeinsamen Prozessabläufe für die nötige Kundeninformation im gegenseitigen Einvernehmen.
+	
+
+
+2	Nachrichten
+2.1	Inhalt von Nachrichten
+	
+	Eine Nachricht besteht aus einem Inhalt sowie den Bezeichnungen des Absenders und eines Empfängers oder mehrerer Empfänger.
+	
+2.2	Art der Nachrichten
+	
+	Nachrichten im Sinne der Fahrdienstvorschriften sind alle im Bahnbetrieb notwendigen Anordnungen, Befehle, Meldungen, Verständigungen und Informationen.
+	
+2.3	Abfassen von Nachrichten
+	
+	Nachrichten sind kurz und verständlich zu formulieren.
+Es sind klare und eindeutige Begriffe, vollständige Bezeichnungen sowie offizielle Abkürzungen zu verwenden. Die vorgeschriebenen Texte sind anzuwenden.
+Nachrichten sind folgerichtig und positiv zu formulieren.
+Für die Richtigkeit übermittelter Nachrichten ist der Absender verantwortlich.
+	
+
+
+3	Mittel
+3.1	Art der Mittel 
+	
+	Eine Nachricht kann mit oder ohne technische Einrichtungen übermittelt werden.
+Als technische Übermittlungseinrichtungen im Sinne dieser Vorschrift gelten Einrichtungen für die fernmündliche oder fernschriftliche Übermittlung von Nachrichten.
+	
+3.2	Einteilung der Mittel
+	
+	Die Mittel werden wie folgt eingeteilt:
+–	schriftlich
+Abgabe in Papierform ohne technische Übermittlungseinrichtung z.B. Formulare (Formular Befehl, Fahrordnung), Weisung, Zirkular
+–	fernschriftlich
+z.B. Textübermittlung mit E-Mail, Internet, Intranet, SMS, Pager, Textmeldung auf Bedienoberfläche, Telefax
+–	mündlich
+von Person zu Person ohne technische Übermittlungseinrichtung
+–	fernmündlich
+z.B. Telefon, Mobiltelefon, Funk, Wechselsprecher.
+	
+3.3	Wahl der Mittel
+	
+	Die Verwendung der einzelnen Mittel zum Übermitteln bestimmter Nachrichten ist, wo nötig, im Rahmen der Betriebsprozesse geregelt. Wo nichts anderes vorgesehen ist, wählt der Absender das effizienteste Mittel.
+	
+3.4	Verwendung von Formularen
+	
+	Die vorhandenen Formulare sind auch bei fernmündlicher Übermittlung von Nachrichten zu verwenden.
+	
+
+
+4	Verfahren
+4.1	Einteilung der Verfahren
+	
+	Eine Nachricht wird, abhängig von ihrer Sicherheitsrelevanz, wie folgt übermittelt:
+–	protokollpflichtig (Protokollieren) oder
+–	quittungspflichtig (Quittieren) oder
+–	informativ (Informieren).
+	
+4.2	Art der Verfahren
+4.2.1	Protokollieren
+	
+	Ziel des Protokollierens ist, bei der Übermittlung die höchstmögliche Sicherheit zu gewährleisten. Dies stellt insbesondere sicher, dass
+–	die Nachricht mit korrektem Inhalt an den richtigen Empfänger gelangt und
+–	die vollzogene Übermittlung nachvollziehbar bleibt. 
+	Zudem ist die Nachricht für den Empfänger sichtbar vorhanden bzw. jederzeit abruf- und lesbar.
+Die Nachricht ist beim Absender und beim Empfänger festzuhalten (z.B. Eintrag einer Nachricht in Formular oder Checkliste) und der Empfang ist unter Angabe von Name und Funktion dem Absender zu bestätigen. 
+Für die Nachvollziehbarkeit der Übermittlung sind auf der Nachricht Name, Funktion und Übermittlungsdatum sowie bei fernmündlicher Übermittlung die Übermittlungszeit festzuhalten. 
+Erfolgt die Übermittlung fernmündlich, hat der Absender die Nachricht vor dem Übermitteln niederzuschreiben. Der Empfänger hat die erhalte-ne Nachricht aufzuschreiben und anschliessend wörtlich zu wiederholen. Der Absender prüft die Wiederholung und bestätigt die Richtigkeit der Nachricht. 
+Erfolgt die Übermittlung fernschriftlich, hat der Empfänger eine Kopie der erhaltenen Nachricht dem Absender als Bestätigung zurückzusenden.
+Automatische Systemrückmeldungen sind bei protokollpflichtigen Nach-richten nicht zulässig.
+Fehlt die Bestätigung, ist die Nachricht als nicht übermittelt zu betrach-ten.
+Jede Nachricht ist mindestens 24 Stunden über den letzten massgebenden Zeitpunkt hinaus aufzubewahren.
+	
+
+4.2.2	Quittieren
+	
+	Ziel des Quittierens ist die Sicherstellung, dass die relevanten Daten einer Nachricht an den richtigen Empfänger gelangen.
+Der Empfang wird quittiert. Die Nachricht wird durch den Empfänger grundsätzlich nicht festgehalten. Geht die Gültigkeit des Inhaltes jedoch über die eigene Dienstzeit hinaus, ist die Nachricht in geeigneter Form festzuhalten.
+Bei der mündlichen bzw. fernmündlichen Übermittlung ist für die Quittung der relevante Inhalt der Nachricht durch den Empfänger zu wiederholen und der Name sowie die Funktion sind anzugeben. Der Absender prüft die Wiederholung und quittiert die Richtigkeit.
+Eine Quittung kann auch als eigenständige Nachricht (Empfangsbestätigung) fernschriftlich übermittelt werden. Diese selbst ist nicht quittungspflichtig und ist Bestandteil der ursprünglichen Nachricht.
+Bei fernschriftlicher Übermittlung ersetzt eine allfällige durch das System automatisch rückgemeldete Lesebestätigung die Quittung. 
+Fehlt die Quittung, ist die Nachricht als nicht übermittelt zu betrachten.
+	
+4.2.3	Informieren
+	
+	Diese Nachrichten haben keinen sicherheitsrelevanten Charakter und werden weder protokolliert noch quittiert.
+	
+4.3	Anwendung der Verfahren
+	
+	Das bei der Übermittlung anzuwendende Verfahren ist in den jeweiligen Vorschriften vorgegeben. Fehlt dieses, ist die Nachricht mit demjenigen Verfahren zu übermitteln, welches nach Ermessen des Absenders dem Inhalt der Nachricht am ehesten entspricht.
+Ist auf Grund der technischen Vorgaben ein Verfahren nicht anwendbar, ist ein sichereres Verfahren oder ein anderes Mittel anzuwenden.
+	
+
+5	Fahrplan und Streckentabelle
+	
+	Die Bestimmungen über Fahrplan und Streckentabelle gelten im Trambetrieb nicht. Die ISB und EVU regeln die entsprechenden Sachverhalte in ihren Betriebsvorschriften.
+	
+5.1	Zuständigkeiten
+5.1.1	Erstellung
+	
+	Die ISB erstellt und aktualisiert:
+–	die Streckentabelle
+–	den Fahrplan für Züge und für Rangierbewegungen auf die Strecke. Dies beinhaltet auch die Erstellung der Fahrordnungen und der graphischen Fahrpläne.
+	
+5.1.2	Anordnung
+	
+	Die ISB ordnet an:
+–	das Verkehren von regelmässigen Fahrten
+–	das Verkehren von fakultativen Fahrten
+–	das Verkehren von Extrafahrten
+–	Abweichungen von früheren Anordnungen
+–	den teilweisen oder vollständigen Ausfall einer Fahrt.
+	
+5.1.3	Verteilung
+	
+	Die ISB leitet die nötigen Unterlagen bzw. Anordnungen an ihre betroffenen Dienste und die beteiligten EVU weiter, damit diese rechtzeitig die Weitergabe an das betroffene Personal gewährleisten können. 
+Die Fahrordnungen und die Streckentabelle sind dem LF, bzw. die Fahrpläne dem übrigen Personal nach Bedarf, abzugeben. Die Fahrordnungen für Rangierbewegungen auf die Strecke sind zusätzlich dem RL abzugeben. 
+Bei kurzfristigen Anordnungen verständigt der FDL den LF quittungspflichtig. Dabei hat der LF mindestens die Zugnummer schriftlich festzuhalten.
+	
+
+5.2	Unterlagen für den LF
+	
+	Der LF entnimmt die für die Führung der Fahrten notwendigen Angaben der Fahrordnung und der Streckentabelle. Im grenzüberschreitenden Verkehr auf interoperablen Strecken sind die Unterlagen durch das EVU gemäss den TSI-Anforderungen zu strukturieren.
+	
+5.3	Fahrordnung
+5.3.1	Inhalt der Fahrordnung
+	
+	Die Fahrordnung muss mindestens enthalten:
+–	die Nummerierung der Fahrt
+–	die Verkehrszeiten mit zugehörigen Ortsangaben.
+Sofern notwendig, enthält sie zusätzlich:
+–	die Verkehrsperiode
+–	die Zug- und Bremsreihe
+–	weitere für die Führung des Zuges erforderliche Angaben.
+Zur Erleichterung können Sammelfahrordnungen erstellt werden.
+	
+5.3.2	Zusätzliche Angaben für fakultative Züge und Extrazüge
+	
+	Mit der Anordnung von fakultativen Zügen und Extrazügen werden zusätzlich bekannt gegeben:
+–	der Tag der Ausführung bzw. die Verkehrsperiode
+–	bei Extrazügen, ob der Zug begleitet ist.
+	
+5.3.3	Vereinfachte Fahrordnung für Züge
+	
+	An Stelle aller Verkehrszeiten werden nur aufgeführt:
+–	die Abfahrtszeit im Zugausgangsbahnhof
+–	die Halte
+–	weitere für die Disposition nötige Verkehrszeiten.
+Die effektive Fahrlage wird durch die ISB laufend festgelegt.
+	
+5.3.4	Fahrordnung für Rangierbewegungen auf die Strecke
+	
+	Wenn die Rangierbewegung auf die Strecke in einem Anschlussgleis endet und rückgemeldet wird, sind getrennte Fahrordnungen für die Hin- und die Rückfahrt zu erstellen.
+	
+
+5.3.5	Zusätzliche Angaben für Extrafahrten von Rangierbewegungen auf die Strecke
+	
+	Zusätzlich zu den Angaben für fahrplanmässige Rangierbewegungen auf die Strecke ist in der Fahrordnung anzugeben:
+–	der Tag der Ausführung
+–	die Angabe des zu befahrenden Wegs von ... nach ... , nötigenfalls via Gleis …
+–	der Vermerk, wenn sich mehrere Rangierbewegungen, auch fahrplanmässige, auf demselben Streckengleis befinden 
+–	der Vermerk, wenn ein steckengebliebener Zug oder ein zurückgelassener Zugteil abzuholen ist 
+–	der Vermerk, wenn die Rangierbewegung auf die Strecke in ein gesperrtes Gleis übergeht oder aus einem gesperrten Gleis startet
+–	der Vermerk, wenn einem vorausfahrenden Zug gefolgt wird.
+	
+5.4	Streckentabelle
+5.4.1	Inhalt der Streckentabelle
+	
+	Die Streckentabelle muss mindestens enthalten:
+–	die Bahnhöfe und Haltestellen mit deren kilometrischen Lage 
+–	die massgebende Neigung zwischen den einzelnen Bahnhöfen
+–	die infrastrukturbedingten Höchstgeschwindigkeiten, allenfalls differenziert in Abhängigkeit von Zug- und Bremsreihen 
+–	weitere für das Befahren der Bahnhöfe und Strecken nötige Angaben.
+	
+
+5.5	Darstellung der Fahrordnung
+5.5.1	Kopf
+	
+	15 1507		Nummer der Fahrt, wenn nötig mit vorangestellter Verkehrsperiode
+	R 125		Zug- und Bremsreihe, bei Lokzügen nur «Lok»
+			
+	
+	B		Taktfahrordnung
+	R 125		Taktfahrordnungen sind Sammelfahrordnungen im Stundentakt. Sie werden mit einem Buchstaben gekennzeichnet. In einem Verzeichnis sind Nummer und Stunde der ersten Verkehrszeit der nach der zutreffenden Taktfahrordnung verkehrenden Züge aufgeführt
+			
+			
+	Für die nachstehenden präzisierenden Angaben kann die Zugnummer mit den entsprechenden Buchstaben ergänzt werden.
+	
+	53534 F		fakultativ
+	61558 P		Güter- bzw. Dienstzug mit Personenbeförderung
+	25 28567 Y		übrige Zeit fakultativ
+			
+	
+	Für Rangierbewegungen auf die Strecke muss die Nummer mit dem Buchstaben R ergänzt werden.
+	
+	36579 R		Rangierbewegung auf die Strecke
+			
+	
+
+5.5.2	Zeitspalte mit Verkehrszeiten	
+		
+	12.25		Halt (fette Zahl)
+Die Stundenzahl wird im Zugausgangs- und Zug­endbahnhof, in Zwischenbahnhöfen nur bei Wech­sel der Stunde, angegeben	
+	7.12
+14		Ankunftszeit
+Abfahrzeit
+Wird bei mehr als einer Minute Aufenthalt angegeben	
+	H		Halt ohne Zeitangabe	
+	(H)		Bedarfshalt	
+	(H) 27		Bedarfshalt mit Zeitangabe	
+	(32)		Durchfahrtszeit	
+	7(03)
+(08)		Durchfahrtszeit mit unterschiedlicher Minutenzahl	
+	– –		Durchfahrt ohne Zeitangabe	
+				
+		
+	Zeichen links der Verkehrszeit bedeuten:
+	
+	 44		Abfahrerlaubnis durch den FDL erforderlich	
+	 15.37		Einfahrt in ein besetztes Gleis	
+				
+		
+
+5.6	Darstellung der Streckentabelle
+5.6.1	Bahnhofspalte
+				
+	 Altenhausen			
+Bahnhof
+	
+					
+					
+		Wiler			
+Haltestelle
+	
+	
+	
+	
+	Die Streckenausrüstung ist wie folgt gekennzeichnet:
+	
+	 «ohne Zeichen»			einspurige Strecke oder 
+mehrspurige Strecke mit Wechselbetrieb
+		 			zweigleisige Strecke mit Einrichtung für Einspurbetrieb
+					zweigleisige Strecke mit Einrichtung für Einspurbetrieb und quittungspflichtiger Verständigung des LF für Fahrt auf dem rechten Gleis
+					zweigleisige Strecke ohne Einrichtung für Einspurbetrieb
+	
+
+	Zeichen links neben dem Bahnhofnamen bedeuten:	
+		
+			Bergdorf			kein Einfahrvorsignal
+			Schönwil			kein Ausfahrvorsignal
+			Oberhofen			kein Ein- und Ausfahrvorsignal
+			Fusio			Kopfbahnhof
+			Brennwyler			Einfahrt in ein besetztes Gleis
+			Neustadt			Einfahrt in einen Bahnhof ohne schienenfreie Zugänge
+			Reigen			Abfahrerlaubnis durch den FDL erforderlich
+			Bernstein			offene Bahnübergangsanlage vor dem 
+Ausfahrsignal
+				
+	Zeichen unter dem Bahnhofnamen bedeuten:	
+		
+		Frankwil
+	 B 1-3			einzelne Kopfgleise in einem Durchgangsbahnhof oder 
+Einfahrt in beschränkt ausnützbares Gleis	
+		Musterdorf
+	  Im 2			Einfahrt in einen Bahnhof ohne schienenfreie Zugänge bei der entsprechend signalisierten Geschwindigkeits-Ausführung	
+		Rennhorn
+	 6-10			Abfahrerlaubnis durch den FDL in einzelnen Gleisen erforderlich	
+					
+	
+	Die Höchstgeschwindigkeiten im Bahnhof sind wie folgt dargestellt:
+	
+		Dietikofen			Bahnhofgeschwindigkeit: Es gilt die höhere Streckengeschwindigkeit vor oder nach dem Bahnhof	
+		Falkenhof	60		Bahnhofgeschwindigkeit	
+		Burgweiler	140
+125		Einfahrgeschwindigkeit 
+Ausfahrgeschwindigkeit	
+		Strengelau	25-10
+35		Abgestufte Geschwindigkeiten	
+		Ziegelbach	
+110		Geschwindigkeit nach Fahrbegriff 3, aber höher als in den Signalvorschriften aufgeführt	
+					
+		
+	Dauernd mit verminderter Höchstgeschwindigkeit zu befahrene Strecken­abschnitte sind zwischen den Bahnhofnamen wie folgt aufgeführt:	
+		
+		K 100			Kurvengeschwindigkeit 100 km/h	
+		K Ausf. 80			Kurvengeschwindigkeit nach Ausfahrt 
+80 km/h	
+		K n.H 60			Kurvengeschwindigkeit nach Haltestelle
+60 km/h	
+		K 95-85			zwei aneinander angrenzende Kurven von 95 km/h und anschliessend 85 km/h	
+					
+		
+	Weitere Angaben zwischen den Bahnhofnamen bedeuten:		
+			
+		km 62.6			Stelle, wo die Streckengeschwindigkeit ändert		
+		Weiche km 56	80		Stelle einer Weiche auf der Strecke mit zugehöriger Höchstgeschwindigkeit		
+		AnG Weiher
+	km 12.8			Stelle eines Anschlussgleises		
+			km 67.8
+km 66.5			Lage eines Strassenbahnbereichs		
+						
+			
+			
+5.6.2	Geschwindigkeitsspalte		
+			
+			
+	A		Zugreihe
+Bremsreihe		
+	Bremsverhältnis in %	115	80	65	50				
+									
+		Althausen		75	70	65	45		Streckengeschwindigkeit ab dem betreffenden Betriebspunkt in km/h in Abhängigkeit des Bremsverhältnisses		
+		Wiler				55	35				
+		Anville			75	70	XX		Das Zeichen XX bedeutet, dass dieser Streckenabschnitt mit der betreffenden Zug- und Bremsreihe nicht befahren werden darf		
+		Grenzdorf				75	XX				
+			
+
+5.6.3	Spalte für Mobilkommunikation	
+		
+		
+	Kanal od. Nr.		
+	S	GSM		Mobilkommunikationssystem
+	21	1301		Kanal bzw. Kurzwahlnummer
+				Es wird der zuständige FDL erreicht
+Die Grenze des Mobilkommunikationssystems wird mit einem Querstrich gekennzeichnet
+	21.2			
+				
+				
+				
+		
+		
+5.6.4	Blocksignalspalte	
+		
+	Signale der Block- und Spurwechselstellen, Pfeiftafeln usw.		
+	km	Name	Bez.		
+	47.2	Billig	81 R/S		Blocksignale werden mit «Block» oder ihrem Namen, Deckungssignale mit «Deckungssignal» bezeichnet. Spurwechselstellen werden zusätzlich mit einem Dreieck bezeichnet
+	45.1	Block	85 R/S		
+	43.3	Deckungssignal	29 D		
+	40.2	Sandbank 	87 R/S		
+				
+	34.9	Weiche			Weiche auf der Strecke
+				
+	50.7				Streckengerät der Zugbeeinflussung für die Kontrolle von Bahnübergangsanlagen
+				
+	52.3				Pfeiftafel
+				
+	67.8
+	66.5				Strassenbahnbereich
+				
+	42.7				Anfang Schutzstrecke
+	26.7		L			Anfang Schutzstrecke lang
+	105.8		F			Anfang fakultative Schutzstrecke
+				
+	
+	Sind mehrere Streckengeräte der Zugbeeinflussung oder Pfeiftafeln vorhanden, wird die Anzahl links neben dem Zeichen aufgeführt. Auf die Kilometerangabe kann verzichtet werden, wenn die Lage der entsprechenden Signale in einem Verzeichnis aufgeführt ist.
+		
+
+	
+
+6	Betriebliche Anordnungen 
+6.1	Grundsatz 
+	
+	Als betriebliche Anordnungen gelten Nachrichten, welche kurzfristig aufgrund von Störungen bzw. vorübergehenden Abweichungen oder Einschränkungen übermittelt werden müssen, wie z.B. Anordnungen mit Formular Befehl, Anzeige einer Gleissperrung.
+	
+6.2	Anordnungen mit Formular Befehl
+(Befehle 1, 3, 4, 5, 6, 8 und 9)
+6.2.1	Übermittlung der Befehle
+	
+	Die Befehle sind protokoll- oder quittungspflichtig zu übermitteln. Für protokollpflichtige Befehle sind in jedem Fall die entsprechenden Vorgaben für die Formulare der ersten Kategorie zu beachten. Die Befehle sind so nah wie praktikabel an der auszuführenden Stelle zu übermitteln.
+	
+6.2.2	Abgabe eines Befehls direkt an den Empfänger
+	
+	Der FDL hat den Befehl dem vordersten LF abzugeben. Der LF verständigt weiteres betroffenes Personal im Zug quittungspflichtig.
+Der Befehl 9 ist durch den vordersten LF protokollpflichtig weiterzuleiten.
+	
+6.2.3	Abgabe eines Befehls im Auftrag
+	
+	Der FDL darf die Abgabe eines Befehls delegieren. Dabei erfolgt der Auftrag zur Abgabe eines protokollpflichtigen Befehls ebenfalls protokollpflichtig. Vor der Auftragserteilung müssen allfällige Sicherungsmassnahmen getroffen sein.
+Die Abgabe eines Befehls ist dem FDL des auftraggebenden Bahnhofs quittungspflichtig zu bestätigen. Der LF darf den Empfang eines Befehls auch direkt dem auftraggebenden Bahnhof bestätigen.
+Die Abgabe des Befehls 1 muss nicht bestätigt werden.
+	
+6.2.4	Erteilen der Zustimmung
+	
+	Im Falle eines protokollpflichtigen Befehls darf der FDL einer Fahrt die entsprechende Zustimmung erst erteilen, wenn der Befehl abgegeben bzw. die Abgabe des Befehls bestätigt wurde.
+	
+
+6.2.5	Aufhebung eines protokollpflichtigen Befehls
+	
+	Wird ein protokollpflichtiger Befehl nicht benötigt oder aufgehoben, ist der LF protokollpflichtig mittels Befehl 4 zu verständigen. 
+Ein Befehl 3 kann auch durch einen Befehl 1 aufgehoben werden, ohne dass ein Befehl 4 erforderlich ist.
+	
+
+7	Fernschriftliche Übermittlung
+7.1	Identifikation
+	
+	Vor der Übermittlung der Nachricht hat der Absender zu überprüfen, ob der richtige Empfänger ausgewählt ist. Bei sicherheitsrelevanten Nachrichten muss der Empfänger im Textbereich aufgeführt sein.
+	
+7.2	Anwendung
+	
+	Für die fernschriftliche Übermittlung protokoll- und quittungspflichtiger Nachrichten müssen die Geräte der Empfänger die Voraussetzungen für diese Verfahren erfüllen. 
+Die sichere Zugführung darf durch das Lesen der Textmeldungen nicht beeinflusst werden. Insbesondere umfangreiche Textmeldungen darf der LF nur im Stillstand lesen.
+	
+
+
+8	Fernmündliche Übermittlung
+8.1	Grundlagen
+8.1.1	Einsatz
+	
+	Kommunikationssysteme für die fernmündliche Übermittlung dürfen nur für bahnspezifische Zwecke eingesetzt werden. Eine allfällige weitergehende Nutzung liegt in der Verantwortung des EBU. 
+Bei Funksystemen ist der Einsatz ausserhalb des Netzplans (Kanäle / Einsatzgebiet / Geräte) verboten. Der Funkkanal darf nur in den vorgesehenen Fällen sowie im Notfall gewechselt werden.
+	
+8.1.2	Kommunikation für die Zugführung
+	
+	Bei direkt geführten Zügen mit Vorspann-, Zwischen- oder Schiebedienst muss eine Verbindung zwischen den einzelnen LF möglich sein. Vor Abfahrt ist eine Funktionskontrolle der Verbindung zwischen allen LF durchzuführen. 
+Bei indirekt geführten Zügen ist eine dauernde Verbindungsüberwachung erforderlich. Es werden die Regeln für die Rangierkommunikation ange-wendet.
+	
+8.1.3	Funktionskontrolle
+	
+	Bei der Inbetriebnahme von Mobilkommunikationssystemen ist, wo vorgeschrieben, eine Funktionskontrolle durchzuführen; diese beinhaltet die Überprüfung der technischen Funktionstüchtigkeit der Übertragungsleitungen.
+Die Funktionskontrolle erfolgt durch die Aufnahme einer Verbindung mit einem anderen Beteiligten und kann gleichzeitig mit einer Anmeldung zum Dienst oder einem anderen Gespräch erfolgen. Die Verbindung ist nach dem Aufruf einzuleiten mit «Funktionskontrolle», eine Befehlsübermittlung darf erst nach vollzogener Kontrolle erfolgen.
+	
+8.2	Adressierung
+	
+	Bei mehr als zwei Geräten in einem Netz wird ein Adressierungssystem angewendet, denn in der Regel richtet sich ein Gespräch nur an eine bestimmte Person bzw. an einen Personenkreis. Je nach System und Anwendungsbereich der Geräte kann diese Adressierung mündlich oder mit technischen Mitteln erfolgen.
+	
+
+8.2.1	Selektiver Ruf (technische Adressierung)
+	
+	Bei einem selektiven Ruf werden die Beteiligten einzeln aufgerufen. Jeder Beteiligte nimmt den Ruf separat entgegen.
+Werden mehrere Geräte oder Dienste aktiviert, hat anschliessend ein Offenaufruf zu erfolgen.
+	
+8.2.2	Offener Ruf (mündliche Adressierung)
+	
+	Beim offenen Ruf mit Rufnamen bzw. beim Gruppenruf hören alle Beteiligten den gesamten Sprechverkehr.
+	
+8.2.3	Freihören
+	
+	Bei offenen Leitungen von Wechselsprech- und Funksystemen ist vor dem Sprechen bzw. dem Betätigen der Sprechtaste während etwa 3 Sekunden freizuhören, ob ein Gespräch oder eine Verbindungsüberwachung stattfindet. 
+Das Einbrechen in bestehende Verbindungen ist nur im Notfall zulässig.
+	
+8.2.4	Rufnamen
+	
+	Es sind klare, eindeutige und vollständige Rufnamen zu verwenden. Bei zwei oder mehreren Beteiligten müssen die Rufnamen so gewählt werden, dass keine Missverständnisse entstehen können. Beim Offenaufruf bzw. beim Gruppenruf an den LF ist immer der vorderste LF angesprochen. Wird der LF eines anderen Triebfahrzeugs verlangt, ist dies im Rufnamen zu berücksichtigen, z.B. «Schiebelok 51037».
+	
+8.2.5	Identifikation
+	
+	Vor der Übermittlung der Nachricht hat der Absender den Empfänger eindeutig zu identifizieren. Dabei haben die Beteiligten jeweils ihren Standort anzugeben. Die Bezeichnung des Standortes ist situativ zu wählen, dies kann z.B. ein Bahnhof, eine Betriebszentrale, ein Streckenabschnitt, die Angabe der Kilometrierung, der Ort vor einem Signal oder vor einer Tafel sein. Wird ein Rufname nicht verstanden, ist zurückzufragen, um Fehlübermittlungen zu vermeiden.
+	
+	
+	
+	
+	
+	
+	
+8.3	Verhalten
+	
+	Das korrekte Verhalten der an der Kommunikation Beteiligten trägt dazu bei, Missverständnisse und Unfälle zu vermeiden und ist daher für die Sicherheit von grosser Bedeutung.
+
+Grundsätzlich muss sich die Fahrt im Stillstand befinden, wenn ein Befehl durch das Fahrpersonal niederzuschreiben ist. Das EVU kann mit dem betreffenden ISB eine gemeinsame Risikobewertung vornehmen, in der gegebenenfalls bestimmt wird, unter welchen Bedingungen es sicher ist, von diesem Grundsatz abzuweichen.
+
+8.3.1	Sprechverhalten und -disziplin	
+		
+	    • Die vorgeschriebenen Redewendungen sind anzuwenden
+    • Zugnummern sind immer vollständig zu nennen
+    • zur besseren Verständigung ist für die Zahl 2 die Aussprache «zwo» zu benutzen. Mehrstellige Zahlen sind in einstellige Ziffern aufzuteilen und einzeln gemäss nachfolgenden Beispielen zu übermitteln:	
+		782	sieben-acht-zwo	
+		5543	fünf-fünf-vier-drei	
+		19471	eins-neun-vier-sieben-eins	
+	    • um Irrtümern vorzubeugen, sind anstelle einzelner Buchstaben Buchstabierwörter zu verwenden, z.B. «Bravo 9» statt «B 9» oder «Mike 7» statt «M 7»
+    • bei Verständigungsschwierigkeiten sind nötigenfalls einzelne Worte zu buchstabieren. Dazu sind unmissverständliche Buchstabierworte zu verwenden (siehe Buchstabiertabelle)	
+	    • lokale Bezeichnungen dürfen nur verwendet werden, sofern alle am Gespräch Beteiligten diese sicher kennen. Beispiele:	
+		Gleisgruppen	Hausi, Remise, Depot	
+		Einzelne Gleise	Haggleis, Chemie, Piccard	
+	    • es ist abwechslungsweise zu sprechen, insbesondere bei Systemen, wo die Übermittlung in beiden Richtungen nur nacheinander möglich ist (Wechselsprechmodus, z.B. Funk, Wechselsprecher).	
+		
+
+
+8.3.2	Redewendungen
+	
+	Nachfolgende Redewendungen sind anzuwenden
+    • bei Systemen mit Wechselsprechmodus 
+    • bei Systemen, wo gleichzeitiges Sprechen möglich ist, für sicherheitsrelevante Nachrichten. Wenn nur ein Sender und ein Empfänger beteiligt sind, darf auf die Redewendungen verstanden, antworten und Schluss jedoch verzichtet werden.
+	
+	Redewendung 	Bedeutung
+	
+	    • zur Einleitung der eigenen Gesprächssequenz:
+	verstanden	leitet die eigene Gesprächssequenz ein
+	richtig	bestätigt die fehlerfreie Wiederholung der vorangegangenen Nachricht
+	nicht verstanden,
+wiederholen	die letzte Gesprächssequenz wurde nicht oder unvollständig empfangen, sie ist zu wiederholen
+	falsch	die Wiederholung der vorangegangenen Nachricht ist falsch, leitet die Korrektur ein
+	
+	    • als Ergänzungen zu den einleitenden Redewendungen:
+	
+	ich wiederhole	leitet die Wiederholung ein
+	ich buchstabiere	leitet die Buchstabierung ein
+	
+	    • um den Gesprächspartner kurz warten zu lassen:
+	
+	bitte warten	leitet eine Pause bei bestehender Verbindung ein
+	
+	    • wenn das Gespräch später fortgeführt werden soll:
+	
+	ich rufe zurück	kündet den bevorstehenden Verbindungsunterbruch an
+	
+	    • zum Abschluss der eigenen Gesprächssequenz:
+	
+	antworten	schliesst die eigene Gesprächssequenz ab, es wird eine Antwort erwartet
+	Schluss	Ende des Gespräches durch den Sender
+	
+	    • zur Einleitung eines Notrufes:
+	
+	mayday, mayday,	 mayday	in allen Sprachen identisch und nicht zu verwenden, wenn eine technische Notruffunktion genutzt werden kann
+
+	    • im Kontext mit der Abgabe von Befehlen:
+	
+	Aufheben eines 
+Befehls	Einleitung für das Aufheben und den Rückzug eines Befehls
+	
+	Fehler (und evtl. 
+bereite neuen
+Befehl vor)	bei technischem Übermittlungsfehler oder wenn der Sender falsche Angaben übermittelte
+	
+8.3.3	Anwendung der Redewendungen im Gespräch im Wechselsprechmodus
+	
+	Sender «Eicher»	Empfänger «Mahler»	Bedeutung
+	Offenaufruf / Gruppenruf	
+	Freihören		
+	Mahler von Eicher 
+antworten		Identifikation 
+Sender
+		Eicher von Mahler 
+verstanden, antworten	Identifikation 
+Empfänger
+	verstanden,
+«TEXT»
+antworten		Übermitteln 
+der Nachricht
+		verstanden,
+«TEXT wiederholen»
+antworten	Wiederholen 
+der Nachricht
+	Richtig		Bestätigung der richtigen Übermittlung
+	Schluss		Gesprächsende
+			
+	Selektivaufruf		
+	Selektivwahl – 
+Quittungston	Anrufton	
+		Mahler, antworten	Identifikation
+Empfänger
+			
+	Eicher, verstanden, «TEXT»
+antworten		Übermitteln
+der Nachricht
+
+		Verstanden, «TEXT wiederholen»
+antworten	Wiederholen 
+der Nachricht
+	Richtig		Bestätigung der richtigen Übermittlung
+	Schluss		Gesprächsende.
+			
+8.3.4	Anwendung der Redewendungen im Gespräch, wenn gleichzeitiges Sprechen möglich ist (nur ein Sender und ein Empfänger)
+	
+	Sender «Eicher»	Empfänger «Mahler»	Bedeutung
+	Selektivaufruf 
+	Selektivwahl
+Anrufton	
+	Fahrdienst Olten, Mahler
+Identifikation
+Empfänger	Fahrdienst Bern, Eicher
+	Identifikation
+Sender
+«TEXT»	
+Übermitteln
+der Nachricht		«TEXT wiederholen»
+
+Wiederholen 
+der Nachricht	Richtig	
+Bestätigung der richtigen Übermittlung	«TEXT»	
+Gesprächsende.		
+8.3.5	Aufzeichnung
+		
+Mit speziellen Einrichtungen dürfen die Übermittlungen zur Abklärung von Unregelmässigkeiten, zur Überwachung der Disziplin usw. jederzeit aufgezeichnet werden. Bei Unfällen und Unregelmässigkeiten müssen diese Aufzeichnungen für die Untersuchungsorgane sichergestellt wer­den.		
+
+9	Rangierkommunikation
+9.1	Vorbemerkungen
+	
+	Die Vorschriften über die Rangierkommunikation gelten für die fernmündliche Übermittlung bei Rangierbewegungen. Diese Vorschriften sind sinngemäss bei indirekt geführten Zügen für die Verbindung zwischen der indirekt führenden Person an der Spitze und dem LF anzuwenden.
+
+9.2	Netzaufbau bei Funksystemen
+	
+	Der Rangierfunkkanal bzw. der Rangiergruppenruf wird im Normalfall nur von einer Benutzergruppe gleichzeitig verwendet.
+	
+9.3	Verbindungen bei Funksystemen
+	
+	Die Verbindungsmöglichkeiten der Rangierfunkkanäle bzw. der Rangiergruppenrufe sind im zugeordneten Netz-/Verbindungsplan geregelt.
+	
+9.3.1	Funktionskontrolle
+	
+	Die Funktionskontrolle ist innerhalb der Rangiergruppe (inkl. LF) wie folgt durchzuführen:
+–	mit jedem Beteiligten der Rangiergruppe
+–	bei Beginn des Funkverkehrs 
+–	nach einem Wechsel des Funkkanals 
+–	mit einem beliebigen Beteiligten der Rangiergruppe
+–	durch neu in die Gruppe eintretende Beteiligte
+–	nach Ersatz eines Gerätes oder eines Akkus
+–	nach Personalwechsel
+–	nach Triebfahrzeugwechsel.
+	
+
+9.4	Verhalten bei Rangierbewegungen
+9.4.1	Vereinfachtes Sprechverhalten
+	
+	Bei Rangierbewegungen sind sämtliche Nachrichten sinngemäss zu wiederholen und auf ihre Richtigkeit zu überprüfen; sicherheitsrelevante Nachrichten sind wörtlich zu wiederholen und zu quittieren.
+Innerhalb einer bestehenden Kommunikationsgruppe kann das nachfolgende vereinfachte Sprechverhalten angewendet werden:
+–	nach der Identifikation des Empfängers entfallen die Angabe des Standortes und des Rufnamens des Absenders
+–	nach erfolgter Identifikation von Sender und Empfänger wird auf die Redewendungen «verstanden» und «antworten» verzichtet.
+Das vereinfachte Sprechverhalten kann auch bei Zügen mit mehreren bedienten Triebfahrzeugen im gleichen Zug angewendet werden.
+	
+9.4.2	Anforderung und Zustimmung für Rangierbewegungen
+	
+	Wenn die Zustimmung ohne ortsfeste Signale für Rangierbewegungen erteilt wird:
+–	der FDL hat zuerst den angeforderten Fahrweg herzustellen
+–	anschliessend quittiert der FDL die Anforderung vollständig und erteilt gleichzeitig die Zustimmung mit dem Wort «eingestellt»
+–	kann der angeforderte Fahrweg nicht sofort eingestellt werden, hat der FDL mit dem Wort «warten» die Begründung einzuleiten. Die Anforderung des Fahrwegs darf vom FDL in diesem Falle nicht wiederholt werden, weil dies irrtümlich als Zustimmung aufgefasst werden könnte.
+Wenn die Zustimmung mit ortsfesten Signalen für Rangierbewegungen erteilt wird:
+–	der FDL hat den ganzen Text der Anforderung zu wiederholen
+–	diese Wiederholung muss vom RL auf ihre Richtigkeit überprüft und mit «richtig» bestätigt werden
+–	die Zustimmung erfolgt am ortsfesten Signal für Rangierbewegungen.
+Dieses Vorgehen gilt sinngemäss für Anforderungen von Fahrwegen mit anderen Kommunikationsmitteln.
+	
+
+9.4.3	Informationen an den LF
+	
+	Informationen an den LF sind mit dem Wort «Orientierung» einzuleiten. Folgt im Anschluss an eine solche Meldung nicht unmittelbar ein Fahrbefehl, ist mit «warten» die Verbindung zu erhalten oder mit «Schluss» abzuschliessen.
+	
+9.4.4	Befehlsübermittlung
+	
+	Bei der fernmündlichen Übermittlung von Befehlen für Rangierbewegungen entfallen die optischen und akustischen Signale des Personals gemäss den Signalvorschriften. Anstelle der vorgeschriebenen Sichtverbindung zwischen dem RL und dem LF wird die Verbindungsüberwachung verwendet.
+Es sind alle Meldungen und Befehle als Quittung vollständig zu wiederholen und vom Anrufenden auf ihre Richtigkeit zu prüfen.
+Die Wiederholung entfällt:
+–	bei den Entfernungsangaben
+	Der LF hat nur die erste Entfernungsangabe zu wiederholen, diese wird allenfalls zusammen mit dem Fahrbefehl übermittelt. Die erste Entfernungsangabe ist frühzeitig zu geben, damit der LF Zeit für die Quittung hat, bevor der RL die nächste Entfernungsangabe gibt
+–	bei einem Haltbefehl
+	Der Haltbefehl ist sofort zu befolgen und nicht zu quittieren.
+Der LF darf auf einen unklaren Befehl hin das Triebfahrzeug nicht in Bewegung setzen. Während der Fahrt ist sofort anzuhalten, wenn die Verbindung gestört wird und befürchtet werden muss, eine Entfer-nungsangabe bzw. den Haltbefehl zu überhören.
+Der RL darf in Rufnähe die Befehle mündlich übermitteln, wenn keine weiteren mit einem mobilen Kommunikationsmittel ausgerüsteten RA verständigt werden müssen.
+	
+
+9.4.5	Verbindungsüberwachung
+	
+	Die Verbindungsüberwachung darf gleichzeitig nur von einem Benutzer gesendet werden. Bei aktivierter Verbindungsüberwachung sind keine Rufe oder fremde Gespräche zu tätigen, ausgenommen im Notfall. Die Verbindungsüberwachung ist bei indirekt geführten Rangierbewegungen und bei indirekt geführten Zügen anzuwenden, ausgenommen
+–	wenn der Befehl bewegen erteilt wird
+–	gemäss den Betriebsvorschriften beim Ablaufbetrieb, in Verladeanlagen usw.
+Die Verbindungsüberwachung wird durch den RL gesendet. Sie darf erst eingeschaltet werden, nachdem der LF den Fahrbefehl richtig quittiert und der RL die Richtigkeit des quittierten Befehls festgestellt hat. In diesem Falle darf die Redewendung «Richtig» entfallen. 
+Der LF darf die Fahrt nur beginnen, wenn die Verbindungsüberwachung aktiviert wurde. Fällt diese aus, hat das beteiligte Personal Massnahmen zum sofortigen Anhalten zu ergreifen. 
+Mit dem Erteilen des Befehls anhalten ist gleichzeitig die Verbindungsüberwachung auszuschalten.
+Bei Kommunikationseinrichtungen ohne technische Verbindungsüberwachung, wie z.B. Kontrollton, hat der RL im Rhythmus von 3 – 5 Sekunden das Wort «kommen» oder «fahren» o.ä. zu wiederholen.
+	
+
+10	Baukommunikation
+10.1	Vorbemerkungen
+	
+	Die Vorschriften über die Baukommunikation gelten für die fernmündliche Übermittlung bei Arbeiten im Gleisbereich innerhalb der Arbeitsstelle und fallweise für die Verbindungen zwischen der Arbeitsstelle und den Bahnhöfen bzw. Unterwerken.
+Die Mittel sowie die Art der Verbindung (z.B. Telefonnummern, Funkkanal) für die Kommunikation wird von der SL, allenfalls vom SC, festgelegt. Diese Zuteilung ist in einem Organisationsplan festzuhalten. Darin sind auch die Massnahmen anzugeben, die beim Ausfall von Kommunikationsverbindungen zu treffen sind. Die zugeteilten Mittel und Verbindungen dürfen ohne die Zustimmung des SC nicht gewechselt werden. 
+Die Zugsmeldungen werden vereinfacht formuliert. Der VW übermittelt den Meldungsinhalt bereits im Aufruf und der SIWÄ quittiert die Meldung.
+Bei der Verbindung zwischen dem VW und dem SIWÄ muss die rechtzeitige und zuverlässige Übermittlung von Zugsmeldungen sichergestellt werden können. 
+
+10.2	Einsatz von Funksystemen
+10.2.1	Funktionskontrolle
+	
+	Die Funktionskontrolle ist durch das gesamte mit Funk ausgerüstete Personal gemäss dem Organisationsplan wie folgt durchzuführen:
+–	mit jedem Beteiligten des Funknetzes 
+–	bei Beginn des Funkverkehrs 
+–	nach einem Wechsel des Funkkanals
+–	mit einem beliebigen Beteiligten des Funknetzes
+–	durch neu in das Netz eintretende Beteiligte
+–	nach Ersatz eines Gerätes oder eines Akkus
+–	nach Personalwechsel
+–	nach jedem Standortwechsel.
+	
+
+10.2.2	Verbindungsprüfung
+	
+	Die Verbindungen zur Meldung von Zugsannäherungen an die Arbeits-stelle müssen regelmässig wie folgt überprüft werden:
+–	spätestens 10 Minuten nach der letzten Übermittlung
+–	nach jedem Standortwechsel eines Beteiligten.
+Die Verwendung des Kontroll- oder Ruftones für die Überprüfung ist verboten.
+	
+10.2.3	Rufname und Identifikation 
+	
+	Die Beteiligten haben nach erfolgtem Aufruf jede weitere Sprechsequenz zusätzlich mit dem eigenen Rufnamen einzuleiten.
+	
+10.2.4	Verbindungen zwischen VW und SIWÄ
+	
+	Beim Einsatz von Baufunk für die Verbindung zwischen VW und SIWÄ sind folgende Bestimmungen anzuwenden:
+–	Es sind reservierte Kanäle vorzusehen
+–	auf diesen Kanälen sind keine anderen Gespräche zulässig
+–	wenn mehrere SIWÄ eine Meldung quittieren müssen, ist vorgängig die Reihenfolge festzulegen.
+
+
+	
+
+Beilage 1
+
+
+
+Beispiele von fernmündlichen Gesprächen
+
+
+
+1	Folgerichtige Formulierungen 
+	
+	Der Gesprächspartner erwartet auf seine Meldung eine folgerichtige Reaktion und stellt sich darauf ein. Damit es nicht zu Missverständnissen kommt, müssen die Meldungen entsprechend dieser Erwartungshaltung formuliert sein.
+	Beispiel:
+	RA:	ist die Zugsammelschiene bei Zug 1-5-1-4-2 ausgeschaltet?
+	richtige Antworten:
+	LF:	ja, die Zugsammelschiene von Zug 1-5-1-4-2 ist ausgeschaltet
+	oder:	
+	LF:	nein, die Zugsammelschiene ist unter Spannung.
+	Falsche Antwort, wenn die Zugsammelschiene noch nicht ausgeschaltet ist:
+	LF:	ja, ich schalte die Zugsammelschiene aus.
+		
+2	Positive Formulierungen 
+	
+	Richtig:	«Gleis sofort räumen»
+		«Lok 1-8-2-1 warten»
+		«Gleis 3 ist besetzt»
+		«Fahrleitung ist eingeschaltet»
+	Falsch:	«Gleis nicht betreten»
+		«Lok 1-7-3-1 nicht fahren»
+		«Gleis 1-5 ist nicht frei»
+		«Die Fahrleitung ist nicht ausgeschaltet».
+	
+
+3	Übermittlung eines Notrufes 
+		
+	FDL: 	Offenaufruf ohne Freihören, in bestehende Verbindungen darf eingebrochen werden
+	FDL:	Mayday, mayday, mayday von Fahrdienstleiter Brugg:
+Alle Züge zwischen Brugg und Turgi sofort anhalten!
+	FDL:	Der Notruf ist mehrmals zu wiederholen. Danach sind Gespräche nach Möglichkeit über eine selektive Verbindung zu führen.
+		
+4	Übermittlung eines quittungspflichtigen Befehls
+		
+	FDL: 	Offenaufruf mit Freihören
+	FDL:	Lokführer Zug 8-2-3-8 vom Fahrdienst Täuffelen, antworten
+	LF:	Fahrdienst Täuffelen vom Lokführer 8-2-3-8 in Lattrigen, verstanden, antworten
+	FDL:	verstanden, Zug 8-2-3-8 soll am 1-4. August 2-0-2-0 in Lüscherz ausserordentlich anhalten für Einstieg Personal, antworten
+	LF:	verstanden, Zug 8-2-3-8 soll am 1-4. August 2-0-2-0 in Lüscherz ausserordentlich anhalten für Einstieg Personal, antworten
+	FDL:	richtig, Schluss
+		Verbindung beenden.
+		
+5	Übermittlung eines protokollpflichtigen Befehls
+		
+	FDL:	Offenaufruf mit Freihören
+	FDL:	Lokführer Zug 9-4-3-0 vom Fahrdienst Langenthal, antworten
+	LF:	Fahrdienst Langenthal vom Lokführer Zug 9-4-3-0 in Flumenthal verstanden, antworten
+	FDL:	verstanden, ich habe einen Befehl 1, antworten
+	LF:	verstanden, ich bin bereit, antworten
+	FDL:	verstanden, Zug 9-4-3-0 (Feld A), am 1-1. August 2-0-2-0 (Feld B), Fahrdienstleiter Langenthal (Feld C), Zug in Flumenthal (Feld D), Vorbeifahrt am Halt zeigenden (Feld 1: ankreuzen) Ausfahrsignal CHARLIE 4-1 (Feld 1.1-0) in Siggere (Feld 1.1-1), Unterschrift Fahrdienstleiter Müller (Feld N), Zeit 1-8:0-4 (Feld O), antworten
+	LF:	nicht verstanden, wiederholen, antworten
+	FDL:	verstanden, ich wiederhole, Zug 9-4-3-0, am 1-1. August 2-0-2-0, Fahrdienstleiter Langenthal, Zug in Flumenthal, Vorbeifahrt am Halt zeigenden Ausfahrsignal CHARLIE 4-1 in Siggere, Unterschrift Fahrdienstleiter Müller, Zeit 1-8:0-4, antworten
+
+	LF:	verstanden, Zug 9-4-3-0, am 1-1. August 2-0-2-0, Fahrdienstleiter Langenthal, Zug in Flumenthal, Vorbeifahrt am Halt zeigenden Ausfahrsignal CHARLIE 4-3 in Siggere, Unterschrift Fahrdienstleiter Müller, Zeit 1-8:0-4, Bestätigung Lokführer Altmann (Feld M), antworten
+	FDL:	falsch, ich wiederhole, Zug 9-4-3-0, am 1-1. August 2-0-2-0, Fahrdienstleiter Langenthal, Zug in Flumenthal, Vorbeifahrt am Halt zeigenden Ausfahrsignal CHARLIE 4-1 in Siggere, Unterschrift Fahrdienstleiter Müller, Zeit 1-8:0-4, antworten
+	LF:	verstanden, Zug 9-4-3-0, am 1-1. August 2-0-2-0, Fahrdienstleiter Langenthal, Zug in Flumenthal, Vorbeifahrt am Halt zeigenden Ausfahrsignal CHARLIE 4-1 in Siggere, Unterschrift Fahrdienstleiter Müller, Zeit 1-8:0-4, Bestätigung Lokführer Altmann, antworten
+	FDL:	richtig, Schluss
+		Verbindung beenden.
+		
+6	Übermittlung einer Information (Wechselsprechmodus)
+		
+	LF:	Selektivruf 
+	FDL:	Fahrdienst Olten, antworten
+	LF:	Lokführer Zug 7-1-1 in Olten verstanden, auf der Aarebrücke liegt eine Reisetasche, antworten
+	FDL:	verstanden, auf der Aarebrücke liegt eine Reisetasche, 
+ich schicke jemanden, antworten
+	LF:	verstanden, du schickst jemanden raus, danke, Schluss
+		Verbindung beenden.
+		
+7	Rangierkommunikation (Wechselsprechmodus)
+7.1	Vereinfachtes Verfahren
+		
+	FDL:	Offenaufruf mit Freihören
+	FDL:	Rangierleiter Eins vom Fahrdienst Olten, antworten
+	RL:	Rangierleiter Eins, verstanden
+	FDL:	der 9-1-7-5-5 ist in Däniken abgefahren
+	RL:	der Postzug 9-1-7-5-5 ist unterwegs, danke
+	FDL:	richtig, Schluss
+		Verbindung beenden.
+		
+	RL:	Selektivruf
+	FDL:	Fahrdienst Olten, antworten
+	RL:	Rangierleiter Eins, verstanden, wo hast Du die Abfuhr für den 9-1-7-5-5? 
+	FDL:	im Alpha 4 stehen 2 Wagen Abfuhr
+	RL:	2 Wagen im Alpha 4, danke, Schluss
+		Verbindung beenden.
+		Situation: Zug 91755 ist im Gleis B3 eingefahren. Der RA übergibt dem LF ein Handgerät und orientiert den LF, dass mit dem Zug vom Gleis B3 ins Gleis D3 rangiert wird. Vom Gleis D3 wird anschliessend rückwärts im Gleis A4 an den voraufgestellten Wagen angefahren. Die Wagen werden angekuppelt und der Zug zur Weiterfahrt vorbereitet. Die Anlage hat Zwergsignale. Offenaufruf.
+	RL:	Lokführer 9-1-7-5-5 vom Rangierleiter, Funktionskontrolle, antworten
+	LF:	Lokführer 9-1-7-5-5 verstanden, Funktionskontrolle
+	RL:	richtig, warten
+		Verbindung bleibt bestehen
+	
+	Variante bei Anlagen mit ortsfesten Signalen für Rangierbewegungen:
+	RL:	Selektivruf
+	FDL:	Fahrdienst Olten, antworten
+	RL:	Rangierleiter 9-1-7-5-5 verstanden, vom Bravo 3 ins Alpha 4 via Delta 3
+	FDL:	vom Bravo 3 nach Alpha 4 via Delta 3 
+	RL:	richtig, Schluss
+		Verbindung Rangier – Fahrdienst wird beendet
+	FDL:	stellt Rangierfahrstrasse ein und erteilt Zustimmung mit Zwergsignal
+	RL:	Lok 9-1-7-5-5 vorwärts Delta 3 
+	LF:	Lok 9-1-7-5-5 vorwärts Delta 3 
+	RL:	richtig
+	LF:	fährt los
+	RL:	kommt im Gleis Delta 3 an; Lok 9-1-7-5-5 anhalten 
+	LF:	hält an
+	RL:	wartet auf Zustimmung am Zwergsignal für zweiten Teil
+	RL:	Lok 9-1-7-5-5 rückwärts Alpha 4 anfahren
+	LF:	rückwärts anfahren Alpha 4 
+	RL:	evtl.: richtig; schaltet Kontrollton ein
+	LF:	fährt los
+	RL:	wagenlang
+	LF:	verlangsamt; wagenlang 
+	RL:	halbe
+	LF:	verlangsamt
+	RL/LF:	…
+	
+	Variante bei Anlagen ohne ortsfeste Signale für Rangierbewegungen:
+	RL:	Selektivruf
+	FDL:	Fahrdienst Olten, antworten
+	RL:	Rangierleiter 9-1-7-5-5 verstanden, vom Bravo 3 ins Delta 3
+	FDL:	stellt Fahrweg ein
+	FDL:	vom Bravo 3 nach Delta 3 eingestellt
+	RL:	richtig, Schluss
+		Verbindung Rangier – Fahrdienst wird beendet
+		
+	RL:	Lok 9-1-7-5-5 vorwärts Delta 3 
+	LF:	vorwärts Delta 3 
+	RL:	richtig
+	LF:	fährt los.
+		
+
+7.1.1	Kontrollsprechen
+	
+	Variante ohne technische Verbindungsüberwachung (Kontrollsprechen)
+	Nach der Funktionskontrolle und Orientierung am Telefon (Verbindung letzter Wagen – Lok)
+	RL:	Lokführer 7-5-5 rückwärts
+	LF:	Lok 7-5-5 rückwärts
+	RL:	richtig
+	RL:	fahren, wiederholt alle 3 – 5 Sekunden
+	RL:	fahren
+	RL:	wagenlang
+	LF:	verlangsamt; wagenlang 
+	RL:	fahren; wiederholt alle 3 – 5 Sekunden
+	RL:	fahren
+	RL:	halbe
+	LF:	verlangsamt 
+	RL/LF:	…
+		
+
+7.2	Ohne vereinfachtes Verfahren
+	
+	Variante bei Anlagen ohne ortsfeste Signale für Rangierbewegungen:
+	LF (RL):	Offenaufruf mit Freihören 
+	LF (RL):	Fahrdienst Rapperswil vom Lokführer 3-6-8-1-3 in Stäfa, antworten
+	FDL:	Lokführer 3-6-8-1-3 in Stäfa vom Fahrdienst Rapperswil, verstanden, antworten
+	LF (RL):	verstanden, im Bahnhof Stäfa von Gleis 2-2 nach Gleis 3, unbegleitetes Schieben, antworten
+	FDL:	stellt Fahrweg bis zum Zielgleis ein
+	FDL:	verstanden, im Bahnhof Stäfa von Gleis 2-2 nach Gleis 3 eingestellt, antworten
+	LF (RL):	richtig, Schluss
+		Verbindung beenden.
+		
+8	Baukommunikation (Wechselsprechmodus)
+8.1	Funktionskontrolle
+		
+	SC:	Offenaufruf mit Freihören 
+	SC:	Berger von Keller, Funktionskontrolle, antworten
+	SIWÄ:	Keller von Berger, verstanden, Funktionskontrolle, antworten
+	SC:	Keller, richtig, Schluss
+		Verbindung SC - SIWÄ wird beendet.
+		
+8.2	Kanalwechsel
+		
+	SC:	Offenaufruf mit Freihören
+	SC:	Steiner von Holzer, antworten
+	SIWÄ:	Holzer von Steiner, verstanden, antworten 
+	SC:	Holzer, verstanden. Schalten Sie auf Kanal Bravo-0-3 um, antworten
+	SIWÄ:	Steiner, verstanden. Ich schalte auf Kanal Bravo-0-3 um, antworten
+	SC:	Holzer, richtig, umschalten, Schluss
+		beide Teilnehmenden wechseln den Kanal
+	SC:	Freihören mit Offenaufruf
+	SC:	Steiner von Holzer, Funktionskontrolle, antworten
+	SIWÄ:	Holzer von Steiner verstanden, Funktionskontrolle, antworten
+	SC:	Holzer, richtig, Schluss
+		Verbindung beenden.
+	
+8.3	Zugsmeldung
+	
+	Arbeitsstellensituation: VW Müller (Seite Bern) - SIWÄ Erni – VW Meyer (Seite Wylerfeld)
+	VW:	Offenaufruf auf reserviertem Kanal
+	VW:	Erni von Müller, ein Zug von Bern auf Gleis 4-0-0, antworten
+	SIWÄ:	Erni, verstanden, ein Zug von Bern auf Gleis 4-0-0, antworten
+	VW:	Müller, richtig, Schluss
+		VW Meyer quittiert nicht.
+		
+8.4	Gleis fahrbar melden
+		
+	SC:	Offenaufruf mit Freihören
+	SC:	Fahrdienst Bern von Sicherheitschef Iseli in Zollikofen, antworten
+	FDL:	Sicherheitschef Iseli von Fahrdienst Bern, verstanden, antworten
+	SC:	Iseli, verstanden. Zollikofen, Gleis 1 fahrbar. Unterschrift Sicherheitschef Iseli. Antworten
+	FDL:	Fahrdienst Bern, verstanden. Zollikofen, Gleis 1 fahrbar. Unterschrift Sicherheitschef Iseli. Bestätigung Fahrdienstleiter Märki. Antworten
+	SC:	Iseli, richtig, Schluss
+		Verbindung beenden.
+
+
+
+
+Beilage 2
+
+
+
+Buchstabiertabelle
+
+
+
+	Buchstabiertabelle
+
+	International			
+				
+A	Alpha			
+B	Bravo			
+C	Charlie			
+D	Delta			
+E	Echo			
+F	Foxtrot			
+G	Golf			
+H	Hotel			
+I	India			
+J	Juliet			
+K	Kilo			
+L	Lima			
+M	Mike			
+N	November			
+O	Oscar			
+P	Papa			
+Q	Quebec			
+R	Romeo			
+S	Sierra			
+T	Tango			
+U	Uniform			
+V	Victor			
+W	Whisky			
+X	X-ray			
+Y	Yankee			
+Z	Zulu			
+

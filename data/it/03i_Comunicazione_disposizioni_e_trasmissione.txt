@@ -1,0 +1,959 @@
+﻿Ferrovie svizzere	R 300.3
+
+
+
+Comunicazione, disposizioni e trasmissione
+
+
+
+1	In generale 
+1.1	Ambito di validità 
+	
+	Queste prescrizioni disciplinano le procedure per la trasmissione di messaggi e l’impiego dei rispettivi mezzi di comunicazione.
+Non sono oggetto del presente regolamento:
+–	la trasmissione di dati per la gestione di dispositivi tecnici
+–	particolari procedure d’annuncio automatizzate (p.es. sistema d’avvertimento automatico sulle aree dei lavori).
+	
+1.2	Sicurezza e comunicazione rilevante per la sicurezza
+	
+	La sicurezza deve essere garantita in ogni caso a prescindere dall’attua­zione dei collegamenti. La comunicazione rilevante per la sicurezza è prioritaria rispetto a ogni altra comunicazione.
+	
+1.3	Lingua 
+	
+	Nella comunicazione scritta si fa uso delle lingue ufficiali (lingua scritta). 
+Per la comunicazione verbale si possono utilizzare le lingue nazionali (dialetto). Se gli interlocutori sono di lingua diversa, come pure in caso di difficoltà di comprensione, si parlerà nella lingua ufficiale del luogo.
+I GI regolano i reciproci punti di contatto linguistici nelle prescrizioni d’esercizio.
+	
+1.4	Informazione ai clienti 
+	
+	I GI e le ITF regolano di reciproca intesa le procedure comuni per l’informazione ai clienti.
+
+
+2	Messaggi
+2.1	Contenuto dei messaggi
+	
+	Un messaggio consta di un contenuto e delle designazioni del mittente e di uno o più destinatari. 
+	
+2.2	Tipi di messaggi
+	
+	Sono messaggi ai sensi delle prescrizioni della circolazione tutte le disposizioni, ordini, annunci, avvisi, e informazioni necessarie per l’esercizio ferroviario.
+	
+2.3	Redazione di messaggi
+	
+	I messaggi vanno compilati in forma breve e concisa.
+Si devono utilizzare termini leggibili e inequivocabili, designazioni complete come pure le abbreviazioni ufficiali. Sono da adottare i testi prescritti.
+I messaggi vanno formulati in modo conseguente e in forma positiva.
+Il mittente risponde dell’esattezza di ogni messaggio spedito. 
+	
+
+
+3	Mezzi di comunicazione 
+3.1	Tipi di mezzi di comunicazione
+	
+	Un messaggio può essere trasmesso con o senza dispositivi tecnici.
+Valgono come dispositivi tecnici di trasmissione ai sensi di queste prescrizioni quelli utilizzati per trasmettere messaggi telegrafici o tele­scritti.
+	
+3.2	Suddivisione dei mezzi
+	
+	Si distingue fra i seguenti dispositivi di trasmissione
+	–	scritto	
+consegna in forma cartacea senza dispositivo tecnico di trasmissione, p.es. formulari (formulario d’ordine, orario di marcia), istruzioni, circolari
+	–	telescritto	
+p.es. trasmissione di testi via e-mail, Internet, Intranet, SMS, Pager, annuncio codificato sulla superficie di lavoro, Telefax
+	–	verbale	
+collegamento visivo senza dispositivi tecnici
+	–	telefonico	
+p.es. telefono, telefono mobile, radio, citofono.
+	
+3.3	Scelta dei mezzi
+	
+	L’impiego dei vari mezzi da utilizzare per la trasmissione di determinati messaggi è disciplinato, se necessario, nell’ambito dei processi d’esercizio. Dove non è previsto altrimenti, il mittente utilizzerà il mezzo più efficiente. 
+	
+3.4	Impiego di formulari
+	
+	I formulari esistenti sono da utilizzare anche per la trasmissione telefonica di messaggi. 
+	
+
+
+
+4	Procedura
+4.1	Ripartizione delle procedure
+	
+	A dipendenza della sua rilevanza sulla sicurezza, un messaggio va trasmesso come segue:
+–	con obbligo di protocollo (protocollare) o
+–	con obbligo di quietanza (quietanzare) o
+–	a titolo informativo (informare).
+	
+4.2	Tipi di procedura
+4.2.1	Protocollare
+	
+	Scopo del protocollare è di conseguire la massima sicurezza possibile di trasmissione. In particolare, si garantisce che
+–	il messaggio giunga al destinatario giusto con il contenuto giusto e 
+–	sia possibile ricostruire l’avvenuta trasmissione. 
+	Il messaggio è inoltre visibile al destinatario, che può accedervi e leggerlo in qualsiasi momento.
+Il messaggio va registrato o annotato in forma scritta sia dal mittente, sia dal destinatario (p.es. iscrizione di un messaggio in un formulario o una checklist) mentre la ricezione va confermata con nome e funzione del mittente. 
+Per poter ricostruire la trasmissione, sul messaggio devono figurare nome, funzione e data di trasmissione e, in caso di trasmissione telefonica, l’orario dell’invio. 
+In caso di trasmissione telefonica, il mittente deve annotare in forma scritta il messaggio prima di inviarlo. Il destinatario lo scrive e successivamente ripete parola per parola il testo. Il mittente verifica la ripetizione e conferma l’esattezza del messaggio. 
+In caso di trasmissione telescritta, il destinatario conferma la ricezione rinviandone una copia al mittente.
+Le conferme di ricezione date da sistemi automatici non sono ammesse per i messaggi con obbligo di protocollo.
+Se manca la conferma, il messaggio va considerato come non trasmesso. 
+Ogni messaggio va conservato per almeno 24 ore oltre l’ultimo momento cui si riferisce il contenuto.
+	
+
+4.2.2	Quietanzare
+	
+	Scopo della quietanza è di garantire che dati rilevanti di un messaggio arrivino al giusto destinatario.
+La ricezione viene quietanzata. Di principio, il messaggio non viene registrato dal destinatario. Se però la validità del contenuto va oltre il proprio periodo di servizio, il messaggio dev’essere annotato in forma appropriata. 
+In caso di trasmissione verbale o telefonica, come quietanza il destinatario deve ripetere il contenuto rilevante del messaggio, indicando anche il nome e la funzione. Il mittente verifica la ripetizione e ne conferma l’esattezza. 
+Una quietanza può anche essere trasmessa come messaggio a sé stante (conferma di ricevuta). Per la stessa non vi è obbligo di quietanza, essa è parte integrante del messaggio originario.
+Nel caso di trasmissione telescritta, vale come quietanza l’eventuale conferma data dal sistema che il destinatario ha letto il messaggio. 
+Se la quietanza manca, il messaggio va considerato come non trasmesso.
+	
+4.2.3	Informare
+	
+	I messaggi di questo tipo non sono rilevanti per la sicurezza e non vanno né protocollati né quietanzati.
+	
+4.3	Impiego delle procedure
+	
+	La procedura da adottare per la trasmissione figura nelle rispettive prescrizioni. Se questa manca, il messaggio va trasmesso con la procedura che, secondo la valutazione del mittente, meglio corrisponde al suo contenuto.
+Se a causa delle norme tecniche una procedura non è applicabile, si utilizzerà un altro mezzo oppure una procedura più sicura.
+	
+
+5	Orario e tabella della tratta
+	
+	In esercizio di tram le disposizioni sull’orario e la tabella della tratta non valgono. I GI e le ITF disciplinano le rispettive fattispecie nelle loro prescrizioni d’esercizio.
+	
+5.1	Competenze
+5.1.1	Allestimento
+	
+	Il GI allestisce e aggiorna: 
+–	la tabella della tratta 
+–	l’orario per i treni e i movimenti di manovra sulla tratta. Questo comprende anche l’allestimento degli orari di marcia e degli orari grafici.
+	
+5.1.2	Ordinazione
+	
+	Il GI ordina:
+–	la circolazione di corse regolari 
+–	la circolazione di corse facoltative 
+–	la circolazione di corse speciali 
+–	le deroghe a precedenti ordinazioni 
+–	la soppressione parziale o totale di una corsa.
+	
+5.1.3	Distribuzione 
+	
+	Il GI trasmette la documentazione necessaria e le ordinazioni ai servizi interessati e alle ITF interessate, affinché possano garantirne la consegna al personale interessato. 
+Gli orari di marcia e la tabella della tratta devono essere consegnati al MAC e, per quanto necessario, al resto del personale. Gli orari di marcia per i movimenti di manovra sulla tratta vanno consegnati inoltre anche al CMAN. 
+In caso di ordinazioni dell’ultimo momento, il CMOV avvisa con obbligo di quietanza il MAC. Il MAC deve annotare per iscritto almeno il numero di treno.
+	
+5.2	Documentazione per il MAC 
+	
+	Il MAC desume le indicazioni necessarie per la condotta delle corse dall’orario di marcia e dalla tabella della tratta. Sulle linee interoperabili nel traffico transfrontaliero la documentazione dev’essere strutturata dall’ITF secondo le esigenze della STI.
+
+5.3	Orario di marcia 
+5.3.1	Contenuto dell’orario di marcia 
+	
+	L’orario di marcia deve contenere almeno le seguenti indicazioni:
+–	la numerazione della corsa 
+–	gli orari di circolazione con le rispettive località 
+Se necessario, esso contiene inoltre:
+–	il periodo di circolazione
+–	la categoria di treno e di freno
+–	altre indicazioni necessarie per la condotta del treno
+Come facilitazione, possono essere allestiti orari di marcia collettivi.
+	
+5.3.2	Indicazioni supplementari per treni facoltativi e speciali 
+	
+	Con l’ordinazione di treni facoltativi e speciali, devono essere comunicate le seguenti indicazioni:
+–	il giorno dell’effettuazione e il periodo di circolazione
+–	per i treni speciali, se il treno è scortato.
+	
+5.3.3	Orario di marcia semplificato per i treni
+	
+	Invece di tutti gli orari di circolazione, sono indicati:
+–	l’orario di partenza nella stazione d’origine
+–	le fermate
+–	gli orari di circolazione necessari per la disposizione.
+La posizione di marcia effettiva viene stabilita costantemente dal GI.
+	
+5.3.4	Orario di marcia per movimenti di manovra sulla tratta 
+	
+	Se il movimento di manovra sulla tratta termina e viene dato il giunto in un binario di raccordo, bisogna redigere orari di marcia separati per la corsa di andata e per quella di ritorno.
+	
+5.3.5	Indicazioni complementari per corse speciali di movimenti di manovra sulla tratta
+	
+	Oltre alle indicazioni per i movimenti di manovra regolari sulla tratta, l’orario di marcia deve indicare:
+–	il giorno dell’effettuazione
+–	il percorso da compiere da … a …, all’occorrenza via binario …
+–	l’osservazione se altri movimenti di manovra, anche regolari, si trovano sullo stesso binario di tratta 
+–	l’osservazione se si deve recuperare un treno incagliato sulla tratta o una parte del treno lasciata sul posto
+–	l’osservazione se il movimento di manovra sulla tratta passa o inizia su un binario sbarrato
+–	l’osservazione se si segue un treno. 
+	
+5.4	Tabella della tratta 
+5.4.1	Contenuto della tabella della tratta 
+	
+	La tabella della tratta deve contenere almeno le seguenti indicazioni:
+–	le stazioni, le fermate e la loro posizione chilometrica
+–	la pendenza determinante tra le singole stazioni
+–	le velocità massime dipendenti dall’infrastruttura, all’occorrenza differenziate per categorie di treno e di freno 
+–	altre indicazioni necessarie per percorrere le stazioni e le tratte.
+	
+
+5.5	Rappresentazione dell’orario di marcia 	
+5.5.1	Intestazione 	
+		
+	15 1507		Numero della corsa, se necessario preceduto dal periodo di circolazione	
+	R 125		Categoria di treno e di freno, se treno loc solo «loc»	
+				
+	
+	B		Orario di marcia cadenzato	
+	R 125		Gli orari di marcia cadenzati sono orari di marcia collettivi a cadenza oraria. Sono contrassegnati con una lettera. In un elenco sono indicati il numero e l’ora del primo orario di circolazione dei treni circolanti in base al relativo orario di marcia cadenzato.	
+				
+				
+
+	Per indicazioni più precise, il numero del treno può essere completato con le seguenti lettere.
+	
+	53534 F		facoltativo 	
+	61558 P		treno merci o treno di servizio con trasporto viaggiatori	
+	25 28567 Y		facoltativo durante gli altri giorni	
+				
+		
+	Ogni movimento di manovra sulla tratta va contrassegnato con la lettera «R» dopo il numero.	
+		
+	36579 R		Movimento di manovra sulla tratta	
+				
+		
+
+5.5.2	Colonna dell’orario con gli orari di circolazione 	
+		
+	12.25		Fermata (cifra in neretto)
+La cifra dell’ora viene indicata per la stazione d’origine e per quella terminale del treno; nelle stazioni intermedie solo se cambia l’ora	
+	7.12
+14		Ora d’arrivo 
+Ora di partenza 
+Viene indicata se la fermata dura più di un minuto	
+	H		Fermata senza indicazione dell’orario	
+	(H)		Fermata facoltativa	
+	(H) 27		Fermata facoltativa con indicazione dell’orario	
+	(32)		Orario di transito	
+	7(03)
+(08)		Orario di transito con cifre dei minuti differenti	
+	– –		Transito senza indicazione dell’orario	
+				
+		
+	Simboli a sinistra dell’orario di circolazione:
+	
+	 44		Permesso di partenza necessario a cura del CMOV	
+	 15.37		Entrata su un binario occupato 	
+				
+		
+
+5.6	Rappresentazione della tabella della tratta
+5.6.1	Colonna della stazione
+	
+				
+		Pedrinate 			Stazione
+
+				
+		    Muggiasca			Fermata
+
+				
+	
+	La dotazione della tratta è contrassegnata nel modo seguente:	
+		
+	«senza simbolo»			tratta a semplice binario o tratta a più binari con dispositivo per l’esercizio banalizzato	
+					tratta a doppio binario con dispositivo per l’esercizio a semplice binario 	
+					tratta a doppio binario con dispositivo per l’esercizio a semplice binario e avviso con obbligo di quietanza al MAC per la corsa sul binario destro	
+					tratta a doppio binario senza dispositivo per l’esercizio a semplice binario	
+					
+		
+
+	I simboli seguenti a sinistra accanto al nome della stazione significano:		
+			
+	  Novazzano			nessun segnale avanzato d’entrata
+	  Ligornetto			nessun segnale avanzato d’uscita
+	  Genestrerio			nessun segnale avanzato d’entrata e d’uscita
+	    Obino			stazione di testa 
+	   Cercera			entrata su binario occupato
+	     Seseglio			avviso d’entrata in una stazione non dotata di sottopassaggi o sovrapassaggi
+	   Somazzo			permesso di partenza necessario a cura del CMOV
+	   Casima			impianto di passaggio a livello aperto prima del segnale d’uscita
+				
+				
+	I simboli sotto il nome della stazione significano:		
+			
+		Mendrisio
+	    B 1-3			singoli binari di testa in una stazione di transito o entrata su binario utilizzabile limitatamente 		
+		Besazio
+	      Im 2			avviso d’entrata in una stazione non dotata di sottopassaggi o sovrapassaggi con le rispettive esecuzioni di velocità segnalate		
+		Banchette
+	    6-10			permesso di partenza necessario per certi binari a cura del CMOV		
+						
+		
+
+	Le velocità massime in stazione sono rappresentate nel modo seguente: 
+	
+		Coldrerio			Vale la velocità in stazione: è applicabile la velocità di tratta la più elevata prima o dopo la stazione	
+		Salorino	60		velocità in stazione 	
+	 	Stabio	140
+125		velocità d’entrata   
+velocità d’uscita 	
+		Stabio	25-10
+35		velocità graduate	
+		Penate	
+110		velocità secondo l’immagine del segnale 3, ma superiore a quanto indicato nelle prescrizioni sui segnali	
+					
+		
+	Le sezioni di tratta da percorrere in modo permanente a velocità ridotta sono riportate fra i nomi di stazione nel modo seguente:	
+		
+		C 100			Velocità in curva 100 km/h	
+		C uscita 80			Velocità in curva dopo l’uscita 80 km/h	
+		C d. ferm. 60			Velocità in curva dopo la fermata 60 km/h	
+		C 95-85			due curve contigue, a 95 km/h e in seguito a 85 km/h	
+					
+		
+	Altre indicazioni tra i nomi delle stazioni significano:	
+		
+		km 62.6			Punto in cui cambia la velocità di tratta	
+		Scambio km 56	80		Posizione di uno scambio sulla tratta con la rispettiva velocità massima 	
+		Br. Ludaria
+	 km 12.8			Punto di un binario di raccordo 	
+			km 67.8
+km 66.5			Posizione di una zona tranvie 	
+					
+		
+
+5.6.2	Colonna della velocità 	
+		
+		
+	A		Categoria di treno 
+Categoria di freno 	
+	Rapporto di frenatura in %	115	80	65	50			
+								
+		Alla Monda		75	70	65	45		Velocità di tratta in km/h dal punto corrispondente in km/h, a dipendenza del rapporto di frenatura	
+		Prato				55	35			
+		Arvigo			75	70	XX		Il simbolo XX significa che questa sezione di tratta non può essere percorsa con la relativa categoria di treno e di freno	
+		Rossura				75	XX			
+		
+5.6.3	Colonna della comunicazione mobile 	
+		
+		
+	Canale o. N°		
+	S	GSM		Sistema di comunicazione mobile 
+	21	1301		Canale o numero di selezione abbreviata
+				si raggiunge il CMOV preposto 
+Il limite del sistema di comunicazione mobile viene indicato con un tratto orizzontale 
+	21.2			
+				
+				
+				
+		
+
+5.6.4	Colonna dei segnali di blocco	
+		
+	Segnali di posti blocco e cambio di binario, tavole di fischio, ecc 		
+	km	Nome	Des.		
+	47.2	Scarena	81 R/S		I segnali di blocco sono designati con il loro nome o con «blocco», i segnali di protezione con «segnale di protezione». I posti di cambio di binario sono inoltre contrassegnati con un triangolo. 
+	45.1	Blocco	85 R/S		
+	43.3	Segnale di 	protezione	29 D		
+	40.2	Grione 	87 R/S		
+				
+	34.9	Scambio			Scambio sulla tratta 
+				
+	50.7				Apparecchio di tratta del controllo della marcia dei treni per il controllo degli impianti di passaggio a livello 
+				
+	52.3				Tavola di fischio 
+				
+	67.8
+	66.5					zona tranvie 
+				
+	42.7				Inizio della tratta di protezione 
+	26.7		L			Inizio della tratta di protezione lunga 
+	105.8		F			Inizio della tratta di protezione facoltativa 
+				
+	
+	Se esistono più apparecchi di tratta per il controllo della marcia dei treni o tavole di fischio, la quantità viene indicata a sinistra accanto al simbolo. Si può rinunciare all’indicazione chilometrica, se la posizione dei rispettivi segnali è riportata in un elenco.
+
+	
+	
+
+6	Disposizioni d’esercizio	
+6.1	Principio 	
+		
+	Si considerano disposizioni d’esercizio i messaggi che devono essere trasmessi in tempi brevi a causa di perturbazioni oppure di deroghe o restrizioni temporanee, come p.es. disposizioni con formulario d’ordine, indicazione di uno sbarramento di binario.	
+		
+6.2	Disposizioni con formulario d’ordine 
+(ordini 1, 3, 4, 5, 6, 8 e 9)	
+6.2.1	Trasmissione degli ordini 	
+		
+	Gli ordini devono essere trasmessi con obbligo di protocollo o di quietanza. Per gli ordini soggetti a protocollo vanno in ogni caso osservate le relative disposizioni per i formulari della prima categoria. Gli ordini vanno trasmessi il più vicino praticabile al luogo di esecuzione.	
+		
+6.2.2	Consegna di un ordine direttamente al destinatario 
+	
+	Il CMOV deve consegnare l’ordine al MAC di testa. Il MAC avvisa l’ulteriore personale interessato presente sul treno, con obbligo di quietanza.
+L’ordine 9 dev’essere trasmesso con obbligo di protocollo dal primo MAC.
+	
+6.2.3	Consegna di un ordine dietro incarico
+	
+	Il CMOV può delegare la consegna di un ordine. Se l’ordine da consegnare è soggetto a protocollo, anche l’incarico avviene con obbligo di protocollo. Prima di impartire l’incarico devono già essere state prese le eventuali misure di sicurezza.
+La consegna di un ordine dev’essere confermata con obbligo di quietanza al CMOV della stazione che ha dato l’ordine. Il MAC può confermare il ricevimento di un ordine direttamente alla stazione che ha dato l’incarico.
+La consegna dell’ordine 1 non deve essere confermata.
+	
+6.2.4	Rilascio del consenso 
+	
+	Se è stato dato un ordine soggetto a protocollo, il CMOV può dare il corrispondente consenso a una corsa solo quando l’ordine è stato consegnato o ha ricevuto conferma dell’avvenuta consegna.
+	
+
+6.2.5	Annullamento di un ordine con obbligo di protocollo
+	
+	Se un ordine con obbligo di protocollo non serve o viene annullato, bisogna avvisare il MAC con obbligo di protocollo mediante ordine 4. 
+Un ordine 3 può anche essere revocato per mezzo di un ordine 1, senza che sia necessario un ordine 4.
+	
+
+7	Trasmissione telescritta 
+7.1	Identificazione 
+	
+	Prima di trasmettere il messaggio, il mittente deve verificare di avere selezionato correttamente il destinatario. Sui messaggi rilevanti per la sicurezza, il destinatario deve figurare nel settore destinato al testo.
+	
+7.2	Applicazione 
+	
+	Per quanto concerne la trasmissione telescritta di messaggi soggetti a protocollo o a quietanza, gli apparecchi dei destinatari devono soddisfare i requisisti necessari per questa procedura. 
+La sicurezza nella condotta del treno non deve essere pregiudicata dalla lettura di questi messaggi. Il MAC può leggere testi lunghi solo se il treno è fermo.
+	
+
+
+8	Trasmissione telefonica 	
+8.1	Principi 	
+8.1.1	Impiego 	
+		
+	I sistemi di comunicazione mobile per la trasmissione telefonica devono essere impiegati solo per scopi legati all’esercizio ferroviario. Un eventuale impiego più ampio ricade sotto la responsabilità dell’IF. 
+L’impiego dei sistemi radio fuori del piano di rete (canali / settore d’impiego / apparecchi) è vietato. Il canale radio può essere cambiato solo nei casi previsti o in una situazione d’emergenza.	
+	
+8.1.2	Comunicazione per la guida del treno 
+	
+	Sui treni con guida diretta e servizio di rinforzo in testa, servizio di spinta o con locomotiva intermedia, deve essere possibile un collegamento fra i singoli MAC. Fra tutti i MAC, prima della partenza si deve eseguire un controllo di funzionamento. 
+Sui treni con guida indiretta è necessaria una sorveglianza costante del collegamento. Si applicano le regole per la comunicazione di manovra.
+		
+8.1.3	Controllo di funzionamento 	
+		
+	Al momento di mettere in servizio un dispositivo di comunicazione mobile si deve effettuare, se prescritto, un controllo del funzionamento; esso include la verifica della funzionalità tecnica delle linee di trasmissione.
+Il controllo di funzionamento è eseguito stabilendo un contatto con un altro utente, e può compiersi parallelamente all’annuncio in servizio o ad un’altra conversazione. Dopo la chiamata, la conversazione va iniziata con «controllo di funzionamento»; la trasmissione di un ordine può avvenire solo dopo aver completato il controllo.	
+		
+8.2	Indirizzamento 	
+		
+	Se in una rete sono presenti più di due apparecchi, si deve applicare un sistema d’indirizzamento, poiché di solito una conversazione è destinata a uno specifico utente o gruppo d’utenti. A dipendenza del sistema e del campo d’applicazione degli apparecchi, l’indirizzamento può avvenire verbalmente o con mezzi tecnici.	
+		
+
+8.2.1	Chiamata selettiva (indirizzamento tecnico)
+	
+	Con una chiamata selettiva viene chiamato il singolo utente. Ciascun utente riceve la chiamata separatamente.
+Se si attivano più apparecchi o servizi, in seguito bisogna effettuare una chiamata aperta.
+	
+8.2.2	Chiamata aperta (indirizzamento verbale)
+	
+	Nel caso di una chiamata aperta con nome di chiamata o di una chiamata di gruppo, tutti gli utenti possono udire l’intera conversazione. 
+	
+8.2.3	Ascolto preliminare 
+	
+	Dove esistono linee aperte di sistemi di citofoni e radio, prima di parlare o di azionare il pulsante di parlata bisogna ascoltare per circa 3 secondi se il canale non è già occupato da una conversazione o da un suono di controllo. 
+È ammesso interrompere una conversazione in corso solo in casi d’emergenza.
+	
+8.2.4	Nomi di chiamata 
+	
+	Si devono utilizzare nomi di chiamata chiari, inequivocabili e completi. Se vi sono due o più utenti, i nomi di chiamata devono essere definiti in modo tale da evitare che insorgano equivoci. In caso di chiamata aperta o di chiamata di gruppo al MAC, essa è sempre diretta al MAC di testa. Volendo chiamare un altro MAC, si terrà conto di questo fatto indicando il nome di chiamata, p.es. «Loc di spinta 51037».
+	
+8.2.5	Identificazione
+	
+	Prima di trasmettere il messaggio, chi lo spedisce deve identificare chiaramente il destinatario. Gli utenti della comunicazione devono indicare la loro rispettiva ubicazione. La denominazione dell’ubicazione è da scegliere considerando la situazione e può essere p.es. una stazione, una centrale d’esercizio, una sezione di tratta, l’indicazione del chilometraggio, o il posto davanti a un segnale o a una tavola. Se non si è capito un nome di chiamata, si chiederà di ripeterlo, per evitare trasmissioni errate.
+	
+
+8.3	Comportamento
+	
+	Il comportamento corretto degli utenti della comunicazione contribuisce ad evitare incomprensioni e infortuni ed è dunque di estrema importanza per la sicurezza.
+In linea di principio, quando il personale viaggiante deve mettere per iscritto un ordine, il treno deve essere fermo. L’ITF e il GI interessato possono effettuare una valutazione congiunta dei rischi, che potrebbe portare alla definizione delle condizioni alle quali è possibile discostarsi da tale principio in sicurezza. 
+	
+8.3.1	Comportamento e disciplina di conversazione 
+	
+	–	Si adottano i modi di dire prescritti 
+–	i numeri di treno vanno citati sempre per intero 
+–	per una migliore comprensione, i numeri a più cifre vanno scomposti in singole cifre e trasmessi cifra per cifra secondo gli esempi che seguono:
+		782	sette-otto-due
+		5543	cinque-cinque-quattro-tre
+		19471	uno-nove-quattro-sette-uno
+	–	a scanso di errori, invece di lettere singole ci si esprimerà usando parole intere, p.es. «Bravo 9» invece di «B 9» oppure «Mike 7» 
+anziché «M 7»
+–	in caso di difficoltà di comprensione, le parole difficili vanno compitate. A tale scopo si devono utilizzare termini inequivocabili (vedi tabella di compitazione)
+	–	le designazioni locali possono essere utilizzate soltanto se tutti i partecipanti alla conversazione le conoscono con sicurezza. Esempi:
+		gruppi di binari 	Rimessa, Deposito, Officina
+		singoli binari	Stabio, Petrimex, LATI
+	–	la conversazione deve avvenire in modo alternato, in particolare con sistemi che permettono la trasmissione nelle due direzioni solo alternativamente (conversazione alternata p.es. radio, citofoni).
+	
+
+8.3.2	Locuzioni 
+	
+	Le locuzioni e modi di dire seguenti sono da adottare 
+–	con i sistemi di conversazione alternata 
+–	con i sistemi che permettono di parlare contemporaneamente, per i messaggi rilevanti per la sicurezza. Se la conversazione si svolge fra due soli utenti, si può rinunciare alle locuzioni capito, rispondere e terminato.
+	
+	Locuzione 	Significato 
+	
+	–	come introduzione alla propria sequenza di conversazione:
+		capito	avvia la propria sequenza di conversazione
+		giusto	conferma la ripetizione precisa del messag­gio precedente 
+		non capito, 	ripetere	l’ultima sequenza di conversazione non è stata intesa o ricevuta interamente, essa va ripetuta
+		sbagliato	la ripetizione del messaggio precedente non è esatta, introduce la correzione
+	
+	–	quale complemento alle locuzioni introduttive:
+	
+		ripeto	avvia la ripetizione
+		sillabo	avvia la sillabazione 
+	
+	–	per fare attendere brevemente l’interlocutore:
+	
+		aspettare	introduce una pausa nella conversazione in corso
+	
+	–	se la conversazione deve essere proseguita più avanti:
+	
+		richiamo	annuncia l’imminente interruzione del collegamento 
+	
+	–	al termine della propria sequenza di conversazione:
+	
+		rispondere	chiude la propria sequenza di conversa­zione, si attende una risposta
+		terminato	fine della conversazione, da chi effettua la chiamata
+	
+	
+	
+	–	come avvio di una chiamata d’emergenza:
+	
+		mayday, mayday, 
+mayday	identico in tutte le lingue e da non utilizzare se può essere impiegata una funzione tecnica per la chiamata d’emergenza
+	
+	–	nel contesto della consegna di ordini:
+	
+		annullamento di 
+un ordine	introduce la revoca / la ripresa di un ordine
+		errore (ed ev. 
+preparo un nuovo
+ordine)	in caso di errore di trasmissione tecnica o se il mittente ha trasmesso indicazioni errate
+	
+
+8.3.3	Uso delle locuzioni durante la conversazione alternata 
+	
+	Emittente «Boretti»	Ricevente «Maestri»	Significato 
+	Chiamata aperta / chiamata di gruppo 
+	
+	
+	
+			
+	
+	
+	
+	Ascolto preliminare 
+	
+Maestri da Boretti 
+rispondere	
+Identificazione 
+emittente 		Boretti da Maestri 
+capito, rispondere
+Identificazione 
+del ricevente	capito,
+«TESTO»
+rispondere	
+Trasmissione
+del messaggio		capito, «ripetere 
+il TESTO» rispondere
+Ripetere il messaggio 	Giusto	
+Conferma
+della trasmissione esatta 	Terminato 	
+Fine conversazione 		
+	Chiamata selettiva	
+	Scelta selettiva – 
+Segnale di conferma	Suono di chiamata
+		Maestri, rispondere
+Identificazione 
+del ricevente 		
+	Boretti, capito, «TESTO»
+rispondere	
+Trasmissione
+del messaggio		Capito, «ripetere il TESTO» 
+rispondere
+Ripetere
+testo del messaggio 	Giusto	
+Conferma
+della trasmissione esatta	Terminato 	
+Fine conversazione.		
+8.3.4	Uso delle locuzioni in una conversazione dove è possibile parlare contemporaneamente (un solo emittente e ricevente)		
+	Emittente «Boretti»
+Ricevente «Maggi»	Significato 
+	Chiamata selettiva 		Scelta selettiva 
+Suono di chiamata 	
+	Circolazione treni Lugano, Maggi
+Identificazione 
+del ricevente	Circolazione treni Bellinzona, Boretti 
+	Identificazione 
+emittente
+«TESTO»		Trasmissione del messaggio 	
+«Ripetere il TESTO»
+	Ripetere il messaggio 
+Giusto	
+Conferma della trasmissione esatta 	«TESTO»
+	Fine conversazione.
+	
+8.3.5	Registrazione 	
+	
+Le comunicazioni possono essere registrate in qualsiasi momento con particolari dispositivi, per chiarire eventuali irregolarità, sorvegliare la disciplina di conversazione ecc. In caso d’infortuni e di irregolarità le registrazioni devono essere poste al sicuro, a disposizione degli organi inquirenti.			
+9	Comunicazione di manovra 
+9.1	Avvertenze preliminari 
+	
+	Le prescrizioni sulla comunicazione di manovra si applicano alla trasmissione telefonica nell’ambito dei movimenti di manovra. Per i treni condotti indirettamente, esse valgono per analogia in relazione con il collegamento fra la persona addetta alla guida indiretta in testa e il MAC.
+9.2	Struttura della rete con sistemi radio
+	
+	Di norma, il canale della radio di manovra o la chiamata del gruppo di manovra sono utilizzati da un solo gruppo di utenti contemporaneamente.
+	
+9.3	Collegamenti con sistemi radio
+	
+	Le possibilità di collegamento dei canali della radio di manovra o delle chiamate del gruppo di manovra sono regolate nel piano di rete / dei collegamenti attribuito.
+	
+9.3.1	Controllo di funzionamento 
+	
+	Il controllo del funzionamento va effettuato all’interno del gruppo di manovra (incluso il MAC) come detto qui appresso:
+–	con ogni utente del gruppo di manovra 
+–	all’inizio del traffico radiofonico 
+–	dopo un cambio del canale radio 
+–	con un utente qualsiasi del gruppo di manovra 
+–	da parte di ogni nuovo utente che arriva nel gruppo 
+–	dopo la sostituzione di un apparecchio o di un accumulatore 
+–	dopo un cambio di personale 
+–	dopo un cambio di veicolo motore.
+	
+9.4	Comportamento durante i movimenti di manovra 	
+9.4.1	Disciplina di conversazione semplificata
+	
+	
+	
+	Durante i movimenti di manovra, tutti i messaggi vanno ripetuti in modo conforme al senso, controllandone l’esattezza; gli annunci importanti per la sicurezza devono essere ripetuti testualmente e quietanzati.
+All’interno di un gruppo di comunicazione esistente si può adottare la seguente disciplina semplificata:
+	
+	–	dopo l’identificazione del ricevente, si tralasciano l’indicazione dell’ubicazione e del nome di chiamata dell’emittente 
+	
+	–	dopo che è avvenuta l’identificazione dell’emittente e del ricevente, si rinuncia alle locuzioni «capito» e «rispondere».
+	
+La disciplina semplificata si può adottare anche nel caso di treni con più veicoli motore serviti nel medesimo treno.		
+9.4.2	Richiesta e consenso per movimenti di manovra
+			
+Se il consenso è dato senza segnali fissi per i movimenti di manovra:
+–	il CMOV deve dapprima disporre il percorso richiesto 
+–	in seguito egli ripete integralmente la richiesta e, nel contempo, dà il consenso con la parola «disposto»
+–	se l’itinerario richiesto non può essere disposto subito, il CMOV ne spiega la ragione iniziando con «aspettare». In tale caso il CMOV non deve ripetere la richiesta d’itinerario, poiché ciò potrebbe essere interpretato erroneamente come consenso.			Se il consenso è dato con segnali fissi per i movimenti di manovra:
+–	il CMOV deve ripetere integralmente il tenore della richiesta 
+–	il CMAN verifica l’esattezza del testo ripetuto, confer­mando con «giusto» 
+–	il consenso avviene col segnale fisso per i movimenti di manovra. 
+Questa procedura vale per analogia quando la richiesta del percorso avviene con altri mezzi di comunicazione.
+			
+9.4.3	Informazioni al MAC 
+		
+	Le informazioni al MAC vanno precedute dalla parola «Orien­tamento». Se alla fine di tale annuncio non fa seguito immediatamente un ordine di manovra, bisogna mantenere il collegamento con «aspettare» oppure chiudere con «terminato».	
+		
+9.4.4	Trasmissione di ordini 
+		
+	I segnali ottici e acustici del personale secondo le prescrizioni sui segnali vengono a cadere se gli ordini sono trasmessi telefonicamente. Anziché il prescritto collegamento visivo fra il CMAN e il MAC, si utilizza la sorveglianza del collegamento.
+Tutti gli annunci e gli ordini devono essere ripetuti integralmente come quietanza, mentre chi li trasmette ne deve controllare l’esattezza.	
+	La ripetizione è omessa:
+–	nell’indicazione delle distanze
+Il MAC deve ripetere solo la prima indicazione, questa va trasmessa se del caso insieme con l’ordine di avanzare. La prima indicazione delle distanze va data per tempo, affinché il MAC abbia il tempo per confermarla, prima che il CMAN si appresti a comunicare la seconda 
+–	per un ordine di fermare 
+L’ordine di fermare va eseguito immediatamente e non confer­mato.
+Il MAC non deve muovere il locomotore se riceve un ordine non chiaro. Durante la corsa, egli deve fermare subito se il collegamento è disturbato, oppure se teme di non poter percepire un’indicazione delle distanze o l’ordine di fermare.
+Se è a portata di voce, il CMAN può dare ordini anche senza radio, quando nessun altro MAN munito di un mezzo di comunicazione mobile debba essere avvisato.	
+		
+9.4.5	Sorveglianza del collegamento 		
+	La sorveglianza del collegamento può essere inviata contem­poranea­mente da un unico utente. Durante l’attivazione della sorveglianza del collegamento non si devono effettuare chiamate o conversazioni esterne, salvo per un’emergenza. La sorveglianza del collegamento va utilizzata per ogni movimento di manovra condotto indirettamente e per i treni condotti indirettamente, salvo
+–	quando viene impartito l’ordine appoggiare 
+–	secondo le prescrizioni d’esercizio per manovre sulle selle di lancio, gli impianti di carico e scarico ecc.
+La sorveglianza del collegamento viene inviata dal CMAN. Essa va inserita solo dopo che il MAC ha quietanzato esattamente l’ordine di avanzare e il CMAN ha verificato l’esattezza della conferma. In questo caso decade la locuzione «giusto». 
+Il MAC può iniziare la corsa solo se è stata attivata la sorveglianza del collegamento. Se esso s’interrompe, il personale interessato deve prendere misure atte a fermare immediatamente. 
+La sorveglianza del collegamento va spenta simultaneamente all’ordine «fermare».
+Utilizzando dispositivi di comunicazione senza sorveglianza di collegamento, come p.es. il segnale acustico di controllo, il CMAN deve ripetere ad intervalli di 3 – 5 secondi la parola «venire» o «avanzare» o simili.	
+		
+10	Comunicazione del servizio lavori 	
+10.1	Avvertenze preliminari 		
+	Le prescrizioni per la comunicazione del servizio costruzioni si applicano alla trasmissione telefonica nell’ambito di lavori nella zona dei binari, all’interno delle aree dei lavori e, secondo il caso, per i collegamenti fra l’area dei lavori e le stazioni o le sottocentrali.
+I mezzi e il tipo di collegamento (ad es. i numeri di telefono, il canale radio) per la comunicazione vengono definiti dalla DS, all’occorrenza dal CS. Questa attribuzione dev’essere annotata in un piano d’organizzazione, nel quale figurano anche i provvedimenti da adottare qualora vengano a mancare i collegamenti. I mezzi e i collegamenti attribuiti non possono essere cambiati senza il consenso del CS. 
+Gli annunci dei treni sono formulati in modo semplificato. La SENT trasmette il contenuto dell’annuncio contemporaneamente alla chiamata, il GS quietanza l’annuncio.
+Nel collegamento tra SENT e GS deve poter essere garantita la trasmissione tempestiva e affidabile degli annunci dei treni.	
+10.2	Impiego di sistemi radio 
+10.2.1	Controllo del funzionamento 
+	
+	Il controllo di funzionamento va effettuato da tutto il personale dotato della radio, secondo il piano d’organizzazione, nel modo seguente:
+–	con ogni utente della rete radio 
+–	all’inizio del traffico radiofonico 
+–	dopo un cambio del canale radio 
+–	con un utente qualsiasi della rete radio 
+–	da parte di nuovo utente che arriva nella rete
+–	dopo la sostituzione di un apparecchio o di un accumulatore 
+–	dopo un cambio di personale 
+–	dopo ogni cambio della posizione.
+	
+10.2.2	Verifica del collegamento 
+	
+	I collegamenti per l’annuncio degli avvicinamenti dei treni all’area dei lavori devono essere verificati regolarmente, come spiegato qui appresso:
+–	al più tardi 10 minuti dopo l’ultima trasmissione 
+–	dopo ogni spostamento di un utente.
+L’uso del segnale di controllo o di chiamata per una verifica è proibito.
+	
+10.2.3	Nome di chiamata e identificazione 	
+	
+Dopo aver effettuato la chiamata, gli utenti devono far precedere ogni successiva sequenza di conversazione con il proprio nome di chiamata.	
+10.2.4	Collegamenti fra SENT e GS 	
+	
+Durante l’impiego della radio del servizio lavori per il collegamento tra SENT e GS si devono osservare le seguenti disposizioni: 
+    • si devono prevedere canali riservati 
+    • su questi canali non sono ammessi altri tipi di conversazioni 
+    • se un annuncio va confermato da più GS, se ne deve prima stabilire la successione. 	
+	
+	
+Annesso 1	Esempi di conversazioni telefoniche
+1	Formulazioni conseguenti 	
+	
+L’interlocutore si attende una reazione conseguente al suo messaggio e si prepara ad accoglierla. Per evitare che sorgano malintesi, gli annunci devono essere formulati in modo corrispondente a questa aspettativa.	
+Esempio:	
+MAN:	La condotta elettrica del treno 1-5-1-4-2 è disinserita?
+	Risposte corrette:
+	MAC:	Sì la condotta elettrica del treno 1-5-1-4-2 è disinserita
+	o:
+		MAC:
+No, la condotta elettrica è sotto tensione.		Risposte sbagliate, nel caso in cui la condotta elettrica non sia ancora disinserita:
+	MAC:	Sì, ora disinserisco la condotta elettrica
+	
+2	Formulazioni positive 
+		
+Giusto:	«Sgomberare subito il binario»
+	
+«Loc 1-8-2-1 aspettare»		
+«Binario 3 è occupato»		
+«La linea di contatto è inserita»		Errato:
+«Non entrare sul binario»		
+«Loc 1-7-3-1 non avanzare»		
+«Binario 1-5 non è libero»		
+«La linea di contatto non è disinserita».		
+3	Trasmissione di una chiamata d’emergenza 	
+	
+CMOV: 	Chiamata aperta senza ascolto preliminare, è ammesso intervenire in comunicazioni in corso
+	CMOV:
+Mayday, mayday, mayday dal capomovimento di Bodio:
+Tutti i treni fra Bodio e Biasca devono fermare immediatamente!		CMOV:
+La chiamata d’emergenza va ripetuta più volte. In seguito i colloqui vanno svolti possibilmente per mezzo di una chiamata selettiva.		
+4	Trasmissione di un ordine con obbligo di quietanza
+		
+CMOV: 	Chiamata aperta con ascolto preliminare 
+	CMOV:
+Macchinista 8-2-3-8 da Comando Osogna, rispondere		MAC:
+Comando Osogna da macchinista 8-2-3-8 a Faido, capito, rispondere		CMOV:
+Capito, treno 8-2-3-8 il 1-4 maggio 2-0-2-0 deve fermare eccezionalmente a Bodio per salita personale, rispondere		MAC:
+Capito, treno 8-2-3-8 il 1-4 maggio 2-0-2-0 deve fermare eccezionalmente a Bodio per salita personale, rispondere		CMOV:
+Giusto, terminato		
+Chiudere il collegamento.		
+5	Trasmissione di un ordine con obbligo di protocollo
+		
+CMOV:	Chiamata aperta con ascolto preliminare 
+	CMOV:
+Macchinista treno 9-4-3-0 da Comando Lugano, rispondere		MAC:
+Comando Lugano da macchinista treno 9-4-3-0 a Melide, capito, rispondere		CMOV:
+Capito, ho un ordine 1, rispondere		MAC:
+Capito, sono pronto, rispondere		CMOV:
+Capito, treno 9-4-3-0 (campo A), il 1-1 agosto 2-0-2-0 (campo B), capomovimento Lugano (campo C), treno a Melide (campo D), superamento del segnale d’uscita su posizione di fermata (barrare casella 1) CHARLIE 4-2 (campo 1.1-0) a Taverne (campo 1.1-1), firmato capomovimento Magni (campo N), ora 1-8:0-4 (campo O), rispondere 		MAC:
+Non capito, ripetere, rispondere		CMOV:
+Capito, ripeto, treno 9-4-3-0, il 1-1 agosto 2-0-2-0, capomovimento Lugano, treno a Melide, superamento del segnale d’uscita su posizione di fermata CHARLIE 4-2 a Taverne, firmato capomovimento Magni, ora 1-8:0-4, rispondere		MAC:
+Capito, treno 9-4-3-0, il 1-1 agosto 2-0-2-0, capomovimento Lugano, treno a Melide, superamento del segnale d’uscita su posizione di fermata CHARLIE 4-3 a Taverne, firmato capomovimento Magni, ora 1-8:0-4, conferma macchinista Alberti (campo M), rispondere		CMOV:
+sbagliato, ripeto, treno 9-4-3-0, il 1-1 agosto 2-0-2-0, capomovimento Lugano, treno a Melide, superamento del segnale d’uscita su posizione di fermata CHARLIE 4-2 a Taverne, firmato capomovimento Magni, ora 1-8:0-4, rispondere		MAC:
+Capito, treno 9-4-3-0, il 1-1 agosto 2-0-2-0, capomovimento Lugano, treno a Melide, superamento del segnale d’uscita su posizione di fermata CHARLIE 4-2 a Taverne, firmato capomovimento Magni, ora 1-8:0-4, conferma macchinista Alberti, rispondere		CMOV:
+Giusto, terminato		
+Chiudere il collegamento.		
+6	Trasmissione di un’informazione (conversazione alternata)
+		
+MAC:	Chiamata selettiva 
+	CMOV:
+Comando Osogna, rispondere		MAC:
+Macchinista treno 7-1-1 a Osogna, capito, sul ponte del Ticino ho notato una borsa da viaggio, rispondere		CMOV:
+Capito, notato una borsa da viaggio sul ponte del Ticino, mando qualcuno, rispondere		MAC:
+Capito, mandi qualcuno a vedere, grazie. Terminato		
+Chiudere il collegamento.		
+7	Comunicazione di manovra (conversazione alternata)
+7.1	Disciplina di conversazione semplificata	
+	
+CMOV:	Chiamata aperta con ascolto preliminare 
+	CMOV:
+Capomanovra Uno da Comando Lugano, rispondere		CMAN:
+Capomanovra Uno, capito		CMOV:
+Treno 9-1-7-5-5 partito da Maroggia		CMAN:
+Treno postale 9-1-7-5-5 in arrivo, grazie		CMOV:
+Giusto, terminato		
+Chiudere il collegamento.		
+		CMAN:
+Chiamata selettiva 		CMOV:
+Comando Lugano, rispondere		CMAN:
+Capomanovra Uno capito, dove si trova la presa per il 
+9-1-7-5-5? 		CMOV:
+Binario Alpha quattro, 2 carri per presa		CMAN:
+Binario Alpha quattro, 2 carri per presa, grazie, terminato		
+Chiudere il collegamento.		
+Situazione: Il treno 91755 è entrato sul bin. B3. Il MAN consegna al MAC un apparecchio mobile e lo orienta in modo che con il treno si effettui una manovra dal binario B3 al binario D3. In seguito dal D3 si retrocederà al binario A4 verso i carri lì ricoverati. I carri saranno agganciati e il treno preparato per proseguire la corsa. La stazione dispone di segnali bassi. Chiamata aperta.		CMAN:
+Macchinista 9-1-7-5-5 da capomanovra – controllo funzionamento radio, rispondere		MAC:
+Macchinista 9-1-7-5-5 capito, controllo del funzionamento radio		CMAN:
+Giusto, aspettare		
+Il collegamento resta mantenuto 		
+	Variante per impianti con segnali fissi per i movimenti di manovra:	
+CMAN:	Chiamata selettiva
+	CMOV:
+Comando Lugano, rispondere 		CMAN:
+Capomanovra 9-1-7-5-5 capito, dal binario Bravo 3 al binario Alpha 4 via Delta 3		CMOV:
+Dal binario Bravo 3 ad Alpha 4 via Delta 3 		CMAN:
+Giusto, terminato		
+Collegamento Manovra – Comando terminato		CMOV:
+Dispone il percorso e dà il consenso mediante il segnale basso		CMAN:
+Loc 9-1-7-5-5, avanzare Delta 3 		MAC:
+Loc 9-1-7-5-5, avanzare Delta 3		CMAN:
+Giusto 		Mac:
+parte		CMAN:
+arriva sul bin. Delta 3; Loc 9-1-7-5-5 fermare 		MAC:
+ferma 		CMAN:
+attende il consenso al segnale basso per la seconda parte 		CMAN:
+Loc 9-1-7-5-5, retrocedere Alpha 4 per accostare		MAC:
+Retrocedere per accostare, Alpha 4 		CMAN:
+se occorre: giusto; inserisce il segnale di controllo 		MAC:
+parte		CMAN:
+Un vagone		MAC:
+rallenta; un vagone 		CMAN:
+mezzo 		MAC:
+rallenta		CMAN /MAC:
+…		
+
+	Variante per impianti senza segnali fissi per i movimenti di manovra:	
+CMAN:	Chiamata selettiva
+	CMOV:
+Comando Lugano, rispondere		CMAN:
+Capomanovra 9-1-7-5-5 capito, da Bravo 3 al Delta 3		CMOV:
+dispone il percorso		CMOV:
+Dal binario Bravo 3 a Delta 3 disposto		CMAN:
+Giusto, terminato		
+Collegamento Manovra – Comando terminato.		
+		CMAN:
+Loc 9-1-7-5-5 avanzare Delta 3		MAC:
+Avanzare Delta 3 		CMAN:
+Giusto		MAC:
+parte.		
+	
+7.1.1	Comunicazione di controllo 
+		
+Variante senza sorveglianza del collegamento (comunicazione di controllo)	
+Dopo il controllo di funzionamento e l’orientamento al telefono (collegamento ultimo veicolo – loc)	
+CMAN:	Macchinista 7-5-5 retrocedere
+	MAC:
+Loc 7-5-5 retrocedere		CMAN:
+Giusto		CMAN:
+Avanzare, ripetuto ogni 3 – 5 secondi 		CMAN:
+Avanzare 		CMAN:
+Vagone 		MAC:
+rallenta; Vagone 		CMAN:
+Avanzare; ripetuto ogni 3 – 5 secondi		CMAN:
+Avanzare		CMAN:
+Mezzo 		MAC:
+rallenta 		CMAN / MAC:
+…		
+7.2	Senza disciplina di conversazione semplificata		
+	Variante per impianti senza segnali fissi per i movimenti di manovra:
+	MAC 
+(CMAN):
+Chiamata aperta con ascolto preliminare 	
+MAC 
+(CMAN):	Comando Lavorgo da macchinista 3-6-8-1-3 a Bodio, rispondere	
+CMOV:	Macchinista 3-6-8-1-3 a Bodio da comando Lavorgo, capito, rispondere	
+MAC 
+(CMAN):	Capito, alla stazione di Bodio dal binario 2-2 al binario 3, spinta non scortata, rispondere	
+CMOV:	dispone il percorso fino al binario d’arrivo 	
+CMOV:	Capito, alla stazione di Bodio dal binario 2-2 al binario 3 disposto, rispondere	
+MAC 
+(CMAN):	Giusto, terminato	
+	Chiudere il collegamento. 	
+		
+8	Comunicazione del servizio lavori (conversazione alternata)	
+8.1	Controllo del funzionamento 
+	
+	CS:
+Chiamata aperta con ascolto preliminare 	
+CS:	Berri da Arnoldi – Controllo del funzionamento, rispondere	
+GS:	Arnoldi da Berri, capito – Controllo del funzionamento, rispondere	
+CS:	Arnoldi capito, terminato	
+	Collegamento CS – GS terminato. 	
+8.2	Cambiamento di canale 		
+	
+CS:	Chiamata aperta con ascolto preliminare 	
+CS:	Sassi da Ciresa, rispondere	
+GS:	Ciresa da Sassi, capito, rispondere 	
+CS:	Ciresa capito. Commutare sul canale Bravo-0-3, rispondere	
+GS:	Sassi capito. Commutare sul canale Bravo-0-3, rispondere	
+CS:	Ciresa, giusto, commutare, terminato	
+	I due utenti cambiano canale	
+CS:	Ascolto preliminare con chiamata aperta 	
+CS:	Sassi da Ciresa – Controllo del funzionamento, rispondere	
+GS:	Ciresa da Sassi capito – Controllo del funzionamento, rispondere	
+CS:	Ciresa, giusto, terminato	
+	Chiudere il collegamento. 	
+		
+8.3	Annuncio di treno 		
+	Situazione sull’area dei lavori: SENT Marti (lato Taverne) – GS Ernesti – SENT Medici (lato Melide)
+	SENT:
+Chiamata aperta sul canale riservato 	
+SENT:	Ernesti da Marti, un treno da Taverne sul binario 4-0-0, rispondere	
+GS:	Ernesti, capito, un treno da Taverne sul binario 4-0-0, rispondere	
+GS:	Marti, giusto, terminato.	
+	La SENT Medici non quietanza.	
+8.4	Annuncio di binario percorribile 		
+	
+CS:	Chiamata aperta con ascolto preliminare 	
+CS:	Comando Bodio da capo della sicurezza Iseli a Lavorgo, rispondere	
+CMOV:	Capo della sicurezza Iseli da comando Bodio, capito, rispondere	
+CS:	Iseli, capito. A Lavorgo, binario 1 percorribile. Firmato capo della sicurezza Iseli. Rispondere	
+CMOV:	Comando Bodio capito. A Lavorgo binario 1 percorribile. Firmato capo della sicurezza Iseli. Confermo capomovimento Marti. Rispondere	
+CS:	Iseli, giusto, terminato.	
+	Chiudere il collegamento. 	
+		Annesso 2
+
+
+
+Tabella di compitazione 
+
+
+
+	 Tabella di compitazione 
+
+	Internazionale 			
+				
+A	Alpha			
+B	Bravo			
+C	Charlie			
+D	Delta			
+E	Echo			
+F	Foxtrot			
+G	Golf			
+H	Hotel			
+I	India			
+J	Juliet			
+K	Kilo			
+L	Lima			
+M	Mike			
+N	November			
+O	Oscar			
+P	Papa			
+Q	Quebec			
+R	Romeo			
+S	Sierra			
+T	Tango			
+U	Uniform			
+V	Victor			
+W	Whisky			
+X	X-ray			
+Y	Yankee			
+Z	Zulu			
+
+

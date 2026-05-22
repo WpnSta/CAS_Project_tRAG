@@ -1,0 +1,645 @@
+﻿Schweizerische Eisenbahnen	R 300.12
+
+
+
+Arbeiten im Gleisbereich
+
+
+
+
+1	Grundsätzliches
+1.1	Geltungsbereich
+1.1.1	Arbeiten im Gleisbereich
+	
+	Sicherheitsmassnahmen sind nötig, sobald Arbeiten im Gleisbereich ausgeführt werden sowie wenn Personal und/oder Arbeitsmittel gewollt oder ungewollt in den Gleisbereich eindringen können.
+	
+1.1.2	Zielsetzung
+	
+	Die auf Arbeitsstellen im Gleisbereich zu treffenden Sicherheitsmassnahmen haben zum Ziel:
+–	den Schutz des Personals auf den Arbeitsstellen vor den Gefährdungen des Bahnbetriebs und
+–	die Sicherheit des Bahnbetriebs im Bereich der Arbeitsstellen 
+zu gewährleisten.
+	
+1.2	Massgebliche Gefahren und Sicherheitsgrundsätze
+1.2.1	Massgebliche Gefahren
+	
+	Das Personal ist bei Arbeiten im Gleisbereich massgeblich durch den Bahnbetrieb, die Hochspannungsanlagen und den Umgang mit den eingesetzten Arbeitsmitteln gefährdet. 
+Der Bahnbetrieb ist durch die Arbeiten im Gleisbereich, insbesondere durch den Einsatz von Baumaschinen, gefährdet.
+	
+1.2.2	Sicherheitsgrundsätze
+	
+	Das auf Arbeitsstellen im Gleisbereich eingesetzte Personal soll seine Arbeit ausführen können, ohne seine Aufmerksamkeit auf den Bahnbetrieb richten zu müssen. 
+Im Fall einer Gefahr ist das Personal rechtzeitig zu warnen, damit der betreffende Gleisbereich ohne Hast und sicher geräumt werden kann.
+	
+1.3	Verantwortung
+	
+	Die ISB ist für die Einhaltung der Vorschriften über die Sicherheitsmassnahmen bei Arbeiten im Gleisbereich sowohl auf eigenen Arbeitsstellen als auch auf solchen von bahnfremden Bauherrschaften verantwortlich.
+	
+
+1.4	Personal von Privatunternehmen
+	
+	Die ISB legt in ihren Ausführungsbestimmungen fest, welche Aufgaben das Personal eines Privatunternehmens unter welchen Bedingungen übernehmen darf.
+
+2	Personal
+2.1	Gesamtes Personal
+2.1.1	Allgemeine Pflichten
+	
+	Wird das Personal vom SC nicht über das SIDI orientiert, hat es sich vor Beginn der Arbeit beim SC darüber zu erkundigen.
+Die Sicherheitsmassnahmen sind gegenüber allen anderen Arbeiten vor-rangig auszuführen.
+	
+2.1.2	Zweck der Alarmsignale
+	
+	Alarmsignale werden abgegeben, um das Personal zu warnen.
+	
+2.1.3	Aufgaben beim Einsetzen der Alarmsignale
+	
+	Sobald Alarmsignale abgegeben werden, haben alle Mitarbeitenden unverzüglich 3 Aufgaben zu erfüllen:
+–	für sich selbst
+	Arbeit im betroffenen Gleisbereich sofort unterbrechen und diesen räumen
+–	für die andern
+	beobachten, ob die Mitarbeitenden auf die Signale reagieren, sie notfalls warnen und aus dem betroffenen Gleisbereich herausziehen.
+–	für die Arbeitsmittel
+	sich vergewissern, dass in ihrer Nähe keine Arbeitsmittel eine Gefährdung für die folgende Fahrt darstellen.
+	
+2.1.4	Abgabe der Alarmsignale
+	
+	Akustische Alarmsignale werden grundsätzlich nur einmal abgegeben. Sie dürfen nur aus zwingenden Gründen (z.B. wenn keine Reaktion erfolgt) wiederholt werden.
+Wird das akustische Alarmsignal durch den optischen Alarm unterstützt, setzt dieser den akustischen Alarm sinngemäss fort.
+	
+2.1.5	Verhalten beim Alarmsignal 1
+	
+	Das Personal hat die Arbeit im betroffenen Gleisbereich zu unterbrechen und sich in das gesperrte Gleis zurückzuziehen.
+	
+	
+2.1.6	Verhalten beim Alarmsignal 2
+	
+	Das Personal hat alle Gleise zu räumen und sich in den definierten Fluchtraum zurückzuziehen.
+	
+2.1.7	Verhalten beim Alarmsignal Gefahr
+	
+	Das Personal hat sofort alle Gleise zu verlassen.
+	
+2.1.8	Verhalten bei Unklarheit
+	
+	Besteht Unklarheit über die Bedeutung der Alarmsignale, sind alle Gleise zu räumen bzw. die Anweisungen des SIDI anzuwenden.
+	
+2.1.9	Verhalten bei optischen Signalen
+	
+	Solange der optische Alarm aufleuchtet, ist das Betreten des Gleisbereichs verboten.
+	
+2.1.10	Wiederaufnahme der Arbeit
+	
+	Die Arbeit darf erst mit Erlaubnis des SIWÄ wieder aufgenommen werden.
+	
+2.2	Sicherheitsleitung (SL)
+2.2.1	Verantwortung der SL
+	
+	Die SL ist die Stelle, die unter Verantwortung der ISB das SIDI mit den Sicherheitsmassnahmen für das Personal vorschreibt und überwacht. Dies beinhaltet auch die notwendigen Anpassungen an den Arbeitsfortschritt.
+	
+2.3	Sicherheitschef / Sicherheitschefin (SC) 
+2.3.1	Verantwortung des SC
+	
+	Der SC ist für die Durchführung der Sicherheitsmassnahmen auf der Arbeitsstelle verantwortlich. 
+	
+
+2.4	Sicherheitswärter / Sicherheitswärterin (SIWÄ)
+2.4.1	Verantwortung des SIWÄ
+	
+	Der SIWÄ ist für die rechtzeitige Warnung des Personals verantwortlich, um das sichere Räumen des betroffenen Gleisbereichs zu ermöglichen. 
+Bei der Annäherung einer Fahrt hat der SIWÄ
+–	das Alarmsignal abzugeben bzw. das Auslösen der automatisch angesteuerten Alarmmittel zu überwachen
+–	sich zu vergewissern, dass sich vor der Durchfahrt niemand mehr im betroffenen Gleisbereich aufhält.
+Nach der Durchfahrt vergewissert sich der SIWÄ, dass sich keine weitere Fahrt der Arbeitsstelle nähert und erteilt die Erlaubnis zur Wiederaufnahme der Arbeit.
+Mit Ausnahme der Bedienung der Kommunikationsmittel sowie der Warnanlage ist dem SIWÄ jede andere Arbeit untersagt.
+	
+2.4.2	Ausrüstung des SIWÄ
+	
+	Zur Grundausrüstung des SIWÄ gehören folgende Gegenstände:
+–	das SIDI
+–	eine weisse Kopfbedeckung
+–	eine rote Flagge
+–	bei Nacht eine Laterne mit rotem und weissem Licht
+–	das für die Entgegennahme der Meldungen vorgesehene Kommunikationsmittel
+–	das für die Warnung vorgesehene Alarmmittel.
+	
+2.5	Vorwarner / Vorwarnerin (VW) 
+2.5.1	Verantwortung des VW
+	
+	Der VW ist für das rechtzeitige Melden von herannahenden Fahrten verantwortlich. Der VW übermittelt dem SIWÄ die Annäherung der Fahrten mit dem im SIDI vorgesehenen Kommunikationsmittel.
+Der VW hat mit dem Signal Halt-Gefahr den Halt einer herannahenden Fahrt zu veranlassen, wenn
+–	der SIWÄ die Meldung nicht wie vorgesehen quittiert oder
+–	das für die Meldung vorgesehene Kommunikationsmittel gestört ist.
+Während des Einsatzes als VW ist dem VW jede andere Arbeit untersagt.
+	
+2.5.2	Ausrüstung des VW
+	
+	Zur Grundausrüstung des VW gehören folgende Gegenstände:
+–	eine weisse Kopfbedeckung 
+–	eine rote Flagge
+–	bei Nacht eine Laterne mit rotem und weissem Licht
+–	das für die Meldungen vorgesehene Kommunikationsmittel.
+
+3	Ablauf
+3.1	Planung der Sicherheitsorganisation der Arbeitsstelle
+3.1.1	Risikobeurteilung
+	
+	Die SL legt Sicherheitsmassnahmen fest, damit die Sicherheit des Personals und des Bahnbetriebs gewährleistet ist.
+Die Wahl der Sicherheitsmassnahmen basiert auf einer Risikobeurteilung. Die SL beurteilt dabei die Gefahren durch den Bahnbetrieb für die geplante Arbeitsstelle und umgekehrt. Auf dieser Grundlage entscheidet sie über die zu treffenden Sicherheitsmassnahmen.
+	
+3.1.2	Zu beachtende Kriterien
+	
+	Bei der Risikobeurteilung sind insbesondere folgende Kriterien zu beachten: 
+–	Art der Arbeit
+–	Einsatz der Arbeitsmittel
+–	Personalbestand
+–	Arbeitsort (z.B. Brücke, Tunnel, freies Gelände, Sicherheits-Zwischenraum)
+–	Ablauf des Zugverkehrs und der Rangierbewegungen
+–	Geschwindigkeit der Fahrten
+–	Schaltzustand von Hochspannungs- und Fahrleitungsanlagen.
+	
+3.1.3	Wahl der Sicherheitsmassnahmen
+	
+	Ist es aufgrund der örtlichen Verhältnisse bei der Arbeitsstelle und den betrieblichen Rahmenbedingungen möglich, ist eine Gefahr zu eliminieren. 
+Ist dies nicht möglich, ist die Gefahr durch ergänzende Sicherheitsmassnahmen zu minimieren.
+Abgestimmt auf die gewählten Sicherheitsmassnahmen und auf die bleibende Gefährdung werden die Alarmmassnahmen festgelegt. Dies beinhaltet
+–	die Bezeichnung der Gleise (Nachbargleis, Arbeitsgleis usw.)
+–	die Festlegung der Sicherheitsfristen sowie Alarmsignale und
+–	die Bestimmung des Warnsystems.
+	
+3.1.4	Erstellen des SIDI
+	
+	Im SIDI sind alle von der SL für die jeweilige Arbeitsstelle gewählten Sicherheitsmassnahmen enthalten. 
+Bei planbaren Arbeiten wird das SIDI schriftlich erstellt. Dieses befindet sich auf der Arbeitsstelle beim SC und SIWÄ.
+Als Hilfsmittel für kurzfristige Einsätze, z.B. zur Störungsbehebung, sind durch die SL kritische Einsatzorte zum Voraus zu definieren und vorbehaltene Sicherheitsmassnahmen festzulegen. 
+Die ISB legt in ihren Ausführungsbestimmungen die Form und den Inhalt der SIDI fest.
+	
+3.1.5	Arbeiten mit SIWÄ und Einsatz der Alarmmittel
+	
+	Grundsätzlich sind auf jeder Arbeitsstelle Alarmmittel einzusetzen. Der Einsatz erfolgt zusammen mit SIWÄ, VW bzw. Ankündigungs- und Warnanlagen. Ausgenommen sind Arbeiten, bei denen auf SIWÄ verzichtet werden darf bzw. auf Arbeitsstellen ohne Alarmmassnahmen.
+	
+3.1.6	Arbeiten ohne SIWÄ
+	
+	Arbeiten ohne SIWÄ sind nur zugelassen 
+–	bei Arbeiten mit maximal 2 Personen, welche eine uneingeschränkte Beobachtung der Fahrten zulassen und bei denen eine rasche und sichere Räumung jederzeit möglich ist (z.B. Streckenwärter)
+–	auf Streckenabschnitten, die aufgrund des Betriebskonzeptes immer mit Fahrt auf Sicht und höchstens mit 20 km/h befahren werden 
+–	bei Arbeitsstellen, die an einen Gleisbereich angrenzen und mit einem automatischen Warnsystem ausgerüstet sind
+–	bei Arbeitsstellen, die keine Alarmmassnahmen benötigen.
+Personen, die ohne SIWÄ im Gleisbereich arbeiten, sind für ihre Sicherheit selbst verantwortlich. Dies beinhaltet auch die vorausgehende Planung der eigenen Schutzmassnahmen. 
+Als Anforderung für Arbeiten im Gleisbereich ohne SIWÄ müssen insbesondere genügend Kenntnisse zum Selbstschutz vor den Gefahren des Bahnbetriebs und der örtlichen Verhältnisse vorhanden sein.
+	
+3.1.7	Arbeitsstellen ohne Alarmmassnahmen
+	
+	Können die Gefahren für das Personal bzw. für den Bahnbetrieb eliminiert werden, sind für die Arbeitsstelle keine Alarmmassnahmen notwendig. Dies trifft insbesondere zu bei Arbeiten
+–	auf eingleisigen Strecken bei Sperrung des Gleises
+–	auf mehrgleisigen Strecken bei gleichzeitiger Sperrung aller Gleise
+–	die an einen Gleisbereich grenzen, wenn die Arbeitsstelle durch eine Absperrung abgesichert ist
+	–	an Fahrleitungen, solange im Bereich der Nachbargleise keine Arbeiten ausgeführt werden, die Alarmmassnahmen erfordern
+–	im gleisnahen Bereich, bei dem der Zugang zum Gleisbereich abgegrenzt ist und keine Personen oder Arbeitsmittel unbeabsichtigt bei der Ausübung der Arbeiten in den abgegrenzten Bereich eindringen können.
+	
+3.2	Planung der betrieblichen Sicherheitsmassnahmen
+3.2.1	Grundsatz
+	
+	Betriebliche Sicherheitsmassnahmen sind zu planen und mit dem zuständigen Dienst der ISB frühzeitig abzusprechen. Als betriebliche Sicherheitsmassnahmen gelten:
+–	Erstatten von Meldungen
+–	Einführen von betrieblichen Einschränkungen
+–	Sperren von Gleisen/Weichen.
+	
+3.2.2	Meldungen
+	
+	Meldungen an die Arbeitsstelle müssen auf die Alarmmassnahmen abgestimmt sein. Sie ermöglichen die zeitgerechte Warnung, wenn Bedingungen für die eingesetzten Warnsysteme ausnahmsweise nicht eingehalten werden können (z.B. Zugfahrten bei Vorbeifahrt an Halt zeigenden Signalen, Abweichung von der festgelegten Gleisbenützung, usw.). 
+Die ISB legt in den Ausführungsbestimmungen fest, welche Meldungen vereinbart werden können.
+	
+3.2.3	Betriebliche Einschränkungen
+	
+	Betriebliche Einschränkungen müssen auf die Alarmmassnahmen bzw. auf die Sicherheitsmassnahmen abgestimmt sein. Sie ermöglichen die zeitgerechte Warnung der Arbeitsstelle (z.B. Geschwindigkeitsverminderung) oder werden als Sicherheitsmassnahme eingesetzt (z.B. Festlegen der Fahrrichtung, Einschalten Erhaltungsbezirk).
+Die ISB legt in den Ausführungsbestimmungen fest, welche betrieblichen Einschränkungen vereinbart werden können.
+	
+
+3.2.4	Sperren von Gleisen/Weichen
+	
+	Gleise/Weichen sind zu sperren, wenn
+–	es die Sicherheit des Personals oder des Bahnbetriebs erfordert oder
+–	die Gleise/Weichen auf Grund von Bauarbeiten, Reparaturen, Unterhalt, Reinigung, Naturereignissen, Unfällen oder anderen Gründen nicht befahrbar sind.
+Insbesondere ist eine Sperrung notwendig
+–	bei Arbeiten, die eine Unterbrechung der Fahrbahn bewirken
+–	wenn Arbeitsmittel am Gleis oder der Fahrbahn befestigt werden, die eine Gefährdung für Fahrten darstellen. Dazu ist das Lichtraumprofil zu beachten.
+–	wenn die zuverlässige Räumung des Gleises nicht gewährleistet ist und die angekündigte Fahrt dadurch gefährdet wird
+–	bei Arbeiten an der Fahrleitung
+–	bei Arbeiten ohne Fluchtraum
+–	auch kurzzeitig für ein Nachbargleis, während der Belegung des Lichtraumprofils dieses Gleises durch Schwenkmanöver eines Krans sowie durch Baumaschinen oder Fahrzeuge.
+	
+3.2.5	Beantragen der betrieblichen Sicherheitsmassnahmen
+	
+	Geplante betriebliche Sicherheitsmassnahmen sind im Voraus beim zuständigen Dienst der ISB zu beantragen. Kurzfristige Anträge können ausnahmsweise auch direkt an den zuständigen FDL gestellt werden.
+Das Ende einer Sperrung ist so festzulegen, dass das betreffende Gleis rechtzeitig für die folgende Fahrt fahrbar gemeldet werden kann.
+	
+3.2.6	Beantragen von Fahrleitungsschaltungen
+	
+	Eine Sperrung und das Ausschalten der Fahrleitung sind aufeinander abzustimmen.
+Geplante Ausschaltungen der Fahrleitung sind im Voraus beim zuständigen Dienst der ISB zu beantragen. Das genaue Vorgehen richtet sich nach den Ausführungsbestimmungen der ISB.
+	
+
+3.2.7	Koordination der Sperrung
+	
+	Befinden sich in gesperrten Gleisen mehrere Arbeitsstellen, kann ein SC als AKO eingesetzt werden. Der AKO ist verantwortlich für 
+–	die Koordination der Arbeiten der verschiedenen Arbeitsstellen auf dem gesamten von der Sperrung betroffenen Abschnitt
+–	die Anmeldung der ersten Arbeitsstelle mit welcher die Sperrung verlangt wird sowie
+–	die Fahrbarmeldung des Abschnittes nach Abschluss aller Arbeiten an den verantwortlichen FDL.
+Der Einsatz eines AKO ist durch die SL im Voraus festzulegen.
+Die Sperrung wird für alle Arbeitsstellen zusammen nur einmal schriftlich angeordnet. Auf der Anordnung ist der verantwortliche AKO aufzuführen. Der AKO ist im Voraus über alle Arbeiten der verschiedenen Arbeitsstellen zu informieren.
+Befinden sich in gesperrten Gleisen mehrere Arbeitsstellen und finden gleichzeitig Rangierbewegungen statt, ist zwingend ein AKO einzusetzen.
+	
+3.3	Umsetzen des SIDI
+3.3.1	Orientierung des SC
+	
+	Die SL stellt sicher, dass der SC über die zu treffenden Sicherheitsmassnahmen orientiert bzw. instruiert ist.
+	
+3.3.2	Überprüfen der lokalen Situation
+	
+	Der SC prüft, ob die aktuelle lokale Situation mit dem SIDI angemessen erfasst und die vorgesehenen Sicherheitsmassnahmen zweckmässig sind. Sofern notwendig passt der SC das SIDI den aktuellen Gegebenheiten an und informiert die SL.
+3.3.3	Orientierung und Instruktion
+	
+	Der SC orientiert das Personal über
+–	die Organisation und den Ablauf der Arbeiten
+–	die im SIDI vorgesehenen Sicherheitsmassnahmen
+–	die genaue Bedeutung der Alarmsignale.
+Der SC instruiert die SIWÄ und VW für die Ausübung der Funktionen.
+	
+
+3.3.4	Einführen der Sicherheitsmassnahmen
+	
+	Vor Beginn jeglicher Arbeit im Gleisbereich müssen 
+–	alle vorgeschriebenen Sicherheitsmassnahmen für einen wirksamen Schutz des Personals und des Bahnbetriebs vorgekehrt und
+–	die für die Durchführung der Sicherheitsmassnahmen notwendigen Ausrüstungen in Betrieb gesetzt und kontrolliert
+sein.
+	
+3.3.5	Sicherheit nicht mehr gewährleistet
+	
+	Ist die Sicherheit auf der Arbeitsstelle, z.B. durch 
+–	Störung oder Ausfall eines Warnsystems oder
+–	eine plötzlich veränderte Situation
+nicht mehr gewährleistet, ist der Gleisbereich zu räumen und der SC zu verständigen. Die Arbeiten dürfen erst fortgesetzt werden, wenn die Störung behoben werden konnte oder der SC anderweitige Sicherheitsmassnahmen getroffen hat.
+	
+3.4	Umsetzen der betrieblichen Sicherheitsmassnahmen
+3.4.1	Grundsatz
+	
+	Müssen betriebliche Sicherheitsmassnahmen eingeführt werden, nimmt der SC mit dem zuständigen FDL Kontakt auf. Mit dem Verlangen der betrieblichen Sicherheitsmassnahme wird gleichzeitig die Arbeitsstelle angemeldet. 
+Die ISB kann in ihren Ausführungsbestimmungen weitere Fälle bezeichnen, bei denen eine Anmeldung erfolgen soll. Sie erstellt die Formulare, welche das Personal auf der Arbeitsstelle für die Umsetzung der betrieblichen Sicherheitsmassnahmen benötigt.
+Sind auf dem gleichen Gleis bereits Arbeitsstellen angemeldet, verständigt der FDL die beteiligten SC über die anderen Arbeitsstellen.
+
+Wird ein AKO eingesetzt, ist dieser für die Kommunikation mit dem FDL verantwortlich. Dem AKO sind alle Arbeiten der verschiedenen Arbeitsstellen zu melden und durch den AKO genehmigen zu lassen.
+	
+3.4.2	Verlangen von Meldungen
+	
+	Der SC hat die beantragten Meldungen protokollpflichtig beim FDL zu verlangen. 
+	
+3.4.3	Verlangen von betrieblichen Einschränkungen
+	
+	Der SC hat die beantragten betrieblichen Einschränkungen protokollpflichtig beim FDL zu verlangen.
+	
+3.4.4	Sichern bei Meldungen bzw. betrieblichen Einschränkungen
+	
+	Der FDL hat die Arbeitsstelle aufgrund der verlangten Meldungen bzw. betrieblichen Einschränkungen zu sichern und dem SC die Wirksamkeit der vereinbarten Meldungen bzw. betrieblichen Einschränkungen protokollpflichtig zu bestätigen. 
+	
+3.4.5	Übermittlung von Meldungen
+	
+	Der FDL übermittelt dem SC anhand der entsprechenden CL-F protokollpflichtig die vereinbarten Meldungen. Der SC protokolliert die eingegangenen Meldungen im entsprechenden Formular.
+Kann eine Arbeitsstelle nicht erreicht werden, hat der FDL dem LF protokollpflichtig Fahrt auf Sicht über den ganzen für die Arbeitsstelle gesicherten Abschnitt vorzuschreiben. 
+Rangierbewegungen im Bahnhof werden quittungspflichtig verständigt.
+	
+3.4.6	Verlangen der Sperrung
+	
+	Der SC hat die Einführung der beantragten Sperrung protokollpflichtig beim FDL zu verlangen. Dabei hat der SC insbesondere den Ort (Bahnhof / Strecke) und die genaue Bezeichnung des Gleises / der Weiche anzugeben.
+	
+3.4.7	Sichern der Sperrung
+	
+	Der FDL hat die verlangte Sperrung zu sichern und dem SC die Wirksamkeit der Sperrung mit dem Text: «(Ort),  Gleis/Weiche … gesperrt» protokollpflichtig zu bestätigen. 
+	
+3.4.8	Ausschalten von Fahrleitungen
+	
+	Das genaue Vorgehen beim Ausschalten von Fahrleitungen richtet sich nach den Bestimmungen «Schalten und Erden von Fahrleitungen».
+	
+
+3.4.9	Decken
+	
+	Eine Arbeitsstelle ist zu decken, wenn eine Sperrung am Stellwerk nicht gesichert werden kann. 
+Ein Gleis ist zu decken, wenn wiederholte Hin- und Herfahrten im Bahnhof oder auf die Strecke stattfinden.
+Die ISB legt fest, in welchen weiteren Fällen zu decken ist.
+	
+3.5	Rangierbewegungen in gesperrtes Gleis
+3.5.1	Bewilligung des SC
+	
+	Für Rangierbewegungen in ein gesperrtes Gleis ist die Bewilligung des SC notwendig. 
+Bevor der SC dem FDL die Bewilligung für die Rangierbewegung erteilt, muss die Verständigung des RL über die Beachtung von besonderen Massnahmen oder die Aufhebung von Fahrt auf Sicht veranlasst bzw. erfolgt sein.
+	
+3.5.2	Besondere Massnahmen im Bereich einer Arbeitsstelle
+	
+	Sind im Bereich einer Arbeitsstelle für Rangierbewegungen besondere Massnahmen notwendig (z.B. wenn ohne SIWÄ gearbeitet wird) muss der RL über diese verständigt werden.
+	
+3.5.3	Aufhebung der Fahrt auf Sicht
+	
+	Ausserhalb des Bereichs der Arbeitsstelle darf die Fahrt auf Sicht aufgehoben werden, sofern dies im SIDI vorgesehen ist. 
+Aufgrund der aktuellen Situation entscheidet der SC, ob die Aufhebung möglich ist. 
+Der Gleisabschnitt muss eindeutig definierbar und die Arbeitsstelle gut erkennbar sein. 
+Sind auf dem gleichen Gleis weitere Arbeitsstellen angemeldet, hat sich der SC mit diesen über die Aufhebung der Fahrt auf Sicht abzusprechen.
+	
+3.5.4	Verständigung des RL
+	
+	Vor der Zustimmung zur Rangierbewegung verständigt der SC den RL für jede einzelne Fahrt quittungspflichtig über 
+–	die im Bereich der Arbeitsstellen zu beachtenden besonderen Massnahmen 
+–	den Gleisabschnitt, wo die Fahrt auf Sicht aufgehoben ist.
+	
+3.6	Überwachen der Sicherheitsmassnahmen
+3.6.1	Aufgaben der SL
+	
+	Die SL hat die Arbeitsstellen regelmässig zu besuchen. Dabei hat sie das Einhalten und die Wirksamkeit der getroffenen Sicherheitsmassnahmen zu überwachen und diese, wenn nötig, zu ergänzen. 
+	
+3.6.2	Aufgaben des SC
+	
+	Der SC hat stets auf der Arbeitsstelle anwesend zu sein. Der SC überwacht die Einhaltung der Sicherheitsmassnahmen. Treten im Laufe der Arbeiten neue Verhältnisse auf, passt der SC das SIDI an und informiert die SL.
+	
+3.7	Aufheben der betrieblichen Sicherheitsmassnahmen
+3.7.1	Gleis fahrbar melden
+	
+	Bevor ein gesperrtes Gleis wieder fahrbar gemeldet werden darf, sind auf der Arbeitsstelle alle Ursachen aufzuheben, welche eine Sperrung erfordern.
+Zudem sind:
+–	alle Arbeitsmittel soweit zu entfernen, dass sie keine Gefährdung darstellen und
+–	die Haltsignale zu entfernen.
+Zudem dürfen sich keine Fahrzeuge mehr im gesperrten Gleis befinden, ausgenommen im Bahnhof.
+Der SC meldet dem FDL das Gleis protokollpflichtig fahrbar.
+Ist das Gleis frei, lautet die Meldung wie folgt: «(Ort), Gleis/Weiche ... fahrbar». 
+Bleiben Gleise belegt, lautet die Meldung wie folgt:
+«(Ort), Gleis/Weiche ... fahrbar; es bleiben Gleise belegt». Die Bezeichnung der belegten Gleise ist quittungspflichtig zu übermitteln.
+Der FDL hebt die mit der Sperrung verbundenen Sicherungsmassnahmen auf. 
+	
+3.7.2	Aufheben von betrieblichen Einschränkungen
+	
+	Werden betriebliche Einschränkungen nicht mehr benötigt, hat dies der SC dem FDL protokollpflichtig zu melden. 
+Der FDL hebt die damit verbundenen Sicherungsmassnahmen auf.
+	
+
+3.7.3	Aufheben von Meldungen
+	
+	Werden Meldungen nicht mehr benötigt, hat dies der SC dem FDL protokollpflichtig zu melden. 
+Der FDL hebt die damit verbundenen Sicherungsmassnahmen auf. 
+	
+3.7.4	Einschalten von Fahrleitungen
+	
+	Das genaue Vorgehen beim Einschalten von Fahrleitungen richtet sich nach den Bestimmungen «Schalten und Erden von Fahrleitungen».
+	
+3.7.5	Abmeldung der Arbeitsstelle
+	
+	Wenn alle betrieblichen Sicherheitsmassnahmen aufgehoben sind, gilt die Arbeitsstelle beim FDL als abgemeldet. 
+	
+3.8	Beenden der Arbeitsstelle
+	
+	Nach Abschluss der Arbeiten, Räumung der Arbeitsstelle und Aufhebung der Sicherheitsmassnahmen beendet der SC die Arbeitsstelle.
+	
+
+
+4	Ergänzende Grundlagen
+4.1	Einsatz SIWÄ und VW
+4.1.1	Planung der SIWÄ und VW
+	
+	Der Einsatz der SIWÄ und VW ist durch die SL so zu planen, dass
+–	die zu schützende Arbeitsstelle fortwährend überblickt werden kann
+–	die Alarmsignale jederzeit abgegeben werden können
+–	die Wahrnehmbarkeit der Alarmsignale und festgelegte Sicherheitsfrist sichergestellt sind.
+Zur Erreichung der Bedingungen oder als Ersatz können Teile des Warnsystems durch Ankündigungs- und Warnanlagen ergänzt bzw. durch automatische Warnsysteme ersetzt werden.
+	
+4.1.2	Kriterien für die Planung
+	
+	Folgende Kriterien sind bei der Planung der Anzahl der SIWÄ und VW sowie deren Standorte zu berücksichtigen:
+–	Art der auszuführenden Arbeiten
+–	eingesetzte Arbeitsmittel
+–	auf der Arbeitsstelle erzeugter, sowie aus Umgebungseinflüssen stammender Lärm 
+–	Personalbestand auf der Arbeitsstelle
+–	Sichtweite über die Annäherungsdistanz
+–	vorgesehene Alarmmassnahmen.
+Der Standort des VW ist so zu wählen, dass der VW im Notfall die Möglichkeit hat, einer Fahrt das Signal Halt-Gefahr abzugeben.
+	
+4.2	Sicherheitsfrist und Annäherungsdistanz
+4.2.1	Sicherheitsfrist
+	
+	Die Sicherheitsfrist ist die für die Warnung des Personals einer Arbeitsstelle und für die Räumung des Gleisbereichs notwendige Zeit. Sie ist je nach den örtlichen Verhältnissen und der Art der Arbeiten verschieden. 
+Sie richtet sich nach
+–	den Gefährdungen, die von der Arbeit, den eingesetzten Arbeitsmitteln, dem Bahnbetrieb und dem Arbeitsort ausgehen sowie
+–	den getroffenen Sicherheitsmassnahmen.
+Die Sicherheitsfrist wird im SIDI festgelegt und muss bei sich ändernden Situationen angepasst werden.
+4.2.2	Zusammensetzung der Sicherheitsfrist
+	
+	Die Sicherheitsfrist entspricht der Summe der folgenden Zeiten:
+–	der Reaktions- und Übermittlungszeit des VW, um eine Fahrt zu sichten und dem SIWÄ die Annäherung dieser Fahrt zu melden
+–	der Reaktions- und Warnzeit des SIWÄ, um eine Fahrt zu sichten oder die Meldung des VW zu quittieren und die Arbeitsstelle zu warnen
+–	der Räumungszeit, die zwischen dem Auslösen des Alarms bis zur vollständigen Räumung des Gleisbereiches verstreicht
+–	dem Zeitbedarf für Unvorhergesehenes, als Sicherheitszuschlag.
+	
+4.2.3	Sicherheitsfrist im Arbeitsgleis
+	
+	Die Sicherheitsfrist für Fahrten im Arbeitsgleis beträgt mindestens 20 Sekunden.
+	
+4.2.4	Sicherheitsfrist im Nachbargleis
+	
+	Die Sicherheitsfrist für Fahrten im Nachbargleis ist in der Regel kürzer als diejenige im Arbeitsgleis. 
+Sind für ein Nachbargleis Alarmmassnahmen notwendig, darf die Sicherheitsfrist von 10 Sekunden nicht unterschritten werden.
+	
+4.2.5	Annäherungsdistanz
+	
+	Die Annäherungsdistanz entspricht dem von der Fahrt während der Sicherheitsfrist zurückgelegten Weg. Das heisst vom Ort an, wo die Fahrt gesichtet oder gemeldet werden muss, bis zum Anfang der Arbeitsstelle.
+	
+4.3	Geschwindigkeitseinschränkungen
+4.3.1	Langsamfahrstellen zum Schutz des Personals
+	
+	Sofern notwendig sind in den Nachbargleisen zum Schutz des Personals Langsamfahrstellen einzurichten.
+Diese Geschwindigkeitseinschränkungen sind auf die Länge der Arbeitsstelle zu begrenzen und nach jeder Arbeitsschicht, wenn das Personal die Arbeitsstelle verlassen hat, aufzuheben.
+	
+
+4.4	Warnsysteme und Alarmsignale
+4.4.1	Einsatz von Ankündigungs- und Warnanlagen bzw. automatischen Warnsystemen
+	
+	Die ISB bestimmt die zum Einsatz kommenden Typen von Ankündigungs- und Warnanlagen bzw. automatischen Warnsystemen und legt die nötigen Einsatzbestimmungen fest.
+	
+4.4.2	Automatische Warnsysteme ohne SIWÄ
+	
+	Automatische Warnsysteme dürfen auf Arbeitsstellen nur dann ohne SIWÄ eingesetzt werden, wenn 
+–	das Personal nicht auf Betriebsgleisen arbeiten muss und
+–	keine Gefährdung durch Arbeitsmittel besteht. Dazu ist das Lichtraumprofil zu beachten.
+	
+4.4.3	Alarmmittel
+	
+	Die ISB bestimmt die auf den Arbeitsstellen verwendbaren Typen von Alarmmittel und legt die nötigen Einsatzbestimmungen fest. 
+	
+4.4.4	Akustische Alarmsignale
+	
+	Die akustischen Alarmsignale können mit optischen Alarmmitteln ergänzt oder in bestimmten Fällen durch diese ersetzt werden. 
+	
+4.4.5	Akustische Alarmsignale ergänzt mit optischem Alarm
+	
+	Der optische Alarm unterstützt die auf den Arbeitsstellen abgegebenen akustischen Alarmsignale.
+Der optische Alarm ist auf grossen oder je nach örtlichen Bedingungen auf lärmigen Arbeitsstellen zu verwenden.
+Der optische Alarm muss vom gesamten Personal wahrgenommen werden können. Er wird vom SIWÄ oder durch die Warnanlage ausgelöst, wenn sich eine Fahrt am Anfang der Annäherungsdistanz der Arbeitsstelle befindet, und erst nach deren Durchfahrt auf der Arbeitsstelle ausgeschaltet.
+	
+
+4.4.6	Optischer Alarm ohne akustische Alarmsignale
+	
+	Die ISB legt in den Ausführungsbestimmungen fest, in welchen Fällen die akustischen Alarmsignale durch den optischen Alarm ersetzt werden dürfen (z.B. zwecks Lärmbekämpfung bei Nachtarbeiten).
+Wird auf Arbeitsstellen nur optisch gewarnt, muss das Gleis gesperrt sein.
+	
+4.4.7	Abgabe Alarmsignal 1
+	
+	Das Alarmsignal 1 wird abgegeben, wenn sich einer Arbeitsstelle auf einem gesperrten Gleis auf dem Nachbargleis eine Fahrt nähert.
+	
+4.4.8	Abgabe Alarmsignal 2
+	
+	Das Alarmsignal 2 wird abgegeben, wenn sich einer Arbeitsstelle auf oder neben einem in Betrieb stehenden Gleis auf dem Arbeits- oder Nachbargleis eine Fahrt nähert 
+	
+4.4.9	Abgabe Alarmsignal Gefahr
+	
+	Das Alarmsignal Gefahr wird nur in zwingenden Fällen bei unmittelbarer Gefahr abgegeben. 
+	
+4.4.10	Betriebsgleis ohne Alarmmassnahmen
+	
+	Auf Arbeitsstellen, z.B. ober- oder unterhalb eines Gleises, bei denen keine Alarmmassnahmen notwendig sind, aber Gefahren aus der Überraschung entstehen können, kann das Alarmsignal 2 zur Information abgegeben werden.
+
+5	Arbeiten im Gleisbereich im Trambetrieb
+5.1	Zielsetzung 
+	
+	Die auf Arbeitsstellen im Gleisbereich zu treffenden Sicherheitsmassnahmen haben zum Ziel:
+-	den Schutz des Personals auf den Arbeitsstellen vor den Gefährdungen des Trambetriebs und 
+-	die Sicherheit des Trambetriebs im Bereich der Arbeitsstellen
+zu gewährleisten.
+	
+5.1.1	Massgebliche Gefahren
+	
+	Das Personal ist bei Arbeiten im Gleisbereich massgeblich durch den Trambetrieb, die spannungsführenden Anlagen, den Strassenverkehr und den Umgang mit den eingesetzten Arbeitsmitteln gefährdet.
+Der Trambetrieb ist durch die Arbeiten im Gleisbereich, insbesondere durch den Einsatz von Baumaschinen, gefährdet.
+	
+5.1.2	Sicherheitsgrundsätze
+	
+	Das auf Arbeitsstellen im Gleisbereich eingesetzte Personal soll seine Arbeit ausführen können, ohne seine Aufmerksamkeit auf den Trambetrieb richten zu müssen.
+Sobald das auf der Arbeitsstelle arbeitende Personal den LF oder den RL einer herannahenden Fahrt erkennt, tritt dieses mit dem LF oder dem RL in Sichtkontakt und signalisiert durch Hochhalten eines Armes oder andere eindeutige Handzeichen, falls die Fahrt anhalten muss. 
+	
+5.1.3	Verantwortung
+	
+	Die ISB ist für die Einhaltung der Vorschriften über die Sicherheitsmassnahmen bei Arbeiten im Gleisbereich sowohl auf eigenen Arbeitsstellen als auch auf solchen von bahnfremden Bauherrschaften verantwortlich. 
+	
+5.1.4	Personal von Privatunternehmen
+	
+	Die ISB legt in ihren Ausführungsbestimmungen fest, welche Aufgaben das Personal eines Privatunternehmens unter welchen Bedingungen übernehmen darf.
+	
+
+5.2	Personal	
+		
+	Die Sicherheitsmassnahmen sind gegenüber allen anderen Arbeiten vorrangig auszuführen. Das Personal der ISB und der EVU verhält sich gemäss den Bestimmungen über die Arbeitssicherheit. 
+Wird das Personal auf Arbeitsstellen mit AVT von diesem nicht über das SIDI orientiert, hat es sich vor Beginn der Arbeit bei ihm darüber zu erkundigen. 	
+		
+5.2.1	Sicherheitsleitung (SL)	
+		
+	Die SL ist die Stelle unter der Verantwortung der ISB, die entscheidet, ob Sicherheitsmassnahmen nötig sind. Wenn Sicherheitsmassnahmen nötig sind, erstellt die SL das SIDI mit den Sicherheitsmassnahmen für das Personal. Dies beinhaltet auch die notwendigen Anpassungen an den Arbeitsfortschritt.	
+		
+5.2.2	Arbeitsstellen-Verantwortlicher Tram / Arbeitsstellen-Verantwortliche Tram (AVT)	
+		
+	Der AVT ist für die Durchführung der Sicherheitsmassnahmen auf der Arbeitsstelle verantwortlich.	
+		
+5.2.3	Mitarbeitende Verkehrsdienst	
+		
+	Die Mitarbeitenden des Verkehrsdienstes regeln den Strassen- und Tramverkehr nach den Grundsätzen der Strassenverkehrsgesetzgebung. Auf Arbeitsstellen mit Sicherheitsmassnahmen erfolgt diese Regelung unter Verantwortung des AVT.	
+		
+5.3	Ablauf	
+5.3.1	Risikobeurteilung	
+		
+	Die SL legt anhand einer Risikobeurteilung fest, ob Sicherheitsmassnahmen nötig sind. Zutreffendenfalls legt die SL die Sicherheitsmassnahmen fest, damit die Sicherheit des Personals und des Trambetriebs gewährleistet ist.
+Die Wahl der Sicherheitsmassnahmen basiert auf der Risikobeurteilung. Die SL beurteilt dabei die Gefahren durch den Trambetrieb für die geplante Arbeitsstelle und umgekehrt. Sicherheitsmassnahmen sind insbesondere zu prüfen, wenn die Sicherheit durch die generelle Fahrt auf Sicht nicht ausreichend gewährleistet werden kann.
+
+Bei der Risikobeurteilung sind insbesondere folgende Kriterien zu beachten: 
+-	Art der Arbeit
+-	Einsatz der Arbeitsmittel
+-	Personalbestand
+-	Arbeitsort (insbesondere Einflüsse des Strassenverkehrs und des unmittelbaren Umfelds, Brücke, Tunnel, freies Gelände) 
+-	Ablauf des Zugverkehrs und der Rangierbewegungen
+-	Geschwindigkeit der Fahrten
+-	Schaltzustand von Energieversorgungs- und Fahrleitungsanlagen.	
+		
+5.3.2	Notwendigkeit von Sicherheitsmassnahmen	
+		
+	Sicherheitsmassnahmen sind insbesondere nötig, wenn Personal und / oder Arbeitsmittel überraschend, gewollt oder ungewollt in den Gleisbereich eindringen können und wenn die Arbeitsstelle nicht rasch genug geräumt werden kann.	
+		
+5.3.3	Arbeiten ohne Sicherheitsmassnahmen	
+		
+	Für Arbeiten ohne Sicherheitsmassnahmen ist keine weitere Planung der Sicherheitsorganisation und damit auch kein SIDI notwendig. 	
+		
+5.3.4	Sicherheitsmassnahmen	
+		
+	Es gibt folgende Arten von Sicherheitsmassnahmen:
+-	Organisatorische Sicherheitsmassnahmen umfassen die Lenkung der übrigen Verkehrsteilnehmer, welche von der Arbeitsstelle oder deren Umfeld betroffen sind. 
+	Beispiele sind: Verkehrsdienst, angepasste Verkehrsführung und Verminderung der Geschwindigkeit für den Strassenverkehr, Reisendenlenkung, Abschrankungen.
+-	Technische Sicherheitsmassnahmen umfassen alle technischen und baulichen Massnahmen der Arbeitsstelle.
+	Beispiele sind: Absperrungen, Vorkehrungen und Begrenzungen an den Arbeitsmitteln und Maschinen zur Sicherung gegenüber dem Trambetrieb.
+-	Betriebliche Sicherheitsmassnahmen umfassen die Verminderung der Geschwindigkeit, das Sperren von Gleisen und Weichen, Verkeilen oder Verschliessen von Weichen, Anpassen der 
+Signalisierung, Verkehrsregelung des Trambetriebs. 
+Gleise / Weichen sind zu sperren, wenn
+-	es die Sicherheit des Personals oder des Trambetriebs erfordert oder
+-	die Gleise / Weichen auf Grund von Bauarbeiten, Reparaturen, Unterhalt, Reinigung, Naturereignissen, Unfällen oder anderen Gründen nicht befahrbar sind.
+Insbesondere ist eine Sperrung notwendig
+-	bei Arbeiten, die eine Unterbrechung der Fahrbahn bewirken oder
+-	wenn Arbeitsmittel am Gleis oder der Fahrbahn befestigt werden, die eine Gefährdung für Fahrten darstellen. Dazu ist das Lichtraumprofil zu beachten.
+Gesperrte Gleise und Weichen werden immer vor Ort durch Haltsignale gedeckt.
+-	Alarmmittel
+	Arbeitsstellen werden in der Regel so organisiert, dass keine Alarmmittel, Ankündigungs- und Warnanlagen zum Einsatz kommen. Werden ausnahmsweise Alarmmittel eingesetzt, sind die Signale nach den Vorgaben für den Bahnbetrieb anzuwenden.	
+		
+5.3.5	Erstellen des SIDI für Arbeitsstellen mit Sicherheitsmassnahmen	
+		
+	Die ISB legt in ihren Ausführungsbestimmungen die Form und den Inhalt des SIDI fest.
+Im SIDI sind alle von der SL für die jeweilige Arbeitsstelle gewählten Sicherheitsmassnahmen enthalten.
+Bei planbaren Arbeiten wird das SIDI auf Basis der Risikobeurteilung schriftlich erstellt. Das SIDI befindet sich auf der Arbeitsstelle beim AVT. 
+Für kurzfristige Einsätze z.B. zur Störungsbehebung, können durch die ISB standardisierte SIDI mit standardisierten Sicherheitsmassnahmen erstellt werden.	
+		
+5.3.6	Umsetzen des SIDI, Orientierung des AVT	
+		
+	Die SL stellt sicher, dass der AVT über die zu treffenden Sicherheitsmassnahmen orientiert oder instruiert ist.	
+		
+5.3.7	Überprüfen der lokalen Situation	
+		
+	Der AVT prüft, ob die aktuelle lokale Situation mit dem SIDI angemessen erfasst und die vorgesehenen Sicherheitsmassnahmen zweckmässig sind. Sofern notwendig passt der AVT das SIDI den aktuellen Gegebenheiten an und informiert die SL.	
+		
+5.3.8	Orientierung und Instruktion	
+		
+	Der AVT orientiert das Personal über
+-	die Organisation und den Ablauf der Arbeiten und
+-	die im SIDI vorgesehenen Sicherheitsmassnahmen.	
+		
+5.3.9	Einführen von Sicherheitsmassnahmen	
+		
+	Die ISB regeln in den Betriebsvorschriften, in welchen Fällen eine Anmeldung und Absprache mit der Leitstelle nötig sind.
+Vor Beginn jeglicher Arbeit im Gleisbereich müssen
+-	alle vorgeschriebenen Sicherheitsmassnahmen für einen wirksamen Schutz des Personals und des Trambetriebs vorgekehrt und
+-	die für die Durchführung der Sicherheitsmassnahmen notwendigen Ausrüstungen in Betrieb gesetzt und kontrolliert 
+sein.	
+		
+5.3.10	Sicherheit nicht mehr gewährleistet	
+		
+	Ist die Sicherheit auf der Arbeitsstelle nicht mehr gewährleistet, sind die Arbeiten unverzüglich zu unterbrechen und der AVT ist zu verständigen. Die Arbeiten dürfen erst fortgesetzt werden, wenn die Störung behoben werden konnte oder der AVT anderweitige Sicherheitsmassnahmen getroffen hat.	
+		
+5.3.11	Rangierbewegung in gesperrtem Gleis	
+		
+	Für Rangierbewegungen im gesperrten Gleis ist die Bewilligung des AVT notwendig. Die ISB regelt das Vorgehen, besondere Massnahmen und die Verständigung im Einzelfall.	
+		
+5.3.12	Überwachen der Sicherheitsmassnahmen	
+		
+	Die SL hat die Arbeitsstellen regelmässig zu besuchen. Dabei hat sie das Einhalten und die Wirksamkeit der getroffenen Sicherheitsmassnahmen zu überwachen und diese, wenn nötig, zu ergänzen.
+Der AVT hat gemäss den Vorgaben des SIDI auf der Arbeitsstelle anwesend zu sein. Der AVT überwacht die Einhaltung der Sicherheitsmassnahmen. Treten im Laufe der Arbeiten neue Verhältnisse auf, passt der AVT das SIDI an und informiert die SL.	
+		
+5.3.13	Aufheben der betrieblichen Sicherheitsmassnahmen	
+		
+	Werden betriebliche Sicherheitsmassnahmen nicht mehr benötigt, sind diese zu beenden. Die ISB regelt den Einbezug der Leitstelle.
+Bevor ein gesperrtes Gleis durch den AVT wieder als fahrbar erklärt wird, sind auf der Arbeitsstelle alle Ursachen aufzuheben, welche eine Sperrung erfordern. Der AVT zieht zuvor nötigenfalls die fachverantwortlichen Personen nach Vorgabe der ISB bei.
+Zudem sind alle Arbeitsmittel soweit zu entfernen, dass sie keine Gefährdung darstellen. Danach sind die Haltsignale zu entfernen.	
+		
+5.3.14	Beenden und Abmelden der Arbeitsstelle	
+		
+	Die ISB regeln, in welchen Fällen eine Meldung über die Fahrbarkeit oder die Abmeldung der Arbeitsstelle bei der Leitstelle zu erfolgen hat.
+Nach Abschluss der Arbeiten, Räumung der Arbeitsstelle und Aufhebung der Sicherheitsmassnahmen beendet der AVT die Arbeitsstelle.	
+
+
+
+

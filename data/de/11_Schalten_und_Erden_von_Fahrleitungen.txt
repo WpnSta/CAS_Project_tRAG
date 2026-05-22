@@ -1,0 +1,84 @@
+﻿Schweizerische Eisenbahnen	R 300.11
+
+
+
+Schalten und Erden von Fahrleitungen
+
+
+
+ 
+1	Allgemeines
+1.1	Geltungsbereich
+	
+	Diese Vorschriften betreffen die Aspekte des Eisenbahnbetriebs in Zusammenhang mit Fahrleitungen.
+	
+
+	
+	
+
+2	Kompetenzen und Handlungen
+2.1	Schalten der Fahrleitung
+2.1.1	Berechtigung zum Erteilen von Schaltbefehlen
+	
+	Zum Erteilen von Schaltbefehlen zum Ein- und Ausschalten berechtigt sind:
+–	von EBU bezeichnete SPEA 
+–	IPEA.
+Zum Erteilen von Ausschaltbefehlen berechtigt sind:
+–	weiteres vom EBU bezeichnetes Personal
+–	Dritte im Notfall.
+	
+2.1.2	Schaltbefehle
+	
+	Schaltbefehle müssen eindeutig und unmissverständlich sein.
+Schaltbefehle werden mindestens mit folgenden Angaben erteilt:
+–	Name und Funktionsbezeichnung
+–	Ort (Bahnhof, Spurwechsel, Gleisnummer, betroffener Abschnitt, usw.)
+–	Bezeichnung des Schalters
+–	Passwort, in den von der ISB vorgeschriebenen Fällen. Das Passwort wird durch die den Schaltbefehl ausführende Stelle zugeteilt. Aufträge zum Wiedereinschalten des betreffenden Schaltabschnittes werden nur ausgeführt, wenn sie vom gleichen Passwort begleitet sind.
+Personen, die nur zum Erteilen von Ausschaltbefehlen berechtigt sind, bezeichnen die auszuschaltenden Gleise oder Leitungen möglichst präzise. Im Notfall oder Zweifelsfall wird grossräumig ausgeschaltet.
+Schaltbefehle und die Bestätigung der Ausführung einer Schaltung werden protokollpflichtig übermittelt. Für Gleise, welche normalerweise ausgeschaltet sind, dürfen Schaltbefehle und die Bestätigung der Ausführung der Schaltung quittungspflichtig übermittelt werden.
+	
+
+2.1.3	Schalthandlungen
+	
+	Schaltungen an ferngesteuerten Schaltern werden grundsätzlich von den entsprechenden Fernsteuerzentren ausgeführt.
+Schaltungen an örtlich bedienten Strecken- oder Bahnhofschaltern von Bahnhofsektoren oder Unterhalts- und Serviceanlagen werden durch SPEA oder IPEA bzw. im Auftrag des zuständigen Dienstes durch die vom EBU bezeichneten IPEA ausgeführt.
+Im Trambetrieb ist das Schalten von örtlich bedienten Schaltern durch SPEA oder IPEA durch die ISB sinngemäss zu regeln.
+	
+2.1.4	Sichern der Schaltung
+	
+	Ausschalten von Fahrleitungen im Bahnbetrieb:
+Der FDL hat die verlangte Ausschaltung an der Sicherungsanlage zu sichern.
+Die schaltberechtigte Person, welche die Schaltung ausführt, hat den Schalter gegen unbeabsichtigtes Wiedereinschalten zu sichern. Die Sicherung hat vor der Übermittlung der Bestätigung an den Auftraggeber zu erfolgen.
+Einschalten von Fahrleitungen im Bahnbetrieb:
+Die schaltberechtigte Person hebt die gegen unbeabsichtigtes Wiedereinschalten getroffene Sicherungsmassnahme auf, führt die Schaltung aus und bestätigt diese anschliessend dem Auftraggeber. 
+Nach dem Einschalten hebt der FDL die damit verbundenen Sicherungsmassnahmen auf.
+Im Trambetrieb ist das Sichern der Schaltung durch die ISB zu regeln.
+	
+2.1.5	Bedienen von Hörnerschaltern
+	
+	Hörnerschalter dürfen nur ausgeschaltet werden, sofern sichergestellt ist, dass die unter den entsprechenden Fahrleitungen stehenden Fahrzeuge die Stromabnehmer gesenkt haben und allfällige andere an diesem Hörnerschalter bzw. an der Fahrleitung angeschlossene Verbraucher (z.B. Zugvorheiz- und Weichenheizanlagen) ausgeschaltet sind.
+	
+
+2.2	Erden
+2.2.1	Erdungsberechtigung
+	
+	Zum Erden von Fahrleitungen berechtigt sind SPEA in allen Eisenbahnanlagen sowie IPEA in jenen Anlagen, für die sie die konkrete Instruktion erhalten haben.
+	
+2.2.2	Erdungsvorrichtungen und Spannungsprüfer
+	
+	Defekte oder ungeprüfte Erdungsvorrichtungen und Spannungsprüfer dürfen nicht verwendet werden und sind dem zuständigen Dienst zu melden.
+	
+2.3	Schaltzustand der Fahrleitung
+2.3.1	Verladegleise
+	
+	Fahrleitungen in Verladegleisen sind aus Sicherheitsgründen auszuschalten und zu erden.
+Ausnahmen von dieser Regelung dürfen von der ISB nur bewilligt werden, wenn sie zwingend nötig sind und die Sicherheitsabstände gemäss der Eisenbahngesetzgebung für alle in den Anlagevorschriften vorgesehenen Betriebszustände gewährleistet sind.
+Bei Rampen-, Schuppen- oder Freiverladegleisen, welche normalerweise ausgeschaltet sind, sind die Fahrleitungen erst einzuschalten, bevor ein elektrisches Triebfahrzeug in die betreffenden Gleise einfahren muss. Sobald das Triebfahrzeug ausgefahren ist, sind die Fahrleitungen wieder auszuschalten und zu erden.
+	
+2.3.2	Kundeninformation
+	
+	Kunden, die Verlade- oder Entladearbeiten vornehmen, sind über die Gefahren des elektrischen Stroms aufmerksam zu machen. Vor der Verständigung eines Kunden über ein ausgeschaltetes Gleis, muss die Fahrleitung ausgeschaltet und geerdet werden. Muss die Fahrleitung eines Verladegleises wieder eingeschaltet werden, sind die betreffenden Kunden vor dem Einschalten darüber zu verständigen. Das EVU, welches die Fahrzeuge zum Beladen oder Entladen bereitstellt bzw. nach den Verladearbeiten abholt, ist für die Information ihrer Kunden verantwortlich.
+	
+
+

@@ -1,0 +1,2591 @@
+﻿Ferrovie svizzere	R 300.2
+
+
+
+Segnali
+
+
+
+
+
+
+
+1	In generale
+1.1	Disposizioni generali
+1.1.1	Validità dei segnali
+	
+	Bisogna utilizzare esclusivamente i segnali e le immagini di segnali descritti e rappresentati in queste prescrizioni. Restano riservate prescrizioni d’esercizio speciali per prove o per circostanze locali particolari. Salvo indicazioni contrarie, i segnali fissi mostrati in queste prescrizioni appaiono come vengono realmente visti nella direzione di corsa.
+I segnali che contrariamente alle prescrizioni non sono illuminati o sono in posizione dubbia, devono essere considerati come se fossero su posizione di fermata; analogamente, i segnali avanzati devono essere considerati come se fossero su posizione di avvertimento.
+I segnali sono valevoli sia di giorno, sia di notte. Quelli specifici per la notte, sono utilizzati dal crepuscolo fino alla luce completa del giorno, in caso di cattiva visibilità nonché nelle gallerie. I segnali per la notte dati dal personale sono da usare anche quando, in caso di cattiva visibilità, sono meglio riconoscibili dei segnali per il giorno.
+	
+1.1.2	Tavole di segnale fisse mancanti o non chiaramente riconoscibili
+	
+	Se il personale osserva una tavola di segnale fissa mancante o non chiaramente riconoscibile, ne deve avvisare il CMOV preposto.
+	
+1.1.3	Collocazione dei segnali
+	
+	I segnali fissi si trovano a sinistra del binario. Sulle tratte a semplice binario, affinché siano meglio visibili, i segnali possono essere collocati anche sulla destra. Sulle tratte a più binari e nelle stazioni, i segnali del binario destro più esterno possono essere collocati alla sua destra. La distinzione fra destra e sinistra è in relazione al senso di marcia.
+In gallerie a due binari i segnali di entrambi i binari possono essere posizionati insieme tra i due binari.
+In esercizio di tram, la collocazione può avvenire in deroga a questi principi, se l’attribuzione è inequivocabile. I segnali fissi possono anche essere collocati sopra i binari, p. es. nella linea di contatto. Marcature del suolo sono ammesse come informazioni aggiuntive a un segnale fisso esistente. Marcature del suolo come alternativa per un segnale fisso sono ammesse esclusivamente se sono definite nelle PCT.
+
+1.1.4	Segnalazioni da parte del personale
+	
+	Quando si danno segnali bisogna agire con calma e riflessione. I segnali devono essere chiari e vanno osservati rigorosamente. Se si temono mal-intesi, si deve inoltre avvisare i collaboratori che devono osservare il segnale. Qualora un segnale non fosse capito o compreso solo in parte, ci si deve fermare, attenderne oppure richiederne la ripetizione. 
+L’uso di segnali acustici dev’essere limitato allo stretto necessario.
+	
+1.1.5	Segnali e immagini di segnali contrassegnati con il simbolo #
+	
+	I segnali e le immagini dei segnali contrassegnati con il simbolo # non devono più essere utilizzati per la concezione di nuovi impianti o per il rinnovamento di impianti.
+	
+1.1.6	Applicazione delle prescrizioni sui segnali in esercizio di tram
+	
+	Le prescrizioni sui segnali si applicano in esercizio di tram.
+Le disposizioni valevoli per l’esercizio di tram in relazione con i segnali di velocità e degli scambi sono riportate in corrispondenti sottocapitoli alla fine delle cifre seguenti:
+    • Segnali di velocità 		cifra 2.3, alla cifra 2.3.7
+    • Segnali degli scambi	 cifra 2.5, alle cifre 2.5.9 e 2.5.10.
+Gli annessi 1 e 2 al R 300.2 non sono applicabili.
+	
+
+
+
+1.2	Rappresentazione
+1.2.1	Colore dei segnali
+	
+	Di regola, per i segnali ottici si usano i seguenti colori:
+	rosso	fermata, pericolo
+	arancione	prudenza, avvertimento, rallentamento
+	verde	via libera
+	giallo	servizio elettrico
+	violetto	segnali per treni Huckepack
+	bianco	segnali bassi, segnali per scambi, indicatori, ecc. nonché segnali luminosi che confermano o sostituiscono quelli acustici.
+1.2.2	Rappresentazione dei segnali lampeggianti
+	
+	I segnali lampeggianti sono rappresentati graficamente come segue:
+	
+	
+	Segnale lampeggiante
+
+	
+1.2.3	Rappresentazione dei segnali acustici
+	
+	I segnali acustici sono rappresentati graficamente come segue:
+		suono lungo 
+
+
+suono breve 
+
+
+suono modulato 	
+	
+1.2.4	Rappresentazione dei segnali dati dal personale
+	
+	Significato nelle figure:
+	linea punteggiata	. . . . . . . . .	movimento veloce
+	linea tratteggiata	- - - - - - - -	movimento lento
+
+
+2	Segnali per corse treno e movimenti di manovra
+2.1	Segnali di sbarramento
+2.1.1	Segnale di sbarramento
+	
+	
+	Termine	Fermata
+		Significato	Fermata davanti al segnale
+		Relazione con altri segnali
+			Se un percorso treno termina davanti ad un segnale di sbarramento, il segnale precedente mostra:
+–	avvertimento
+–	corsa breve
+	
+2.1.2	Contrassegno della posizione di dispositivi di sviamento, staffe di protezione o scambi di binari tronchi di protezione
+	
+	Il contrassegno di dispositivi di sviamento o con staffe di protezione, come pure di scambi che portano verso un binario tronco di protezione senza lunghezza utile può avvenire nella versione a lanterna per scambi girevole o mediante segnali luminosi. 
+
+Lanterna per scambi girevole
+		Termine
+Significato	Fermata
+Fermata davanti al segnale
+		
+	
+	Il segnale non presenta alcuna immagine allorché il dispositivo di sviamento o la staffa di protezione sono abbassati.
+Il segnale mostra l’immagine relativa alla posizione dello scambio, se quest’ultimo non porta verso il binario tronco di protezione.
+
+	Segnale luminoso
+		Termine	Fermata
+	Significato	Fermata davanti al segnale
+	
+	
+	
+	
+	
+	
+		Termine	Dispositivo di sviamento o 
+		staffa di protezione non sul 
+		binario
+		Significato	Il rispettivo dispositivo di
+	sviamento o la rispettiva
+	staffa di protezione è in 
+	posizione abbassata
+
+Il segnale mostra l’immagine relativa alla posizione dello scambio, se quest’ultimo non porta verso il binario tronco di protezione.
+	
+2.2	Segnali di fermata, di controllo e di attenzione
+2.2.1	Segnale di fermata per la protezione di un ostacolo
+	
+	
+di giorno disco rosso   
+
+
+
+di notte luce rossa  	Termine		Fermata
+		Significato	Fermata davanti al segnale, rispettivamente davanti all’oggetto corrispondente
+		Relazione con altri segnali
+			Se un percorso treno termina davanti ad un segnale di fermata, quello precedente può mostrare:
+–	avvertimento,
+–	corsa breve
+    • binario occupato
+    • su binari di testa
+esecuzione di velocità 
+40 km/h
+	
+	I segnali di fermata vengono usati per:
+–	la protezione di binari sbarrati in particolare quelli che non possono essere assicurati all’apparecchio centrale. In casi urgenti, se non fossero a disposizione i dischi rossi, è permesso usare la sola lanterna con luce rossa o una banderuola fissa di colore rosso
+–	indicare la fine del binario, mentre che la fine dei binari di testa è segnalata con un disco rosso o con una luce rossa, e la fine dei binari tronchi è segnalata solamente da un disco rosso
+–	la protezione delle piattaforme girevoli e di carrelli trasbordatori non bloccati (corsa vietata). Mostrano una luce rossa ed in alcuni casi solo il disco rosso.	
+Nella posizione di percorribilità (corsa permessa) i segnali presentano una luce bianca oppure il disco messo di profilo
+–	la protezione di bilance a ponte, profili di carico mobili, ecc. Mostrano il disco rosso quando il transito è sbarrato. In caso di sufficiente illuminazione del binario non è presente alcun segnale luminoso.
+Per i binari dotati di tre o quattro rotaie, la fine dello scartamento normale o ridotto viene indicata dal segnale di fermata, completato rispettivamente da una lettera «N» (scartamento normale) e «S» (scartamento ridotto). In questo caso il segnale di fermata è valido solamente per i veicoli del relativo scartamento. Questo segnale viene utilizzato da solo o combinato con una lanterna di scambio.
+Il GI può consentire nelle prescrizioni d’esercizio il ricovero diretto di veicoli ai paraurti.
+
+	
+2.2.2	Luce di controllo per impianti di passaggio a livello
+	
+		Termine
+
+
+Significato	Segnale avanzato per la luce 
+di controllo di impianti di passaggio a livello
+Segue un impianto di passaggio a livello con luce di controllo
+	
+	
+oppure
+	Termine
+
+Significato	Impianto di passaggio a livello inserito
+Se la luce di controllo lampeggia con luce arancione o bianca, l’impianto di passaggio a livello è inserito rispettivamente le barriere sono chiuse
+		Relazione con altri segnali
+			Può essere preceduto da un segnale avanzato
+	
+	I vecchi segnali possono avere anche una forma triangolare, analogamente al segnale avanzato per luce di controllo per impianti di passaggio a livello. Essi devono essere uniformi su tutta la tratta.
+Se la luce di controllo sorveglia più di un impianto di passaggio a livello sorvegliato, viene munita di una tavola aggiuntiva su cui è indicata la quantità di passaggi a livello sorvegliati. All’interno di una zona con concatenamento di impianti di passaggio a livello va rinunciato alla tavola aggiuntiva.
+La luce di controllo può anche essere priva dell’asta bianconera.
+	
+2.2.3	Segnale di attenzione
+	
+	Il segnale d’attenzione serve a risvegliare l’attenzione o a mettere in guardia le persone.
+	
+	
+1 fischio    	Termine
+Significato	Attenzione
+Attenzione, si sta avvicinando un treno od un movimento di manovra
+		
+	
+	Il MAC dà il segnale con il fischio della locomotiva, gli altri agenti usano il fischietto o la cornetta. A seconda della distanza da cui il segnale dev’essere udito, questo può essere dato in modo breve, lungo, debole o forte. In caso di necessità il segnale d’attenzione deve essere ripetuto più volte a brevi intervalli di tempo.
+In esercizio di tram, se sono disponibili più mezzi per dare il segnale d’attenzione, l’ITF deve precisare l’uso di tali mezzi.
+	
+2.2.4	Tavola di fischio
+	
+		Termine	
+Significato	Fischiare
+Dare il segnale d’attenzione
+		
+	
+	Se il segnale d’attenzione deve essere dato soltanto durante certe ore del giorno o da determinati treni, tali indicazioni figurano su una tavola supplementare.
+	
+2.3	Segnali di velocità
+2.3.1	Tavole di velocità per sezioni di binario da percorrere a velocità ridotta
+	
+	Le sezioni di tratta da percorrere permanentemente a velocità ridotta vengono contrassegnate con tavole di velocità. Tra il primo e l’ultimo scambio di una stazione si rinuncia all’uso delle tavole.
+La posa delle tavole di velocità, anche per i cambiamenti di velocità che si susseguono immediatamente, è analoga a quanto indicato nell’annesso 1.
+	
+		Termine
+
+Significato	Segnale avanzato per la riduzione di velocità
+A partire dal segnale d’inizio vale la velocità massima segnalata.
+Se il segnale avanzato porta due indicazioni di velocità, la velocità indicata sopra (minore) vale per i treni della categoria inferiore e per i movimenti di manovra, mentre quella indicata sotto (maggiore) vale per i treni della categoria superiore
+		Relazione con altri segnali
+			Segue un segnale d’inizio
+	
+		Termine
+
+Significato	Segnale d’inizio della riduzione di velocità
+A partire da questo segnale vale la velocità massima
+ridotta
+		Relazione con altri segnali
+			Il segnale d’inizio è preceduto da un segnale avanzato e può essere seguito da un segnale di fine
+			
+		Termine
+
+Significato 	Segnale di fine della riduzione di velocità
+La velocità ridotta vale fino a quando l’ultimo veicolo ha 
+superato questo segnale
+		Relazione con altri segnali
+			Può essere preceduto da un segnale d’inizio
+	
+
+	Tavole indicatrici di velocità per treni ad assetto variabile con la rispettiva categoria di treno.
+	
+		Termine
+
+
+
+Significato	Segnale avanzato per riduzione di velocità per treni ad assetto variabile con la rispettiva categoria di treno
+A partire dal segnale d’inizio vale la velocità massima segnalata
+		Relazione con altri segnali
+			Segue un segnale d’inizio
+	
+		Termine
+
+
+
+Significato	Segnale d’inizio della riduzione di velocità per treni ad assetto variabile con la rispettiva categoria
+A partire da questo segnale vale la velocità massima ridotta
+		Relazione con altri segnali
+			Il segnale d’inizio è preceduto da un segnale avanzato e può essere seguito da un segnale di fine
+	
+		Termine
+
+
+
+Significato	Segnale di fine della riduzione di velocità per treni ad assetto variabile con la rispettiva categoria
+La velocità ridotta vale fino a quando l’ultimo veicolo ha superato questo segnale
+		Relazione con altri segnali
+			Può essere preceduto da un segnale d’inizio
+	
+
+2.3.2	Tavole di velocità per la segnalazione continua della velocità
+	
+	In caso di segnalazione continua della velocità, non sono posti segnali d’inizio e di fine. La velocità massima segnalata è valida a partire dalla tavola segnale avanzato velocità ridotta fino alla prossima tavola di velocità corrispondente o fino alla prossima stazione. Il GI rende note le tratte con segnalazione continua della velocità nelle sue prescrizioni d’esercizio.
+Il posizionamento delle tavole per la segnalazione continua della velocità avviene in modo conforme all’annesso 3 cifra 1.
+	
+2.3.3	Tavola di avviso per il cambiamento della velocità massima
+	
+		Termine
+
+Significato	Cambiamento della velocità massima
+Tratta
+A partire da questo segnale va-le un cambiamento di velocità massima, indicato assieme alla posizione chilometrica nella tabella delle tratte
+Stazione
+A partire da questo segnale vale un cambiamento di velocità massima segnalato e indicato assieme alla posizione chilometrica nelle prescrizioni d’esercizio del GI
+	
+
+2.3.4	Segnali di rallentamento
+	
+	Le lampade lampeggiano di notte. La posa è conforme a quanto indicato nell’allegato 1.
+	
+		Termine
+
+Significato	Segnale avanzato del tratto di rallentamento
+La cifra mostrata moltiplicata per 10 indica la velocità consentita a partire dal segnale d’inizio
+		Relazione con altri segnali
+			Segue un segnale d’inizio
+Può seguire un segnale di annullamento
+	
+		Termine
+Significato	Segnale d’inizio del tratto di rallentamento
+A partire da questo segnale vale la velocità massima indicata dal segnale avanzato
+		Relazione con altri segnali
+			Il segnale d’inizio è preceduto da un segnale avanzato ed è seguito da un segnale di fine o da un altro segnale avanzato
+	
+		Termine
+Significato	Segnale di fine del tratto di rallentamento
+La velocità ridotta vale fino a quando l’ultimo veicolo ha superato questo segnale
+		Relazione con altri segnali
+			Di regola preceduto da un segnale d’inizio
+	
+
+	Se fra il segnale avanzato e il segnale d’inizio di un tratto di rallentamento esiste uno scambio da prendere di punta e la riduzione vale solo per alcuni degli itinerari possibili, la riduzione di velocità viene soppressa con un segnale di annullamento.
+	
+		Termine
+
+Significato	Segnale di annullamento della riduzione di velocità
+A partire da questo punto, il tratto di rallentamento precedentemente segnalato non viene più percorso
+Quando il primo veicolo ha raggiunto questo segnale vale di nuovo la velocità massima ammessa
+		Relazione con altri segnali
+			Di regola è preceduto da un segnale avanzato
+	
+	In generale
+Nel caso in cui su di un binario vengono segnalati susseguentemente diversi tratti di rallentamento, per il segnale avanzato che indica una velocità maggiore bisogna osservare quanto segue:
+–	questo segnale avanzato indica la fine del precedente tratto di rallentamento da percorrere ad una velocità più bassa
+–	questo segnale avanzato è dotato unicamente di una luce lampeggiante arancione e vale come segnale d’inizio per il secondo tratto di rallentamento da percorrere ad una velocità più elevata
+–	questo segnale avanzato non è dotato del controllo della marcia dei treni che trasmette avvertimento.
+Se il posto abituale di fermata dei treni nelle stazioni e nelle fermate si trova dopo il segnale avanzato, rispettivamente dopo quello d’inizio, ed il segnale d’inizio rispettivamente quello di fine non sono visibili dal posto di fermata abituale, viene posato un segnale di ripetizione. Come segnale di ripetizione si usa:
+–	un secondo segnale avanzato, però senza controllo della marcia dei treni che trasmette avvertimento, se lo stesso si trova prima del tratto di rallentamento
+–	un secondo segnale d’inizio, se lo stesso si trova nell’ambito del tratto di rallentamento.
+	
+		Termine
+Significato	Tavola complementare
+La velocità ridotta vale unicamente per i binari indicati sulla tavola complementare
+	
+			 
+	
+	Significato	La tavola complementare con freccia semplice o doppia posta sopra i segnali di rallentamento collocati fra due binari, indica per quale binario il segnale è valido
+	
+2.3.5	Velocità permessa nel percorrere bilance a ponte, 
+freni di binario, impianti di deposito, binari di raccordo, ecc.
+	
+		Significato	La velocità indicata è valevole per percorrere bilance a ponte e freni di binario. Per gli impianti di deposito ed i binari di raccordo la velocità prescritta vale a partire dal segnale
+	
+
+2.3.6	Segnali per cremagliera
+	
+	Le sezioni di tratta con cremagliera vengono indicate da segnali per cremagliera.
+La posa è analoga a quanto indicato nell’annesso 1.
+	
+		Termine
+
+Significato	Segnale avanzato per tratto a cremagliera
+La velocità massima segnalata vale a partire dal segnale d’inizio
+		Relazione con altri segnali
+			Il segnale avanzato è collocato a circa 150 m dal segnale d’inizio
+	
+		Termine 
+
+Significato	Segnale d’inizio del tratto a cremagliera
+A partire da questo segnale si entra sul tratto a cremagliera.
+Per l’entrata sul tratto a cremagliera vale la velocità massima segnalata
+		Relazione con altri segnali
+			Può essere preceduto da un segnale avanzato ed è seguito da un segnale di fine
+	
+		Termine
+
+Significato	Segnale di fine del tratto a cremagliera
+Presso questo segnale termina il tratto a cremagliera
+		Relazione con altri segnali
+			È preceduto da un segnale d’inizio
+		
+	Nell’area linguistica germanofona, al posto di una «C» si utilizza una «A», rispettivamente al posto di una «F» si utilizza una «E».	
+
+
+2.3.7	Segnali di velocità in esercizio di tram
+	Tavole di velocità
+	
+	La velocità massima delle sezioni di binario viene segnalata mediante tavole di velocità. Sui binari di servizio si può rinunciare alla segnalazione, se la velocità è regolamentata nelle prescrizioni d’esercizio. 
+		Termine
+Significato	Velocità massima segnalata 
+A partire dal segnale d’inizio vale la velocità massima segnalata in km/h 
+		
+			
+	
+	I GI possono definire nelle prescrizioni d’esercizio i colori dello sfondo e dei caratteri delle tavole di velocità.
+Sugli scambi, la tavola di velocità può essere completata da frecce d’indicazione. La posa corrisponde a quanto indicato alla cifra 2 dell’annesso 3.
+Per l’aumento di velocità dalla testa del treno, è possibile installare segnalazioni aggiuntive secondo le prescrizioni d’esercizio del GI.
+			
+	Tavole di velocità in curva
+	
+	La velocità massima delle curve viene segnalata mediante tavole di velocità in curva rotonde.
+		Termine
+Significato	Velocità massima in curva 
+Dall’inizio della curva vale la velocità massima segnalata
+		
+			
+	
+	I GI possono definire nelle prescrizioni d’esercizio i colori dello sfondo e dei caratteri delle tavole di velocità in curva. 
+Di regola la fine della curva non viene segnalata. I GI possono fissare segnali o marcature sul suolo per segnalare la fine della velocità in curva. 
+Sugli scambi, le tavole di velocità in curva possono essere completate da frecce d’indicazione, in modo analogo alle tavole di velocità. 
+
+	
+	
+	
+	Segnalazione continua della velocità
+	
+	In caso di segnalazione continua della velocità, vengono a cadere le tavole delle velocità in curva e la segnalazione della fine di una curva. La velocità massima segnalata vale da un punto all’altro delle tavole di velocità massima segnalata. 
+La collocazione delle tavole per la segnalazione continua della velocità è conforme all’annesso 3, cifra 2.
+	
+	Segnalazione non continua della velocità
+	
+	Il GI rende noti i binari di linea senza segnalazione continua della velocità nelle prescrizioni d’esercizio.
+	
+2.3.8	Segnali di rallentamento in esercizio di tram
+	
+	Per una migliore visibilità i segnali di rallentamento possono essere illuminati.
+		Termine
+
+Significato	Segnale avanzato del tratto di rallentamento
+La cifra mostrata indica la velocità consentita in km/h a partire dal segnale d’inizio
+		Relazione con altri segnali
+			Segue un segnale d’inizio
+	
+	Di regola, il segnale avanzato dev’essere posato sulle sezioni di binario con una velocità massima superiore a 50 km/h. Se valgono velocità inferiori, il GI può posare il segnale avanzato in caso di necessità.
+	
+
+		Termine
+Significato	Segnale d’inizio del tratto di rallentamento
+A partire da questo segnale vale la velocità massima in km/h indicata dalla tavola complementare
+		Relazione con altri segnali
+			Può essere preceduto da un segnale avanzato. Segue un segnale di fine o un altro segnale d’inizio
+	I segnali d’inizio di tratti di rallentamento sono completati, in modo analogo alle tavole di velocità, da una tavola complementare rettangolare che indica la velocità consentita. La tavola complementare può essere collocata sotto, accanto o sopra il segnale d’inizio.
+	
+		Termine
+Significato	Segnale di fine del tratto di rallentamento
+La velocità ridotta vale fino a quando l’ultimo veicolo ha superato questo segnale
+		Relazione con altri segnali
+			È preceduto da un segnale d’inizio
+	
+
+2.4	Segnali bassi
+2.4.1	In generale
+	
+	I segnali bassi servono a regolare i movimenti di manovra come pure a garantire la protezione reciproca fra movimenti di manovra e contro corse treno.
+I segnali bassi sono contrassegnati da un numero e da una lettera.
+	
+2.4.2	Validità e collocazione dei segnali bassi
+	
+	I segnali bassi sono collocati in prossimità dei ABL. Nella zona di uno scambio i segnali sono collocati in modo tale che l’appartenenza al binario è visibile in modo inequivocabile.
+I segnali bassi per la protezione di impianti di passaggio a livello e per la suddivisione di lunghi tratti di binario sono collocati indipendentemente dagli scambi.
+I segnali bassi si trovano all’altezza del suolo. Possono essere eccezionalmente rialzati, p.es. possono essere applicati ad un palo, oppure essere collocati con i lati invertiti.
+	
+	Segnale basso collocato a destra
+	
+		In caso d’ubicazione a destra, una freccia sulla faccia anteriore indica il binario d’appartenenza.
+	
+	Parte posteriore del segnale basso
+	
+		Sulla parte posteriore del segnale è dipinta una freccia bianca, che indica il binario d’appartenenza.
+Se il segnale mostra via libera o via libera con prudenza, ciò è riconoscibile da una striscia luminosa bianca obliqua (luce posteriore).
+	
+	Dove esistono binari a tre e quattro rotaie, il segnale basso può essere completato da una «N» (scartamento normale) o da una «S» (scartamento ridotto) illuminate. Il consenso è valido solamente per i veicoli del rispettivo scartamento.
+	
+	
+2.4.3	Segnali bassi nei percorsi treno
+	
+	Con un percorso treno disposto, i segnali bassi indicano via libera. Se un segnale principale o di sbarramento mostra la fermata, il segnale basso precedente mostra via libera con prudenza.
+	
+2.4.4	Ultimo segnale basso verso la tratta
+	
+	In caso di una corsa treno l’ultimo segnale basso mostra via libera, e se si tratta di un movimento di manovra mostra via libera con prudenza.
+
+2.4.5	Segnalazioni con i segnali bassi
+	
+		Termine
+Significato	Fermata
+Fermata davanti al segnale
+		Relazione con altri segnali
+			Il segnale basso precedente mostra via libera con prudenza
+	
+		Termine
+Significato	Via libera con prudenza
+Inizio o proseguimento della corsa. Bisogna aspettarsi un ostacolo subito dopo il segnale basso
+		Relazione con altri segnali
+			Il prossimo segnale basso mostra fermata, via libera con prudenza oppure non segue alcun segnale basso ulteriore
+			
+		Termine
+Significato	Via libera
+Inizio o proseguimento della corsa
+		Relazione con altri segnali
+			Il prossimo segnale basso mostra via libera o via libera con prudenza
+	
+
+2.4.6	Segnali bassi nella zona degli scambi
+	
+	Se un segnale basso si trova a metà di una crociera, esso è valido per entrambe le diramazioni. Se il segnale basso mostra fermata il posto di fermata è davanti agli aghi dello scambio.
+	
+	
+	
+	Se un segnale basso si trova nella zona degli aghi di uno scambio semplice, vale per entrambe le diramazioni. Per corse in direzione dello scambio preso di punta, nel caso in cui il segnale basso mostra fermata, il posto di fermata è davanti agli aghi dello scambio. Per corse in direzione dello scambio preso di calcio, il posto di fermata è davanti al segnale basso che mostra fermata.
+	
+	
+	
+
+	Se il segnale basso si trova fra il cuore dello scambio e il picchetto di sicurezza di uno scambio semplice, vale per una sola diramazione. Se il segnale basso mostra fermata, il posto di fermata è davanti a questo segnale.
+	
+	
+	
+
+2.5	Segnali degli scambi
+2.5.1	In generale
+	
+	I segnali degli scambi presentano d’ambo i lati la stessa figura e indicano nelle due direzioni di corsa per quale itinerario è disposto lo scambio. Il segnale dello scambio mostra:
+–	la posizione diritta, se lo scambio è disposto per la via diritta, oppure se è disposto per la diramazione esterna, qualora entrambi i binari fossero curvi (scambio in curva)
+–	la posizione deviata, se lo scambio è disposto per la via deviata, oppure se è disposto per la diramazione interna, qualora entrambi i binari fossero curvi (scambio in curva).
+Come segnali degli scambi sono utilizzati:
+–	lanterne girevoli per scambi semplici e scambi a crociera semplice
+–	segnali luminosi per scambi semplici e crociere
+–	lanterne fisse munite di mascherine mobili per crociere
+–	tavole per scambi.
+Segnali degli scambi possono essere posizionati a sinistra o a destra del relativo scambio.
+	
+
+2.5.2	Contrassegno della posizione di uno scambio semplice 
+	
+	Lanterna girevole
+	
+		Termine
+Significato	Scambio in posizione diritta
+Corsa lungo la via diritta
+	
+		Termine
+Significato	Scambio in posizione deviata
+Corsa lungo la via deviata
+	
+	In caso di scambio simmetrico o quasi simmetrico, la posizione viene indicata da frecce.
+	
+		Termine
+Significato	Scambio in posizione sinistra
+Corsa lungo la via sinistra
+	
+		Termine
+Significato	Scambio in posizione destra
+Corsa lungo la via destra
+	
+	Segnali luminosi per scambi
+	
+		Termine
+Significato 	Scambio in posizione diritta
+Corsa lungo la via diritta
+	
+		Termine
+Significato	Scambio in posizione deviata
+Corsa lungo la via deviata
+	
+	Se il segnale luminoso per scambi è spento o lampeggiante, lo scambio non si trova nella posizione finale.
+	
+2.5.3	Cifra stralciata
+	
+	
+
+2.5.4	Contrassegno della posizione degli scambi a crociera semplice
+	
+	
+oppure
+	Termine
+Significato	Scambio in posizione diritta
+Corsa sul binario della dire-zione principale
+			
+	
+oppure
+	Termine
+Significato	Scambio in posizione diritta
+Corsa sul binario trasversale
+	
+	
+oppure
+	Termine
+Significato	Scambio in posizione deviata
+Corsa dal binario della direzione principale al binario trasversale o viceversa
+	
+
+2.5.5	Contrassegno della posizione degli scambi a crociera doppia
+	
+	Lanterna fissa con mascherine mobili
+	
+		Termine
+Significato	Scambio in posizione diritta
+Corsa sul binario della dire-zione principale
+	
+		Termine
+Significato	Scambio in posizione diritta
+Corsa sul binario trasversale
+	
+		Termine
+Significato	Scambio in posizione deviata
+Corsa dal binario principale al binario della direzione trasversale o viceversa
+	
+		Termine
+Significato	Scambio in posizione deviata
+Corsa dal binario trasversale al binario della direzione principale o viceversa
+	
+	Segnali luminosi per scambi
+	
+			Termine
+Significato	Scambio in posizione diritta
+Corsa sul binario della direzione principale
+	
+			Termine
+Significato	Scambio in posizione diritta
+Corsa sul binario trasversale
+	
+	oppure
+				Non da utilizzare su reti a scartamento normale
+	
+			Termine
+Significato	Scambio in posizione deviata
+Corsa dal binario principale al binario della direzione trasversale o viceversa
+	
+			Termine
+Significato	Scambio in posizione deviata
+Corsa dal binario trasversale al binario della direzione principale o viceversa
+	
+	Se il segnale luminoso per scambi è spento o lampeggiante, lo scambio non si trova nella posizione finale.
+
+2.5.6	Contrassegno della posizione degli scambi tallonabili
+	
+	Corsa verso lo scambio preso di punta
+	
+		Termine
+Significato	Scambio in posizione finale
+Scambio percorribile
+	
+	Se la luce di controllo è spenta o lampeggia, lo scambio non si trova nella posizione finale.
+	Corsa verso lo scambio preso di calcio
+	
+		Termine
+Significato	Scambio in posizione di base
+Tallonamento permesso
+	
+	Si utilizzano lanterne girevoli o segnali luminosi per scambi con figura bianca/verde o solo con la figura verde.
+
+2.5.7	Segno di sicurezza per scambi e crociere
+	
+	Il segnale è posato fra due binari convergenti.
+	
+		Termine
+Significato	Segno di sicurezza
+Il segno indica il punto fino a cui i veicoli possono avvicinarsi a scambi e crociere senza mettere in pericolo sé stessi o altri veicoli
+	
+	Alle ferrovie a scartamento ridotto con binari a tre e quattro rotaie o con servizio di carelli trasportatori e di carelli truck possono essere utilizzati differenti segni di sicurezza per veicoli a scartamento normale o ridotto.
+	
+2.5.8	Contrassegno di settori con ABL
+	
+	L’inizio e la fine di un ABL possono essere contrassegnati da un picchetto giallo o da una testa di cavo dipinta di giallo.
+	
+		Termine
+
+Significato	Contrassegno del ABL
+Il contrassegno mostra fino a che punto i veicoli possono avvicinarsi ai ABL, senza che sia impedita l’inversione dei relativi scambi, dispositivi di sviamento o staffe di protezione
+	
+2.5.9	Segnali degli scambi in esercizio di tram
+	
+	In esercizio di tram, di regola la posizione degli scambi viene segnalata con appositi segnali solo per le corse in direzione della punta. 
+
+	Il segnale dello scambio mostra: 
+–	la posizione diritta, se lo scambio è disposto per la via diritta, oppure se è disposto per la diramazione esterna, qualora entrambi i binari fossero curvi (scambio in curva)
+–	la posizione diritta, se lo scambio è disposto per la via diritta, oppure se è disposto per la diramazione esterna, qualora entrambi i binari fossero curvi (scambio in curva) 
+Come segnali degli scambi sono utilizzati:
+–	segnali luminosi per scambi
+–	tavole per scambi.
+	
+	Contrassegno della posizione di uno scambio semplice con segnale luminoso per scambi
+	
+		Termine
+Significato	Scambio in posizione diritta
+Corsa lungo la via diritta
+	
+	oppure
+	
+			
+	
+	oppure
+	
+			
+	
+	
+		Termine
+Significato	Scambio in posizione deviata
+Corsa lungo la via deviata 
+	
+	oppure
+	
+			
+	
+		Termine
+Significato	Indicatore di vincolo 
+Lo scambio è assicurato contro l’inversione elettrica
+	
+	oppure
+	
+			
+	
+	La designazione degli scambi è apposta sulla cornice o su un cartello supplementare. 
+I segnali degli scambi possono presentare una luce bianca, gialla o arancione. 
+Se il segnale luminoso per scambi è spento o lampeggiante, lo scambio non si trova nella posizione finale. 
+Informazioni supplementari sulla segnalazione degli scambi che possono essere regolamentate dai GI nelle prescrizioni d’esercizio: 
+–	Il tipo di scambio (ad es. scambio a mano, scambio comandato automaticamente, scambio tallonabile) può essere designato con una informazione aggiuntiva mediante una cornice di diverso colore o tavole di designazione di diverso colore.
+–	La posizione dei magneti ricevitori per il comando degli scambi può essere contrassegnata da una tavola di segnalazione o con una marcatura sul suolo. La velocità prevista per la circolazione sui rispettivi magneti ricevitori può essere segnalata in deroga alla velocità di tratta come velocità massima generale o in modo specifico al luogo, tenendo conto delle distanze e della forza frenante, sulla tavola di segnalazione.
+	
+	Contrassegno della posizione di uno scambio semplice con tavola per scambi
+	
+	La posizione di uno scambio semplice può essere segnalata, al posto di un segnale luminoso per scambi, con una tavola per scambi. In questo caso la tavola per scambi mostra la corrispondente figura come il segnale luminoso per scambi.
+	
+	Segnale complementare per segnale degli scambi, segnale indicatore del numero di binario
+	
+		Termine
+
+Significato	Segnale indicatore del numero di binario
+L’itinerario è previsto dal o per il binario indicato nel segnale indicatore del numero di binario
+	
+	Oltre al segnale indicatore del numero di binario devono essere controllati i segnali luminosi per scambi o la posizione degli scambi.
+Il segnale indicatore del numero di binario può essere eseguito come luce bianca, gialla o arancione.
+
+
+2.5.10	Segno di sicurezza per scambi e crociere in esercizio di tram
+	
+	Il segnale è posato fra i due binari convergenti.
+	
+		Termine
+Significato	Segno di sicurezza
+Il segno indica il punto fino a cui i veicoli possono avvicinarsi a scambi e crociere senza mettere in pericolo sé stessi o altri veicoli
+	
+	I segnali 299.15 e 299.16 possono essere dipinti su una area di traffico comune.
+	
+
+2.6	Segnali indicatori
+2.6.1	Tavola indicatrice per apparecchi di tratta del controllo della marcia dei treni 
+	
+	La posizione degli apparecchi di tratta del controllo della marcia dei treni non viene contrassegnata, ad eccezione dei seguenti casi:
+	
+		Significato	Il controllo della marcia dei treni serve a sorvegliare il funzionamento di impianti di passaggio a livello senza luce di controllo
+		Significato	L’apparecchio di tratta non si trova presso il relativo segnale principale, presso la relativa tavola di fermata per segnale di gruppo oppure non c’è nessun segnale
+		Significato	Il controllo della marcia dei treni serve a sorvegliare la velocità di corsa
+	
+	A causa della sagoma di spazio libero questi segnali indicatori possono anche essere collocati verticalmente.
+	
+2.6.2	Tavola indicatrice per ricevitore di impulsi in esercizio ferroviario
+	
+		Significato	Inizio della bobina di binario per il ricevitore d’impulsi
+		Significato	Fine della bobina di binario per il ricevitore d’impulsi
+	
+
+2.6.3	Tavola indicatrice per ricevitore di impulsi in esercizio di tram
+	
+		Significato	Posizione dei ricevitori del comando dei segnali e degli scambi
+Impiego secondo prescrizioni d’esercizio dei GI.
+Il segnale indicatore può essere completato da frecce d’indicazione che mostrano per quale direzione di corsa dev’essere azionato il segnale.
+	
+	
+	
+
+2.6.4	Tavola di inizio e fine della stazione
+	
+	La tavola che indica l’inizio della stazione è sempre presente con la segnaletica tipo «N», mentre con la segnaletica tipo «L» viene posata solo in caso di bisogno.
+La tavola che indica la fine della stazione è posata solo in caso di bisogno per entrambi i tipi di segnaletica. Se la tavola è fissata direttamente sul retro del segnale d’entrata, può anche trovarsi a destra.
+Nelle stazioni prive di segnali d’entrata, le tavole di inizio e fine della stazione sono posate secondo il bisogno. Se esse sono presenti, vanno sempre posate insieme per ciascuna ubicazione. 
+Sulle tavole d’inizio e fine della stazione viene apposto l’abbreviazione del nome della rispettiva stazione.
+	
+		Termine
+Significato	Inizio della stazione
+Confine tratta – stazione per la manovra
+	
+		Termine
+Significato	Fine del territorio di stazione
+Confine stazione – tratta per la manovra
+	
+2.6.5	Indicatori di pendenza
+	
+	Come ausilio al MAC possono essere collocati degli indicatori segnalanti i cambiamenti di pendenza del 2‰ o maggiori. Sulle tratte a più binari sono collocati su una sola parte del sedime.
+	
+		Termine
+
+Significato	Inizio o cambiamento della salita
+Il numero scritto in grande indica la salita in per mille.
+Il numero scritto in piccolo indica la lunghezza in metri della salita interessata
+	
+		Termine
+
+Significato	Inizio o cambiamento della discesa
+Il numero scritto in grande indica la discesa in per mille.
+Il numero scritto in piccolo indica la lunghezza in metri della discesa interessata
+	
+		Termine
+Significato	Inizio del tratto orizzontale
+Il numero indica la lunghezza in metri del tratto orizzontale
+	
+2.6.6	Tavole chilometriche, ettometriche e metriche
+	
+	Il chilometraggio della ferrovia viene contrassegnato mediante tavole chilometriche, ettometriche ed eventualmente metriche.
+	
+		Termine
+Significato	Tavola chilometrica
+Il numero indica il chilometro
+		Termine
+Significato	Tavola ettometrica
+Il numero superiore indica il chilometro, quello inferiore l’ettometro
+		Termine
+Significato	Tavola metrica
+Il numero superiore indica il chilometro, quello inferiore il metro
+	
+
+2.6.7	Tavola del canale di comunicazione
+	
+	La tavola del canale di comunicazione informa il MAC in merito al canale della radio da inserire o al mezzo di comunicazione mobile da applicare.
+	
+		Termine
+Significato	Canale di comunicazione
+A partire da questa tavola vale il mezzo di comunicazione segnalato, all’occorrenza con il corrispondente canale di comunicazione
+	
+			
+	
+2.6.8	Contrassegno per posti telefonici
+	
+		Termine
+Significato	Posto telefonico
+Qui si trova un apparecchio telefonico
+	
+	Nelle gallerie i posti telefonici possono essere contrassegnati da lanterne.
+In caso di condizioni locali particolari, frecce bianche indicano la direzione verso il telefono più vicino.
+	
+	
+	
+
+	
+2.6.9	Tavola d’orientamento per spazio di sicurezza intermedio
+			
+		Termine
+Significato	Spazio di sicurezza intermedio
+La sosta e il lavoro fra i binari o fra un binario e un ostacolo fisso sono consentiti con la dovuta prudenza
+			
+		Significato	La sosta e il lavoro sono consentiti con la dovuta prudenza solo fra i due binari al centro
+			
+		Significato	La sosta e il lavoro sono consentiti con la dovuta prudenza solo fra l’ostacolo fisso e il binario adiacente
+			
+	Le tavole possono essere adattate in conformità della situazione esistente.
+			
+2.6.10	Contrassegno di impianti di passaggio a livello
+	
+		Termine
+
+Significato	Impianto di passaggio a livello sorvegliato
+Il passaggio a livello è protetto da un impianto di passaggio a livello sorvegliato
+Il contrassegno è numerico, di regola secondo la successione chilometrica
+			
+		Termine
+
+Significato	Impianto di passaggio a livello a sicurezza intrinseca
+Il passaggio a livello è protetto da un impianto a sicurezza intrinseca
+Il contrassegno è numerico, di regola secondo la successione chilometrica
+			
+2.6.11	Contrassegno di zone con concatenamento di impianti di passaggio a livello
+	
+	Le zone con concatenamento di impianti di passaggio a livello possono essere segnalate con un corrispondente contrassegno. Il contrassegno va apposto a ogni palo della linea di contatto nella zona con concatenamento.
+	
+		Termine
+
+Significato	Zona con concatenamento di impianti di passaggio a livello
+All’interno delle zone con concatenamento segnalate, in caso di 
+–	consenso per la corsa dato con il segnale principale per impianto di passaggio a livello perturbato
+–	luce di controllo spenta
+–	reazione del controllo della marcia dei treni alla tavola indicatrice per apparecchi di tratta del controllo della marcia dei treni
+tutti gli impianti di passaggio a livello successivi devono essere percorsi secondo le disposizioni per la «circolazione su impianti di passaggio a livello sorvegliati 
+perturbati»
+			
+
+			
+2.6.12	Tavola per binario di raccordo
+			
+		Termine
+
+Significato	Inizio del binario di raccordo 
+
+Limite fra infrastruttura ferroviaria e binario di raccordo
+			
+		Termine
+
+Significato	Fine del binario di raccordo 
+
+Limite fra binario di raccordo e infrastruttura ferroviaria
+			
+2.6.13	Limiti dell’infrastruttura in esercizio di tram
+	
+		Termine
+Significato	Limite dell’infrastruttura
+Passaggio al rispettivo GI
+			
+
+2.7	Segnali dati dal personale
+2.7.1	Cenni
+	
+	Il cenno avviene mediante un movimento verticale circolare nella direzione di corsa:
+–	di giorno, a seconda delle condizioni di visibilità, col braccio, con una banderuola arrotolata o con un oggetto ben visibile
+–	di notte, con la lanterna a luce bianca.
+	
+		Termine
+Significato	Cenno
+–	per movimenti di manovra:
+consenso per il movimento di manovra
+–	per corse treno:
+avanzare oltre il posto abituale di fermata
+	
+
+2.7.2	Segnali a mano 
+	
+	
+Di giorno   	Di giorno
+Braccio allungato perpendicolarmente al binario
+Di notte
+Braccio allungato perpendicolarmente al binario, con luce bianca
+		Termine
+Significato	Segnale a mano
+Fermata nel punto in cui si trova la persona che dà il segnale
+	
+	
+Di notte   		
+	
+2.8	Segnali per zona tranvie	
+2.8.1	Inizio e fine zona tranvie	
+		
+	La zona tranvie nell’esercizio ferroviario è segnalata, sulla tratta e nelle stazioni, mediante segnali per la zona tranvie. In caso di segnalazione continua della velocità, questi segnali sono collocati conformemente all’annesso 3.	
+		
+		Termine
+
+Significato	Segnale avanzato per zona tranvie
+A partire dal segnale d’inizio valgono le prescrizioni per la circolazione su zone tranvie	
+		Relazione con altri segnali	
+			È seguito da un segnale d’inizio	
+		Termine
+
+Significato	Segnale d’inizio della zona tranvie
+A partire da questo segnale valgono le prescrizioni per la circolazione su zone tranvie	
+		Relazione con altri segnali	
+			Può essere preceduto da un segnale avanzato e può essere seguito da un segnale di fine	
+		
+		Termine
+
+Significato	Segnale di fine della zona tranvie
+Le prescrizioni per la circolazione su zone tranvie valgono finché l’ultimo veicolo non ha superato questo segnale	
+		Relazione con altri segnali	
+			Può essere preceduto da un segnale d’inizio	
+		
+2.8.2	Segnali per tranvie		
+			
+	I segnali per tranvie sono collocati nelle immediate vicinanze degli impianti di regolazione del traffico.
+Il modo in cui contrassegnare i segnali che dipendono dall’apparecchio centrale deve essere stabilito nelle prescrizioni d’esercizio dei GI.
+Sul segnale può essere rappresentata una sequenza di luci o una barra luminosa.		
+			
+		Termine
+Significato	Fermata
+Fermarsi prima del segnale		
+				
+			
+		Termine
+Significato	Via libera
+proseguire		
+				
+			
+	Il consenso per la corsa può mostrare anche la relativa direzione, sinistra o destra.		
+					
+		Termine
+Significato	Fuori servizio
+Circolare con prudenza
+L’impianto di regolazione del traffico è fuori servizio		
+				
+			
+	In alternativa, l’immagine Fuori servizio può essere segnalata con uno o più punti luminosi lampeggianti secondo le prescrizioni d’esercizio.	
+	Informazioni supplementari su segnali per tranvie nell’esercizio di tram, che possono essere regolamentate dai GI nelle prescrizioni d’esercizio: 
+–	Segnalazione complementare sulla validità del segnale in base a
+–	mezzo di trasporto (p.es. tram, bus)
+–	la direzione (p.es. freccia) 
+–	la linea
+–	annuncio all’impianto di regolazione del traffico
+–	passaggio di fase imminente.
+In esercizio di tram, i GI possono stabilire in quali casi segnali luminosi lampeggianti di colore giallo dell’impianto di segnali luminosi corrispondono al significato Fuori servizio dei segnali per tranvie.
+	
+2.9	Limite tra esercizio ferroviario e di tram
+	
+		Termine
+
+Significato	Inizio esercizio di tram / fine esercizio ferroviario
+Limite tra esercizio ferroviario e esercizio di tram
+		
+			
+		Termine
+
+Significato	Inizio esercizio ferroviario / fine esercizio di tram
+Limite tra esercizio di tram e esercizio ferroviario
+		
+			
+
+
+3	Segnali per movimenti di manovra
+3.1	Segnali di manovra fissi
+	
+	Le disposizioni sui segnali di manovra fissi valgono per l’esercizio ferroviario. 
+In esercizio di tram i GI stabiliscono i segnali di manovra fissi nelle prescrizioni d’esercizio, basandosi sui segnali di manovra in esercizio ferroviario.
+	
+3.1.1	In generale
+	
+	I segnali di manovra servono alla regolazione dei movimenti di manovra nonché alla protezione reciproca fra movimenti di manovra o alla protezione contro le corse treno.
+I segnali di manovra sono contrassegnati da una lettera e da una cifra.
+	
+3.1.2	Validità e posa dei segnali di manovra
+	
+	I segnali di manovra vengono utilizzati sotto forma di segnale luminoso o come combinazione segnale luminoso - tavola di segnale. I segnali di manovra sotto forma di segnale luminoso possono mostrare immagini del segnale di fermata per manovra, come pure del segnale di sgombero. Col segnale luminoso può essere mostrato anche il segnale di sbarramento.
+	
+	Collocazione destra dei segnali fissi di manovra
+	
+		In caso di collocazione destra, una tavola complementare munita di freccia indica il binario cui si riferisce il segnale.
+	
+	Lato posteriore dei segnali di manovra
+	
+		Se il segnale di manovra mostra consenso per il movimento di manovra o manovra permessa,
+ciò è riconoscibile da una luce bianca 
+(luce posteriore).
+	
+
+3.1.3	Segnalazione con segnali di manovra
+	
+	Segnale di fermata per la manovra
+	
+		Termine
+
+Significato	Fermata per movimento di manovra
+Fermata davanti al segnale per i movimenti di manovra. Se il segnale vale per più binari, il posto di fermata è situato all’ altezza del segno di sicurezza del rispettivo scambio
+	
+		Termine
+
+Significato	Consenso per movimento di manovra
+Inizio o proseguimento del movimento di manovra	
+	
+
+	
+	Segnale di sgombero
+	
+	L’ambito di validità dei segnali di sgombero è disciplinato nelle prescrizioni d’esercizio locali.
+	
+		Termine
+Significato	Manovra vietata
+Sgomberare e mantenere libero il percorso treno protetto da questo segnale
+	
+	Con il consenso del CMOV, movimenti di manovra possono essere eseguiti anche se il segnale di sgombero è disposto su divieto.
+	
+		Termine
+Significato	Manovra permessa
+Nell’ambito di validità del segnale non sono disposti percorsi treno
+	
+
+	
+3.2	Segnali sui veicoli per movimenti di manovra
+3.2.1	Contrassegno del veicolo motore attivo per i movimenti di manovra in stazione 
+	
+	Locomotiva di manovra
+	
+	 	Di giorno
+–	davanti (avanti), al centro in alto una «V» spenta
+–	dietro (indietro), nessun segnale
+Di notte
+–	davanti (avanti), al centro in alto una «V» bianca illuminata e due luci bianche
+–	dietro (indietro), due luci bianche
+	
+	Negli impianti in cui sono assegnate più locomotive di manovra, queste vengono contrassegnate davanti e dietro con numeri di servizio.
+	
+3.2.2	Contrassegno durante i movimenti di manovra sulla tratta
+	
+	Veicolo motore
+	
+		Davanti due luci bianche
+	
+	Ai veicoli motore che non circolano in testa ai movimenti di manovra le luci della direzione in avanti sono spente.
+	
+		Dietro luci spente o una luce bianca in basso 
+Di notte, in coda a un movimento di manovra,
+una luce bianca o rossa in basso
+		
+	Vagoni
+	
+		Di giorno i vagoni non mostrano alcun segnale 
+Di notte:
+–	in testa al movimento di manovra una luce bianca 
+–	in coda al movimento di manovra una luce bianca o rossa 
+	
+	I movimenti di manovra composti da un veicolo motore e da vagonetti (scale mobili, lorry, ecc.) portano i segnali solo sul veicolo motore se gli stessi non possono essere applicati ai vagonetti.
+I veicoli strada / rotaia che non possono segnalare come i veicoli motori, nella corsa in avanti e indietro mostrano la segnalazione secondo la legge sulla circolazione stradale.
+	
+3.2.3	Contrassegno del veicolo motore attivo per i movimenti di manovra in esercizio di tram
+	
+	Per i movimenti di manovra si utilizza il medesimo contrassegno dei treni in esercizio di tram.
+	
+3.2.4	Contrassegno di veicoli ai quali non si deve accostare
+	
+	
+Di giorno   	Termine
+Significato	Fermata
+Fermata prima di questi veicoli
+
+			
+
+	
+Di notte luce rossa   		
+	
+	Al posto di questo segnale si possono collocare segnali di fermata davanti e dietro i veicoli.
+	
+3.2.5	Tavole di preriscaldamento
+	
+	I veicoli che vengono preriscaldati con impianti fissi o con veicoli motori non occupati sono contrassegnati con tavole di preriscaldamento. Se i treni spola, anche quelli con carrozze supplementari, vengono preriscaldati tramite il veicolo motore, si tralascia il contrassegno con la tavola di preriscaldamento.
+	
+		Significato	La condotta elettrica ad alta tensione è sotto tensione
+	
+	I veicoli che per altri scopi vengono alimentati con corrente tramite cavi di impianti fissi sono pure contrassegnati in questo modo.
+	
+3.2.6	Tavole d’avvertimento per staffe d’arresto
+	
+		Significato	I veicoli sono assicurati contro la fuga con staffe d’arresto
+	
+3.3	Segnali per movimenti di manovra dati dal personale
+3.3.1	In generale
+	
+	I segnali acustici devono essere dati con lo zufolino e confermati con movimenti delle braccia oppure, di notte, se non è menzionato altrimenti, con una luce bianca. I segnali ottici ed acustici vengono tralasciati quando un ordine viene impartito con la radio o verbalmente.
+	
+3.3.2	Avanti
+	
+		Un fischio prolungato e un solo movimento semicircolare verticale del braccio sollevato nella direzione di corsa.
+		Termine
+Significato	Avanti
+Circolare in avanti
+		Relazione con altri segnali
+			Può seguire il segnale collegamento a vista
+	
+3.3.3	Indietro
+	
+		Due fischi prolungati e due movimenti semicircolari verticali del braccio sollevato nella direzione di corsa.
+		Termine
+Significato	Indietro
+Circolare all’indietro
+		Relazione con altri segnali
+			Può seguire il segnale collegamento a vista
+	
+3.3.4	Accostare
+	
+	Accostare in avanti
+	
+		Un fischio prolungato e un solo movimento circolare di avvicinamento delle due braccia sollevate perpendicolarmente al binario.
+		Termine
+Significato	Accostare in avanti
+Circolare in avanti verso un ostacolo
+		Relazione con altri segnali
+			Può seguire il segnale collegamento a vista
+	
+	Accostare indietro
+	
+		Due fischi prolungati e due movimenti circolari di avvicinamento delle due braccia sollevate perpendicolarmente al binario.
+		Termine
+Significato	Accostare indietro
+Circolare all’indietro verso 
+un ostacolo
+		Relazione con altri segnali
+			Può seguire il segnale collegamento a vista
+	
+	
+	I segnali accostare in avanti e accostare indietro vanno completati con l’espressione verbale «accostare».
+	
+3.3.5	Collegamento a vista
+	
+		Oscillazione lenta del braccio teso verso il suolo, obliquamente al binario.
+		Termine
+Significato	Collegamento a vista
+Sorveglianza ottica del collegamento tra il CMAN che osserva l’itinerario e il MAC
+		Relazione con altri segnali
+			Possono seguire indicazioni della distanza
+	
+	Dopo che si è iniziato a dare le indicazioni della distanza, il segnale non deve più essere dato.
+	
+3.3.6	Indicazioni della distanza
+	
+	La distanza tra i veicoli che accostano e l’ostacolo va indicata con le 
+espressioni verbali «un vagone – mezzo – quattro – due – uno», ognuna delle quali confermata nel modo seguente:
+	
+		Sollevare una volta il braccio teso all’altezza della spalla, due volte per l’indicazione due, perpendicolarmente al binario.
+		Significato	Indicazione della distanza
+		Relazione con altri segnali
+			Può seguire la fermata
+	
+3.3.7	Colpo
+	
+	 	Un fischio breve e uno lungo, nonché un unico rapido movimento semicircolare del braccio alza-
+to, in direzione del colpo.
+Il segnale va confermato con l’espressione verbale colpo.
+		Termine	Colpo
+		Significato	Accelerazione rapida del movimento di manovra
+	
+	Se davanti e dietro il veicolo motore ci sono dei veicoli, il MAC deve essere avvisato riguardo alla direzione del colpo.
+	Immediatamente dopo l’emissione dell’ordine colpo si deve dare il segnale seguente:
+	
+		Oscillazione rapida del braccio teso verso il suolo obliquamente al binario fino al raggiungimento della velocità voluta.
+		Significato	Sorveglianza ottica del collegamento tra il CMAN che osserva l’itinerario e il MAC
+		Relazione con altri segnali
+			Segue la fermata
+	
+3.3.8	Rallentare
+	
+		Muovere leggermente su e giù il braccio teso, perpendicolarmente al binario.
+		Termine	Rallentare
+		Significato	Rallentamento della corsa
+3.3.9	Fermata
+	
+		Di giorno
+Tre fischi brevi e muovere rapidamente su e giù il braccio teso, perpendicolarmente al binario
+Di notte
+Tre fischi brevi e muovere rapidamente su e giù la lanterna con luce rossa; in mancanza di questa si può eccezionalmente utilizzare una luce bianca.
+		Termine	Fermata
+		Significato	Fermare
+	
+3.3.10	Appoggiare
+	
+		Avviso verbale e sollevare entrambe le braccia in avanti all’altezza delle spalle e avvicinare fra di loro ripetutamente i palmi tesi delle mani.
+		Termine	Appoggiare
+		Significato	Muovere con prudenza in direzione del CMAN
+	
+	Se a causa dell’eccessiva distanza o durante l’operazione di accoppiamento / sganciamento l’avviso verbale non è possibile, l’ordine di appoggiare deve essere completato con due fischi brevi.
+	
+3.3.11	Avanzare o retrocedere su brevi tratti
+	
+		Uno rispettivamente due fischi prolungati e oscillazione lenta del braccio teso obliquamente verso il suolo, nella direzione di marcia.
+		Significato	Avanzare o retrocedere
+		Relazione con altri segnali
+			Poco tempo dopo aver impartito questo ordine segue la fermata
+	
+3.3.12	Suoneria di manovra e avvisatore acustico di manovra
+	
+	In condizioni semplici, il consenso per un movimento di manovra può 
+essere accordato con la suoneria o l’avvisatore di manovra con il segnale  (lungo–corto–lungo).
+
+	
+3.4	Segnali indicatori per movimenti di manovra
+3.4.1	Contrassegno dei citofoni e dei punti d’annuncio 
+per locomotive
+	
+	I citofoni e i punti d’annuncio per locomotive servono per l’informazione tra il MAC e il CMOV. Possono essere utilizzati dalla cabina di guida e anche da terra.
+	
+		Con supporti contrassegnati nei colori nero-arancione
+		Termine	Chiamata obbligatoria
+		Significato	La presa di contatto dal MAC col CMOV è obbligatoria.
+Si rinuncia alla presa di contatto se il segnale fisso posto dopo il citofono o il punto d’annuncio mostra via libera
+	
+		Con supporti contrassegnati nei colori nero-bianco
+		Termine	Chiamata facoltativa
+		Significato	La presa di contatto dal MAC al CMOV è facoltativa.
+Una luce lampeggiante bianca situata in alto sull’altoparlante, può rendere attento il MAC del fatto che il MAC è richiesto al citofono 
+	
+
+	
+3.4.2	Segni di pericolo
+	
+	Strisce giallo-nere contrassegnano ostacoli che si avvicinano al profilo o che possono costituire una fonte di pericolo non inequivocabilmente riconoscibile.
+	
+		Termine	Attenzione profilo
+		Significato	Particolare prudenza
+	
+	
+	
+
+	
+4	Segnali per la preparazione dei treni
+4.1	Prova dei freni
+4.1.1	Segnali fissi per la prova dei freni
+	
+		Termine	Frenare
+		Significato	Ordine di frenare
+	
+		Termine	Frenare con il freno magnetico di rotaia
+		Significato	Ordine di frenare secondo il procedimento per la prova del freno magnetico di rotaia
+	
+		Termine	Allentare
+		Significato	Ordine di allentare i freni
+	
+
+	
+		Termine
+Significato	Freno buono
+I freni sono in ordine
+			
+			
+4.1.2	Segnali per la prova dei freni dati dal personale
+	
+	Se gli ordini e gli annunci al MAC per la prova dei freni non possono essere trasmessi verbalmente, col telefono o con segnali fissi, vanno dati con lo zufolino e completati con movimenti delle braccia, rispettivamente di notte, laddove non è previsto altrimenti, con una luce bianca.
+	
+	Frenare
+	
+	
+Di giorno     	Di giorno
+Tre brevi fischi, sollevare le due braccia in direzione verticale e congiungere le mani aperte sopra la testa, perpendicolarmente al binario
+Di notte
+Tre brevi fischi, sollevare lentamente la luce bianca descrivendo un semicerchio, poi abbassarla rapidamente in direzione verticale
+		Termine	Frenare
+		Significato	Ordine di frenare
+	
+	
+Di notte  	
+	
+	Allentare il freno
+	
+		Due brevi fischi e oscillare il braccio alzato perpendicolarmente al treno.
+		Termine	Allentare
+		Significato	Ordine di allentare i freni
+	
+
+	
+	Freno buono
+	
+		Mostrare al MAC il palmo della mano 
+alzata.
+Il segnale del personale Freno buono va quietanzato da parte del MAC con il medesimo movimento. 
+		Termine	Freno buono
+		Significato	I freni sono in ordine
+	
+4.2	Prontezza
+	
+		Tener alzato il braccio rispettivamente di notte una luce bianca, verso la persona che dà il permesso per la partenza.
+		Termine	Pronto
+		Significato	Il treno è pronto
+
+
+5	Segnali per corse treno
+5.1	Segnali per treni
+5.1.1	Principio
+	
+	I segnali per treni valgono per le corse treno. Si fa la distinzione tra segnali avanzati e principali da una parte e tra il sistema di segnaletica L e N dall’altra.
+Per principio un segnale principale può segnalare tutte le immagini e nella posizione di base mostra la fermata. Per contro un segnale avanzato non può mostrare fermata e nella posizione di base mostra avvertimento.
+	
+5.1.2	Sistema di segnaletica L
+	
+	L’avviso e l’esecuzione di una velocità vengono segnalati mediante la combinazione di punti luminosi a colori.
+	
+5.1.3	Sistema di segnaletica N
+	
+	L’avviso e l’esecuzione di una velocità vengono segnalati con un punto luminoso e con un numero.
+	
+5.1.4	Segnali avanzati
+	
+	Segnale avanzato sistema L
+	
+		Il segnale avanzato del sistema L può mostrare:
+–	avvertimento
+–	avviso di velocità
+–	esecuzione di velocità
+–	avviso di via libera
+–	via libera
+	
+
+	
+	Segnale avanzato sistema N
+	
+		Il segnale avanzato del sistema N è contrassegnato con un bordo quadrato bianco catarifrangente. Esso può mostrare:
+–	avvertimento
+–	avviso di velocità
+–	esecuzione di velocità
+–	via libera
+	
+	Segnali ripetitori
+	
+	Laddove dopo un segnale la visuale sul segnale successivo è ostacolata, il segnale può essere ripetuto. A partire da un segnale di ripetizione il percorso di frenatura per la velocità massima ammessa non è assicurato. Ai sensi di queste prescrizioni un segnale di ripetizione non vale come prossimo segnale. 
+	
+	Tavola d’indicazione del segnale di ripetizione sistema N
+	
+		Il segnale di ripetizione del sistema N viene contrassegnato con una tavola bianca catarifrangente con due stelle nere
+	
+
+	
+5.1.5	Segnali principali
+	
+	Segnale principale sistema L
+	
+		Le lenti di un segnale principale sono disposte in un’unica fila verticale; per ragioni di spazio la lente per la luce rossa e quella per la luce rossa di soccorso possono eventualmente essere leggermente spostate rispetto alla fila verticale.
+I segnali principali del sistema L possono mostrare:
+–	fermata 
+–	avvertimento
+–	avviso di velocità
+–	esecuzione di velocità
+–	avviso di via libera
+–	via libera
+–	corsa breve
+–	senale ausiliario
+Se in base alla disposizione delle lenti non si riconosce che si tratta di un segnale principale, lo stesso viene contras-segnato con la posa di una tavola bianca con bordo nero e con un punto nero
+	
+	Segnale principale sistema N
+	
+		Il segnale principale del sistema N è contrassegnato con un cerchio bianco catarifrangente. Il segnale può mostrare:
+–	fermata
+–	avvertimento
+–	avviso di velocità
+–	esecuzione di velocità
+–	via libera
+–	corsa breve
+–	entrata su binario occupato
+–	segnale ausiliario
+	
+	Minisegnali principali
+	
+	I minisegnali principali vengono utilizzati negli impianti merci, di smistamento e di manutenzione, sui quali si circola ad una velocità massima di 40 km/h.
+Il minisegnale principale si trova nelle vicinanze del suolo e vale per un solo binario. Negli impianti con segnali bassi il minisegnale principale si trova sopra un segnale basso.
+	
+		Il minisegnale principale è dotato di due lenti disposte verticalmente l’una sopra l’altra.
+Il minisegnale principale può mostrare fermata o avvertimento.
+	
+
+5.1.6	Segnale principale e avanzato del sistema L nello stesso punto
+	
+	Il segnale avanzato, montato nello stesso punto in cui si trova un segnale principale, si riferisce sempre al prossimo segnale.
+Il segnale avanzato mostra avvertimento o le sue luci sono spente finché il segnale che si trova nello stesso punto mostra fermata.
+Le luci del segnale avanzato sono spente quando il segnale principale che si trova sullo stesso supporto mostra corsa breve.
+	
+	
+	
+5.1.7	Contrassegno dei segnali
+	
+		Il segnale principale è contrassegnato con una lettera. Ad essa viene eventualmente aggiunto un numero corrispondente al binario cui appartiene il segnale.
+	
+		Il segnale avanzato porta la denominazione del segnale principale successivo completata con una stella posta in alto, i segnali di ripetizione sono muniti di due rispettivamente tre stelle.
+		
+5.2	Segnalazione con i segnali per treni
+5.2.1	Relazione di base reciproca fra i segnali per treni
+	
+	Il prossimo segnale mostra un’immagine da rispettare inferiore solo se ciò viene precedentemente segnalato da un corrispondente avviso.
+Il prossimo segnale può mostrare un’immagine da rispettare superiore senza che ciò sia stato precedentemente segnalato.
+	
+5.2.2	Avvertimento e preavvertimento
+	
+		Termine
+Significato	Avvertimento
+Riduzione della velocità affinché si possa fermare davanti al prossimo segnale che mostra fermata	
+		
+		Termine
+Significato	Avvertimento
+Riduzione della velocità affinché si possa fermare davanti al prossimo segnale che mostra fermata
+	
+	
+		Termine	Avvertimento
+		Significato	Riduzione della velocità affinché si possa fermare davanti al prossimo segnale che mostra fermata
+		
+			
+	
+		Termine	Preavvertimento
+		Significato	Riduzione della velocità affinché si possa fermare davanti al secondo segnale successivo. A partire dal prossimo segnale il percorso di frenatura per la velocità massima ammessa non assicurato
+		Relazione con altri segnali
+			Il prossimo segnale mostra avvertimento, il secondo segnale successivo mostra fermata
+
+		
+5.2.3	Fermata	
+		
+		Termine	Fermata	
+		Significato	Fermata davanti al segnale	
+		Relazione con altri segnali	
+			Il segnale è preceduto da un altro segnale che mostra avvertimento.
+Eccezione:
+Il segnale precedente può mostrare corsa breve o può essere una tavola per l’avviso di un segnale d’entrata privo di segnale avanzato	
+		
+		Termine	Fermata	
+		Significato	Fermata davanti al segnale	
+		Relazione con altri segnali	
+			Il segnale è preceduto da un altro segnale che mostra avvertimento	
+		
+		
+		
+		
+
+5.2.4	Avviso di via libera
+	
+		Termine	Avviso di via libera
+(Immagine 1*)
+		Significato	A partire dal prossimo segnale: corsa alla velocità massima 
+indicata nella tabella delle tratte
+		Termine
+Significato	Avviso di via libera
+A partire dal prossimo segnale: corsa alla velocità massima 
+indicata nella tabella delle tratte
+			
+	
+
+5.2.5	Via libera
+	
+		Termine
+Significato	Via libera (Immagine 1)
+Corsa alla velocità massima indicata nella tabella delle tratte
+			
+		Termine	Via libera
+		Significato	Corsa alla velocità massima indicata nella tabella delle tratte
+	
+
+5.2.6	Avviso di velocità	
+		
+		Termine	Avviso di velocità 40 km/h
+(Immagine 2*)	
+		Significato	A partire dal prossimo segnale rispettivamente dai relativi scambi, vale una velocità massima di 40 km/h. Se nella tabella delle tratte è indicata una velocità inferiore, vale quest’ ultima.
+Per le ferrovie a scartamento ridotto possono valere velocità più basse	
+		
+		Termine	Avviso di velocità 60 km/h
+(Immagine 3*)	
+		Significato	A partire dal prossimo segnale rispettivamente dai relativi scambi, vale una velocità massima di 60 km/h. Velocità più elevate sono indicate nella tabella delle tratte.
+Per le ferrovie a scartamento ridotto possono valere velocità più basse	
+	
+
+		Termine	Avviso di velocità 90 km/h
+(Immagine 5*)
+		Significato	A partire dal prossimo segnale rispettivamente dai relativi scambi, vale una velocità massima di 90 km/h.
+Per le ferrovie a scartamento ridotto possono valere velocità più basse
+	
+		Termine	Avviso di velocità
+		Significato	A partire dal prossimo segnale vale la velocità massima in km/h indicata dal numero  per 10
+	
+
+	
+5.2.7	Esecuzione di velocità
+	
+		Termine
+
+
+Significato	Esecuzione di velocità 
+40 km/h
+(Immagine 2)
+A partire da questo segnale rispettivamente dai relativi scambi, vale la velocità massima di 40 km/h. Se nella tabella delle tratte è indicata una velocità inferiore, vale quest’ ultima.
+Per le ferrovie a scartamento ridotto possono valere velocità più basse
+			
+		Termine	Esecuzione di velocità 
+60 km/h
+(Immagine 3)
+		Significato	A partire da questo segnale rispettivamente dai relativi scambi, vale la velocità massima di 60 km/h. Velocità più elevate sono indicate nella tabella delle tratte.
+Per le ferrovie a scartamento ridotto possono valere velocità più basse
+
+	
+		Termine	Esecuzione di velocità 
+90 km/h
+(Immagine 5)
+		Significato	A partire da questo segnale rispettivamente dai relativi scambi, vale la velocità massima di 90 km/h.
+Per le ferrovie a scartamento ridotto possono valere velocità più basse
+
+		Termine	Esecuzione di velocità
+		Significato	A partire da questo segnale vale la velocità massima in km/h indicata dal numero  per 10
+	
+
+	
+5.2.8	Corsa breve
+	
+		Termine	Corsa breve (Immagine 6)
+		Significato	A partire da questo segnale rispettivamente dai relativi scambi vale la velocità massima di 40 km/h. Se nella tabella delle tratte è indicata una velocità inferiore, vale quest’ultima.
+Per le ferrovie a scartamento ridotto possono valere velocità inferiori.
+Il prossimo segnale è posato a distanza accorciata
+		Relazione con altri segnali
+			Il prossimo segnale mostra fermata.
+Al segnale può anche seguire:
+–	un segnale di sbarramento
+–	un’estremità di binario con luce rossa
+	
+		Termine	Corsa breve
+		Significato	A partire da questo segnale vale la velocità massima di 
+40 km/h. Se nella tabella delle tratte è indicata una velocità inferiore, vale quest’ultima.
+Il prossimo segnale è posato a distanza accorciata
+		Relazione con altri segnali
+			Il prossimo segnale mostra fermata.
+Al segnale può anche seguire un’estremità di binario con luce rossa
+	
+
+		
+5.3	Segnali complementari	
+5.3.1	Segnale per binario occupato	
+		
+		Termine	Binario occupato	
+		Significato	Sul tratto di binario successivo bisogna aspettarsi un ostacolo	
+		Relazione con altri segnali	
+			Quando il segnale per binario occupato è illuminato, il relativo segnale principale mostra esecuzione di velocità 40 km/h o corsa breve. Se nello stesso punto è posato un segnale 
+avanzato, quest’ultimo è spento.	
+	
+		Termine	Binario occupato	
+		Significato	Sul tratto di binario successivo bisogna aspettarsi un ostacolo	
+		Relazione con altri segnali	
+			Quando il segnale per binario occupato è illuminato, il segnale precedente mostra avviso o esecuzione di velocità 40 km/h. Il rispettivo segnale mostra avvertimento	
+		
+		
+
+	
+5.3.2	Segnale per l’entrata in stazione non dotata di
+sottopassaggi o sovrapassaggi
+	
+		Termine	Entrata in una stazione non dotata di sottopassaggi o sovrapassaggi
+		Significato	Entrata su un binario vicino al fabbricato viaggiatori
+oppure
+entrate contemporanee
+		Relazione con altri segnali
+			Quando il segnale è illuminato, il relativo segnale principale mostra esecuzione di velocità 40 km/h o corsa breve. Se nello stesso punto è posato un segnale avanzato, quest’ultimo è spento
+	
+5.3.3	Segnali indicatori del numero di binario e di direzione 
+con sistema di segnaletica L
+	
+	Segnale indicatore del numero di binario
+	
+		Termine	Segnale indicatore del 
+numero di binario
+		Significato	Il percorso è disposto dal rispettivamente per il binario indicato nel segnale indicatore del numero di binario
+		Relazione con altri segnali
+			Il segnale indicatore del numero di binario si riferisce al segnale principale posato nello stesso punto
+	
+
+	
+	Segnale di direzione
+	
+		Termine	Segnale di direzione
+		Significato	Il percorso è disposto dal rispettivamente per il gruppo di binari o dalla/per la direzione indicata sul segnale di direzione
+		Relazione con altri segnali
+			Il segnale di direzione si riferisce al segnale principale posato nello stesso punto
+	
+5.3.4	Freccia d’indicazione per segnale di gruppo 
+	
+		Termine	Freccia d’indicazione per segnale di gruppo
+		Significato	La freccia mostra il binario a partire dal quale è disposto il percorso
+		Relazione con altri segnali
+			La freccia d’indicazione si riferisce al segnale principale posato nello stesso punto
+	
+5.3.5	Avvisatore della posizione di via libera
+	
+		Termine	Avvisatore della posizione di via libera
+		Significato	Il relativo segnale principale mostra via libera da questo binario
+	
+
+5.3.6	Tavola di fermata per segnale di gruppo
+	
+	In stazioni dotate di segnali di gruppo, prima del segno di sicurezza o del rispettivo ABL dello scambio determinante per un incrocio o per una precedenza, può essere posata una tavola di fermata per segnali di gruppo.
+La tavola di fermata per segnale di gruppo può essere collocata solo insieme ad un avvisatore per la posizione di via libera o ad una tavola per immagini di corsa.
+	Segnalazione con avvisatore della posizione di via libera
+	
+		Termine	Tavola di fermata per segnale di gruppo con avvisatore della posizione di via libera
+		Significato	All’entrata
+con il segnale di su posizione di fermata, fermata davanti alla tavola di fermata per segnale di gruppo
+Alla partenza
+con il segnale di gruppo su posizione di via libera, il segnale avvisatore di via libera illuminato vale come consenso per circolare
+	
+	Segnalazione con tavole indicatrice d’immagine
+	
+		Termine	Tavola di fermata per segnale di gruppo con tavola indicatrice d’immagine
+		Significato	All’entrata
+con il segnale di gruppo su posizione di fermata, fermata davanti alla tavola di fermata per segnale di gruppo
+Alla partenza
+se l’immagine del segnale di gruppo su posizione di via libera corrisponde con quella dell’indicatrice d’immagine a via libera, quest’ultima vale come consenso per la corsa (Im = immagine)
+	Tavola indicatrice d’immagine con tavola per posto di fermata
+	A complemento della tavola di fermata per segnale di gruppo, anche presso il posto abituale di fermata può essere posta una tavola indicatrice d’immagine unitamente ad una tavola per posto di fermata.
+	
+		Termine	Tavola indicatrice d’immagine con tavola per posto di fermata
+		Significato	La tavola indicatrice d’immagine indica quale immagine appare al segnale di gruppo in caso di uscita dal relativo binario (Im = immagine)
+	
+5.3.7	Segnali per binari tronchi
+	
+	Scambio con lanterna girevole
+	
+ 	
+	Di giorno	Di giorno	Termine
+Significato	Binario tronco
+Fermata per corse treno davanti allo scambio che porta verso il binario tronco
+	
+	        	Di notte	Di notte		
+	
+
+	Scambio con segnale fisso
+	
+	
+Di giorno	Termine	Binario tronco
+		Significato	Fermata per corse treno davanti allo scambio che porta verso il binario tronco
+	
+Di notte		
+			
+			
+5.4	Tavole d’orientamento per segnali avanzati e principali
+mancanti
+5.4.1	Tavola di preavviso per segnale d’entrata privo di segnale
+avanzato
+	
+		Termine	Segnale d’entrata privo di segnale avanzato
+		Significato	Il segnale d’entrata segue a distanza di frenatura. Al segnale d’entrata vi è da attendersi la fermata
+	
+5.4.2	Tavola d’orientamento S per segnale d’entrata mancante
+	
+		Termine	Segnale d’entrata mancante
+		Significato	Il primo scambio di una stazione segue a distanza di frenatura
+
+			
+5.5	Segnali d’indicazione per corse treno
+5.5.1	Tavola d’orientamento H per fermate
+	
+		Termine	Fermata
+		Significato	Segue una fermata. La tavola d’orientamento H si trova a distanza di frenatura dal centro della fermata
+	
+5.5.2	Segnale per fermata facoltativa
+	
+	Il segnale viene usato per le fermate e le stazioni con fermata facoltativa, si trova nella zona del posto di salita.
+	
+		Termine	Fermata facoltativa
+		Significato	Fermata per i treni con la relativa nota nell’orario di marcia
+	
+	I segnali più vecchi sono dotati di una sola lampadina.
+	
+5.5.3	Tavola d’orientamento per la soglia di velocità con sistema 
+di segnaletica L
+	
+		Termine	Soglia di velocità al primo scambio
+		Significato	La soglia di velocità si trova all’altezza del primo scambio
+		Relazione con altri segnali
+			Il segnale è posato all’altezza del relativo segnale avanzato d’entrata
+	
+
+5.5.4	Tavola d’orientamento per un prossimo segnale d’entrata 
+con sistema di segnaletica N
+	
+		Termine	Preavviso di un segnale d’entrata N
+		Significato	Il prossimo segnale è un segnale d’entrata
+		Relazione con altri segnali
+			Nel caso che il prossimo segnale sia un segnale di ripetizione, il significato vale per il secondo segnale successivo
+	
+5.5.5	Tavola d’orientamento per velocità di tratta con sistema 
+di segnaletica N
+	
+		Termine	Velocità di tratta
+		Significato	A partire da questa tavola d’orientamento vale la velocità di tratta
+		Relazione con altri segnali
+			La tavola d’orientamento è preceduta da un segnale principale
+	
+5.5.6	Tavola d’orientamento per l’attivazione del controllo della marcia dei treni
+	
+	La tavola d’orientamento si trova direttamente prima o nei pressi del segnale avanzato interessato.
+	
+		Significato	Oltre che in caso di avvertimento, il controllo della marcia dei treni si attiva anche per singole immagini di via libera
+	
+
+5.5.7	Tavole per posto di fermata e lunghezza 
+dei treni per treni che si fermano in esercizio ferroviario	
+		
+		Termine	Posto di fermata	
+		Significato	Posto di fermata per tutti i treni viaggiatori	
+		
+		Termine	Posto di fermata	
+		Significato	Posto di fermata per i treni viaggiatori lunghi 100 metri	
+		Relazione con altri segnali	
+			Oltre alla tavola raffigurata possono pure seguire tavole 05, 15, 2, 25, 3, 35, 4, ecc. per treni lunghi 50, 150, 200, 250, 300, 350, 400 metri, ecc.	
+		
+		Termine	Tavola per la lunghezza dei treni	
+		Significato	Posto di fermata per tutti i treni con la rispettiva lunghezza	
+		
+	Se le lunghezze dei treni non corrispondono ai valori indicati sulle tavole, il posto di fermata si sposta in conformità.
+Le indicazioni sulle tavole si riferiscono alla lunghezza del treno compreso il veicolo motore.	
+		
+		Termine	Tavola per la lunghezza dei treni	
+		Significato	Posto di fermata per tutti i treni con corrispondente numero di assi	
+		
+	Sulle tavole d’indicazione più vecchie, la lunghezza del treno può anche essere indicata con il numero degli assi.
+	
+	
+5.5.8	Segnalazione del posto di fermata in esercizio di tram
+	
+	In esercizio di tram i GI stabiliscono i segnali che indicano i posti di fermata.
+	
+5.5.9	Visualizzazione dello stato per segnali per tranvie in esercizio tram
+	
+	In esercizio tram, i GI possono disciplinare nelle prescrizioni d’esercizio le visualizzazioni dello stato per segnali per tranvie. Queste visualizzazioni dello stato mostrano lo stato previsto del segnale per tranvie associato, senza che gli venga attribuito il significato di un segnale avanzato.
+	
+
+5.6	Segnali di partenza	
+		
+	Il segnale per il permesso di partenza può essere dato solo quando c’è il consenso per l’uscita.	
+		
+5.6.1	Segnale fisso per il permesso di partenza	
+		
+		Termine	Permesso di partenza	
+		Significato	Impartire il permesso di partenza	
+		
+5.6.2	Segnali del personale per il permesso di partenza	
+		
+	Se al MAC il permesso di partenza non può essere accordato con l’apposito segnale fisso, deve essere dato nel seguente modo:	
+		
+	Fischietto a trillo	
+		
+		Un fischio lungo prolungato col fischietto a trillo e un movimento unico del braccio sollevato, di notte inoltre con luce bianca o verde, nella direzione di marcia.	
+		Termine	Permesso di partenza	
+		Significato	Impartire il permesso di partenza	
+	
+
+	Paletta di comando o lanterna a mano
+	
+	
+Di giorno   	Di giorno
+Lenta oscillazione della paletta di comando sollevata perpendicolarmente al treno, fin quando esso si mette in moto
+Di notte
+Lenta oscillazione della lanterna a mano o della pila tascabile con luce verde sollevata perpendicolarmente al treno, fin quando esso si mette in moto	
+		Termine	Permesso di partenza	
+		Significato	Impartire il permesso di partenza	
+			
+	
+Di notte  		
+			
+
+5.7	Segnali sui veicoli per corse treno
+5.7.1	Contrassegno dei veicoli motore attivi
+	
+	Ai sensi di questa prescrizione le unità spola sono considerate veicoli motore.
+	
+		Davanti tre luci bianche
+		Termine	Testa del treno
+	
+	Sui veicoli motore che non circolano in testa al treno, le luci della direzione in avanti sono spente.
+	
+		Dietro luci spente o in basso una luce bianca
+			
+			
+	
+	Le luci fra i veicoli motori che circolano in comando multiplo sono tutte spente.
+
+5.7.2	Contrassegno della coda del treno
+	
+	
+	Termine 	Segnale di coda del treno
+		Dietro l’ultimo veicolo mostra disposti sopra i respingenti su un asse trasversale:
+–	per i treni viaggiatori e in esercizio di tram
+–	due luci rosse (luce continua) secondo la figura 587
+–	per i treni merci
+–	due dischi bianchi e rossi riflettenti secondo la figura 588 oppure
+–	due luci rosse (luce continua) secondo la figura 587
+Ove necessario, a causa di condizioni costruttivi dei veicoli, o considerando le esigenze del GI, su tratte non interoperabili e su tratte della rete complementare interoperabile come pure in esercizio tram l’ultimo veicolo dei treni viaggiatori e dei treni merci può mostrare:
+–	una luce rossa (luce continua) # oppure 
+–	una luce rossa lampeggiante # oppure 
+–	un disco bianco e rosso riflettente #
+	
+5.7.3	Contrassegno dei treni con guida indiretta
+	
+	I veicoli in testa al treno mostrano una luce bianca davanti nella direzione di corsa. Fuori delle gallerie, di giorno, si può rinunciare a segnalare la testa del treno. 
+	
+5.7.4	Contrassegno della locomotiva di spinta non accoppiata
+	
+	La locomotiva di spinta non accoppiata quando spinge lungo la tratta, nonché al momento della corsa di ritorno alla stazione precedente, mostra
+–	davanti tre luci bianche
+–	dietro una luce bianca.
+L’ultimo veicolo accoppiato mostra il segnale di coda. 
+
+6	Cifra stralciata
+	
+
+7	Segnali per il servizio elettrico
+	
+	I segnali per il servizio elettrico devono essere riconoscibili in modo inequivocabile anche di notte.
+	
+7.1	Segnali con validità generale per il servizio elettrico
+	
+7.1.1	Contrassegno dei dispositivi di messa a terra
+	
+	
+Di giorno    	Termine	Sezione della linea di contatto disinserita e messa a terra
+		Significato	Fermata per i veicoli con pantografi alzati davanti alla sezione di linea di contatto interessata
+	
+
+	
+Di notte   		
+			
+	
+	A condizione che il dispositivo messa a terra sia appeso all’interno del profilo di spazio libero, la banderuola rossa rispettivamente la lanterna a luce rossa vale come segnale di fermata per tutte le corse.
+	
+7.1.2	Segnali per pantografi
+	
+		Termine	Segnale d’avviso del segnale d’abbassamento
+		Significato	A partire dal segnale d’abbassamento i pantografi devono essere abbassati
+		Relazione con altri segnali
+			Segue un segnale di abbassa-mento.
+Può seguire un segnale di soppressione
+	
+
+		Termine	Segnale d’abbassamento
+		Significato	Fermata per i veicoli con pantografo alzato
+		Relazione con altri segnali
+			Il segnale d’abbassamento può essere preceduto da un segnale d’avviso e può essere seguito da un segnale terminale.
+Negli impianti di stazione e in quelli di binari di raccordo, il segnale d’abbassamento può essere utilizzato anche da solo:
+–	come segnale fisso
+–	come segnale amovibile
+–	come segnale girevole sul palo o sulla lanterna dello scambio.
+Il segnale d’abbassa-mento può essere utilizzato anche come segnale luminoso sormontato da un capitello triangolare color bianco
+	
+		Termine	Segnale terminale del segnale d’abbassamento
+		Significato	Permesso di alzare il pantografo
+		Relazione con altri segnali
+			È preceduto da un segnale d’abbassamento
+	
+
+		Termine	Segnale d’annullamento del segnale d’abbassamento	
+		Significato	A partire da questo punto la sezione da percorrere a pantografo abbassato non viene percorsa	
+		Relazione con altri segnali
+			È preceduto da un segnale d’avviso
+	
+7.1.3	Segnali per tratte di protezione
+	
+	L’inizio e la fine di tratte di protezione permanenti sono contrassegnati da tavole di segnalazione. 
+L’inizio e la fine di tratte di protezione facoltative sono contrassegnati con segnali luminosi.
+In esercizio di tram, possono mancare sia il segnale avanzato del segnale di disinserimento sia il segnale d’inserimento. Invece di disinserire l’interruttore principale, il punto di separazione dev’essere percorso per quanto possibile senza corrente di trazione e di frenatura. I punti di separazione sono situati immediatamente dopo il segnale di disinserimento.
+	
+		Termine	Segnale d’avviso per il segnale di disinserimento
+		Significato	Preparazione al disinserimento
+		Relazione con altri segnali
+			Segue un segnale di disinserimento
+	
+		Termine	Segnale di disinserimento
+		Significato	Transito con interruttore principale disinserito
+		Relazione con altri segnali
+			Il segnale di disinserimento può essere preceduto da un segnale d’avviso ed è seguito da un segnale d’inserimento
+	
+		Termine	Segnale d’inserimento
+		Significato	Proseguimento della corsa con interruttore principale inserito
+		Relazione con altri segnali
+			È preceduto da un segnale di disinserimento.
+Quando una tratta di protezione dotata di segnali luminosi è messa sotto tensione e può essere percorsa senza disinserire l’interruttore principale, anche il segnale d’avviso e il segnale di disinserimento, se sono illuminati, mostrano l’immagine del segnale d’inserimento
+	
+7.1.4	Segnale per il sezionamento di tratta in esercizio ferroviario
+	
+		Termine	Sezionamento di tratta
+		Significato	Fermata per i veicoli con pantografo alzato quando la linea di contatto di tratta è disinserita
+		Relazione con altri segnali
+			Lato stazione, il sezionamento di tratta è contrassegnato col segnale per il sezionamento, lato tratta dal segnale d’entrata
+	
+
+7.1.5	Segnale per punto di separazione in esercizio di tram
+	
+		Termine
+Significato	Punto di separazione
+Posizione del punto di separazione elettrico
+	
+7.2	Segnali nell’ambito di sistemi di corrente diversi
+7.2.1	Segnale per i pantografi prima di tratte di protezione 
+fra sistemi di corrente diversi
+	
+	L’inizio di una tratta di protezione fra sistemi di corrente diversi (fra le linee di contatto di sistemi di corrente diversi) che può essere percorsa solo a pantografo abbassato, è contrassegnato col segnale d’abbassa-mento.
+	
+7.2.2	Segnale di protezione di zone commutabili
+	
+	In stazioni con zone commutabili, le tratte di protezione fra sistemi di corrente diversi sono contrassegnate con segnali di protezione di zone commutabili.
+	
+		Termine	Inizio della tratta di protezione della zona commutabile
+		Significato	–	Fermata per i veicoli motore monocorrente con pantografo alzato
+–	Fermata per i veicoli motore policorrente con pantografo alzato.
+Eccezione:
+Se i pantografi possono essere impiegati per i due sistemi di corrente, il transito di veicoli motore con pantografo alzato e con interruttore principale disinserito è consentito
+	
+
+7.2.3	Segnale di zona
+	
+	Il segnale di zona mostra lo stato di tensione della zona commutabile.
+	
+			Numeri	Sistema di corrente
+		Significato	 0
+11
+15
+25
+ 3–
+ 1–	linea di contatto disinserita
+11 000 Volt, 16,7 Hz
+15 000 Volt, 16,7 Hz
+25 000 Volt, 50 Hz
+3 000 Volt, corrente continua
+fino a 1 500 Volt, corrente continua
+	
+
+7.2.4	Segnale per il cambiamento di corrente
+	
+	Sulle tratte e nelle stazioni, le tratte di protezione con segnali per il cambiamento di corrente sono contrassegnate come segue:
+–	con tavole di segnale, o
+–	con segnali luminosi
+–	negli impianti con zone commutabili, qualora il segnale 
+Inizio della tratta di protezione non viene applicato
+–	se il percorso inserito può condurre su una tratta di protezione.
+Su tratte a semplice binario il segnale di commutazione si trova a sinistra della linea di contatto e quello finale a destra. I numeri sui segnali per il cambiamento di corrente hanno lo stesso significato come nel caso del segnale di zona.
+	
+		Termine	Segnale avanzato di commutazione
+		Significato	Dopo il prossimo segnale di cambio di tensione segue una tratta di protezione con cambio di tensione. 
+Il numero annuncia la nuova tensione dopo la tratta di protezione
+		Relazione con altri segnali
+			Ne segue un segnale di commutazione
+	
+
+	
+		Termine	Segnale di commutazione
+		Significato	Il numero superiore si riferisce alla tensione della linea di con-tatto prima della tratta di protezione, quello inferiore a quella dopo la tratta di protezione.
+–	Fermata per i veicoli motore monocorrente con pantografo alzato
+–	Fermata per i veicoli motore policorrente con pantografo alzato.
+Eccezione:
+Se i pantografi possono essere impiegati per i due sistemi di corrente, il transito di veicoli motore con pantografo alzato e con interruttore principale disinserito è consentito
+		Relazione con altri segnali
+			i segnali luminosi vengono preceduti da un segnale avanzato.
+Segue un segnale terminale
+			
+		Termine	Segnale terminale della tratta di protezione
+		Significato	Proseguimento della corsa col rispettivo sistema di corrente
+		Relazione con altri segnali
+			È preceduto da un segnale di commutazione
+	
+	
+	
+
+8	Segnali in caso di irregolarità
+8.1	Segnali in caso di pericolo
+8.1.1	Segnale di fermata in caso di pericolo
+	
+	Se una corsa treno o un movimento di manovra devono essere fermati a causa di un pericolo incombente, si deve dare il segnale fermata – pericolo.
+	
+	
+Di giorno    	Termine	Fermata – pericolo
+		Significato	Fermata per le corse treno e per i movimenti di manovra facendo uso di tutti i mezzi di frenatura possibili
+	
+	
+Luce rossa   
+Di notte   		
+			
+	
+	Il segnale va dato, se del caso, più volte nelle immediate vicinanze del binario percorso; la banderuola o la lanterna con luce rossa vanno fatte oscillare fino all’arresto del treno o del movimento di manovra.
+Se non si dispone di una banderuola rossa o di una lanterna con luce rossa, il segnale può essere dato anche con la mano o con la lanterna con luce bianca.
+Il MAC dà il segnale con il fischietto della locomotiva.
+	
+
+	
+8.1.2	Segnale d’avvertimento
+	
+		Termine	Segnale d’avvertimento
+		Significato	Fermata per corse treno e movimenti di manovra su binari che corrono paralleli
+	oppure
+	
+
+	
+8.1.3	Fermata d’emergenza nelle aree di lavoro
+	
+	
+Più luci rosse   	Termine	Fermata d’emergenza nelle aree di lavoro
+		Significato	Fermata per corse treno e movimenti di manovra
+	
+8.2	Segnali in caso di perturbazione
+8.2.1	Cifra stralciata
+	
+
+8.2.2	Segnale ausiliario	
+		
+	Segnale ausiliario del sistema di segnaletica L	
+		
+	
+oppure
+
+	Termine	Segnale ausiliario L	
+		Significato	Consenso per il superamento
+–	del segnale principale su posizione di fermata o spento (figura 807)
+–	del segnale principale con luce rossa lampeggiante (figura 809)
+e corsa a vista	
+		Relazione con altri segnali 	
+			Al prossimo segnale ci si deve attendere fermata, o avvertimento se si tratta di un segnale avanzato.
+Il segnale ausiliario si trova nello stesso posto del rispettivo segnale principale su posizione di fermata o spento (figura 807)
+	
+				
+				
+				
+		
+	Segnale ausiliario del sistema di segnaletica N
+	
+		Termine	Segnale ausiliario N
+		Significato	Consenso per il superamento del segnale principale con luce rossa lampeggiante e corsa a vista
+		Relazione con altri segnali
+			Al prossimo segnale ci si deve attendere fermata, rispettiva-mente avvertimento. Dopo una tavola d’orientamento per la velocità di tratta, non segue un segnale principale su posizione di fermata
+
+8.2.3	Segnale principale per impianto di passaggio a livello perturbato
+	
+	Segnale principale per impianto di passaggio a livello perturbato del sistema di segnaletica L
+	
+		Termine	Impianto di passaggio a livello perturbato
+		Significato	Consenso per il superamento del segnale principale con la luce rossa lampeggiante e percorrere l’impianto di passaggio a livello perturbato.
+Gli elementi del percorso 
+controllati nel settore del segnale e il corrispondente blocco di tratta funzionano normalmente.
+Se il segnale principale sorveglia più impianti di passaggio a livello, la loro quantità viene indicata sulla segnalazione complementare. All’interno di una zona con concatenamento di impianti di passaggio a livello va rinunciato alla tavola complementare.
+		Relazione con altri segnali
+			Può essere preceduto da un segnale avanzato che mostra avvertimento
+	
+
+9	Segnali non valevoli o valevoli temporaneamente
+9.1	Segnali non valevoli
+9.1.1	Contrassegno
+	
+		Un segnale non valevole è contrassegnato con una croce bianco-nera oppure è coperto
+	
+9.1.2	Immagine del segnale
+	
+		Se nello stesso punto sono collocati più segnali, quelli non muniti di una croce o non coperti sono valevoli
+	
+	I segnali non valevoli non presentano alcuna immagine. A scopo di prova possono mostrare un’immagine a condizione che non esista il rischio di confusione.
+	
+
+	
+9.2	Segnali luminosi valevoli temporaneamente
+9.2.1	Segnali luminosi con capitello triangolare
+	
+	Un segnale luminoso valevole temporaneamente porta un capitello bianco triangolare.
+	
+		Significato	Quando è spento il segnale luminoso è privo di significato
+			
+	
+9.2.2	Segnali luminosi senza capitello triangolare
+	
+	Quando sono spenti i seguenti segnali luminosi sono privi di significato:
+–	segnale per binario occupato sistema L
+–	segnale per entrate contemporanee
+–	segnale indicatore del numero di binario
+–	segnale di direzione
+–	segnale ausiliario sistema L
+–	segnale per fermata facoltativa
+–	segnale per tratte di protezione facoltative #
+–	segnale di protezione di zone commutabili #
+–	segnale per il cambiamento di corrente #
+
+	
+
+	
+10	Segnali di lavori in corso nella zona dei binari					
+						
+	I segnali per l’area di lavoro non hanno alcun rilievo per il MAC.					
+						
+10.1	Allarme nelle aree di lavoro, fisso o mobile					
+10.1.1	Allarme ottico					
+								
+		Termine	Impianto d’allarme ottico					
+		Significato	Rinforza i segnali d’allarme o li sostituisce secondo le direttive del GI			
+						
+10.1.2	Allarme acustico					
+								
+		1 suono prolungato, modulato o costante con un dispositivo d’allarme acustico					
+		Termine	Segnale d’allarme 1			
+		Significato	Segue una corsa treno sul binario adiacente			
+						
+		2 suoni prolungati, modulati o costanti, con un dispositivo d’allarme acustico					
+		Termine	Segnale d’allarme 2		
+		Significato	Segue una corsa sul binario di lavoro o adiacente		
+			
+		Veloce sequenza di almeno 4 suoni brevi con un dispositivo d’allarme acustico		
+		Termine	Segnale d’allarme «Pericolo»		
+		Significato	Pericolo immediato		
+		
+10.2	Tavole d’orientamento per lo sgombero della neve	
+		
+	Le costruzioni che ostacolano lo sgombero della neve sulla tratta sono contrassegnate con tavole d’orientamento.
+Nel caso che vi siano ostacoli lunghi, p.es. passaggi a livello, possono essere collocate tavole d’orientamento all’inizio e alla fine.	
+					
+		Termine	Ostacolo per lo sgombero della neve				
+		Significato	Sollevamento del vomere rispettivamente della turbina				
+	Altri contrassegni sono ammessi.				
+					
+10.3	Tavole d’orientamento per le zone di protezione delle acque sotterranee				
+					
+	Le zone da proteggere durante le operazioni di diserbatura sono contrassegnate con tavole d’orientamento. Le tavole sono situate nelle vicinanze del suolo, trasversalmente al binario.				
+					
+		Termine	Inizio della zona di protezione delle acque sotterranee				
+							
+					
+		Termine	Fine della zona di protezione delle acque sotterranee				
+							
+					
+		Termine	Inizio del settore di captazione di una zona di protezione delle acque sotterranee				
+							
+					
+		Termine	Fine del settore di captazione di una zona di protezione delle acque sotterranee				
+							
+							
+
+
+
+
+
+Annesso 1
+
+
+
+Esempi di posa dei segnali di rallentamento
+
+
+
+
+1	Posa dei segnali di rallentamento
+1.1	Leggenda
+	
+		tratto di rallentamento 
+distanza di frenatura in una zona di SCab 
+
+
+direzione di corsa 
+controllo della marcia dei treni
+	
+	Le immagini dei segnali sono rappresentate così come il MAC le vede nella direzione di corsa. Il bordo superiore dei segnali corrisponde alla posizione reale del segnale, perpendicolarmente all’asse del binario.
+	
+1.2	Una riduzione di velocità sullo stesso binario
+1.2.1	Tratta a semplice binario
+	
+	
+	
+1.2.2	Tratta a doppio binario con dispositivo per l’esercizio 
+a semplice binario
+	
+	
+	
+1.2.3	Tratta a doppio binario con dispositivo per l’esercizio banalizzato
+	
+	
+
+1.2.4	Tratta a tre binari con dispositivo per l’esercizio banalizzato
+	
+	
+	
+1.2.5	Tratta a quattro binari con dispositivo per l’esercizio banalizzato
+	
+	
+	
+1.3	Differenti riduzioni di velocità sullo stesso binario
+1.3.1	Tratta a semplice binario
+	
+	
+	
+1.3.2	Tratta a doppio binario con dispositivo per l’esercizio 
+a semplice binario
+	
+	
+	
+	
+
+1.4	Differenti velocità su binari adiacenti dopo 
+un posto di cambio di binario
+	
+	Onde permettere una visione d’assieme migliore, nei disegni sotto questa cifra, i segnali sono rappresentati per una sola direzione di corsa.
+	
+1.4.1	Tratta a doppio binario con dispositivo per l’esercizio banalizzato
+	
+	
+	
+1.4.2	Tratta a tre binari con dispositivo per l’esercizio banalizzato
+	
+	
+	
+1.4.3	Tratta a doppio binario con dispositivo per l’esercizio banalizzato e binari in stazione
+	
+	
+
+	
+1.5	Segnalazione di rallentamenti nel passagio alla SCab
+1.5.1	Cifra stralciata
+	
+	
+1.5.2	Tratto di rallentamento all’interno della SCab con distanza di frenatura in parte nella zona di segnalazione esterna
+	
+	
+	
+1.5.3	Tratto di rallentamento nel settore di passaggio fra segnalazione esterna e SCab
+	
+	
+	
+1.5.4	Tratto di rallentamento all’interno della segnalazione esterna con distanza di frenatura in parte in una zona di SCab
+	
+	
+	
+
+Annesso 2
+
+
+
+Esempi di segnalazione con i segnali per treni
+
+
+
+1.  Fermata		
+
+
+2.  Entrata con via libera e fermata davanti al segnale d’uscita
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+3. Transito con via libera
+		
+
+
+4. Entrata con velocità segnalata e fermata davanti al segnale d’uscita
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+5. Transito con velocità segnalate
+    Velocità d’entrata superiore rispetto a quella d’uscita		
+
+6. Transito a velocità segnalate
+    Velocità d’entrata inferiore rispetto a quella d’uscita	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+7. Entrata su un binario occupato		
+
+
+8. Corsa breve segnalata dal segnale d’entrata	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+9. Corsa breve su un binario occupato		
+
+
+10. Entrata prolungata nel caso di segnali di settore di binario
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+11. Entrata prolungata su un binario occupato
+		
+
+
+12. Preavvertimento – Avvertimento – Fermata in caso di blocco breve
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Annesso 3
+
+
+
+Esempi di segnalazione continua
+
+
+
+
+    1. Segnalazione continua della velocità con zona tranvie in esercizio ferroviario
+
+Per una migliore visione d’insieme, nella figura sono rappresentati soltanto i segnali per una direzione.			
+	
+
+
+
+Segnalazione della zona tranvie
+
+Segnalazione della velocità
+
+
+
+	Leggenda
+
+Esercizio di tram
+Esercizio ferroviario (all’interno dell’esercizio ferrroviario vedi cifra 1)
+         		     
+
+
+
+
+
+
+
+Segnalazione del limite tra esercizio ferroviario e di tram
+
+
+Segnalazione della velocità
+
+Allegato 1
+
+
+
+Segnali per il traffico Huckepack
+
+
+
+
+
+
+1	Segnali per il traffico Huckepack
+	
+	Questi segnali sono valevoli solo per i treni SIM (Simplon-Inter-Modal) e per i movimenti di manovra con carri SIM.
+	
+1.1	Tavola d’orientamento per l’annuncio nel corridoio d’entrata
+	
+		Termine	Tavola d’inizio
+		Significato	Punto d’annuncio del numero del treno tra la tavola d’inizio e quella di fine
+		Relazione con altri segnali
+			Segue una tavola di fine
+	
+		Termine	Tavola di fine
+		Significato	Annuncio concluso
+		Relazione con altri segnali
+			È preceduto da una tavola d’inizio
+	
+	
+1.2	Tavola di divieto per il traffico Huckepack
+	
+	Le tavole di divieto per il traffico Huckepack vengono collocate nelle vicinanze del suolo e a sinistra, eccezionalmente a destra. La punta della tavola del segnale indica il rispettivo binario.
+	
+		Termine	Fermata 
+		Significato	Fermata davanti al segnale
+	
+	
+	
+	
+	
+
+1.3	Segnale di divieto per il traffico Huckepack
+1.3.1	Segnale avanzato per il traffico Huckepack
+	
+		Termine	Avvertimento
+		Significato	Fermata davanti al prossimo segnale di divieto per il traffico Huckepack
+		Relazione con altri segnali
+			Segue un segnale di divieto per il traffico Huckepack
+	
+1.3.2	Segnale di divieto per il traffico Huckepack
+	
+		Termine	Fermata
+		Significato	Fermata davanti al segnale
+		Relazione con altri segnali
+			È preceduto da un segnale avanzato per traffico Hucke-pack
+	
+1.4	Tavola di percorso per il traffico Huckepack
+	
+	Le tavole di percorso per il traffico Huckepack mostrano l’itinerario ammesso.
+	
+		Significato	Fermata davanti allo scambio che porta in direzione del punto viola in caso di superamento di un segnale principale disposto su fermata
+Allegato 2
+
+
+
+Segnali meccanici 
+
+
+
+
+
+1	Segnali per treni
+1.1	Segnale principale
+1.1.1	Fermata
+	
+	Di giorno il segnale meccanico mostra un’ala orizzontale verso destra, di notte una luce rossa.
+	
+		Termine	Fermata
+		Significato	Fermata davanti al segnale
+		Relazione con altri segnali
+			Il segnale può essere preceduto da un segnale avanzato in posizione di avvertimento
+	
+1.1.2	Via libera
+	
+	Di giorno il segnale meccanico mostra l’ala superiore inclinata verso l’alto a destra, di notte una luce verde.
+	
+		Termine	Via libera (immagine 1)
+		Significato	Corsa alla velocità massima indicata nella tabella delle tratte
+		Relazione con altri segnali
+			Il prossimo segnale mostra:
+–	Avvertimento
+–	Avviso di velocità
+–	Via libera
+	
+1.1.3	Esecuzione di velocità
+	
+	Di giorno il segnale meccanico mostra due ali inclinate verso l’alto a destra, di notte una luce verde in alto e sotto una luce arancione.
+	
+		Termine	Esecuzione di velocità 40 km/h (Immagine 2)
+		Significato	A partire da questo segnale, rispettivamente dai relativi scambi, vale la velocità mas-sima di 40 km/h. Se nella tabella delle tratte è indicata una velocità inferiore, vale quest’ ultima
+		Relazione con altri segnali
+			Il prossimo segnale mostra:
+–	Avvertimento
+–	Avviso di velocità
+–	Esecuzione di velocità
+–	Via libera
+	
+
+2	Segnale di manovra
+2.1	Segnale di sgombero
+	
+	Di giorno il segnale meccanico mostra due ali incrociate blu-bianche, di notte una luce blu.
+	
+		Termine	Manovra vietata
+		Significato	Sgomberare e mantenere libero il percorso treno che è pro-tetto da questo segnale
+	
+	Con il consenso del CMOV si possono eseguire movimenti di manovra anche se il segnale di sgombero è disposto su manovra vietata.
+	
+	Di giorno il segnale meccanico mostra le ali blu-bianche sovrapposte verticalmente, di notte una luce bianca.
+	
+		Termine	Manovra permessa
+		Significato	Nel settore di validità del segnale non è disposto alcun percorso treno
+	
+
+Allegato 3
+
+
+
+Segnali di manovra per impianti di lancio
+
+
+
+
+
+
+1	Segnali di manovra per impianti di lancio
+1.1	Cifra stralciata
+	
+1.2	Segnale di lancio
+1.2.1	In generale
+	
+	I segnali di lancio servono per la spinta, la fermata e la retrocessione di veicoli sulla sella di lancio e segnalano da entrambi i lati. Nella posizione di base i segnali sono spenti e privi di significato.
+I segnali di lancio hanno la stessa forma e mostrano le stesse immagini dei rispettivi segnali per la manovra. Per distinguerli i segnali di lancio portano un capitello semicircolare di color bianco.
+Gli ordini dati con i segnali di lancio sono rivolti al MAC.
+	
+
+1.2.2	Segnalazione con il segnale di lancio
+	
+	Fermata
+	
+		Termine
+Significato	Fermata
+Arresto del movimento di manovra
+		
+	
+	Spinta
+	
+		Termine
+Significato	Spingere
+Spingere lentamente verso la sella di lancio
+		
+	
+
+
+
+

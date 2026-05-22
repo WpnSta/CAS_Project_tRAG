@@ -1,0 +1,78 @@
+﻿Chemins de fer suisses	R 300.10
+
+
+
+Formulaires
+
+
+ 
+1	Formulaires
+1.1	Principes
+	
+	L’ECF est autorisée à utiliser son logo sur les formulaires. Des modifications dans la présentation ou du format du formulaire peuvent être sans autre apportées 
+Lorsque des questions proposant des réponses OUI/NON figurent dans les formulaires, la case OUI et la case NON doivent toujours être prévues. La case correspondante doit être marquée d’une croix dans tous les cas.
+S’il y a plusieurs choix possibles dans les formulaires, les cases à choix doivent être prévues en conséquence. La case correspondante doit être marquée d’une croix dans tous les cas.
+Un seul ordre peut être ordonné avec chaque formulaire. En cas de nécessité, pour la même situation, cet ordre doit être complété dans la case correspondante au moyen d’annonces supplémentaires.
+
+2	Classification
+	
+	Les formulaires sont classés en trois catégories, en fonction de leur contenu. Ils sont repris dans le répertoire des modèles.
+	
+2.1	Formulaires de première catégorie
+	
+	Les formulaires de première catégorie comprennent :
+–	les formulaires d’ordre (ordres 1, 3, 4, 5, 6, 8 et 9)
+–	l’ordre de croisement et de dépassement.
+La désignation correspondante doit être utilisée comme titre.
+Les différents ordres sont structurés de manière systématique et sont numérotés de façon continue. Le numéro de l’ordre ainsi que la numérotation et la désignation attribués à l’ordre, selon le répertoire des modèles, ne doivent en aucun cas être modifiés.
+Lorsqu’un ordre à quittancer est donné ou transmis en tant qu’ordre à protocoler, il faut utiliser le formulaire d’ordre correspondant.
+Les ordres des circulaires ont la même valeur que les ordres des formulaires de première catégorie.
+	
+2.1.1	Contenu
+	
+	Les formulaires de première catégorie comprennent les ordres avec des textes prescrits à caractère obligatoire. La compréhension de la transmission doit être garantie. 
+	
+2.1.2	Suppression de certains ordres et succession des ordres
+	
+	Certains ordres qui ne sont jamais utilisés peuvent être supprimés dans le formulaire.
+La succession des ordres peut être modifiée pour autant que l’ECF puisse en retirer des avantages.
+	
+2.1.3	Numérotation des différents ordres
+	
+	Les numéros 1 à 20 sont réservés aux ordres harmonisés au niveau européen. Les ordres nationaux et les ordres qui seront éventuellement définis par les GI seront numérotés à partir de 21. Les numéros utilisés dans les PCT sont contraignants.
+	
+	
+	
+	
+	
+2.1.4	Désignation et utilisation des cases pour les ordres 1-20
+	
+	Les différentes cases à remplir ont une désignation unique. Les cases qui ne sont pas nécessaires peuvent être supprimées du formulaire. Aucune nouvelle case, ni aucune case supplémentaire ne doit être intégrée aux ordres.
+Les GI fixent le contenu permettant l’identification unique (case Z) dans les prescriptions d’exploitation.
+	
+2.2	Formulaires de deuxième catégorie
+	
+	Les formulaires de deuxième catégorie comprennent :
+–	le bulletin de freinage (données pour la conduite du train)
+–	la marche pour trains
+–	la marche pour mouvements de manœuvre en pleine voie
+–	l’annonce d’une interdiction de voie.
+La désignation correspondante doit être utilisée comme titre.
+Les formulaires ne comprennent pas de module numéroté. En règle générale, ils sont transmis le cas échéant.
+	
+2.2.1	Contenu
+	
+	Les formulaires de deuxième catégorie contiennent des annonces dont le contenu a un caractère obligatoire. Les textes prévus dans les prescriptions doivent être utilisés ainsi que les données nécessaires (par ex. pour les trains spéciaux). La compréhension de la transmission doit être garantie.
+	
+2.3	Formulaires de troisième catégorie
+	
+	Les formulaires de troisième catégorie comprennent :
+–	la marche des trains sous forme imprimée
+–	le tableau des parcours.
+Le but de l’utilisation du formulaire doit être évident en se basant sur le titre.
+Ces formulaires sont en principe remis à l’avance.
+	
+2.3.1	Contenu
+	
+	Les formulaires de troisième catégorie contiennent des données à caractère obligatoire. Les textes prévus dans les prescriptions (par ex. données d’une marche ou du tableau des parcours) doivent être utilisés. Des compléments ainsi que des informations spécifiques à l’entreprise peuvent sans autre être apportés par l’ECF.
+

@@ -1,0 +1,1608 @@
+﻿Chemins de fer suisses	R 300.4
+
+
+
+Mouvements de manœuvre 
+
+
+1	Mesures à prendre avant et après le mouvement
+1.1	Remise de service
+	
+	En remettant le service à son successeur, le CMAN lui fournit toutes les informations nécessaires. Si elle n’est pas directe, la remise doit être effectuée par écrit.
+	
+1.2	Direction
+	
+	Chaque mouvement de manœuvre est dirigé par un CMAN. 
+La fonction de CMAN est assumée en règle générale par un EMAN. Après entente, la direction peut également être assurée par le MEC. Lorsque le MEC est seul, il assure généralement la fonction de CMAN.
+Le CMAN avise les EMAN concernés et le MEC quant aux travaux à effectuer et répartit les différentes tâches.
+Lorsque la direction du mouvement de manœuvre change, les CMAN doivent s’orienter mutuellement.
+	
+1.3	Genres de mouvements
+	
+	On définit les mouvements de manœuvre suivants :
+–	courses de manœuvre conduites de manière directe et indirecte
+–	laisser-couler
+–	lancer
+–	mouvements de manœuvre à la prolonge ou au cabestan
+–	mouvements de manœuvre au moyen de véhicules routiers
+–	mouvements de manœuvre à bras ou au moyen d’engins mécaniques.
+	
+1.3.1	Conduite directe des courses de manœuvre
+	
+	Les courses de manœuvre en conduite directe sont autorisées lorsque 
+–	le MEC dispose en permanence d’une vue bien dégagée sur le parcours et les signaux et
+–	le MEC dessert les freins et 
+–	le MEC a la possibilité de donner des signaux d’avertissement. 
+Les courses de manœuvre en conduite directe sont toujours effectuées depuis un seul endroit.
+Lorsque la cabine de conduite desservie ne se trouve pas en tête de la course de manœuvre, les dispositions sur la pousse non accompagnée doivent être appliquées.
+1.3.2	Conduite indirecte des courses de manœuvre
+	
+	Les courses de manœuvre sont conduites de manière indirecte lorsque le MEC ne dispose pas d’une vue bien dégagée sur le parcours et les signaux. 
+Pour la conduite indirecte, le CMAN doit se positionner de façon à pouvoir parfaitement observer le parcours et les signaux.
+	
+1.4	Côté de manœuvre 
+	
+	Lorsque les ordres sont transmis de manière optique ou acoustique selon les prescriptions des signaux, le CMAN doit orienter le MEC avant le début d’un mouvement de manœuvre de quel côté il devra s’attendre à recevoir les ordres. Il est également possible de définir localement le côté de manœuvre.
+S’agissant des véhicules moteurs équipés de deux cabines de conduite séparées, le côté de manœuvre doit coïncider avec le côté de desserte de la cabine de conduite.
+	
+1.5	Limite de manœuvre 
+	
+	Les mouvements de manœuvre en gare ne peuvent être effectués que jusqu’à hauteur des signaux d’entrée ou des indicateurs de fin de gare. Sur les tronçons à deux voies non équipés pour la banalisation, cette limite est valable pour les deux voies. Si les signaux d’entrée manquent, il n’est possible de manœuvrer que jusqu’aux signaux limite de garage des aiguilles d’entrée. Si des indicateurs de début et de fin de gare sont apposés en l’absence de signaux d’entrée, il est possible de manœuvrer jusqu’à l’emplacement de l’indicateur de fin de gare.
+	
+1.6	Signalisation	
+1.6.1	Véhicules moteurs	
+		
+	Doivent être signalés selon les prescriptions des signaux :
+–	comme locomotive de manœuvre, les véhicules moteurs utilisés en permanence en gare
+–	comme train ou mouvement de manœuvre en pleine voie, les véhicules moteurs qui effectuent des mouvements de manœuvre en gare, et ce, immédiatement avant ou après leur utilisation.	
+		
+		
+
+1.6.2	Sens de marche du mouvement de manœuvre 	
+		
+	Lorsque les ordres sont transmis de manière optique ou acoustique selon les prescriptions des signaux, la signalisation des véhicules moteurs est déterminante pour transmettre les ordres en avant ou en arrière. Pour les locomotives à vapeur, l’emplacement de la cheminée fait foi dans tous les cas pour déterminer la direction vers l’avant.
+Dans une gare, le sens de marche en avant est identique pour toutes les locomotives de manœuvre.
+La signalisation de l’avant de la locomotive de manœuvre doit être en concordance avec le sens de marche en avant figurant dans la cabine de conduite. Si cela ne correspond pas avec le sens en avant fixé pour la gare, il y a lieu de tourner le véhicule moteur. S’il faut s’écarter de cette règle, le CMAN et le MEC doivent s’aviser mutuellement.
+Si un mouvement de manœuvre comprend plusieurs véhicules moteurs desservis, ils doivent avoir le même sens de marche en avant. Si cela n’est pas possible, il faut se référer à la signalisation du véhicule moteur de tête.	
+		
+1.6.3	Véhicules sur lesquels il est interdit de garer ou permis seulement de façon prudente	
+		
+	Les véhicules en réparation ou qui sont raccordés à une installation de transvasement ou de transbordement doivent être signalés selon les prescriptions des signaux. 
+Le signal doit être apposé avant le début des travaux au véhicule même. Sur les voies à quai, le signal doit être apposé du côté de l’embarque­ment, du côté de la manœuvre sur les autres voies et, en cas de nécessité, aux extrémités de la composition.
+Les véhicules reliés à une installation fixe de préchauffage, à un véhicule moteur non occupé ou, pour d’autres raisons, reliés par un câble à une installation fixe doivent être signalés selon les prescriptions des signaux.
+Les panneaux de préchauffage doivent être apposés aux véhicules avant d’accoupler la ligne de train à l’extrémité d’où il est possible de garer ; aux trains navettes à chaque extrémité. Sur les voies à quai, les panneaux sont apposés du côté de l’embarquement, sur les autres voies du côté d’où est dirigée la manœuvre.
+La signalisation à l’aide des panneaux de préchauffage n’est pas utilisée pour les trains navettes qui sont préchauffés par le véhicule moteur, même s’ils comportent des véhicules supplémentaires.	
+		
+1.6.4	Véhicules assurés au moyen de sabots d’arrêt	
+		
+	Les véhicules qui sont assurés contre la dérive au moyen de sabots d’arrêt doivent être signalés selon les prescriptions des signaux.	
+1.7	Assurer et atteler des véhicules	
+1.7.1	Généralité	
+		
+	Les véhicules en stationnement doivent être assurés contre la dérive.
+En principe, on utilise des moyens de freinage indépendant du frein à air.
+Il faut procéder comme dans le cas « Assurer les trains immobilisés ».	
+		
+1.7.2	Assurer des véhicules
+	
+	Les moyens prévus pour assurer des véhicules garés sont les suivants :
+–	sabots d’arrêt
+–	frein d’immobilisation.
+En plus de l’effort de retenue minimal nécessaire, on assurera dans tous les cas les véhicules garés sur ou immédiatement en direction d’une pente de plus de 20 ‰ à l’aide d’un sabot d’arrêt.
+Le frein à air ne peut être utilisé pour assurer des véhicules en stationnement que lorsque l’on se gare à nouveau sur ces véhicules dans la demi-heure et qu’ils ne se trouvent pas sur ou immédiatement avant une pente de plus de 2 ‰. Par conséquent, les véhicules doivent être freinés à fond.
+Un véhicule isolé en stationnement doit être systématiquement assuré à l’aide de moyens de freinage indépendants du frein à air.
+Les GI peuvent édicter des prescriptions d’exploitation dérogatoires pour assurer des véhicules sur des voies en cuvette et sur des pentes en direction d’un heurtoir sur lequel des véhicules accostent.
+Lorsque des véhicules moteurs ou des véhicules des services d’entretien sont assurés au moyen de sabots d’arrêt, ces derniers doivent être posés de manière à ce qu’ils ne puissent pas être écartés par des chasse-pierres, sablières, essieux de mesure, etc. 
+
+1.7.3	Assurer des trains
+	
+	L’EMAN chargé d’atteler ou de dételer le véhicule moteur est responsable,
+–	pour un train partant, d’enlever les sabots d’arrêt utilisés pour assurer ou de desserrer les freins d’immobilisation
+–	pour un train arrivant, d’assurer les véhicules contre la dérive.
+
+1.7.4	Atteler des véhicules
+	
+	Pour atteler des véhicules, l’EMAN ne peut en principe s’introduire entre eux que lorsqu’ils sont immobiles et que les tampons ou les attelages se touchent. Pendant un arrêt de sécurité, il est autorisé de s’introduire entre les véhicules immobiles sans se baisser, pour autant qu’il y ait un espace libre de 5 à 10 mètres entre les véhicules. Ensuite, l’ordre appuyer sera donné pour faire accoster les véhicules prudemment. Pour les distances inférieures, l’EMAN doit se baisser sous les tampons pour s’introduire entre les véhicules immobiles.
+S’il est nécessaire de déplacer légèrement les véhicules, l’EMAN se tiendra de façon à pouvoir suivre le mouvement.
+Dans tous les cas, on ne pénètrera entre des véhicules dont la zone de sécurité entre les tampons ou les attelages est réduite que lorsqu’ils sont immobilisés et que les tampons ou les attelages se touchent. Ceci doit particulièrement être observé en présence de 
+–	voitures
+–	wagons de marchandises à plancher surbaissé
+–	véhicules avec parois de bout ou passerelles abaissées
+–	véhicules chargés et ne possédant pas de ranchers ou de parois de bout
+–	véhicules munis de l’attelage automatique
+–	véhicules avec attelage à tampon central
+–	véhicules avec tampons ou attelage défectueux
+–	véhicules moteurs et voitures de commande à cabine de conduite proéminente.
+Lorsque l’attelage a lieu sur une aiguille ou dans une courbe à faible rayon, il faut attendre que les tampons ou les attelages se touchent et que les véhicules soient immobiles avant de s’introduire entre eux.
+Lorsque le collaborateur travaille seul avec une télécommande par radio, il faut attendre que les véhicules soient immobilisés et que les tampons ou les attelages se touchent avant de pénétrer entre les véhicules.
+	
+1.7.5	Atteler et dételer des véhicules en mouvement
+	
+	Il est interdit d’atteler des véhicules en mouvement.
+Le dételage de véhicules en mouvement est autorisé, pour autant que l’attelage puisse être enlevé au moyen d’un engin spécial et qu’il ne faille pas se tenir debout sur les tampons, le crochet de traction ou d’autres dispositifs d’attelage.
+	
+1.8	Frein à air
+1.8.1	Utilisation du frein à air
+	
+	Les courses de manœuvre doivent pouvoir être freinées au moyen du frein à air. Sur les déclivités jusqu’à 10 ‰, la moitié des véhicules doit être freinée au moyen du frein à air. Sur les déclivités de plus de 10 ‰, la totalité des véhicules de la course de manœuvre doit être freinée au moyen du frein à air.
+Lorsque l’on ne dispose pas du frein à air automatique ou lorsque le déroulement de l’exploitation ne permet pas une utilisation adéquate, la vitesse maximale est limitée à 10 km/h. Dans ce cas, le poids de la charge remorquée non freinée ne doit pas dépasser les valeurs suivantes, par rapport au poids du véhicule moteur, sur ou en direction de déclivités de
+–	  0   –   15 ‰		au maximum 5x
+–	16   –   30 ‰		au maximum 2x
+–	31   –   50 ‰		au maximum 1x.
+Pour les véhicules rail/route, lorsque la transmission de la force s’effectue au moyen de roues munies de pneumatiques, les ETF peuvent fixer des valeurs supérieures dans les prescriptions d’exploitation.
+Sur une déclivité dépassant 30 ‰, le dernier véhicule du côté de la pente doit être freiné à l’air.
+Sur une déclivité dépassant 50 ‰, la totalité du poids de la course de manœuvre doit être freinée à l’aide du frein à air.
+Si l’efficacité des freins ne peut pas être obtenue de manière suffisante, il faut en plus desservir les freins à main.
+Dans les installations de débranchement, les prescriptions relatives à la non utilisation du frein à air dans les installations de débranchement sont applicables.
+S’agissant des véhicules moteurs, on appliquera les prescriptions d’exploitation correspondantes de l’ETF.
+	
+1.8.2	Essai du frein
+	
+	Si le poids de la charge remorquée est supérieur à 5x le poids du véhicule moteur, il faut effectuer un essai de frein au dernier véhicule freiné à l’air. L’annonce que l’essai du frein a été effectué avec succès se fait en ces termes : « essai du frein de manœuvre bon ».
+	
+
+1.8.3	Utilisation du frein d’urgence
+	
+	En montant sur le véhicule, l’EMAN doit s’assurer de l’emplacement du robinet d’urgence. 
+Le robinet d’arrêt et le robinet du frein d’urgence ne doivent être utilisés pour immobiliser le convoi qu’en cas de danger.
+	
+1.8.4	Purge des appareils de frein	
+		
+	Avant de lancer ou de laisser couler les véhicules, dans les installations de débranchement ou dans les gares de triage où la manœuvre se fait principalement au lancer, il faut purger les appareils de frein des véhicules jusqu’à ce que le frein à air soit desserré.
+Les dispositifs de vidange des appareils de frein à purger ne doivent pas être bloqués.	
+		
+1.9	Frein à main	
+1.9.1	Généralité	
+		
+	Quand un mouvement de manœuvre ne peut pas, ou pas suffisamment, être freiné avec le frein à air, il faut desservir les freins à main. Leur nombre sera proportionnel au tonnage des véhicules, à l’efficacité des freins à main, à la vitesse, à la déclivité de la voie, à l’état du rail et aux conditions locales. En tenant compte du parcours à observer, on desservira si possible les freins à main des véhicules les plus lourds.	
+		
+1.9.2	Vérification du frein à main en cas de laisser-couler ou de 
+lancer	
+		
+	Si des freins à main doivent être desservis pour un laisser-couler ou un lancer, l’EMAN doit vérifier leur efficacité.
+L’essai d’efficacité se fait durant le mouvement qui précède le laisser-couler ou le lancer. Si cela n’est pas possible, les véhicules doivent être déplacés pour l’essai du frein à main ou contrôler depuis le sol si les sabots s’appliquent aux bandages.
+L’essai d’efficacité du frein accompli avec succès, il faut aviser le CMAN au moyen de l’annonce « frein bon ». Cette annonce confirme aussi que le laisser-couler ou le lancer est accompagné.	
+		
+
+1.10	Arrêt avec des sabots d’arrêt
+1.10.1	Généralité
+	
+	Les véhicules en laisser-couler ou lancés sans frein à main desservi, doivent être arrêtés au moyen de sabots d’arrêt.
+Il n’est permis d’arrêter au moyen de sabots d’arrêt que les véhicules ou groupes de véhicules d’une longueur maximale de 40 mètres et à condition que les véhicules légers ne soient pas placés devant les véhicules lourds. A la rigueur, les véhicules légers doivent être laissés-couler ou lancés séparément. Les véhicules avec une charge par essieu de moins de 12 tonnes sont considérés comme véhicules légers.
+Il faut utiliser les sabots d’arrêt convenant à chaque profil de rail.
+Devant les lames, les cœurs d’aiguilles, les croisements ou sur les voies enrobées, on n’utilisera que des sabots d’arrêt à ressort.
+Il est interdit d’utiliser des sabots d’arrêt pour arrêter des véhicules moteurs.
+	
+1.10.2	Contrôle des sabots d’arrêt
+	
+	Les sabots d’arrêt ou les voies en question doivent être graissés de manière appropriée. Le sabotier doit vérifier le graissage et l’état général du sabot d’arrêt avant utilisation.
+Si pour une raison inconnue un sabot d’arrêt a été inefficace, il ne doit être utilisé que si celui-ci et la portion de voie concernée ont été examinés et jugés comme étant en ordre.
+	
+
+1.10.3	Distance de freinage
+	
+	Les sabots d’arrêt doivent être placés à une distance suffisante afin que les véhicules qui s’approchent, s’arrêtent avec certitude avant les véhicules immobiles ou les obstacles.
+Lors de l’estimation de la distance de freinage, il faut tenir compte des critères suivants :
+–	le poids des véhicules qui s’approchent
+–	la charge accumulée de l’essieu sur le sabot d’arrêt par rapport au poids total des véhicules à arrêter
+–	la vitesse du véhicule
+–	la direction et la force du vent
+–	l’état du rail
+–	la déclivité de la voie
+–	l’efficacité des sabots d’arrêt
+–	le nombre de sabots d’arrêt.
+	
+1.10.4	Placement
+	
+	Dans les courbes, le sabot doit être placé sur le rail intérieur.
+Lorsque 2 sabots d’arrêt sont utilisés, ils doivent être placés à la même hauteur. Il faut utiliser en particulier 2 sabots d’arrêt lorsqu’il y a un risque d’éjection d’un sabot isolé ou de provoquer des méplats aux roues. 
+Attention : lors de l’utilisation de 2 sabots d’arrêt, la distance de freinage est plus longue que lorsqu’un seul sabot d’arrêt est utilisé.
+	
+1.10.5	Enlever les sabots d’arrêt
+	
+	Pour enjamber les voies, il faut en principe respecter les mêmes distances de sécurité que pour atteler et dételer des véhicules. Tant qu’un véhicule immobile est assuré avec au moins 1 sabot d’arrêt, le sabotier peut traverser malgré tout la voie sans respecter la distance minimale de 5 mètres.
+
+1.11	Cas spéciaux
+1.11.1	Courses d’essai et courses de déneigement
+	
+	Les dispositions relatives aux courses d’essai et aux courses de déneigement effectuées dans le cadre de la circulation des trains s’appliquent par analogie aux courses d’essai et aux courses de déneigement.
+	
+
+1.11.2	Transports exceptionnels
+	
+	Le GI et l’ETF règlent dans leurs prescriptions d’exploitation le traitement des transports exceptionnels.
+	
+1.11.3	Restrictions pour certains véhicules
+	
+	Le GI et l’ETF règlent dans leurs prescriptions d’exploitation le traitement des restrictions pour certains véhicules.
+	
+1.12	Systèmes de freinage des véhicules à crémaillère
+	
+	Les ETF doivent définir les directives supplémentaires requises pour le freinage de courses de manœuvre en tenant compte des conditions d’utilisation fixées dans les homologations de véhicules. Les moyens de freinage prescrits doivent être contrôlés avant le début de la course de manœuvre.
+	
+
+2	Exécution
+2.1	Principe
+	
+	Les assentiments et les ordres doivent être transmis clairement. Chaque annonce et chaque ordre doivent être quittancés par le destinataire.
+Lorsque l’assentiment n’est pas clair, le CMAN n’a pas le droit de donner l’ordre d’avancer. Si le MEC reçoit des ordres pas clairs, il n’a pas le droit de démarrer ou il doit arrêter le mouvement. Il faut exiger la répétition de l’assentiment ou de l’ordre.
+Une zone intermédiaire de sécurité doit être disponible pour s’y tenir et pour réaliser des travaux entre des voies ou entre une voie et un obstacle fixe. Dans le cas contraire, il faut procéder selon les dispositions « Absence de zone intermédiaire de sécurité ». En présence de chantiers, il faut procéder selon les dispositions « Travaux sur et aux abords des 
+voies ».
+	
+2.2	Demande du parcours
+2.2.1	Principe
+	
+	Dans les installations dotées d’aiguilles centralisées, le CMAN demande l’établissement du parcours au CC. 
+Avant de demander le parcours, le CMAN vérifie que
+–	les véhicules ne portent pas de signaux pour l’accostage interdit, de panneaux de préchauffage ou de mise en garde pour sabots d’arrêt
+–	les travaux de manutention ont été interrompus, les agrès de chargement ont été enlevés et la charge des véhicules en cours de chargement ou de déchargement est assurée en conséquence
+–	les portes, les parois coulissantes, les toits coulissants, les orifices de déchargement, etc. sont réglementairement fermés ou verrouillés et qu’aucune partie du véhicule ou du chargement ne dépasse les dimensions admissibles
+–	tous les véhicules sont réglementairement attelés.
+Un parcours doit être demandé immédiatement avant l’exécution et jusqu’à la voie de destination du mouvement de manœuvre. La voie de destination d’un mouvement de manœuvre est la voie demandée sur laquelle 
+–	une activité doit être effectuée (par ex. garage ou prise en charge de véhicules) ou
+–	lorsqu’il faut attendre la poursuite de la marche pour des raisons d’exploitation ou
+–	le sens de marche change.
+2.2.2	Demande
+	
+	Le texte pour la demande d’un parcours est le suivant : « de (voie) … à (voie)… ».
+Pour les parcours empruntant des voies occupées, il faut demander en premier pour la voie occupée et ensuite de la voie occupée jusqu’à la voie de destination. 
+Le CMAN doit aviser le CC lorsqu’
+–	un laisser-couler
+–	un lancer
+–	une pousse non accompagnée
+–	un mouvement de manœuvre avec des véhicules particuliers
+doit être exécuté(e).
+Le GI règle dans ses prescriptions d’exploitation la demande d’un parcours pour les véhicules qui dépassent le profil sur des voies isolées ou sur l’ensemble du réseau.
+	
+2.2.3	Etablissement d’un parcours sans demande
+	
+	S’il connaît la voie de départ et la voie de destination, le CC peut établir, sans demande préalable, le parcours des courses de manœuvre conduites de manière directe.
+	
+2.2.4	Véhicules particuliers
+	
+	Lorsque des véhicules sont enraillés ou en cas de circulation de véhicules particuliers comme de petits véhicules, de véhicules légers ou de véhicules sur roues munies de pneumatiques pour lesquels les ELV ne fonctionnent pas de manière optimale, il faut procéder comme suit : 
+–	lorsqu’il demande le parcours, le CMAN annonce les véhicules particuliers au CC
+–	les véhicules particuliers ne peuvent être enraillés qu’avec l’autorisation du CC
+–	avant de transmettre l’assentiment, le CC prend les mesures propres à éviter que des aiguilles soient manœuvrées sous le mouvement de manœuvre
+–	le CMAN annonce au CC l’arrivée des véhicules particuliers sur la voie de destination
+–	tant que des véhicules particuliers se trouvent sur une voie équipée d’un ELV, celle-ci doit être protégée à l’appareil d’enclenchement par le CC.
+La mise hors voie de véhicules particuliers doit être annoncée au CC.
+2.3	Etablissement du parcours
+2.3.1	Conditions d’exploitation
+	
+	Avant d’établir le parcours, le CC doit s’assurer qu’aucun itinéraire de train ou autres mouvements de manœuvre ne soient mis en danger. Les aiguilles de protection et les sabots de déraillement suffisent comme mesures de sécurité.
+	
+2.3.2	Mouvement de manœuvre en direction d’itinéraire de train
+	
+	Sont considérés comme mouvement de manœuvre en direction d’un itinéraire de train établi, tous les mouvements de manœuvre qui peuvent mettre en danger la circulation des trains par une prise en écharpe à la suite d’un freinage tardif.
+Les courses de manœuvre en direction d’itinéraires de train établis ne sont autorisées que lorsque les conditions suivantes sont remplies :
+–	circulation en direction ou garage sur des véhicules freinés qui se trouvent avant l’itinéraire de train établi ou 
+–	dans les installations dotées de signaux nains, la voie de destination de la course de manœuvre se situe avant l’itinéraire de train établi et 1 signal nain présente l’image arrêt et 
+–	le parcours est demandé par le CMAN et qu’aucune pousse non accompagnée n’est exécutée ou
+–	pour autant que les conditions pour l’établissement du parcours sans demande soient remplies, pour la mise à quai directe de trains sur la voie de destination.
+Tous les autres mouvements de manœuvre en direction d’itinéraires de train établis sont interdits.
+	
+2.3.3	Chiffre plus valable
+	
+	
+2.3.4	Chiffre plus valable
+	
+	
+
+2.3.5	Installations équipées de signaux nains
+	
+	Le CC doit choisir le point de départ de manière à ce que toutes les aiguilles à franchir soient verrouillées et que les signaux nains à la hauteur des véhicules à déplacer présentent une image avancer ou avancer prudemment. Lorsque l’itinéraire emprunte une voie occupée par des véhicules, l’itinéraire de manœuvre doit être établi de telle sorte que le dernier signal nain avant l’obstacle présente l’image avancer prudemment.
+	
+2.3.6	Installations dotées d’aiguilles centralisées, sans signaux nains
+	
+	Le CC doit établir le parcours de manœuvre à partir du but. Le CC doit s’assurer que les voies sont libres à l’exception de la voie de destination. Les aiguilles ne peuvent être manœuvrées que si elles sont libres, de même que les sabots d’arrêt, les sabots dérailleurs et les aiguilles de protection qui en dépendent. Aucun véhicule ne doit s’approcher de cette aiguille et l’ELV doit indiquer l’état libre.
+	
+2.3.7	Enregistrement des itinéraires
+	
+	L’enregistrement d’itinéraires est interdit dans les cas suivants :
+–	pour les courses qui suivent après un lancer
+–	lorsque l’itinéraire à enregistrer touche le parcours de véhicules particuliers.
+	
+2.4	Assentiment pour le mouvement de manœuvre
+2.4.1	Principe
+	
+	Le CC doit transmettre un assentiment pour chaque mouvement de manœuvre. L’assentiment s’adresse au CMAN.
+L’assentiment est valable au maximum jusqu’à l’arrêt sur la voie de destination. Un nouvel assentiment n’est pas requis sur la voie de destination lorsqu’il faut garer sur d’autres véhicules.
+Pour un lancer, un laisser-couler et pour les pousses non accompagnées, l’assentiment ne peut être transmis que lorsque le parcours est établi jusqu’à la voie de destination demandée.
+Lorsque le CMAN ne peut pas clairement déterminer s’il s’agit d’installations dotées d’aiguilles centralisées ou d’installations non dotées d’aiguilles centralisées, le CMAN doit prendre contact avec le CC.
+	
+	
+	
+	
+	
+2.4.2	Mesures avant de transmettre l’assentiment
+	
+	Avant de transmettre l’assentiment, le CC vérifie que
+–	les installations de passage à niveau surveillées sont enclenchées
+–	les aiguilles se trouvent en bonne position et ont atteint leur position de fin de course ainsi que les dispositifs de déraillement et les sabots d’arrêt sont enlevés
+–	les signaux se trouvant sur le parcours autorisent le mouvement de manœuvre
+–	le CMAN est avisé des tronçons de ralentissement et des tronçons de voies dont les lignes de contact sont déclenchées ou mises à la terre. Si les tronçons déclenchés ou mis à la terre sont signalés à l’aide d’un signal d’abaissement fixe ou rotatif, on considère que le CMAN est avisé
+–	le CMAN est avisé des restrictions d’exploitation devant être respectées dans la zone d’un chantier.
+	
+2.4.3	Avis avant l’assentiment
+	
+	Si le CC établit le parcours sur une autre voie de destination que celle demandée, le CC doit aviser le CMAN avant de transmettre l’assentiment.
+Le CMAN doit être avisé si l’assentiment ne peut pas être transmis jusqu’à la voie de destination qu’il a demandée préalablement, pour autant qu’il n’y ait aucun signal fixe présentant l’image d’arrêt.
+	
+2.4.4	Installations dotées de signaux nains
+	
+	L’assentiment est transmis au moyen des signaux nains.
+Si des aiguilles ou croisements inoccupés se trouvent entre les véhicules à déplacer et le prochain signal nain, le CMAN ne peut donner l’ordre d’avancer que si le signal nain précédent présente également l’image avancer ou avancer prudemment. Si ce signal nain ne peut pas être reconnu ou si le trait lumineux au dos du signal est éteint, le CMAN doit requérir l’assentiment auprès du CC.
+	
+2.4.5	Installations dotées d’aiguilles centralisées sans signaux nains
+	
+	L’assentiment est transmis au moyen des signaux d’arrêt de manœuvre avec l’image assentiment pour le mouvement de manœuvre. S’il n’y a pas de signal d’arrêt de manœuvre, l’assentiment est transmis de vive voix ou par gestes.
+
+Si un signal d’arrêt de manœuvre présentant l’image assentiment pour le mouvement de manœuvre revient prématurément à l’arrêt, le mouvement de manœuvre peut être poursuivi pour autant qu’au moins un essieu du mouvement ait franchi le signal concerné.
+	
+2.4.6	Installations non dotées d’aiguilles centralisées
+	
+	Si des voies secondaires sont concernées, le CMAN reprend en même temps les tâches du CC dans une zone non centralisée.
+En outre, une autorisation du CC est requise pour traverser les voies principales.
+Les aiguilles, sabots d’arrêt et dispositifs de déraillement ne peuvent être desservis que s’ils sont libres et qu’ils peuvent être manœuvrés dans la position voulue avant d’être abordés par des véhicules qui s’en approchent. Après avoir manœuvré une aiguille à main, il faut vérifier que la lame plaque bien contre le sommier.
+Lors du franchissement d’une aiguille talonnable, il faut toujours avancer jusqu’à ce que tous les véhicules aient entièrement libéré l’aiguille concernée. Avant le mouvement de retour, il faut contrôler que les lames d’aiguille sont bien en fin de course après le mouvement hydraulique de retour temporisé.
+Un assentiment du CC est nécessaire pour les mouvements de manœuvre qui passent d’une zone où les aiguilles sont centralisées à une zone où elles ne le sont pas et réciproquement. Cet assentiment est valable jusqu’au point de transition ou depuis le point de transition.
+Dans les zones où les aiguilles ne sont pas centralisées, il faut s’attendre en tout temps à ce que d’autres mouvements de manœuvre surviennent. Les CMAN doivent s’aviser mutuellement sur les mouvements à effectuer.
+	
+2.4.7	Signal d’arrêt de manœuvre
+	
+	Lorsque plusieurs mouvements de manœuvre se trouvent devant un signal d’arrêt de manœuvre, l’assentiment n’est valable que pour le premier mouvement de manœuvre.
+Lorsqu’il faut franchir un signal d’arrêt de manœuvre qui ne peut pas présenter l’assentiment pour le mouvement de manœuvre, le CC doit protéger le parcours et, si possible, le verrouiller. Le CC transmet alors au CMAN l’ordre contre quittance pour le franchissement du signal de manœuvre. Cet ordre doit être répété pour chaque course séparément.
+	
+	
+	
+2.5	Ordres pour le mouvement de manœuvre
+2.5.1	Vérification avant de donner l’ordre d’avancer
+	
+	Avant de transmettre l’ordre d’avancer, le CMAN doit, pour autant que cela soit possible, vérifier que
+–	les personnes qui pourraient être mises en danger sont averties à temps
+–	les freins sont desserrés et les autres moyens de freinage sont enlevés
+–	le MEC est avisé que le frein à air automatique n’est pas utilisé
+–	le MEC est avisé des tronçons de ralentissement et des tronçons à parcourir dont la ligne de contact est déclenchée ou mise à la terre
+–	le MEC est avisé des mesures particulières devant être observées dans les zones de chantiers et, le cas échéant, de la suppression de la marche à vue
+–	les installations des passages à niveau surveillées à franchir sont enclenchées
+–	la circulation routière est réglée par le personnel pour les passages à niveau sans signalisation routière désignées par le GI
+–	les signaux indiquent les bonnes images
+–	les aiguilles sont en bonne position, et, pour autant que cela soit vérifiable, qu’elles ont atteint leur position de fin de course et que les dispositifs de déraillement et les sabots d’arrêt sont enlevés.
+Si un mouvement de manœuvre ne peut pas être exécuté immédiatement, le CC doit être avisé. Si nécessaire, le CMAN doit demander à nouveau le parcours.
+	
+
+2.5.2	Transmission des ordres	
+		
+	Pour chaque mouvement de manœuvre, de manière séparée, le CMAN doit transmettre les ordres au MEC comme suit :
+–	de vive voix ou en phonie au moyen du texte : « locomotive / R … » ou
+–	de manière optique et acoustique selon les prescriptions des signaux.
+Pour transmettre les ordres, on utilisera les termes suivants :	
+		
+	français	allemand	italien
+			
+	coupé	abgehängt	sganciato
+			
+	en avant	vorwärts 	avanti
+			
+	en arrière	rückwärts 	indietro
+			
+	garer
+(en avant / en arrière)	anfahren 
+(vorwärts / rückwärts) 	accostare
+(avanti / indietro)
+		un wagon
+	demi
+	quatre mètres
+	deux mètres
+	un mètre		wagenlang 
+	halbe 
+	vier 
+	zwo (statt zwei) 
+	einen 		un vagone
+	mezzo
+	quattro
+	due
+	uno
+			
+	arrêter	anhalten 	fermare
+			
+	lancer (tampon)	Stoss	colpo 
+			
+	ralentir	langsamer 	rallentare
+			
+	appuyer	bewegen 	appoggiare
+			
+	pousser 
+	(ordre de pousser 
+lentement) 	schieben
+	(Fahrbefehl für 
+langsames Schieben)	spingere lentamente
+	(ordine di manovra 
+per spinte lente)
+			
+	pousser plus fort	schneller schieben 	spingere più in fretta 
+			
+	pousser plus lentement	langsamer schieben 	spingere più adagio
+			
+	retirer	zurückziehen	retrocedere
+			
+		
+
+2.5.3	Indications de distance
+	
+	Pour garer sur des véhicules à l’arrêt ou pour s’arrêter à un endroit précis, le CMAN doit donner les indications de distance au MEC. Les indications de distance sont données en tenant compte de la vitesse, du poids de la course de manœuvre, de l’efficacité des freins, des conditions locales ainsi que de l’état et de la déclivité de la voie.
+Quand la course de manœuvre est conduite de manière directe, on peut renoncer à la transmission des indications de distance et de l’ordre arrêt.
+	
+2.5.4	Quittance et exécution des ordres
+	
+	Le MEC doit quittancer les ordres puis les exécuter immédiatement.
+Il faut confirmer les indications de distance par une réduction correspondante de la vitesse. La première indication de distance doit être quittancée après avoir réduit la vitesse. Si la première indication de distance est donnée avec l’ordre d’avancer, la première indication de distance est considérée comme également quittancée avec la quittance correspondante.
+Si la vitesse n’est pas suffisamment réduite après la transmission d’une indication de distance, il faut donner des signaux d’arrêt.
+L’ordre de s’arrêter doit être observé immédiatement et ne doit pas être quittancé. 
+Les ordres donnés de manière optique et acoustique selon les prescriptions des signaux ne doivent pas être quittancés.
+	
+2.5.5	Poursuite de la marche après un arrêt devant un signal
+	
+	Pour une course de manœuvre conduite de manière directe, le CMAN peut s’entendre avec le MEC pour que, après un arrêt devant un signal fixe pour la manœuvre, le MEC reparte de lui-même lorsque ce signal transmettra un assentiment.
+	
+2.5.6	Eloigner le véhicule moteur après l’avoir dételé
+	
+	L’EMAN annonce au MEC que le véhicule moteur est dételé par l’indication : « coupé ». Ensuite, le MEC doit éloigner le véhicule moteur du train assez loin afin que l’EMAN puisse sortir sans danger entre les véhicules.
+
+2.6	Observation du parcours
+2.6.1	Principe
+	
+	L’observation du parcours pendant le mouvement incombe au CMAN. Le CMAN se place de manière à pouvoir observer sans encombre le parcours et les signaux.
+Pour permettre au CMAN d’observer clairement les signaux réfléchissants non éclairés, l’avant du mouvement de manœuvre doit être doté d’un éclairage suffisant de nuit, dans les tunnels ou en cas de mauvaises conditions de visibilité, comme par ex. :
+–	éclairage frontal sur le véhicule moteur
+–	éclairage pour le CMAN (par ex. lampe torche ou lampe frontale/sur casque).
+Après un signal nain présentant l’image avancer prudemment ou dans les installations dépourvues de signaux nains, on doit pouvoir s’arrêter devant un véhicule ferroviaire.
+	
+2.6.2	Course de manœuvre conduite de manière directe
+	
+	Pour une course de manœuvre conduite de manière directe, le MEC est responsable de l’observation du parcours. Les EMAN qui ont pris place sur le véhicule moteur aident le MEC, pour autant qu’ils puissent observer le parcours.
+	
+2.6.3	Liaison visuelle
+	
+	Si, durant une course de manœuvre conduite de manière indirecte et dirigée selon les prescriptions des signaux au moyen d’ordres visuels et acoustiques, le MEC perd momentanément la liaison visuelle avec le CMAN, le MEC doit ralentir le convoi à la vitesse d’un homme au pas. En cas de nécessité, il faut s’arrêter.
+	
+2.6.4	Sectionnement et isolation de section
+	
+	Les sectionnements et les isolations de section peuvent être franchis avec les pantographes levés lorsque la ligne de contact est sous tension de part et d’autre.
+	
+
+2.7	Zone pour les chemins de fer routiers et passages à niveau sans signalisation au niveau routier
+2.7.1	Mouvements de manœuvre dans une zone pour les chemins de fer routiers
+	
+	Dans une zone pour les chemins de fer routiers, il faut circuler en marche à vue. En outre, les vitesses maximales autorisées sont fixées par le GI en tenant compte des véhicules et des conditions locales.
+Dans une zone pour les chemins de fer routiers, la législation sur la circulation routière est en plus applicable.
+En cas de besoin, la circulation routière doit être réglée par des collaborateurs.
+	
+2.7.2	Passages à niveau sans signalisation au niveau routier
+	
+	Le GI désigne dans les prescriptions d’exploitation les passages à niveau pour lesquels la circulation routière doit être réglée par des collaborateurs.
+	
+2.7.3	Régulation du trafic par des collaborateurs
+	
+	La circulation routière est réglée par des collaborateurs au moyen d’un drapeau rouge ou un feu rouge.
+	
+2.8	Arrêt du mouvement de manœuvre
+2.8.1	Point d’arrêt limite
+	
+	Un mouvement de manœuvre doit s’arrêter au plus tard
+–	devant un signal valable pour les mouvements de manœuvre et présentant l’image arrêt
+–	sur la voie de destination selon l’assentiment transmis de vive voix ou en phonie
+–	avant le signal limite de garage d’une aiguille abordée par le talon et se trouvant en mauvaise position
+–	avant la limite de manœuvre.
+	
+2.8.2	Garer sur des véhicules
+	
+	Lorsqu’il faut garer sur des véhicules, ceux-ci doivent être assurés de manière à ce qu’ils ne puissent pas partir à la dérive.
+En appuyant, il y a lieu de veiller à ce que les véhicules ne soient pas déplacés. Dans tous les cas, aucun danger ne doit en résulter par un éventuel déplacement de véhicules.
+Il est interdit de garer sur des véhicules en réparation ou raccordés à des conduites d’installations de transvasement. Tous les mouvements de manœuvre doivent s’arrêter à au moins 5 mètres de ces véhicules.
+Il est autorisé de garer avec prudence sur des véhicules raccordés à une installation fixe de préchauffage ou qui sont préchauffés par un véhicule moteur non occupé, mais sans les déplacer. On peut également accrocher les attelages à vis et relier les accouplements de frein.
+	
+2.8.3	Profil d’espace libre
+	
+	Les véhicules doivent être garés de sorte qu’aucune de leurs parties ne dépasse la limite représentée par le signal limite de garage ou par un signal nain.
+	
+2.9	Franchissement, reprise et destruction
+2.9.1	Franchissement de l’itinéraire
+	
+	Les courses de manœuvre doivent franchir les itinéraires comme suit :
+–	jusqu’au prochain signal nain indiquant l’image arrêt ou
+–	sur les voies de rebroussement, en cas de changement de direction, jusque derrière le signal nain de la direction opposée. Il faut s’arrêter dans la mesure du possible sur un tronçon libre de toute aiguille.
+	
+2.9.2	Reprise de signaux à voie libre
+	
+	Le CC ne peut remettre à l’arrêt les signaux de manœuvre et les signaux nains à voie libre que lorsque tout le personnel concerné par le mouvement de manœuvre est avisé et après l’arrêt du mouvement de manœuvre. 
+	
+2.9.3	Destruction des verrouillages et des itinéraires
+	
+	Le CC ne peut détruire les verrouillages ou les itinéraires que lorsque le mouvement de manœuvre est arrêté ou lorsque l’élément verrouillé est franchi.
+
+
+3	Dispositions sur les genres de mouvements
+3.1	Pousse non accompagnée
+	
+	Si la cabine de conduite desservie d’une course de manœuvre conduite de manière directe ne se trouve pas en tête, une pousse non accompagnée est admise lorsque les conditions suivantes sont remplies :
+–	la course de manœuvre ne franchit pas de passages à niveau non protégés ou signalisés uniquement avec une croix de Saint André 
+–	la course de manœuvre ne franchit pas de zones pour les chemins de fer routiers 
+–	personne n’est mis en danger.
+Avant de circuler,
+–	le parcours doit être établi jusqu’à la voie de destination et 
+–	le parcours doit être vérifié dans la mesure du possible par le MEC.
+Durant le mouvement, le MEC doit avoir une vue bien dégagée sur le parcours et les signaux. Si, sur un court trajet, la visibilité n’est pas bonne, la vitesse doit être réduite à celle d’un homme au pas.
+Dans les gares, la cabine de conduite desservie peut se trouver au maximum 40 mètres derrière la tête de la course de manœuvre. Le GI désigne les gares dans lesquelles il est admis jusqu’à 100 mètres. Pour les mouvements de manœuvre en pleine voie, il est admis jusqu’à 100 mètres. Cela est aussi valable en gare depuis la voie de départ ou jusqu’à la voie d’arrivée.
+	
+3.2	Laisser-couler et lancer
+3.2.1	Sabotiers
+	
+	Les sabotiers seront informés à l’avance de la succession des laisser-couler ou des lancers et, si nécessaire, à chaque fois des véhicules lourds à l’aide de l’annonce « lourd ». Sont considérés comme lourds, les wagons avec un poids brut de plus de 120 tonnes.
+On ne débutera le laisser-couler ou le lancer que lorsque le sabotier aura annoncé le prêt. Si le sabotier ne peut pas placer à temps les sabots pour chaque lancer ou laisser-couler, il doit donner des signaux d’arrêt.
+	
+
+3.2.2	Lancer
+	
+	Lors des lancers, le CMAN doit calculer la vitesse du lancer sur la base du poids des véhicules à lancer, de la distance jusqu’au point d’arrêt souhaité, de l’état et de la déclivité de la voie ainsi que des moyens de freinage opérationnels.
+	
+3.2.3	Limitations liées aux installations
+	
+	Type d’installation
+Lancer ou 
+laisser-couler	Sur ou en direction de voies alors qu’elles doivent être traversées par des voyageurs se rendant à un train ou en venant
+interdit	Sur des passages à niveau non protégés ou signalés uniquement avec une croix de St-André, dans les zones pour les chemins de fer routiers ainsi que sur des voies routières intégrées au sol 
+interdit	En cas d’obscurité, sur des installations sans éclairage des voies
+interdit	En direction de chariots transbordeurs et de plaques tournantes
+interdit	Pour le chargement sur des trucks transbordeurs
+interdit	En direction de voies débouchant sur des itinéraires de train établis
+interdit	En direction de tronçons présentant une pente de plus de 
+20 ‰
+interdit	En direction de tronçons présentant une pente jusqu’à 
+20 ‰
+seulement avec frein à main 
+desservi	En direction de portes ou de portails (remises, dépôts, etc.) ainsi qu’avant et sur des ponts-bascules
+seulement avec frein à main 
+desservi	
+	
+	
+	
+	
+
+3.2.4	Limitations liées aux véhicules
+	
+		interdit	
+	2 sabots d’arrêt 
+		seulement avec frein à main
+	desservi		exceptions locales
+
+	Genre de véhicules et de chargements	Laisser-couler	Laisser-couler, installations  sans arrêt avec sabot d’arrêt	Passage sur la bosse de 
+débranchement	Lancer	Laisser-couler / lancer en direction de ces véhicules	
+	Locomotives de ligne, rames automotrices, automotrices et 
+voitures de commande			 	 	
+
+ou
+	
+	Locomotives de manœuvre 				 	
+
+ou
+	
+	Tracteurs, véhicules automoteurs tels que machines de chantier, etc. 
+1)	lancer autorisé dans un groupe de wagons dont le frein à main est 
+tenu				 1)	
+
+ou
+	
+	Voitures occupées par des voyageurs et fourgons ainsi que les véhicules sur lesquels se trouvent du personnel astreint au chargement ou à l’accompagnement
+Voitures-lits et restaurant						
+	Voitures vides équipées du frein magnétique et du frein à disque						
+	Voitures vides						
+	Véhicules avec le signe  ou avec la mention « ne doit pas passer sur la bosse de débranchement »		 	 			
+	Genre de véhicules et de chargements	Laisser-couler	Laisser-couler, installations  sans arrêt avec sabot d’arrêt	Passage sur la bosse de 
+débranchement	Lancer	Laisser-couler / lancer en direction de ces véhicules	
+	Wagons dont le chargement s’est déplacé ou est insuffisamment arrimé ou dont le poids est inégalement réparti (wagons en cours de chargement ou de déchargement)					
+
+ou
+	
+	Wagons prudence avec le signe 
+Véhicules avec l’inscription « lancer / laisser-couler interdit »
+Véhicules chargés, réunis seulement par le chargement ou par une flèche d’attelage
+Trucks transporteurs chargés, bogies transporteurs (vides ou chargés)					
+
+ou
+	
+	Autres wagons prudence 
+Groupe de deux ou plusieurs wagons portant une charge commune de grande longueur	
+
+ou
+			
+
+ou
+	
+
+ou
+	
+	Wagons et groupes de wagons de plus de 40 mètres de long	 					
+	Wagons pour gaz sous pression, chargés ou vides (bande longitudinale orange le long de la citerne)					
+
+ou
+	
+	Lorsque le lancer ou le laisser-couler est arrêté au moyen de sabots d’arrêt et que le véhicule de tête est :
+–	un wagon à bogies, chargés
+–	un wagon marchandises équipé de freins à tambour ou de freins à disques	
+			
+		
+	Wagons raccordés à des conduites d’installations de transvasement
+Véhicules portant un signal de réparation					
+accostage interdit	
+3.2.5	Locomotives, rames automotrices et automotrices
+	
+	Pour autant que les prescriptions locales permettent le lancer de locomotives, rames automotrices et automotrices, ces véhicules doivent être occupés par un MEC et arrêtés au moyen du frein à air.
+	
+3.2.6	Suivre un lancer dans une zone dotée d’aiguilles centralisées
+	
+	Dans une zone dotée d’aiguilles centralisées, un lancer ne doit pas être suivi.
+	
+3.2.7	Mouvements qui suivent ou en diagonale
+	
+	Après un lancer, le parcours pour des mouvements qui suivent ou en diagonale ne peut être établi ou enregistré que lorsque la partie qui a procédé au lancer s’est arrêtée.
+	
+3.3	Mouvements de manœuvre à la prolonge ou au cabestan
+3.3.1	Utilisation de la prolonge
+	
+	La prolonge doit avoir une longueur de 10 mètres au moins et un crochet muni d’une poignée. Il est permis de l’utiliser pour tirer des véhicules à l’aide de véhicules moteurs ou routiers. Le poids des véhicules tirés ne doit pas dépasser 100 tonnes.
+Il est interdit de se servir de chaînes ou de prolonges nouées. Les véhicules routiers doivent avancer en dehors de la voie où roulent les wagons.
+La prolonge sera d’abord tendue prudemment puis les véhicules seront tirés lentement.
+L’EMAN doit se tenir à une distance suffisante de la prolonge afin que l’EMAN ne soit pas accroché ou atteint par celle-ci en cas de rupture.
+	
+3.3.2	Cabestans, treuils
+	
+	Lorsque le câble est fixé au crochet de traction du véhicule de tête, le poids des véhicules tirés au moyen de cabestans ou de treuils peut atteindre au maximum la charge admissible pour le cabestan ou le treuil.
+Lorsque le câble est fixé au crochet de halage ou à l’œillet de halage, un poids de 100 tonnes ne doit pas être dépassé.
+Le GI, respectivement l’ETF peuvent déterminer des valeurs supérieures. Ces valeurs sont déterminées au moyen d’une évaluation des risques en tenant compte des spécificités locales, de l’installation à câble et du poids maximal pouvant être exercé au crochet ou à l’œillet de halage.
+
+Les dispositions concernant la manœuvre à la prolonge et la fixation aux véhicules sont également valables pour la manœuvre au moyen de cabestans ou de treuils.
+	
+3.3.3	Fixation
+	
+	La prolonge doit être fixée par l’une de ses extrémités au crochet de traction du véhicule moteur ou du véhicule routier, par l’autre extrémité au crochet de halage du côté latéral d’un wagon.
+Lors de l’utilisation de prolonges en nylon, il faut mettre la boucle ovale dans le crochet de traction du véhicule moteur.
+	
+3.3.4	Traction par un véhicule moteur
+	
+	Les véhicules moteurs ne doivent remorquer à la prolonge que les véhicules qui se trouvent sur la même voie ou sur la voie adjacente. Pour faire passer des wagons de la voie occupée par le véhicule moteur sur la voie adjacente, la prolonge ne doit être accrochée qu’à partir du moment où le véhicule moteur a franchi l’aiguille et que celle-ci a été mise en position pour le passage du wagon.
+	
+3.3.5 	Traction par un véhicule routier
+	
+	Outre le conducteur du véhicule routier, il faut qu’au moins un EMAN soit présent pour observer le parcours, arrêter les wagons et, s’il y a lieu, décrocher la prolonge en cours de route.
+	
+3.3.6	Arrêt
+	
+	Le mouvement de manœuvre doit pouvoir être arrêté à tout moment au moyen de freins à main ou de sabots d’arrêt.
+	
+3.4	Mouvements de manœuvre à bras, au moyen d’engins 
+mécaniques ou de véhicules routiers
+3.4.1	Mouvement de manœuvre à bras ou moyen d’engins mécaniques
+	
+	Pour chaque mouvement de manœuvre à bras ou au moyen d’engins mécaniques, par ex. pince à wagons, l’EMAN doit se placer de façon à observer la voie à parcourir et à pouvoir arrêter au besoin le mouvement au moyen du frein à main ou de sabots d’arrêt.
+Il n’est autorisé de tirer ou de pousser que depuis la partie latérale des véhicules.
+	
+3.4.2	Mouvement de manœuvre au moyen de véhicules routiers
+	
+	Des véhicules routiers ne peuvent être utilisés que si leur emploi est prévu dans les instructions de service. Ils doivent être équipés d’un dispositif de traction ou de pousse spécialement conçu pour ne pas endommager le véhicule. Les véhicules doivent être mis en mouvement sans à-coup et l’effort doit s’appliquer directement sur la traverse de tête ou sur les tampons dans le sens longitudinal de la voie ou sur le dispositif de traction.
+	
+3.4.3	Participation de tiers
+	
+	Sur les voies de raccordement etc., le personnel qui est occupé sur place peut aussi déplacer les véhicules. Exceptionnellement, des particuliers peuvent aider à déplacer des véhicules avec l’autorisation du CMAN et sous sa direction.
+	
+3.5	Particularités
+3.5.1	Mouvements de manœuvre sur les chariots transbordeurs et les plaques tournantes 
+	
+	La circulation sur les chariots transbordeurs et les plaques tournantes n’est autorisée que lorsque ceux-ci sont verrouillés ou quand le signal d’arrêt n’est pas visible. Ils ne peuvent être mis en mouvement que si les véhicules qui se trouvent dessus sont assurés contre la dérive. Aux véhicules qui en sont équipés, il faut abaisser les pantographes et en contrôler la position.
+	
+3.5.2	Wagons prudence
+	
+	Les EMAN doivent se signaler mutuellement les wagons prudence.
+Sont considérés comme wagons prudence :
+    • les véhicules portant une étiquette « à manœuvrer avec 
+précaution » ou les signes 
+,     ou  
+    • les wagons de marchandises dangereuses
+    • les wagons chargés d’animaux vivants
+    • les wagons chargés de fruits
+    • les wagons chargés de véhicules routiers, machines de chantier, véhicules blindés, etc.
+	
+	
+	
+
+3.5.3	Véhicules réunis par une flèche d’attelage
+	
+	Les véhicules réunis par une flèche d’attelage ou ceux dont les appareils de choc font défaut ou sont avariés ne doivent pas être placés entre d’autres véhicules que l’on manœuvre. 
+Les dispositions d’exécution de l’ECF concernée font foi pour les manœuvres exécutées à l’aide de flèches d’attelage ou d’élingues sur les voies de raccordement à courbes de faible rayon.
+	
+3.5.4	Chargement déplacé ou insuffisamment arrimé
+	
+	Les wagons dont le chargement s’est déplacé ou est insuffisamment arrimé ou dont le poids est inégalement réparti sur les essieux doivent être déplacés avec le moins d’à-coups possibles; il ne faut pas les exposer aux chocs. Leurs attelages seront tendus en conséquence et le MEC sera invité à manœuvrer avec prudence.
+	
+3.5.5	Plusieurs véhicules moteurs
+	
+	Pour les trains ayant une locomotive de renfort en tête, intercalée ou en queue, les mouvements de manœuvre doivent se limiter
+–	à la séparation du convoi en cas de croisement ou de dépassement ou pour dégager un passage à niveau
+–	à l’avancement ou au refoulement du convoi
+–	au retrait ou à l’adjonction de véhicules.
+Dans tous les autres cas, les manœuvres ne peuvent se faire qu’avec un seul véhicule moteur. Les locomotives circulant en unités multiples sont considérées comme un seul véhicule moteur.
+	
+3.6	Vitesses
+3.6.1	Principe
+	
+	Lors de la manœuvre, la vitesse doit être adaptée à la visibilité, aux particularités locales et aux moyens de freinage. Elle doit être réglée de façon à garantir l’arrêt à l’endroit voulu.
+	
+
+3.6.2	Vitesses maximales en gare	
+		
+	30 km/h	–	vitesse maximale générale
+	15 km/h	–	lors du passage du véhicule moteur sur le sommet de la bosse de débranchement
+	10 km/h	–	pour une pousse non accompagnée, lorsque la cabine de conduite desservie se trouve au maximum 40 mètres derrière la tête de la course de manœuvre
+–	pour les courses de manœuvre conduites de manière directe, lorsque la cabine de conduite arrière est occupée
+–	lorsque le nombre de véhicules non freinés dépasse le nombre de véhicules freinés à l’air, sauf dans les installations de débranchement
+–	sur les voies de chargement, aux endroits où la voie est intégrée au sol
+–	pour les courses de manœuvre circulant sur des voies pouvant être traversées par des voyageurs
+–	pour les véhicules routiers utilisant le frein à air des véhicules ferroviaires à manœuvrer 
+	6 km/h	–	lors de la pousse sur la bosse de débranchement. Dans les installations de débranchement informatisées, la vitesse maximale dépend des indications de l’ordinateur
+	5 km/h	–	pour le franchissement des dépôts, remises, installations d’entretien et halles de transbordement
+–	sur les plaques tournantes et les chariots transbordeurs
+–	dans les courbes avec rail à gorge et rail de roulement
+–	lors de manœuvre à la prolonge
+–	lors de manœuvre à bras ou au moyen d’engins mécaniques
+–	pour une pousse non accompagnée, lorsque la cabine de conduite desservie se trouve à plus de 40 mètres, au maximum 100 mètres, derrière la tête de la course de manœuvre
+–	pour les véhicules routiers n’utilisant pas le frein à air des véhicules ferroviaires à manœuvrer.
+	Des vitesses maximales inférieures peuvent être prescrites localement.
+Avant d’entrer ou de sortir des dépôts, remises, installations d’entretien et halles de transbordement, il y a lieu de marquer un arrêt de sécurité.
+	
+
+3.6.3	Exception en gare
+	
+	Pour autant que les deux voies contiguës soient libres, il est permis de circuler à la vitesse maximale de 40 km/h
+–	pour les courses de manœuvre, lorsque 
+–	le parcours est bien dégagé et que la cabine de conduite occupée par le MEC se trouve en tête et
+–	l’on se trouve dans une zone sans aiguille et
+–	tous les véhicules peuvent être freinés à l’air et
+–	la course de manœuvre n’est pas télécommandée
+–	pour les lancers.
+Des vitesses maximales inférieures peuvent être prescrites localement.
+		
+3.6.4	Vitesses maximales en pleine voie	
+		
+	Le seuil de vitesse pour les mouvements de manœuvre qui se rendent ou qui reviennent de la pleine voie se trouve à hauteur du signal d’entrée, ou si celui-ci manque, à hauteur de l’aiguille d’entrée.
+En principe, la vitesse dépend du calcul de freinage et des tableaux des parcours, mais elle est au maximum de :	
+		
+	60 km/h	–	vitesse maximale générale
+	40 km/h	–	lorsque le mouvement de manœuvre comporte des wagons sans appareils de choc et de traction normaux
+–	sur les aiguilles
+	30 km/h	–	pour les courses de manœuvre conduites de manière indirecte, lorsqu’il n’y a pas de liaison en phonie entre le MEC et le CMAN
+–	pour une pousse non accompagnée.
+	
+3.6.5	Vitesses maximales sur les voies de raccordement	
+		
+	La vitesse maximale sur les voies de raccordement est limitée à 10 km/h. Si des vitesses supérieures sont valables ou si des zones pour les chemins de fer routiers sont franchies, celles-ci figurent dans les prescriptions d’exploitation du GI.	
+		
+3.7	Position lors de mouvements de manœuvre	
+		
+	En principe, l’EMAN se tiendra sur une plate-forme, sur un marchepied latéral ou un marchepied de manœuvre, afin de ne pas sortir du profil latéral des véhicules.
+
+Si cela s’avère impossible, il est permis de se tenir sur un marchepied latéral ou un marchepied de manœuvre uniquement sur le côté opposé à la voie ou dans des secteurs incluant une zone intermédiaire de sécurité. Il y a lieu de prêter attention aux éventuels obstacles. 
+Le profil latéral du véhicule peut être dépassé brièvement dans des espaces dépourvus de zone intermédiaire de sécurité, en montant sur le véhicule ou en descendant du véhicule, pour autant qu’il est assuré qu’aucun convoi ne s’approche sur la voie contiguë. Si cela s’avère impossible, le profil latéral du véhicule ne doit pas être dépassé. Si nécessaire, il faut procéder selon les dispositions « Absence de zone intermédiaire de sécurité ».	
+		
+
+	
+
+4	Dispositions complémentaires pour les mouvements de 
+manœuvre en pleine voie
+4.1	Généralités
+4.1.1	Principe
+	
+	Les convois en pleine voie doivent, dans la mesure du possible, circuler comme train.
+Dans les cas suivants, un convoi en pleine voie sans desserte des signaux principaux doit circuler comme mouvement de manœuvre en pleine 
+voie :
+–	lorsqu’en circulant comme train, les installations de sécurité sont influencées pour des raisons techniques de telle manière qu’elles ne reviennent pas en position normale
+–	lorsque des véhicules ne peuvent pas être incorporés à un train
+–	pour dépanner un train en détresse ou des parties de train abandonnées.
+Les prescriptions « Dispositions complémentaires pour les mouvements de manœuvre en pleine voie » doivent être appliquées pour les voies en service. Les convois sur une voie interdite s’effectuent selon les prescriptions « Dispositions complémentaires pour les mouvements de manœuvre sur une voie interdite ».
+Un mouvement de manœuvre en pleine voie débute et se termine :
+–	en gare 
+–	sur un tronçon de pleine voie
+–	sur une voie de raccordement en pleine voie.
+Un mouvement de manœuvre en pleine voie peut circuler sur un ou plusieurs tronçons de voie ou de pleine voie.
+	
+4.1.2	Délimitation du tronçon de la pleine voie
+	
+	Une voie de la pleine voie peut comporter un ou plusieurs tronçons de pleine voie. Un tronçon de pleine voie est délimité comme suit :
+–	lorsqu’il est contigu à une gare, par la limite de manœuvre
+–	en pleine voie, par les signaux principaux de la voie parcourue aussi bien dans la direction concernée que pour la direction opposée.
+	
+	
+	
+	
+4.2	Annonce, préparation et prêt au départ
+4.2.1	Annonce
+	
+	Les mouvements de manœuvre en pleine voie doivent être annoncés et requièrent une marche.
+	
+4.2.2	Prescriptions de freinage pour les mouvements de manœuvre en pleine voie
+	
+	Les prescriptions pour l’essai du frein et de freinage sont identiques à celles valables pour les trains.
+	
+4.2.3	Mouvement de manœuvre qui suit un train
+	
+	Un mouvement de manœuvre en pleine voie peut suivre un train précédant en marche à vue sur des tronçons ou parties de réseau repris dans les prescriptions d’exploitation du GI, lorsque le train précédant n’a pas encore quitté le tronçon de pleine de voie ou de block. Le signal de sortie doit présenter l’image arrêt avant de transmettre l’assentiment.
+	
+4.2.4	Annoncer le prêt au départ
+	
+	Le CMAN annonce le prêt au départ au CC lorsque la préparation est terminée. 
+	
+4.3	Parcours
+4.3.1	Etablir et protéger un parcours
+	
+	Le parcours doit être établi par le CC et être protégé jusqu’au but du convoi. Selon les possibilités de l’exploitation, la subdivision en plusieurs parcours partiels est autorisée avec la protection correspondante.
+Le CC définit le but correspondant en fonction du parcours protégé.
+	
+
+4.3.2	Buts du parcours
+	
+	Fait office de but :
+–	un signal principal
+–	un signal principal de la direction opposée
+–	un signal de barrage ou un signal nain
+–	une voie de raccordement
+–	la voie de but en gare
+–	l’aiguille d’entrée pour les gares sans signaux d’entrée ou, lorsqu’il est posé, l’indicateur de début de gare.
+Sur un tronçon à deux voies sans banalisation, le signal d’entrée fait office de but pour les deux voies pour les convois circulant de la pleine voie en direction de la gare.
+	
+4.4	Mesures avant de transmettre l’assentiment
+4.4.1	Plusieurs mouvements de manœuvre
+	
+	Lorsque plusieurs mouvements de manœuvre se trouvent en pleine voie, il faut circuler en marche à vue.
+Avant de transmettre l’assentiment, le CC vérifie si d’autres mouvements de manœuvre en pleine voie se trouvent déjà ou sont annoncés sur le parcours.
+On ne peut transmettre l’assentiment à un autre mouvement de manœuvre que si celui-ci et tous les autres mouvements de manœuvre sont  avisés par un ordre à protocoler de la circulation de l’autre mouvement de manœuvre.
+	
+4.4.2	Annonces
+	
+	Avant de transmettre l’assentiment, le CC vérifie que toutes les annonces nécessaires ont été transmises, par ex. les annonces convenues à un chantier.
+	
+4.5	Assentiment pour le mouvement de manœuvre en pleine voie
+4.5.1	Validité de l’assentiment
+	
+	Pour chaque mouvement de manœuvre en pleine voie, on doit disposer d’un assentiment du CC. 
+L’assentiment est valable pour circuler jusqu’au but. Sur le tronçon de pleine voie correspondant, on peut effectuer d’autres mouvements d’aller et retour, sauf au-delà des aiguilles.
+Si le CMAN doit disposer à nouveau d’un assentiment pour continuer à circuler ou pour le retour, le CMAN annonce encore une fois le prêt au départ au CC.
+	
+4.5.2	Transmettre l’assentiment
+	
+	L’assentiment doit être transmis au CMAN par un ordre à quittancer avec le texte suivant : « pour (numéro) R, parcours protégé de (point de départ) à (but) ».
+Le point de départ et le but doivent être désignés de manière explicite et complétés en cas de nécessité avec le nom de la gare.
+Si l’assentiment ne peut pas être transmis jusqu’au but repris dans la marche, il faut le compléter avec le texte suivant : « attention, je répète, protégé uniquement jusqu’à (but) ». Le CMAN et le MEC doivent noter ce but par écrit.
+	
+4.5.3	Franchissement d’aiguilles en pleine voie
+	
+	Un nouvel assentiment doit être transmis par le CC pour tout nouveau franchissement d’aiguille en pleine voie. Sur un tronçon de pleine voie protégé, on peut transmettre un assentiment au moyen des signaux nains plutôt qu’avec un assentiment par un ordre à quittancer.
+Les aiguilles en pleine voie qui sont desservies par le CMAN peuvent être franchies sans nouvel assentiment du CC.
+	
+4.5.4	Assentiment pour entrer en gare
+	
+	Après entente, il est possible de transmettre l’assentiment pour entrer en gare au moyen des signaux nains plutôt qu’avec un assentiment par un ordre à quittancer.
+Le GI peut désigner les gares pour lesquelles l’assentiment pour l’entrée est donné à l’aide du signal d’entrée à voie libre. Le GI désigne, dans ce cas, le point d’arrêt limite.
+	
+4.6	Circulation
+4.6.1	Ordre d’avancer
+	
+	Pour les mouvements de manœuvre en pleine voie, le CMAN transmet de vive voix ou en phonie l’ordre d’avancer au MEC d’après le texte suivant : « (numéro) R en avant/en arrière jusqu’à (but) ».
+	
+
+4.6.2	Observation des signaux nains, de barrage et de manœuvre
+	
+	Les signaux nains et de barrage doivent être observés. Lorsque, pour des raisons techniques, des signaux nains ne peuvent pas être mis à voie libre, il faut procéder conformément aux dispositions « Processus principal en cas de dérangement ».
+Les signaux de manœuvre ne doivent pas être observés par les mouvements de manœuvre en pleine voie.
+	
+4.6.3	Franchissement d’installations de passage à niveau et de régulation du trafic
+	
+	Les installations de passage à niveau et de régulation du trafic en pleine voie et dans les gares intermédiaires sont à considérer de manière générale comme étant déclenchées. Elles doivent, pour autant que cela soit techniquement possible, être enclenchées par le CC ou sur place par le CMAN.
+Pour franchir des installations déclenchées, il faut procéder selon les 
+« Dispositions complémentaires en cas de dérangement aux installations de passage à niveau surveillées ainsi qu’aux installations de régulation du trafic ».
+Lorsqu’il est garanti qu’une installation de passage à niveau ou de régulation du trafic est enclenchée, celle-ci peut être franchie sans restriction. Les conditions doivent être fixées par le GI.
+	
+4.7	Arrivée
+4.7.1	Annonce d’arrivée
+	
+	Une annonce d’arrivée est nécessaire dans les cas suivants :
+–	lors de l’arrivée à la gare de destination
+–	après l’arrivée sur une voie interdite
+–	après le déraillement de véhicules particuliers, lorsqu’aucun autre véhicule du mouvement de manœuvre concerné ne se trouve plus sur le tronçon de pleine voie.
+L’annonce d’arrivée est transmise lorsque le mouvement de manœuvre est arrivé intégralement. Le CMAN annonce par un ordre à quittancer au CC : « (numéro) R à (endroit/voie) ».
+Le CC peut, après entente, demander une annonce d’arrivée dans un autre endroit approprié, en particulier lors :
+–	de l’arrivée sur une voie de raccordement
+–	de l’arrivée dans une gare intermédiaire
+–	de l’arrivée sur un tronçon de pleine voie déterminé.
+4.7.2	Suppression de la protection
+	
+	Lorsqu’il a reçu l’annonce d’arrivée, le CC peut supprimer la protection correspondante.
+	
+4.8	Dépanner un train en détresse
+4.8.1	Partie de train abandonnée
+	
+	Les dispositions relatives à la prise en charge d’un train en détresse s’appliquent par analogie pour la prise en charge d’une partie de train abandonnée.
+	
+4.8.2	Trajet aller
+	
+	Lorsqu’un train en détresse doit être dépanné en pleine voie, il faut circuler à l’aller en marche à vue. 
+L’assentiment ne peut être transmis pour le mouvement de manœuvre que lorsqu’il est certain que le train en détresse reste immobile.
+	
+4.8.3	Retour ou poursuite de la marche
+	
+	Le CC décide si le retour ou la poursuite de la marche doit se faire en circulant comme train ou mouvement de manœuvre en pleine voie et l’indique au personnel roulant. 
+Le CMAN annonce le prêt au départ au CC. Pour autant que la poursuite de la marche se fasse en circulant comme train, cette annonce comprend également l’annonce d’arrivée du mouvement de manœuvre. Le CC peut ensuite supprimer les protections correspondantes.
+	
+
+4.9	Mouvement de manœuvre qui ne quitte pas totalement la gare
+	
+	Les courses de manœuvre qui ne quittent pas totalement la gare circulent conformément aux prescriptions relatives aux mouvements de manœuvre en gare. On renoncera à l’attribution d’un numéro et à l’établisse­ment d’une marche. De plus :
+–	lors de la demande du parcours, le CMAN demande de surcroît l’assentiment pour franchir la limite de manœuvre
+–	le CC procède à la protection conformément aux prescriptions « Dispositions complémentaires pour les mouvements de manœuvre en pleine voie »
+–	le CC transmet l’assentiment pour le franchissement de la limite de manœuvre par un ordre à quittancer au CMAN
+
+–	le CMAN donne une annonce d’arrivée au CC lorsque le convoi est intégralement revenu en gare
+–	le CC supprime ensuite la protection.
+
+5	Dispositions complémentaires pour les mouvements de 
+manœuvre sur une voie interdite
+5.1	Généralités
+5.1.1	Principe
+	
+	Ces prescriptions s’appliquent sur les voies interdites en pleine voie et en gare. 
+Pour les mouvements de manœuvre en pleine voie en dehors des voies interdites, les prescriptions « Dispositions complémentaires pour les mouvements de manœuvre en pleine voie » doivent être appliquées.
+	
+5.1.2	Etendue de l’interdiction de voie
+	
+	Les voies interdites englobent les tronçons de voie et de pleine voie attenants ainsi que les aiguilles ayant été interdites conformément aux dispositions relatives aux « Travaux sur et aux abords des voies ».
+	
+5.1.3	Protection des mouvements de manœuvre sur voie interdite
+	
+	Sur les voies interdites, les mouvements de manœuvre ne sont pas protégés séparément; ils doivent se soumettre à l’interdiction de voie.
+	
+5.1.4	Marche à vue
+	
+	Sur les voies interdites, il faut circuler en principe en marche à vue. 
+	
+5.2	Compétences du CS
+5.2.1	Coordination des mouvements de manœuvre
+	
+	Le CS coordonne et avise le personnel des mouvements de manœuvre sur voie interdite pour ce qui est :
+–	des autres mouvements de manœuvre
+–	des aspects au niveau constructif
+–	de la sécurité sur les chantiers.
+Si le CS peut supprimer la marche à vue sur un tronçon de voie ou si le personnel roulant du mouvement de manœuvre doit observer des mesures particulières dans la zone du chantier, le CS doit garantir l’avis au CMAN conformément aux dispositions relatives aux « Travaux sur et aux abords des voies ».
+Le CS autorise les mouvements de manœuvre sur voie interdite. Le CS  assure un suivi écrit des mouvements de manœuvre et véhicules se trouvant sur les voies interdites.
+	
+5.3	Préparation
+5.3.1	Planification
+	
+	La planification des mouvements de manœuvre sur voie interdite doit correspondre à la planification du chantier.
+Les mouvements de manœuvre circulant sur voie interdite ne sont pas annoncés.
+	
+5.3.2	Limites des voies interdites
+	
+	Le CS informe le CMAN sur les limites des voies interdites et garantit cette information en permanence.
+L’information au CMAN sur les limites des voies interdites se fait : 
+–	par une couverture au moyen de signaux d’arrêt ou
+–	lorsque les limites sont clairement définies et reconnaissables, par
+–	un avis à protocoler ou
+–	la remise d’une copie
+–	de l’annonce d’exploitation de l’interdiction de voie ou
+–	du DISPO.
+	
+5.3.3	Désignation et préparation du mouvement de manœuvre
+	
+	D’entente avec le CMAN, le CS doit désigner clairement les différents mouvements de manœuvre.
+Le CMAN répond de la préparation des mouvements de manœuvre sur voie interdite, en accord avec le MEC.
+	
+5.3.4	Prescriptions de freinage pour les mouvements de manœuvre sur voie interdite
+	
+	En gare, les prescriptions d’essai de frein et de freinage sont celles valables pour les mouvements de manœuvre.
+Sur la pleine voie, les prescriptions d’essai de frein et de freinage sont celles valables pour les trains.
+Pour les véhicules avec d’autres systèmes de freinage que le frein à air, les ETF règlent la marche à suivre.
+
+5.4	Mouvement de manœuvre sur voie interdite
+5.4.1	Autorisation pour les mouvements de manœuvre
+	
+	Avant de transmettre au CMAN l’assentiment pour circuler sur une voie interdite, le CC demande l’autorisation au CS.
+	
+5.4.2	Assentiment
+	
+	Le CC transmet au CMAN l’assentiment pour circuler sur une voie interdite par un ordre à quittancer. 
+L’assentiment est formulé comme suit : « établi de (voie) jusqu’à (voie) interdite »
+Après entente et après avis contre quittance que la voie de destination est interdite, cet assentiment peut être transmis au moyen d’un signal nain.
+	
+5.5	Circuler sur une voie interdite
+5.5.1	Circuler sans assentiment
+	
+	Tant qu’aucune aiguille n’est franchie, on peut renoncer à un assentiment sur des voies interdites, auquel cas ne seront pas observés, les signaux principaux, signaux de manœuvre et limites de manœuvre.
+En présence de plusieurs mouvements de manœuvre, les CMAN s’avisent, d’entente avec le CS, sur le genre et l’ordre de succession des mouvements de manœuvre à effectuer.
+	
+5.5.2	Modification de la composition d’un mouvement de manœuvre
+	
+	Lorsque la composition d’un mouvement de manœuvre est modifiée, le CMAN avise contre quittance le CS.
+	
+5.5.3	Franchir des aiguilles
+	
+	Sur des voies interdites, sans accord mutuel, les aiguilles ne se trouvent pas dans une position définie.
+Sur une voie interdite, le CMAN et le CS doivent s’entendre lorsqu’il faut manœuvrer des aiguilles. Si nécessaire, le CMAN demande au CC de manœuvrer les aiguilles.
+Un assentiment du CC est nécessaire pour le franchissement d’aiguilles centralisées. Cet assentiment peut, en fonction du type de protection, être transmis une fois ou globalement pour plusieurs mouvements. Lorsqu’il existe des signaux nains, on peut les utiliser pour transmettre l’assentiment.
+Les dispositions relatives aux aiguilles s’appliquent par analogie aux dispositifs de déraillement, aux croisements et aux traversées de voie.
+	
+5.5.4	Franchir des installations de passage à niveau et de régulation du trafic
+	
+	En principe, les installations de passage à niveau et de régulation du trafic doivent être considérées comme déclenchées. Elles doivent, pour autant que cela soit techniquement possible, être enclenchées sur place par le CMAN ou, à sa demande, par le CC.
+Pour franchir des installations déclenchées, il faut procéder selon les 
+« Dispositions complémentaires en cas de dérangement aux installations de passage à niveau surveillées ainsi qu’aux installations de régulation du trafic».
+Lorsqu’il est garanti que l’installation de passage à niveau ou de régulation du trafic est enclenchée, celle-ci peut être franchie sans restriction. Les conditions doivent être fixées par le GI.
+	
+5.6	Mouvement de manœuvre provenant d’une voie interdite
+5.6.1	Annonce de prêt
+	
+	Le CMAN demande au CC l’assentiment pour circuler hors des voies interdites.
+	
+5.6.2	Assentiment du CC
+	
+	Le CC transmet l’assentiment au CMAN pour circuler de la zone interdite jusque dans la zone non interdite. 
+L’assentiment peut être transmis comme suit :
+–	transmission par un ordre à quittancer
+–	sur entente préalable 
+–	au moyen d’un signal nain
+–	pour les gares désignées par le GI, par la mise à voie libre du signal d’entrée, lorsque la limite de la voie de la pleine voie est directement contiguë à une gare
+–	au moyen d’un signal principal, lorsque la poursuite de la marche se fait en circulant comme train.
+	
+5.7	Annonce d’arrivée
+	
+	Après que le mouvement de manœuvre a intégralement quitté les voies interdites, le CMAN transmet par un ordre à quittancer l’annonce d’arrivée au CS.
+5.8	Annonce de voie praticable
+5.8.1	Constatation de l’état d’occupation avant l’annonce de voie praticable
+	
+	Le CS s’assure de l’état d’occupation des voies sur la base des annonces d’arrivée et des contrôles écrits. Si un doute subsiste, les voies interdites doivent être contrôlées sur place.
+En pleine voie, les voies doivent être libres de véhicules avant l’annonce de voie praticable.
+	
+5.8.2	Annonce de voie praticable avec des voies libres
+	
+	Lorsque le CS constate l’état libre des voies interdites, les CS annonce les voies praticables au CC selon les dispositions « Travaux sur et aux abords des voies ».
+	
+5.8.3	Annonce de voie praticable avec des voies occupées par des véhicules
+	
+	Lorsque, en gare, des voies restent occupées par des véhicules, le CS avise en conséquence le CC lors de l’annonce de voie praticable selon les dispositions « Travaux sur et aux abords des voies ».
+Le CC protège les voies occupées à l’installation de sécurité où cela s’avère nécessaire.
+
+
+
+6	Dispositions complémentaires pour le débranchement
+6.1	Freins de voie, chariots transporteurs
+	
+	Le GI édicte les prescriptions nécessaires pour les installations où le laisser-couler est
+–	effectué avec des freins de voie et des chariots transporteurs
+–	arrêté avec des freins de voie combinés à des sabots d’arrêt.
+	
+6.2	Détendre les attelages et desserrer
+	
+	Avant que les attelages à vis ne soient détendus entre les différentes coulées et les freins desserrés, il faut assurer les véhicules contre la dérive.
+Lorsque les boyaux de frein risquent d’être endommagés ou déchirés lors du laisser-couler, il faut les mettre dans le support prévu à cet effet.
+	
+6.3	Renoncement au frein à air dans les installations de 
+débranchement
+	
+	Lorsque la charge doit être transposée sur la voie de débranchement, des courses de manœuvre peuvent s’effectuer avec une charge remorquée non freinée 
+–	hors des voies de formation et de direction pour un laisser-couler imminent (aussi via la bosse de débranchement) ou
+–	pour garer avant un débranchement ultérieur.
+Dans ce cas, le poids de la charge remorquée non freinée ne doit pas dépasser les valeurs suivantes, par rapport au poids du véhicule moteur, sur ou en direction de déclivités
+–	  0   –     6 ‰		10 x
+–	  7   –   15 ‰		  5 x
+–	16   –   30 ‰		  2 x.
+	
+6.4	Demander le débranchement et octroi de l’assentiment
+	
+	Le CMAN demande le débranchement au CC. Celui-ci vérifie, dans la mesure du possible, si la zone de débranchement est libre puis commute l’appareil d’enclenchement pour le débranchement et donne l’assentiment y relatif.
+Le CMAN contrôle que le débranchement est enclenché.
+	
+	
+6.5	Annonce des laisser-couler et observation de la zone 
+concernée
+	
+	Dans les installations non automatisées ou partiellement, le CMAN désigne, avant chaque laisser-couler, la voie de destination et les véhicules devant être arrêtés à l’aide de 2 sabots d’arrêt aux aiguilleurs et aux sabotiers.
+Dans la mesure du possible, toutes les personnes impliquées par le laisser-couler doivent observer la zone de débranchement.
+Les aiguilles peuvent également être manœuvrées devant des véhicules en approche, pour autant que l’on soit certain qu’elles arriveront en fin  de course avant le passage du convoi.
+	
+6.6	Dételer
+	
+	Sur les bosses de débranchement, les attelages détendus sont éjectés durant la poussée à l’aide de la perche de dételage. S’il faut dételer à bras, il faut arrêter le mouvement de manœuvre. L’atteleur ne peut s’introduire entre les véhicules que lors de l’arrêt complet du mouvement de manœuvre.
+Après le dételage des véhicules, il est possible de renoncer à remettre les attelages dans les supports prévus à cet effet.
+	
+6.7	Protéger
+	
+	Les voies où s’effectuent les laisser-couler doivent être protégées, à leur extrémité, d’un sabot d’arrêt à tige ou de 2 sabots d’arrêt. 
+Lorsque les véhicules débranchés sont assurés avec un sabot d’arrêt, on peut renoncer, dans les voies de direction, à utiliser un panneau de mise en garde pour sabots d’arrêt. Le CMAN partira du principe que les véhicules sont assurés à l’aide de sabots d’arrêt et doit adapter son comportement en conséquence.
+	
+6.8	Le laisser-couler s’arrête prématurément
+	
+	Lorsque le laisser-couler s’arrête prématurément, il est possible de garer sur les véhicules en question sans les assurer contre la dérive. A condition toutefois que le parcours soit enclenché pour la voie concernée et qu’en cas de déplacement intempestif des véhicules
+–	tout tamponnement soit exclu
+–	les véhicules ne quittent pas le parcours protégé
+–	personne ne soit mis en danger.
+	
+7	Mouvements de manœuvre en exploitation des tramways
+7.1	Mesures à prendre avant et après le mouvement
+7.1.1	Direction
+	
+	Chaque mouvement de manœuvre est dirigé par un CMAN. 
+Lorsque la direction du mouvement de manœuvre change, les CMAN doivent s’orienter mutuellement.
+	
+7.1.2	Genres de mouvements
+	
+	On définit les mouvements de manœuvre suivants : 
+–	courses de manœuvre conduites de manière directe et indirecte
+–	mouvements de manœuvre au moyen de véhicules routiers
+–	mouvements de manœuvre à bras ou au moyen d’engins 
+mécaniques.
+	
+7.1.3	Conduite directe des courses de manœuvre
+	
+	Les courses de manœuvre en conduite directe sont autorisées lorsque
+–	le MEC dispose en permanence d’une vue bien dégagée sur le parcours et les signaux et 
+–	le MEC dessert les freins et 
+–	le MEC a la possibilité de donner des signaux d’avertissement. 
+	
+7.1.4	Conduite indirecte des courses de manœuvre
+	
+	Les courses de manœuvre sont conduites de manière indirecte lorsque le MEC ne dispose pas d’une vue bien dégagée sur le parcours et les signaux. 
+Pour la conduite indirecte, le CMAN doit se positionner de façon à pouvoir parfaitement observer le parcours et les signaux.
+	
+7.1.5	Limite de manœuvre et application des dispositions complémentaires
+	
+	Les mouvements de manœuvre peuvent être effectués à l’intérieur des limites de manœuvre. Le GI définit ces limites de manœuvre. Elles se trouvent en règle générale à la limite entre les voies de ligne régulière et les voies de service. 
+En dehors des limites de manœuvre, les dispositions complémentaires pour les mouvements de manœuvre sur une voie de ligne régulière doivent être appliquées. 
+Sur les voies interdites, les « dispositions complémentaires pour les mouvements de manœuvre sur une voie interdite » doivent être appliquées.
+Lors de mouvements de manœuvre à l’intérieur d’une voie interdite, seules les limites de l’interdiction sont déterminantes.
+	
+7.1.6	Signalisation des véhicules moteurs
+	
+	La signalisation des véhicules moteurs est régie par les prescriptions des signaux.
+	
+7.1.7	Sens de marche du mouvement de manœuvre
+	
+	Pour les mouvements de manœuvre conduits de manière indirecte, le CMAN fixe le sens de marche en avant.
+	
+7.1.8	Véhicules sur lesquels il est interdit de garer ou permis seulement de façon prudente
+	
+	Les véhicules en réparation ou qu’il est interdit de déplacer doivent être assurés contre la dérive et signalés selon les prescriptions des signaux.
+Les véhicules reliés par un câble à une installation fixe doivent être signalés selon les prescriptions des signaux. 
+Les ETF peuvent prescrire des mesures de sécurité alternatives en lieu et place de la signalisation. 
+Avant le début des travaux au véhicule, la signalisation doit être apposée, en cas de nécessité aux deux extrémités, ou les mesures de sécurité doivent être mises en œuvre.
+	
+7.1.9	Assurer des véhicules
+	
+	Les véhicules en stationnement doivent être assurés contre la dérive. Les ETF règlent les moyens de freinage et la procédure dans les prescriptions d'exploitation.
+	
+7.1.10	Freins
+	
+	Les mouvements de manœuvre doivent pouvoir être freinés et arrêtés en toute sécurité. Les ETF édictent les prescriptions d’exploitation nécessaires à cet effet. 
+En montant sur le véhicule, l’EMAN doit s’assurer de l’endroit où le frein d’urgence peut être actionné. 
+Les ETF règlent la procédure à appliquer lorsqu’il faut paralyser complètement ou en partie les freins.
+7.2	Exécution
+7.2.1	Principe
+	
+	Dans les zones où les aiguilles ne sont pas centralisées, la personne assumant la fonction de CMAN prend en charge les tâches de la fonction CC. Les GI édictent les prescriptions d’exploitation nécessaires pour les installations prévoyant l’établissement d’itinéraires ou une commande centralisée des parcours. 
+Les assentiments et les ordres doivent être transmis clairement. Si plusieurs personnes sont impliquées, chaque annonce et chaque ordre doivent être quittancés par le destinataire. 
+Il faut s’attendre en tout temps à ce que d’autres mouvements de manœuvre surviennent. Les CMAN doivent s’aviser mutuellement sur les mouvements à effectuer. 
+Lorsque l’assentiment n’est pas clair, le CMAN n’a pas le droit de donner l’ordre d’avancer. Si le MEC reçoit des ordres pas clairs, il n’a pas le droit de démarrer ou il doit arrêter le mouvement. Il faut exiger la répétition de l’assentiment ou de l’ordre.
+	
+7.2.2	Véhicules particuliers
+	
+	Les ETF règlent, avec l’implication des GI, la procédure applicable à l’enraillement et à la mise hors voie de véhicules rail-route ainsi que celle applicable aux véhicules pour lesquels des parties d’installation de l’infrastructure ne fonctionnent pas de manière optimale.
+	
+7.2.3	Établissement du parcours, conditions d’exploitation
+	
+	Les aiguilles peuvent être desservies uniquement si elles sont libres et être manœuvrées dans la position souhaitée en toute sécurité avant l'arrivée éventuelle de véhicules. Après la manœuvre d’une aiguille à main, il convient de vérifier si la lame correspondante est bien plaquée. 
+Lors du franchissement d’une aiguille talonnable, il faut toujours avancer jusqu’à ce que tous les véhicules aient entièrement libéré l’aiguille concernée.
+	
+7.2.4	Assentiment pour le mouvement de manœuvre, principe
+	
+	Le CMAN fixe la voie de destination. Le CMAN s’octroie l’assentiment pour chaque mouvement de manœuvre.
+	
+
+7.2.5	Mesures avant de transmettre l’assentiment
+	
+	Avant de transmettre l’assentiment, le CMAN vérifie que
+ –	les aiguilles se trouvent en bonne position et ont atteint leur position de fin de course et
+–	les indications de verrouillage des aiguilles sont présentes en cas de nécessité et 
+–	les signaux se trouvant sur le parcours autorisent le mouvement de manœuvre.
+	
+7.2.6	Vérification avant de donner l’ordre d’avancer
+	
+	Avant de transmettre l’ordre d’avancer, le CMAN, pour autant que cela soit possible, vérifie que 
+–	les véhicules sont prêts pour le mouvement de manœuvre
+–	les personnes qui pourraient être mises en danger sont averties à temps
+–	le MEC est avisé des tronçons à parcourir dont la ligne de contact est déclenchée ou mise à la terre.
+	
+7.2.7	Transmission des ordres pour les mouvements de manœuvre
+	
+	Pour chaque mouvement de manœuvre, de manière séparée, le CMAN doit transmettre les ordres au MEC comme suit :
+–	de vive voix ou en phonie au moyen du texte : « R ... » ou
+–	de manière optique et acoustique selon les prescriptions des signaux.
+
+
+	Pour transmettre les ordres, on utilisera les termes suivants :	
+		
+	français	allemand	italien
+			
+	coupé	abgehängt	sganciato
+			
+	en avant	vorwärts 	avanti
+			
+	en arrière	rückwärts 	indietro
+			
+	garer
+(en avant / en arrière)	anfahren 
+(vorwärts / rückwärts) 	accostare
+(avanti / indietro)
+		un wagon
+	demi
+	quatre mètres
+	deux mètres
+	un mètre		wagenlang 
+	halbe 
+	vier 
+	zwo (statt zwei) 
+	einen 		un vagone
+	mezzo
+	quattro
+	due
+	uno
+			
+	arrêter	anhalten 	fermare
+			
+	ralentir	langsamer	rallentare
+			
+	appuyer	bewegen 	appoggiare
+			
+		
+7.2.8	Indications de distance	
+		
+	Pour garer sur des véhicules à l’arrêt ou pour s’arrêter à un endroit précis, le CMAN doit donner les indications de distance au MEC. Les indications de distance sont données en tenant compte de la vitesse, du poids de la course de manœuvre, de l’efficacité des freins, des conditions locales ainsi que de l’état et de la déclivité de la voie. 
+Quand la course de manœuvre est conduite de manière directe, on peut renoncer à la transmission des indications de distance et de l’ordre arrêt.	
+		
+7.2.9	Quittance et exécution des ordres	
+		
+	Le MEC doit quittancer les ordres puis les exécuter immédiatement. 
+Il faut confirmer les indications de distance par une réduction correspondante de la vitesse. La première indication de distance doit être quittancée après avoir réduit la vitesse. Si la première indication de distance est donnée avec l’ordre d’avancer, la première indication de distance est considérée comme également quittancée avec la quittance correspondante. La première indication de distance peut aussi être confirmée de manière acoustique. 
+Si la vitesse n’est pas suffisamment réduite après la transmission d’une indication de distance, le CMAN doit donner des signaux d’arrêt. 
+Le MEC doit observer immédiatement l’ordre de s’arrêter et ne doit pas le quittancer. 
+Les ordres donnés de manière optique et acoustique selon les prescriptions des signaux ne doivent pas être quittancés.	
+		
+7.2.10	Observation du parcours	
+		
+	L’observation du parcours pendant le mouvement incombe au CMAN. Il se place de manière à pouvoir observer sans encombre le parcours et les signaux. 
+Pour une course de manœuvre conduite de manière directe, le MEC est responsable de l’observation du parcours. 
+Si, durant une course de manœuvre conduite de manière indirecte et dirigée selon les prescriptions des signaux au moyen d’ordres visuels et acoustiques, le MEC perd momentanément la liaison visuelle avec le CMAN, le MEC doit s’arrêter.	
+		
+7.2.11	Zones de séparation électrique	
+		
+	Les GI règlent dans les prescriptions d’exploitation le franchissement de zones de séparation électrique	
+		
+7.2.12	Arrêt du mouvement de manœuvre, point d’arrêt limite	
+		
+	Un mouvement de manœuvre doit s’arrêter au plus tard 
+–	devant un signal valable pour les mouvements de manœuvre et présentant l’image arrêt 
+–	sur la voie de destination selon l’assentiment 
+–	avant le signal limite de garage d’une aiguille non talonnable abordée par le talon et se trouvant en mauvaise position 
+–	avant la limite de manœuvre.	
+		
+7.2.13	Garer sur des véhicules	
+	Lorsqu’il faut garer sur des véhicules, ceux-ci doivent être assurés de manière à ce qu’ils ne puissent pas partir à la dérive. 
+En appuyant, il y a lieu de veiller à ce que les véhicules ne soient si possible pas déplacés. Dans tous les cas, aucun danger ne doit en résulter par un éventuel déplacement de véhicules. 
+Il est interdit de garer sur des véhicules en réparation. Tous les mouvements de manœuvre doivent s’arrêter à au moins 1 mètre de ces véhicules. 
+Il est autorisé de garer avec prudence sur des véhicules raccordés à une installation fixe ou qui sont préchauffés par un véhicule moteur non occupé, mais sans les déplacer.	
+7.2.14	Profil d’espace libre	
+		
+	Les véhicules doivent être garés de sorte qu’aucune de leurs parties ne dépasse la limite représentée par le signal limite de garage. Les GI peuvent fixer des exceptions dans leurs prescriptions d’exploitation.	
+		
+7.3	Dispositions sur les genres de mouvements	
+7.3.1	Mouvements de manœuvre à bras, au moyen d’engins mécaniques ou de véhicules routiers	
+		
+	Les ETF définissent la procédure applicable aux mouvements de manœuvre réalisés à bras, au moyen d’engins mécaniques ou de véhicules routiers.	
+		
+7.3.2	Véhicules réunis par un attelage de secours ou une flèche d’attelage	
+		
+	Les ETF règlent dans les prescriptions d’exploitation l’utilisation des attelages de secours et des flèches d’attelage.	
+		
+7.3.3	Vitesses	
+		
+	Les GI règlent la vitesse maximale dans leurs prescriptions d’exploitation. 
+Les vitesses maximales indiquées par des signaux d’indication de vitesse doivent être respectées. 
+Des vitesses maximales générales peuvent être définies pour des éléments de parcours. Ces éléments et les vitesses maximales correspondantes doivent être réglés par les GI dans les prescriptions d'exploitation.
+La vitesse doit être adaptée aux particularités locales et aux moyens de freinage.	
+		
+7.4	Dispositions complémentaires pour les mouvements de manœuvre sur une voie de ligne régulière	
+7.4.1	Principe	
+		
+	Les prescriptions « Dispositions complémentaires pour les mouvements de manœuvre sur une voie de ligne régulière » doivent être appliquées pour les voies de ligne régulière en service. Les convois sur une voie interdite s’effectuent selon les prescriptions « Dispositions complémentaires pour les mouvements de manœuvre sur une voie interdite ».	
+		
+
+7.4.2	Avis et parcours
+	
+	Les GI règlent l’avis, le cas échéant la nécessité d’obtenir un assentiment du centre de gestion pour les mouvements de manœuvre sur voie de ligne régulière. 
+Le CMAN établit le parcours. Les GI règlent la régulation du trafic ainsi que la commande et le contrôle des aiguilles et des installations de régulation du trafic. 
+En cas de convoi circulant dans la direction opposée au sens de marche fixé pour la voie de ligne régulière, les convois suivants circulant dans le sens de marche normal en sont avisés conformément aux consignes édictées par les GI.
+Les GI règlent l’avis à l’issue du mouvement de manœuvre.
+	
+7.4.3	Dépanner un train en détresse
+	
+	Les GI règlent la procédure applicable au dépannage d’un train en détresse.
+	
+7.5	Dispositions complémentaires pour les mouvements de manœuvre sur une voie interdite
+7.5.1	Principe
+	
+	Ces prescriptions s’appliquent sur les voies de ligne régulière et de service interdites.
+	
+7.5.2	Étendue de l’interdiction de voie
+	
+	Les voies interdites englobent les tronçons de voie attenants ainsi que les aiguilles ayant été interdites conformément aux dispositions relatives aux « Travaux sur et aux abords des voies ».
+	
+7.5.3	Compétences du RESCT
+	
+	Le RESCT coordonne et avise le personnel des mouvements de manœuvre sur voie interdite pour ce qui est : 
+–	des autres mouvements de manœuvre
+–	des aspects au niveau constructif 
+–	de la sécurité sur les chantiers 
+–	de la régulation du trafic. 
+Le RESCT autorise les mouvements de manœuvre sur voie interdite.
+
+7.5.4	Planification
+	
+	La planification des mouvements de manœuvre sur voie interdite doit correspondre à la planification du chantier.
+	
+7.5.5	Limites des voies interdites
+	
+	Les limites des voies interdites doivent être couvertes au moyen de signaux d’arrêt. 
+Le RESCT informe le CMAN sur les limites des voies interdites.
+	
+7.5.6	Désignation et préparation du mouvement de manœuvre
+	
+	D’entente avec le CMAN, le RESCT doit désigner clairement les différents mouvements de manœuvre. 
+Le CMAN répond de la préparation des mouvements de manœuvre sur voie interdite, en accord avec le MEC.
+	
+7.5.7	Circulation
+	
+	Pour les convois circulant sur une voie interdite, aucun assentiment n’est requis. Les GI règlent le franchissement du tronçon interdit au cas par cas dans le DISPO, en particulier en ce qui concerne la régulation du trafic, la commande des aiguilles, les installations de régulation du trafic, les installations électriques et les lignes de contact. 
+Sur une voie interdite, le CMAN et le RESCT doivent s’entendre lorsqu’il faut manœuvrer des aiguilles.
+	
+7.5.8	Mouvement de manœuvre entre des voies interdites et des voies en service
+	
+	Les GI règlent de manière générale ou au cas par cas, dans le DISPO, les conditions dans lesquelles les convois sont autorisés à circuler de et vers la zone interdite.
+	
+7.5.9	Orientation des mouvements de manœuvre restants
+	
+	Avant que le RESCT ne déclare la voie praticable selon les dispositions 
+« Travaux sur et aux abords des voies » et ne mette fin au chantier, le RESCT oriente les mouvements de manœuvre restants de la fin de l’interdiction de voie.
+
+	
+	
+	
+Annexe 1
+
+
+
+Dispositifs d’attelage à vis, modèle UIC
+ 
+
+1	Généralité
+1.1	Ordre à respecter pour atteler
+1.1.1	Principe
+	
+	Pour l’attelage, on respectera l’ordre suivant :
+1.	attelage mécanique
+2.	conduites pneumatiques
+3.	liaisons électriques
+4.	intercirculation.
+Pour le dételage, on respectera l’ordre inverse.
+Tous les dispositifs d’attelage non utilisés doivent être remis dans les supports prévus à cet effet.
+Il faut vérifier ensuite que cela est bien attelé au moyen d’un contrôle visuel.
+	
+1.1.2	Exception
+	
+	Il est permis de déroger à l’ordre prévu pour atteler lorsque
+–	les véhicules sont assurés contre la dérive à l’aide de sabots d’arrêt ou du frein d’immobilisation et que la conduite générale est purgée ou
+–	les deux parties de train sont attelées aux véhicules moteurs occupées.
+	
+1.2	Courbes et contre-courbes de petit rayon
+	
+	Les GI désignent dans leurs prescriptions d’exploitation les courbes de rayon inférieur à 150 m et les contre-courbes de petit rayon. 
+Les ETF règlent dans leurs prescriptions d’exploitation pour quels véhicules et dans quels rayons les attelages doivent être détendus ou exécutés à la prolonge ou à l’aide de flèches d’attelage.
+
+2	Attelage à vis, modèle UIC
+2.1	Construction
+	
+	
+	
+2.2	Utilisation de l’attelage
+	
+	Pour atteler 2 véhicules, il faut crocher un tendeur à vis au crochet de traction de l’autre véhicule. Les étriers d’attelage difficiles à manier doivent être logés correctement dans le crochet, afin qu’ils n’en sortent pas en cours de route. Le levier du tendeur à vis doit être posé sur le support de sécurité. Quand celui-ci fait défaut, le levier doit pendre verticalement. Dans les trains, l’attelage à vis doit être tendu de manière que, sur une voie en alignement et horizontale, les tampons se touchent.
+
+
+3	Conduites pneumatiques
+3.1	Conduite générale
+	
+	Lorsque le frein à air est utilisé, la conduite générale du frein à air doit toujours être accouplée pour les mouvements de manœuvre.
+Dans la mesure du possible, il faut accoupler les boyaux de la conduite générale se trouvant du même côté et ouvrir les robinets d’arrêt. Il n’est permis d’accoupler les boyaux de la conduite générale en diagonale que s’il est possible de le faire sans les plier ou les tendre.
+	
+3.2	Conduite d’alimentation
+	
+	La conduite d’alimentation doit toujours être accouplée entre les voitures et wagons entre eux, ainsi qu’aux véhicules moteurs.
+	
+3.3	Conduite du frein de manœuvre
+	
+	Lorsque des véhicules moteurs circulant en conduite multiple possèdent l’un et l’autre un boyau de frein de manœuvre, il faut raccorder cette conduite. Pour accoupler et découpler ces boyaux, le frein de manœuvre doit être desserré.
+
+
+4	Liaisons électriques
+4.1	Ligne de train
+4.1.1	Accoupler
+	
+	Dans les trains, la ligne de train doit toujours être accouplée.
+Par principe, on considère la ligne de train comme étant toujours sous tension, jusqu’à ce qu’on ait pu se convaincre du contraire.
+La ligne de train ne peut être accouplée ou découplée que si le pantographe du véhicule moteur est abaissé, ou après déclenchement de l’installa­tion fixe de préchauffage ou lorsque le moteur diesel est arrêté. L’EMAN doit se faire confirmer le déclenchement de la ligne de train par le MEC.
+La formation du train terminée, il faut ordonner au MEC d’enclencher la ligne de train.
+	
+4.1.2	Enclenchement
+	
+	Pour les trains tirés, la ligne de train sera mise sous tension
+–	après en avoir reçu l’ordre
+–	lorsqu’aucun ordre n’a été donné, immédiatement avant le départ du train.
+La ligne de train des trains navettes doit être enclenchée lors de la mise en service de la cabine de conduite, également lorsque des véhicules de renfort ont été ajoutés au train. Si la ligne de train ne doit pas être enclenchée ou si le préchauffage (ou la préclimatisation) doit être interrompu, il faut aviser le MEC.
+Dans les gares de rebroussement, si des véhicules à ajouter au train se trouvent sur la voie de réception, le MEC n’enclenchera la ligne de train qu’après en avoir reçu l’ordre. Lorsqu’aucun ordre n’est transmis, la ligne de train sera enclenchée immédiatement avant le départ.
+	
+
+4.1.3	Déclenchement
+	
+	Le MEC doit déclencher la ligne de train
+–	après en avoir reçu l’ordre
+–	entre le signal d’entrée et le début du quai des gares dans lesquelles la composition du train est modifiée, excepté lorsque l’attelage automatique est utilisé pour les rames automotrices
+–	lorsque la ligne de train du véhicule moteur ou d’un autre véhicule est endommagée
+–	lors d’une baisse involontaire de la pression dans la conduite générale.
+	
+4.2	Câble UIC
+	
+	Il existe des câbles UIC à 13 et à 18 pôles. Les prises et les fiches des câbles UIC à 18 pôles sont repérées au moyen d’une marque rouge. Les fiches UIC doivent être fixées aux prises prévues à cet effet. Il est impossible d’accoupler une fiche à 18 pôles sur une prise à 13 pôles. Par contre, une fiche à 13 pôles peut sans autre être accouplée sur une prise à 18 pôles.
+Au passage des portes frontales, les câbles seront fixés aux pinces de retenue, afin qu’ils ne gênent pas le passage des voyageurs.
+Le câble UIC peut être accouplé ou découplé lorsque le véhicule moteur est en service.
+
+5	Intercirculation
+5.1	Passerelles
+	
+	Dans les trains de voyageurs et dans les trains conduisant des fourgons ou des ambulants postaux desservis, les passerelles seront abaissées partout où les véhicules voisins en sont munis. Quand un véhicule est dépourvu d’intercirculation, la passerelle de celui qui lui fait face sera verrouillée en position relevée. Lors du dételage, les passerelles doivent être relevées et verrouillées. La porte frontale du côté de véhicule moteur et en queue du train doit être verrouillée.
+	
+5.2	Soufflets et bourrelets
+	
+	Aux trains de voyageurs, les soufflets doivent être raccordés entre eux ou avec les bourrelets d’intercirculation.
+Lors du dételage, les soufflets doivent être repliés dans leur cadre et fixés par tous leurs verrous s’ils ne sont pas réutilisés de suite.
+
+	
+Annexe 2
+
+
+
+Dispositifs d’attelage à tampon central
+
+	
+	
+
+	
+
+1	Généralité
+1.1	Ordre à respecter pour atteler
+1.1.1	Principe
+	
+	Pour l’attelage, on respectera l’ordre suivant :
+1.	attelage mécanique
+2.	conduites pneumatiques
+3.	liaisons électriques
+4.	intercirculation.
+Pour le dételage, on respectera l’ordre inverse.
+Tous les dispositifs d’attelage non utilisés doivent être remis dans les supports prévus à cet effet.
+Il faut vérifier ensuite que cela est bien attelé au moyen d’un contrôle visuel.
+	
+
+2	Attelage à tampon central
+2.1	Construction
+2.1.1	Attelage à tampon central avec crochets d’attelages latéraux
+	
+	
+	
+2.1.2	Attelage à tampon central avec crochet d’attelage central
+	
+	course du tampon ↓
+
+2.2	Utilisation de l’attelage
+2.2.1	Principe
+	
+	Les étriers d’attelage difficiles à manier doivent être logés correctement dans le crochet, afin qu’ils n’en sortent pas en cours de route. Le levier du tendeur à vis doit être posé sur le support de sécurité. Quand celui-ci fait défaut, le levier doit pendre verticalement.
+Les tendeurs à vis non utilisés seront déposés dans les étriers de sécurité; si ceux-ci font défaut, il faut ôter les tendeurs à vis et les déposer à l’endroit approprié.
+	
+
+2.2.2	Attelage avec crochets latéraux
+	
+	Pour atteler 2 véhicules, il faut crocher les deux attelages au crochet de traction de l’autre véhicule. Il est interdit de circuler avec des véhicules attelés d’un seul côté. Dans les trains, les tendeurs à vis seront serrés jusqu’à ce que les tampons se touchent. Ils ne doivent pas être tendus. Le pas de vis resté libre doit être égal de part et d’autre.
+	
+2.2.3	Attelage avec crochets d’attelage central
+	
+	Aux trains, une fois le tendeur à vis croché, on observera la position des tampons avant de serrer le tendeur à vis. Si la course restante du tampon est inférieure à 50 mm, le tendeur à vis ne devra pas être complètement serré.
+	
+
+3	Conduites pneumatiques
+3.1	Conduite générale
+	
+	Pour les trains, la conduite générale du frein à air doit être toujours être accouplée, pour les trains avec des freins à vide des deux côtés.
+Les courses de manœuvre dans les gares peuvent être effectuées en n’accouplant la conduite générale que d’un côté.
+Après le dételage, les têtes de conduites seront obturées au moyen des capuchons.
+	
+3.2	Conduite d’alimentation
+	
+	La conduite d’alimentation des véhicules entre eux et avec les véhicules moteurs sera accouplée d’un seul côté.
+	
+3.3	Conduite du frein de manœuvre
+	
+	Lorsque des véhicules moteurs circulant en conduite multiple possèdent l’un et l’autre un boyau de frein de manœuvre, il faut raccorder cette conduite. Pour accoupler et découpler ces boyaux, le frein de manœuvre doit être desserré.
+
+
+4	Liaisons électriques
+4.1	Ligne de train
+4.1.1	Accoupler
+	
+	Dans les trains voyageurs, la ligne de train doit toujours être accouplée. Aux trains marchandises, on l’accouplera que si des véhicules doivent être alimentés en énergie.
+Par principe, on considère la ligne de train comme étant toujours sous tension, jusqu’à ce qu’on ait pu se convaincre du contraire.
+La ligne de train ne peut être accouplée ou découplée que si le pantographe du véhicule moteur est abaissé ou après déclenchement de l’installation fixe de préchauffage ou lorsque le moteur diesel est arrêté. L’EMAN doit se faire confirmer le déclenchement de la ligne de train par le MEC.
+Une fois la formation du train terminée, il faut ordonner au MEC d’enclencher la ligne de train.
+	
+4.1.2	Enclenchement
+	
+	Pour les trains remorqués par une locomotive, la ligne de train sera mise sous tension
+    – après en avoir reçu l’ordre
+    – lorsqu’aucun ordre n’a été donné, immédiatement avant le départ du train.
+La ligne de train des trains navettes doit être enclenchée lors de la mise en service de la cabine de conduite, également lorsque des véhicules de renfort ont été ajoutés au train. Si la ligne de train ne doit pas être enclenchée ou si le préchauffage (ou la préclimatisation) doit être interrompu, il faut aviser le MEC.
+Dans les gares de rebroussement, si des véhicules à ajouter au train se trouvent sur la voie de réception, le MEC n’enclenchera la ligne de train qu’après en avoir reçu l’ordre. Lorsqu’aucun ordre n’est transmis, la ligne de train sera enclenchée immédiatement avant le départ.
+	
+
+4.1.3	Déclenchement
+	
+	Le MEC doit déclencher la ligne de train
+    – après en avoir reçu l’ordre
+    – entre le signal d’entrée et le début du quai des gares dans lesquelles la composition du train est modifiée, excepté lorsque l’attelage automatique est utilisé pour les rames automotrices
+    – lorsque la ligne de train du véhicule moteur ou d’un autre véhicule est endommagée.
+Pour les trains navettes avec des freins à vide conduits depuis une voiture de commande, la ligne de train ne sera déclenchée qu’immédiatement après l’arrêt.
+	
+4.2	Câble LBT
+	
+	Lorsqu’elle existe, la conduite de commande des haut-parleurs, de l’éclairage et des portes (LBT) sera raccordée dans les trains qui transportent des voyageurs. Si le câble LBT fait défaut, on raccordera séparément les diverses conduites.
+Le câble LBT peut être accouplé ou découplé lorsque le véhicule moteur est en service.
+Exception : Lors de l’attelage de deux véhicules moteurs en commande multiple, ou lors de leur séparation, l’assentiment du MEC est indispensable pour les véhicules moteurs en service.
+
+5	Intercirculation
+5.1	Passerelles
+	
+	Dans les trains de voyageurs et dans les trains conduisant des fourgons ou des ambulants postaux desservis, les passerelles seront abaissées partout où les véhicules voisins en sont munis. Quand un véhicule est dépourvu d’intercirculation, la passerelle de celui qui lui fait face sera verrouillée en position relevée. Lors du dételage, les passerelles doivent être relevées et verrouillées. La porte frontale du côté de la locomotive et en queue du train doit être verrouillée.
+	
+5.2	Soufflets
+	
+	Dans les trains voyageurs, les soufflets doivent être reliés.
+Lors du dételage, les soufflets doivent être repliés dans leur cadre et fixés par tous leurs verrous s’ils ne sont pas réutilisés immédiatement.
+	
+
+	
+	
+	
+	
+

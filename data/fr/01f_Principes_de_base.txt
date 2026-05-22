@@ -1,0 +1,737 @@
+﻿Chemins de fer suisses	R 300.1
+
+
+
+Principes de base
+
+
+
+
+1	Remarques préliminaires
+1.1	Promulgation
+	
+	L’Office fédéral des transports (OFT),
+sur la base de l’article 11a de l’Ordonnance sur les chemins de fer 
+du 23 novembre 1983 (OCF, RS 742.141.1),
+promulgue :
+les prescriptions suisses de circulation des trains (PCT). Ces prescriptions, leurs compléments et annexes entrent en vigueur le 14 décembre 2025.
+Abrogation du droit en vigueur 
+Les actes normatifs suivants sont abrogés, y compris leurs modifications, compléments, annexes et aide-mémoires :
+	    • les prescriptions suisses de circulation des trains du 31 octobre 2023 (entrées en vigueur le 1er juillet 2024).
+	Les chemins de fer abrogent leurs propres actes normatifs lors de l’entrée en vigueur des dispositions d’exécution adaptées.
+	
+	Office fédéral des transports
+
+La directrice : Christa Hostettler
+	
+
+
+1.2	Champ d’application
+	
+	Les présentes prescriptions sont applicables pour tous les chemins de fer suisses, ainsi que pour toutes les compagnies utilisant les infrastructures des chemins de fer suisses.
+Les limites de l’incidence des PCT par rapport à celle du règlement d’exécution de l’UE concernant la spécification technique d’interopérabilité relative au sous-système exploitation et gestion du trafic (STI OPE) sont décrites dans la section consacrée à la répercussion du droit européen.
+	
+1.2.1	Applicabilité des directives selon les champs d’application partiels
+	
+	Les directives des PCT sont associées à différents champs d’application partiels. 
+Dans les prescriptions d’exploitation des gestionnaires d’infrastructure et des entreprises de transport ferroviaire, le personnel doit pouvoir identifier clairement quel(s) champ(s) d’application partiel(s) s’applique(nt). 
+La description des champs d’application partiels figure dans l’annexe 1 du R 300.1. Les attributions concrètes des directives des PCT aux champs d’application partiels sont présentées au complément 3 de la Directive sur la promulgation de prescriptions d’exploitation et de circulation des trains (Dir. PE-PCT).
+	
+1.2.2	Applicabilité des directives selon les fonctions
+	
+	Les différentes directives des PCT sont associées aux différentes fonctions qui exercent ces activités et simultanément aux fonctions qui ont besoin de ces directives pour parvenir à une compréhension globale. 
+Si la fonction ne ressort pas clairement de l’activité, les gestionnaires d’infrastructure et les entreprises de transport ferroviaire doivent régler dans les prescriptions d’exploitation quelles fonctions doivent être assumées par qui. Ceci dans le but d'assurer la sensibilisation du personnel concerné.
+Les fonctions mentionnées dans les PCT sont définies dans l’explication des termes et assorties d’une abréviation. L’attribution des directives des PCT aux fonctions figure dans le complément 3 de la Dir. PE-PCT.
+
+1.2.3	Répercussion du droit européen
+	
+	En raison du droit européen qui s’applique (cf. annexe 6 DE-OCF), seules certaines parties des PCT s’appliquent aux entreprises de chemin de fer du réseau principal interopérable (IOP) selon l’annexe 6 de l'OCF et du réseau complémentaire interopérable selon le chapitre D de la Directive Exigences IOP imposées aux tronçons du réseau complémentaire (Dir. IOP). Les GI et les ETF correspondants peuvent au besoin reprendre d’autres dispositions des PCT dans leurs prescriptions d’exploitation.
+L’affectation concrète des dispositions des PCT figure à l’annexe 2 du 
+R 300.1. 
+La procédure à suivre pour la reprise de dispositions dans les prescriptions d’exploitation est exposée dans la Dir. PE-PCT.
+	
+1.2.4	Application des PCT sur les voies de raccordement
+
+	Les PCT doivent être appliquées sur les voies de raccordement. Les dispositions pour les gares sont déterminantes pour circuler sur les voies de raccordement. 
+Sur une voie de raccordement, le gestionnaire de voie de raccordement est responsable des aspects liés au gestionnaire de l’infrastructure.
+L’entreprise de transport ferroviaire est en règle générale responsable des aspects liés au transport. Lorsque le raccordé conduit lui-même les convois, cette responsabilité lui en incombe.
+	
+1.3	Arrangement des prescriptions en fonction de l'utilisateur
+	
+	Les entreprises de chemin de fer mettent à la disposition du personnel les dispositions des PCT et des prescriptions d’exploitation nécessaires à l’exercice de ses tâches sur papier ou sous forme électronique adapté aux utilisateurs.
+	
+1.4	Autorisation d’accès pour l’autorité de surveillance
+	
+	L’accès aux équipements, aux installations et aux véhicules (y compris les cabines de conduite) des entreprises de transport ainsi que la circulation gratuite doivent être garantis au personnel de l’OFT dans le cadre d’activités de surveillance. Le personnel de l’OFT doit se légitimer.
+	
+1.5	Désignation des personnes
+	
+	Dans les PCT, les désignations sont parfois à une forme correspondant à un genre particulier. Elles se rapportent à la personne exerçant la fonction, quelle que soit son identité de genre.
+Les abréviations utilisées pour les fonctions sont celles qui sont associées aux définitions correspondantes. La signification de l'abréviation en ce qui concerne le singulier et le pluriel est évidente en raison du contexte.
+	
+	
+
+2	Dispositions fondamentales
+2.1	Respect des prescriptions
+	
+	Le respect des PCT et de leurs dispositions d’exécution doit être contrôlé en permanence par le supérieur, à chaque niveau de conduite. Le gestionnaire de l’infrastructure surveille, dans le cadre de sa responsabilité du système, que les prescriptions de circulation des trains soient respectées par les entreprises de transport ferroviaire.
+	
+2.2	Comportement lors de situations non prévues ou qui ne sont pas réglées
+	
+	Lors de situations qui ne sont pas prévues ou qui ne sont que partiellement couvertes par ces prescriptions ou leurs dispositions d’exécution, tous les intéressés doivent s’entendre sur le comportement à adopter. 
+La sécurité est primordiale et doit être assurée.
+	
+2.3	Liste des abréviations
+	Dans les prescriptions de circulation des trains, les abréviations indiquées ci-après sont utilisées. Elles sont incluses et définies dans l’explication des termes.
+	
+	
+	
+2.4	Règlements
+	
+	Les PCT englobent les règles de sécurité pour tous les déplacements de véhicules sur rails. Les éléments des prescriptions mentionnés ci-après constituent un tout. Cela est également valable lorsqu’une partie d’une prescription comporte des dispositions complémentaires. Des annexes (qui font partie du règlement sur le plan formel et contiennent des précisions matérielles) et des compléments (exemples explicatifs, tableaux, aides) peuvent également venir enrichir les règlements. Les dispositions ad hoc doivent être appliquées en fonction de chaque situation d’exploitation.
+	–	Principes de base	R 300.1
+–	Signaux	R 300.2
+	–	Communication, annonces et transmissions	R 300.3
+–	Mouvements de manœuvre	R 300.4
+	–	Préparation des trains	R 300.5
+	–	Circulation des trains	R 300.6
+–	Contrôle de la marche des trains	R 300.7
+	–	Sécurité au travail	R 300.8
+–	Dérangements	R 300.9
+–	Formulaires	R 300.10
+–	Enclenchement, déclenchement et mise à la terre
+des lignes de contact	R 300.11
+–	Travaux sur et aux abords des voies	R 300.12
+–	Mécanicien / mécanicienne de locomotive (MEC)	R 300.13
+	–	Freins	R 300.14
+–	Formes particulières d’exploitation	R 300.15
+	
+2.5	Terminologie
+2.5.2	Explication des termes
+	
+abords des voies (voie ou aiguille)
+l’espace situé au-dessous, à côté ou au-dessus des voies, requis par des véhi­cules sur rails en mouvement, à l’intérieur duquel des personnes peuvent être menacées par ces véhicules. Font aussi partie des abords des voies, les abords d’éventuelles lignes de contact et d’installations d’alimentation en énergie avec les dangers du courant électrique qui en émanent. Les abords des voies déterminants doivent chaque fois être fixés en tenant compte de la zone de danger latérale qui dépend de la vitesse
+accompagnateur / accompagnatrice de train (AT)
+le personnel qui accompagne les trains pour des motifs de sécurité d’exploitation
+aiguille d’entrée
+la première aiguille d’une gare abordée par la pointe depuis la pleine voie
+aiguille de protection
+l’aiguille qui, en position de protection, empêche une prise en écharpe
+aiguille de sortie
+la dernière aiguille d’une gare abordée par le talon en direction de la pleine voie
+aiguille talonnable
+l’aiguille spécialement conçue pour être franchie par le talon quand elle ne se trouve pas dans la position appropriée
+annoncer une voie / une aiguille praticable
+l’annonce particulière par un chantier que son secteur est à nouveau praticable
+appareil d’enclenchement
+l’installation pour protéger au niveau technique les parcours des trains et des mouvements de manœuvre 
+arrêt
+–	arrêt prescrit
+arrêt ordinaire et exceptionnel
+–	arrêt ordinaire
+arrêt prescrit figurant dans la marche, y compris l’arrêt 
+facultatif
+–	arrêt exceptionnel
+arrêt pas ordonné au moyen d’une marche
+–	arrêt non prescrit
+arrêt provoqué par les conditions d’exploitation ou par un dérange­ment, par exemple un signal principal à l’arrêt
+attelage de manœuvre
+l’attelage pouvant être actionné depuis la cabine de conduite d’un véhi­cule de manœuvre
+balise
+le support de données monté dans la voie destiné à l’échange d’informations entre la voie et le véhicule
+banalisation
+l’équipement de chacune des voies de la pleine voie d’un tronçon à plusieurs voies par des signaux principaux et appareils de block permettant de franchir librement toutes les voies dans les deux directions
+barrage
+le dispositif technique de construction stable ayant pour objectif d’empêcher la pénétration involontaire de la zone de danger lors de travaux sur et aux abords des voies
+block
+l’élément de l’appareil d’enclenchement servant à protéger au niveau technique les trains de ceux de la même direction ou de sens inverse
+calcul de freinage
+le calcul servant à déterminer la catégorie de freinage ainsi que la catégorie de train
+canton de block
+le tronçon situé entre deux signaux principaux consécutifs liés par les dépendances du block
+catégorie de freinage
+le rapport de freinage prédéterminé qui, conjointement avec les distances d’implantation des signaux avancés et les déclivités, forme la base permettant de définir les vitesses maximales figurant dans les tableaux de parcours
+catégorie de train
+l’indice exprimé par une lettre majuscule qui caractérise la composition, la vitesse maximale d’un train ainsi que sa vitesse dans les courbes
+chantier
+les abords des voies ou emplacement attenant où les travaux sont effectués
+charge de pousse
+la charge remorquée admise en tenant compte des efforts de poussée prescrits par les GI
+charge des attelages
+la charge remorquée admissible en fonction de la résistance des appareils de traction
+charge normale
+la charge remorquée admissible d’un véhicule moteur pour un tronçon déterminé
+charge remorquée
+le poids total des wagons, voitures et véhicules moteurs remorqués, en tonnes (t)
+check-list circulation (CL-C)
+la marche à suivre obligatoire adaptée à l’installation de sécurité pour le traitement des dérangements et pour la protection
+chef / cheffe de la sécurité (CS)
+personnel responsable de l’application des mesures de sécurité sur le 
+chantier
+chef / cheffe de manœuvre (CMAN)
+la personne responsable de diriger et exécuter le mouvement de manœuvre. Elle prend en charge la conduite indirecte 
+chef-circulation / cheffe-circulation (CC)
+la personne chargée sous sa propre responsabilité de régler la circulation des trains et des mouvements de manœuvre et d’en assurer la sécurité
+chemin latéral
+le chemin situé sur et aux abords des voies, en dehors des tunnels, sur lequel le personnel peut s’y tenir ou réaliser des travaux. Ses particularités permettent de le distinguer clairement (recouvert de gravier fin, de sable ou asphalté, à savoir dépourvu de ballast)
+circulation de train
+circulation
+–	en gare et en pleine voie qui est protégée et réglée par des 
+	signaux principaux ou
+–	les trains en exploitation des tramways
+
+
+commande de secours
+le dispositif qui permet, en cas de dérangement ou d’urgence, d’intervenir sur les installations de sécurité ou d’annuler une partie des dépendances des installations de sécurité
+conduire de manière directe
+le MEC dessert le véhicule moteur et observe les signaux ainsi que le parcours
+conduire de manière indirecte
+la desserte du véhicule moteur ainsi que l’observation du parcours et des signaux sont réparties entre différentes personnes. Le MEC dessert le véhicule moteur et ne dispose d’aucune visibilité sur le parcours et les signaux. Le personnel qui assure la conduite indirecte en tête du convoi observe les signaux et le parcours
+contrôle de la marche des trains
+l’équipement de contrôle destiné à soutenir la prise en considération des signaux ou le respect des vitesses maximales ou à agir sur les véhicules
+convoi
+le terme général pour les trains ou les mouvements de manœuvre, avec la répartition suivante :
+–	circulations ordinaires
+–	circulations régulières, lorsqu’elles circulent chaque jour ou certains jours déterminés, sans être spécialement annoncées
+–	circulations facultatives, lorsqu’elles circulent seulement en cas de besoin et sont spécialement annoncées
+–	circulations spéciales
+circulations spécialement annoncées et qui circulent selon une
+ 	marche établie spécialement
+coordinateur / coordinatrice de chantier (COC)
+si plusieurs chantiers se trouvent sur des voies interdites, un CS peut être engagé comme COC
+course de manœuvre
+le mouvement de manœuvre de véhicules moteurs circulant seuls ou attelés, avec ou sans charge remorquée
+couvrir
+la pose d’un signal d’arrêt pour protéger un obstacle
+
+croisement
+l’évitement de deux convois, dont l’un ou les deux utilisent la voie de la pleine voie précédemment parcourue et libérée par le convoi de sens inverse
+cul-de-sac de sécurité
+la voie secondaire se terminant par un heurtoir
+déclivité
+la pente ou la rampe d’une ligne, en pour mille (‰)
+dégagement de sécurité
+l’endroit déterminé à l’avance qui permet aux personnes en danger de se retirer
+dépassement
+la modification de l’ordre de succession dans les gares d’au moins deux convois circulant dans la même direction et qui continuent leur marche sur la même voie de la pleine voie
+dernière aiguille
+la dernière aiguille d’une gare franchie en direction de la pleine voie
+direction de la sécurité (DSEC)
+service qui prescrit et surveille, sous la responsabilité du GI, le DISPO comprenant les mesures de sécurité. Cela comprend également les adaptations nécessaires en fonction de l’avancement des travaux
+dispositif de contrôle de l’état libre de la voie (ELV)
+dispositif technique qui sert à s’assurer de l’absence de véhicules ferroviaires sur les tronçons de voie
+dispositif de sécurité (DISPO)
+définition des mesures de sécurité nécessaires pour un chantier et des indications prescrites par le GI dans ses dispositions d’exécution
+dispositif d’inversion
+le dispositif de certains véhicules, permettant de choisir le mode de freinage
+distance de freinage
+la distance nécessaire pour atteindre une vitesse donnée ou l’arrêt en fonction de la vitesse maximale, du rapport de freinage et de la déclivité de la ligne
+
+Driver Machine Interface (DMI)
+le système de commande et d’affichage intégré à la cabine de conduite 
+données des parcours
+les informations sur la longueur, la vitesse autorisée et la déclivité de chaque tronçon, la situation et la longueur des objets sélectionnés (par ex. gare, tunnel, passage à niveau, pont, section de protection de la ligne de contact)
+données du train
+les informations sur le train, telles que longueur, vitesse maximale et rapport de freinage. Elles sont généralement saisies par le MEC avant le départ du train
+écoute brève
+le contrôle pour déterminer si le canal est occupé (conversation, contrôle de liaison)
+effort de retenue
+l’effort de freinage du frein d’immobilisation d’un véhicule indépendant de l’efficacité du frein à air. L’effort de retenue est exprimé en kilonewtons (kN)
+effort de retenue minimal
+l’effort minimal en kilonewtons (kN) nécessaire pour garantir l’immobilisation prolongée de véhicules. Il n’est permis de compter que les freins d’immobilisation et les sabots d’arrêt
+employé / employée de manœuvre (EMAN)
+le personnel préposé aux travaux de manœuvre
+entreprise de chemin de fer (ECF)
+les personnes physiques ou morales soumises à la législation ferroviaire (à l’exclusion des entreprises de bus, de trolleybus et d’installations de transport à câbles)
+entreprise de transport ferroviaire (ETF)
+l’ECF appelée à exercer une activité de transport, notamment en ce qui concerne la traction
+équipement de travail
+les équipements nécessaires pour exécuter des travaux, par ex. véhicules, machines, engins, appareils et matériaux
+exploitation des chemins de fer
+exploitation ferroviaire et exploitation des tramways
+exploitation des tramways
+exploitation en appliquant le champ d’application partiel « Tramway »
+exploitation ferroviaire
+exploitation en appliquant les champs d’application partiels suivants : 
+–	« Exclusivement mouvements de manœuvre » 
+–	« Signalisation extérieure sur le réseau interopérable »
+–	« Signalisation extérieure sur le réseau non interopérable »
+–	« Circulation sans signaux avec assentiment »
+formulaire
+le document utilisé pour transmettre un message, par ex. du CC au MEC ou au CS
+forte pente
+le tronçon de ligne qui nécessite l’application de prescriptions particulières, en fonction de sa pente et de sa longueur
+frein à main
+le frein d’immobilisation manœuvrable depuis un véhicule, également pendant la marche, au moyen d’une manivelle ou d’un volant
+frein d’immobilisation
+le frein indépendant de l’efficacité du frein à air, spécifique selon le type de véhicule, destiné à garantir l’immobilisation des véhicules en stationnement : frein manœuvrable du sol ou depuis une plate-forme de véhicule au moyen d’une manivelle ou d’un volant, frein à ressort ou frein magnétique sur rail à aimants permanents (PMS)
+gare
+l’installation servant à régler la circulation des trains et des mouvements de manœuvre, le plus souvent ouverte au trafic public
+–	entre les signaux d’entrée ou
+–	si ceux-ci manquent, entre les aiguilles d’entrée ou
+–	lorsqu’ils existent, entre les indicateurs de début et de fin de 
+	gare
+gare de référence
+la gare dans laquelle le personnel roulant doit observer l’heure de départ figurant dans la marche
+gare occupée
+les tâches liées au déroulement de l’exploitation peuvent être exécutées localement ou depuis le centre de télécommande
+gare voisine
+les gares qui encadrent une autre gare ou un chantier. Quand l’une d’elles 
+n’est ni occupée ni télécommandée, c’est la prochaine gare occupée qui tient lieu de gare voisine. Lorsque l’une d’elles est télécommandée, le centre de télécommande tient lieu de gare voisine
+gestionnaire de l’infrastructure (GI)
+l’ECF qui exploite une infrastructure ferroviaire
+gestionnaire de voie de raccordement
+le raccordé responsable pour l’exploitation au niveau infrastructure de la voie de raccordement
+halte
+l’installation ouverte au trafic public en pleine voie ou sur des voies de ligne régulière
+imbrication
+des installations de passage à niveau à sécurité intrinsèque ou une protection côté rail d’autres passages à niveau surveillés se trouvent entre la protection côté rail et les passages à niveau surveillées qui lui sont affectées
+infrastructure ferroviaire
+les constructions et installations permettant la circulation de convois dans une gare, en pleine voie, en exploitation des tramways ou sur des installations équipées de la SCab, excepté les voies de raccordement
+installation d’alarme
+assure la fonction d’avertissement et remplace les moyens d’alarme. Sa desserte est automatique par le biais de l’installation d’annonce ou manuelle
+installation d’annonce
+le dispositif automatique annonçant l’approche d’un convoi
+installation de passage à niveau
+l’installation pour la protection d’un ou de plusieurs passages à niveau. Les installations sont subdivisées en installations de passage à niveau surveillées et à sécurité intrinsèque 
+
+
+
+
+Une installation de passage à niveau surveillée est protégée côté rail au moyen d’un
+–	signal principal 
+–	feu de contrôle
+–	signal de barrage ou signal nain
+–	équipement de voie du contrôle de la marche des trains.
+Une installation de passage à niveau à sécurité intrinsèque fonctionne de manière autonome et n’est pas protégée côté rail.
+installation de régulation du trafic
+l’installation pour la régulation du trafic ferroviaire et routier. Du côté chemin de fer, le trafic est réglé au moyen de signaux pour les chemins de fer routiers, au niveau routier au moyen de signaux lumineux
+installation de sécurité
+l’installation de commande et de protection des circulations de trains et des mouvements de manœuvre 
+interdire
+l’interdiction de voies/d’aiguille pour exécuter des travaux sur et aux abords des voies. Les voies/aiguilles interdites ne sont pas utilisables pour les trains
+interface utilisateur
+l’élément de commande et d’affichage (interface homme-machine MMI)
+itinéraire
+le parcours de train ou de mouvement de manœuvre entre un point d’origine et de but protégé par un appareil d’enclenchement
+laisser-couler
+le mouvement de manœuvre durant lequel les véhicules roulent par leur propre poids d’une bosse de débranchement ou sur une voie en pente
+lancer
+la pousse à la vitesse nécessaire de véhicules non attelés à la course de manœuvre, suivie de son arrêt, de manière à ce que les véhicules seuls continuent de rouler. Ceux-ci sont appelés « lancée »
+marche 
+les indications d’horaire techniquement nécessaires à la conduite d’un convoi 
+
+
+marche à vue
+la circulation à une vitesse adaptée aux conditions de visibilité, au maximum 40 km/h, de façon à pouvoir s’arrêter avant un obstacle reconnaissable sur le tronçon visible. Dans des cas particuliers, les prescriptions d’ordre supérieur spécifiques prévoient d’autres vitesses maximales. En exploitation des tramways, les GI peuvent signaliser des vitesses maximales qui dérogent ou les régler dans les prescriptions d’exploitation
+mécanicien / mécanicienne de locomotive (MEC)
+la personne qui est compétente pour desservir des véhicules moteurs de tous genres pour les tâches liées à la circulation et à la technique
+mise à la terre
+la mise en court-circuit et à la terre ou connexion avec le conducteur de retour du courant
+mouvement de manœuvre
+tous les déplacements de véhicules 
+–	en gare, dans les ateliers et les dépôts, sur des voies de 
+	raccordement et en pleine voie ou
+–	en exploitation des tramways
+qui ne peuvent pas être exécutés comme circulation de train
+moyen d’alarme
+l’émetteur de signal acoustique ou optique (par ex. corne d’alarme, corne d’appel, appareil d’alarme personnel, gyrophare) destiné à la transmission des signaux d’alarme
+nom d’appel
+la désignation permettant d’identifier sans ambiguïté une personne participant à un appel
+parcours
+le tracé emprunté par un train ou par un mouvement de manœuvre
+personne compétente pour les installations électriques (PECIE)
+personne expérimentée dans la manipulation d'installations à courant fort, connaissant les conditions locales et les mesures de protection à prendre. Elle peut par ex. être engagée en tant qu’exploitant, responsable d'installation, responsable du travail ou personne habilitée à enclencher ou déclencher et peut instruire et former des personnes
+personne habilitée à enclencher ou déclencher
+la personne est instruite ou experte pour enclencher ou déclencher des installations électriques. Elle effectue des enclenchements ou déclenchements toujours sur mandat, sauf en cas d'urgence.
+personne instruite pour les installations électriques (PIIE)
+personne habilitée à effectuer des activités limitées et bien définies dans des installations à courant fort, conformément aux instructions d'une personne compétente. Elle connait les conditions locales ainsi que les mesures de sécurité à prendre
+personnel
+les personnes en charge de la sécurité d’une ECF
+personnel roulant
+le MEC avec ou sans AT ou MEC et EMAN
+pleine voie
+les installations comprises entre deux gares successives
+poids du train
+le poids total des véhicules moteurs en service et de la charge remorquée, en tonnes (t)
+poids par essieu
+le poids total d’un véhicule divisé par le nombre d’essieux, en tonnes (t)
+poids par mètre courant
+le poids d’un véhicule divisé par sa longueur, en tonnes par mètre (t/m)
+poids total
+le poids d’un véhicule et de son chargement, en tonnes (t)
+poids-frein
+la valeur en tonnes (t), qui indique l’effort de freinage d’un véhicule
+poste à diagonales d’échange
+les voies et les aiguilles en pleine voie permettant une connexion avec les voies parallèles, équipées de signaux de block
+première aiguille
+la première aiguille d’une gare franchie depuis la pleine voie
+préparateur / préparatrice de train (PRT)
+le personnel responsable désigné par l’ETF pour l’exécution de la visite du train 
+protecteur / protectrice (PROT)
+personne responsable d’alarmer à temps le personnel sur un chantier, de manière à lui permettre l’évacuation en toute sécurité de la voie en question et de ses abords
+protéger
+prendre des mesures à l’installation de sécurité pour empêcher la circulation de mouvements non intentionnels sur les parties d’installations temporairement, totalement ou partiellement impraticables
+rame automotrice
+l’unité de train avec son propre entraînement et attelée court, indissociable en exploitation normale
+rapport de freinage
+l’efficacité des freins d’un véhicule ou d’un train, en pour-cent (%)
+rapport de freinage partiel
+le rapport de freinage qui garantit une efficacité minimale des freins d’une partie quelconque d’un train pour l’arrêter en cas de rupture d’attelage et pour l’immobiliser durant au moins 30 minutes
+rencontre de trains
+la rencontre de deux trains circulant en sens inverse sur des voies parallèles de la pleine voie
+responsable de chantier tramway (RESCT)
+personne responsable sur place de la mise en œuvre des mesures de sécurité sur le chantier dans le cadre de l'exploitation des tramways
+sectionnement
+la séparation de la ligne de contact de la gare de celle de la pleine voie
+sentinelle (SENT)
+personne responsable d’annoncer à temps les convois en approche sur un chantier. La SENT communique au PROT l’approche des convois avec les moyens de communication prévus dans le DISPO
+seuil de vitesse
+l’endroit où la vitesse prescrite change
+sifflet de locomotive
+l’équipement des véhicules moteurs et des voitures de commande servant à émettre des signaux acoustiques, y compris la cloche d’appel en exploitation des tramways
+signal de block
+le signal principal destiné à subdiviser les installations de voie de la pleine voie en plusieurs tronçons
+
+signal d’entrée
+le premier signal principal appartenant à une gare. Il marque la frontière entre la pleine voie et la gare
+signal de groupe
+le signal de tronçon de voie ou de sortie valable pour plusieurs voies
+signal de manœuvre
+le signal d’arrêt de manœuvre, d’évacuation, de refoulement et de débranchement
+signal de protection
+le signal principal servant à protéger les voies de raccordement, les passages à niveau surveillés ou les tronçons dangereux de la pleine voie, sans dépendance avec le block
+signal de sortie
+le dernier signal principal commandé d’une gare en direction de la pleine voie
+signal de tronçon de voie
+le signal principal servant à subdiviser les installations de voie d’une gare en plusieurs tronçons
+signal de voie
+le signal de tronçon de voie ou signal de sortie valable pour une seule voie
+signal fixe
+le signal fixe de l’infrastructure ferroviaire, par ex. signal principal, signal nain, signal de manœuvre
+signalisation en cabine (SCab)
+la transmission directe d’informations concernant la circulation dans la cabine de conduite, en lieu et place de l’observation des signaux fixes. Les prescriptions peuvent parfois exiger d’observer en plus des signaux fixes
+son d’appel
+annonce un appel
+son de contrôle
+sert à s’assurer de la continuité d’une liaison
+
+
+
+
+système d’avertissement
+l’installation technique et/ou organisationnelle servant à avertir les personnes (lors de travaux sur et aux abords des voies) des dangers liés aux convois en approche
+système d’avertissement automatique
+se compose du système d’annonce et d’avertissement exécutant automatiquement les fonctions du système d’avertissement
+système radio
+le système radio limité à un secteur déterminé et ayant les mêmes critères techniques
+tableau des parcours
+les documents contenant les indications concernant les voies, indispensables pour la conduite d’un train ou d’un mouvement de manœuvre
+tâches liées à la circulation des trains
+les tâches liées à la circulation des trains comprennent les tâches et fonctions réglés dans les prescriptions suisses de circulation des trains
+talonnage d’une aiguille
+le franchissement non intentionnel d’une aiguille en mauvaise position, depuis le talon
+tare
+le poids d’un véhicule sans chargement, en tonnes (t)
+train
+le convoi composé d’un ou plusieurs véhicules moteurs attelés, conduisant ou non d’autres véhicules, qui circulent 
+–	en pleine voie ou 
+–	en exploitation des tramways,
+depuis leur prise en charge par le personnel roulant sur la voie de départ de l’endroit de départ jusqu’à leur arrivée sur la voie d’arrivée à destination, sauf durant les mouvements de manœuvre
+train-navette
+la composition d’un train formée d’un ou de plusieurs véhicules moteurs et de voitures ou de wagons. Le train-navette possède une cabine de conduite à chaque extrémité et peut être commandé, selon le sens de marche, depuis l’une ou l’autre cabine
+
+
+train de locomotive
+le train composé de véhicules moteurs isolés ou attelés ensemble, aussi remorqués
+travaux sur et aux abords des voies
+chaque activité sur et aux abords des voies (par ex. pour construire, entretenir, nettoyer, modifier et démonter des installations ferroviaires et autres, y compris les travaux tels que les activités de mensuration et de contrôle et les activités en relation avec la levée de dérangements et les conséquences d’un accident). Font exception les activités en rapport avec le service de la manœuvre, la formation des trains, la circulation des trains ainsi que les déplacements pour se rendre ou pour revenir d’un lieu de travail
+tronçon en dérangement
+le parcours influencé par un élément en dérangement de l’installation de sécurité ou sur lequel se trouve un élément de l’installation de sécurité remis en position normale à l’aide d’une commande de secours. Ce parcours correspond à l’itinéraire qui peut être établi en exploitation normale sans commande de secours.  Il doit être déterminé par le CC pour chaque convoi
+types de train
+les trains sont divisés en fonction de leur utilisation :
+–	les trains de voyageurs, qui servent principalement au transport
+	de voyageurs
+–	les trains de marchandises, servant principalement au transport
+	de marchandises, d'animaux et de wagons vides
+–	les trains de service, destinés à des fins de service
+utilisateur du réseau
+l’ETF qui sollicite l’accès au réseau d’une infrastructure
+véhicule à crémaillère
+véhicule qui transmet sa force de traction ou de freinage à une crémaillère. Sont également considérés comme véhicules à crémaillère, les véhicules dans lesquels la force de traction ou de freinage est transmise simultanément par la crémaillère et par adhérence, lorsque la transmission de la force par adhérence seule ne suffit pas
+véhicule menant
+le véhicule menant le train ou le mouvement de manœuvre 
+véhicule moteur
+la locomotive, l’automotrice, la rame automotrice, le tracteur, le véhicule automoteur tel que machine de chantier, le véhicule rail/route
+
+voie contiguë
+la voie la plus proche à gauche ou à droite de la voie concernée ou du chantier
+voie de droite
+la voie située à droite dans le sens de marche, sur un tronçon de la pleine voie à deux voies
+voie de gauche
+la voie située à gauche dans le sens de marche, sur un tronçon de la pleine voie à deux voies
+voie de la pleine voie
+le tronçon de voie compris entre les signaux d’entrée de deux gares successives
+voie de ligne régulière
+voie en exploitation des tramways qui est généralement parcourue en 
+exploitation de ligne régulière
+voie de raccordement
+la voie raccordée à une infrastructure ferroviaire et servant généralement au transport de marchandises. Ces voies sont signalées par des indicateurs correspondants
+voie de service
+voie en exploitation des tramways qui n'est généralement pas parcourue en exploitation de ligne régulière
+voie en cul-de-sac
+la voie principale terminée par un heurtoir
+voie en service
+la voie qui peut être utilisée par les trains et les mouvements de manœuvre
+voie en travaux
+la voie ou l’aiguille sur et aux abords de laquelle les travaux sont exécutés et pour laquelle des mesures d’alarme sont nécessaires
+voie occupée
+la voie qui est partiellement occupée par des véhicules
+voie principale
+la voie de gare sur laquelle il est possible d’entrer et de sortir en dépendance avec les signaux
+
+voie secondaire
+la voie de gare sur laquelle il n’est pas possible d’entrer et de sortir ou de laquelle il n’est possible que de sortir, en dépendance avec les signaux
+voiture, wagon
+le véhicule remorqué, muni d’appareils de choc et de traction normaux ou de l’attelage automatique
+wagon de marchandises dangereuses
+le wagon portant des plaques-étiquettes selon modèles 1 à 9 du RID
+wagonnet
+le véhicule remorqué qui n’est pas muni d’appareils de choc et de traction normaux ou de l’attelage automatique (échelle roulante, lorry, etc.)
+zone intermédiaire de sécurité
+la zone disponible entre des voies ou entre une voie et un obstacle fixe, permettant de s’y tenir ou de réaliser des travaux auprès de véhicules sans engagement de mesures de sécurité spécifiques
+On considère qu’une zone intermédiaire de sécurité est disponible 
+–	en présence d’un chemin latéral ou
+–	si une telle zone est signalée dans l’installation extérieure ou
+–	entre des voies secondaires ou
+–	si cette zone est désignée dans les prescriptions d’exploitation 	du GI ou
+–	si cela est pris en compte dans un dispositif de sécurité
+zone pour les chemins de fer routiers
+Utilisation commune de la surface de circulation par le chemin de fer et la route
+–	en exploitation des tramways et
+–	en exploitation ferroviaire, les voies indiquées par des signaux
+	et/ou décrites dans les tableaux des parcours.
+	
+	
+
+2.6	Prescriptions d’exploitation
+	
+	Les dispositions d’exécution, dérogations, compléments et commentaires nécessaires aux présentes prescriptions font l’objet de prescriptions d’exploitation éditées par chaque ECF, afin d’assurer le déroulement fiable de l’exploitation ferroviaire, tant en situation normale que lors de perturbations. Ces prescriptions d’exploitation sont éditées conformément à la Dir PE-PCT.
+	
+2.6.1	Accompagnement des trains
+	Les trains qui remplissent les conditions techniques circulent en règle générale sans AT. Les ETF mentionnent dans leurs dispositions d’exécution les trains qui sont accompagnés.
+
+2.6.2	Index de l’emplacement kilométrique des installations de passage à niveau
+	
+	Les GI doivent établir un index actualisé de l’emplacement kilométrique des installations de passage à niveau et de leurs passages à niveau. Cet index doit au moins être mis à la disposition du CC sous une forme appropriée
+	
+2.6.3	Check-list circulation (CL-C)
+	
+	L’établissement et l’utilisation des CL-C en exploitation ferroviaire sont obligatoires 
+–	lorsque des mouvements de manœuvre circulent en pleine voie 
+–	pour lever les dérangements 
+–	pour l’introduction/la suppression de mesures de sécurité d’exploitation lors de travaux sur et aux abords des voies et
+–	pour les autres cas prévus par l’ECF.
+Les PCT constituent la base pour l’établissement des CL-C.
+	
+2.6.4	Efficacité énergétique
+	
+	Les GI et les ETF soutiennent l’utilisation économique de l’énergie, dans la mesure où celle-ci ne porte pas préjudice à la sécurité. Ils édictent les prescriptions d’exploitation nécessaires à cet effet.
+
+
+2.7	Emploi et comportement du personnel
+	
+	Les tâches en relation avec la circulation ferroviaire ne peuvent être confiées qu’à du personnel spécialement formé et examiné. Lors d’activités déterminantes pour la sécurité, les collaborateurs ne se laisseront en aucun cas distraire.
+Lorsque, pour une fonction, des tâches liées à la circulation ferroviaire sont exercées par différents collaborateurs, les personnes impliquées doivent s’entendre sur la situation initiale, l’avancement des tâches et la procédure concrète à appliquer. Cela vaut en particulier 
+–	pour la séparation géographique ou fonctionnelle des responsabilités ou
+–	pour l’échelonnement temporel.
+Si une personne exerce plusieurs fonctions, celle-ci s’assure de l’exécution correcte de toutes les tâches en relation avec la circulation ferroviaire qui lui incombent à ce titre.
+Si, en principe, plusieurs fonctions sont attribuées par l'ECF à une seule personne, une désignation alternative de la fonction peut être fixée par l'ECF dans les prescriptions d'exploitation (par exemple, en exploitation des tramways, les fonctions de MEC et de CC comme conducteur ou conductrice de tramway).
+Si les fonctions liées à la circulation sont partagées lors de la détermination de l’organisation de l’exploitation, les ECF règlent, le cas échéant, les responsabilités, les compétences et les processus.
+Le collaborateur terminant son service fournit les informations nécessaires à son successeur lors de la remise de service. Si elle n’est pas directe, les particularités doivent être transmises par écrit.
+	
+2.7.1	Capacité réduite
+	
+	Nul n’assurera des tâches liées à la circulation des trains s’il se sent malade, s’il est surmené, sous l’influence de l’alcool, d’un médicament, d’une drogue ou pour d’autres raisons qui puissent l’entraver dans l’exercice de ses fonctions.
+Les personnes effectuant des tâches liées à la circulation des trains sont coresponsables du respect des normes juridiques sur la durée du travail et du repos.
+	
+
+2.8	Désignation des convois
+2.8.1	Numérotation des trains et des mouvements de manœuvre 
+en pleine voie en exploitation ferroviaire
+	
+	Chaque train et chaque mouvement de manœuvre en pleine voie est désigné par un numéro. Pour les mouvements de manœuvre en pleine voie, on ajoute en plus la lettre « R ». Le tableau de numérotation figure dans les dispositions d’exécution du GI. L’utilisation des numéros sur les tronçons communs et dans les gares communes doit faire l’objet d’accords entre les GI concernés.
+	
+2.8.2	Désignation des trains et des mouvements de manœuvre sur des voies de ligne régulière en exploitation des tramways
+	
+	En exploitation des tramways, le GI définit les modalités de désignation unique des trains et des mouvements de manœuvre sur les voies de ligne régulière.
+	
+2.9	Moyens de signalisation
+2.9.1	Moyens de signalisation des véhicules moteurs et des véhicules de commande en exploitation ferroviaire
+	
+	Sur chaque véhicule moteur et voiture de commande, il doit y avoir :
+	–	une lanterne à feu blanc et à feu rouge
+–	un drapeau rouge.
+	
+2.9.2	Moyens de signalisation dans les gares en exploitation ferroviaire
+	
+	Dans les gares, pendant l’occupation locale, il doit y avoir à disposition :
+	–	une lanterne ou une lampe de poche à feu blanc et à feu rouge
+–	un drapeau rouge
+–	un signal d’arrêt.
+	
+
+2.9.3	Moyens de signalisation du personnel en exploitation ferroviaire
+	
+	Le CMAN, l’EMAN et le CC qui assurent des fonctions de surveillance doivent disposer d’un sifflet de poche. L’AT doit disposer d’un sifflet de poche et d’une lampe de poche.
+De nuit, l’EMAN qui n’est pas équipé d’un moyen de communication mobile adapté à la remise d’ordres doit emporter une lanterne à feu blanc et à feu rouge.
+	
+2.9.4	Moyens de signalisation en exploitation des tramways
+	
+	Les ECF définissent dans les prescriptions d’exploitation les moyens de signalisation à emporter.
+	
+2.10	Délimitation entre signalisation extérieure et SCab
+	
+	Les infrastructures ferroviaires avec des installations de sécurité centralisées sont soit équipées d’une signalisation extérieure soit de la SCab.
+Le GI règle la limite des systèmes entre la signalisation extérieure et la SCab dans les prescriptions d’exploitation.
+	
+2.11	Principes de l’exploitation des tramways
+	
+	En exploitation des tramways, le parcours est contrôlé en continu à distance visible.
+Il faut circuler en marche à vue. En outre, les vitesses maximales autorisées sont fixées par le GI, compte tenu des véhicules et des conditions locales.
+En exploitation des tramways, la législation sur la circulation routière est en plus applicable.
+Le GI établit les bases garantissant des désignations locales claires des voies et des informations de localisation.
+	
+2.11.1	Limite exploitation ferroviaire / exploitation des tramways et leur signalisation
+	
+	Pour chaque transition entre l'exploitation ferroviaire et l'exploitation de tramways et inversement, le genre et la validité de l'autorisation de circuler en exploitation normale et en dérangement doivent être réglés dans les prescriptions d'exploitation du GI.
+
+
+
+Les limites sont signalées comme suit :
+–	limite de l’exploitation ferroviaire à l’exploitation des tramways
+–	limite de l’exploitation des tramways à l’exploitation ferroviaire.
+On peut renoncer à la signalisation si la limite se situe au niveau du premier signal principal.
+	
+2.11.2	Limite entre différents GI
+	
+	La limite entre les différents GI est signalée. Il est possible de renoncer à la signalisation si la limite est définie dans les prescriptions d'exploitation et si elle est clairement identifiable par le personnel concerné.
+	
+2.11.3	Utilisation pour l’exploitation de voies de ligne régulière et de voies de service
+	
+	L’exploitation des tramways se déroule sur des voies de ligne régulière et des voies de service. Le GI doit désigner les voies de service dans les prescriptions d’exploitation.
+Comme circulation de train, on entend en principe les circulations dans le sens de la marche sur les voies de ligne régulière. Le GI règle les circulations de train qui empruntent des voies de service ou qui débutent ou se terminent sur des voies de service.
+Sont exécutés comme mouvements de manœuvre :
+–	convois se déplaçant sur des voies de service qui ne circulent pas comme train, par ex. pour la formation et le déplacement de véhicules
+–	convois se déplaçant sur des voies interdites
+–	convois se déplaçant sur des voies de ligne régulière à l’encontre du sens de marche défini.
+	
+2.11.4	Priorité de circulation
+	
+	Les convois qui circulent sur une voie de ligne régulière ont toujours la priorité de circulation par rapport aux convois en provenance d’une voie de service. 
+Entre des voies similaires, le convoi venant de la droite a la priorité de circulation, sauf si des règles spécifiques au lieu sont appliquées.
+	
+2.11.5	Tronçons équipés de signaux principaux
+	
+	Les tronçons sur lesquels l’assentiment pour circuler est transmis par des signaux principaux doivent en principe être exploités selon les dispositions de l’exploitation ferroviaire. 
+Il est possible de soumettre ces tronçons aux règles de l’exploitation des tramways pour autant que cela corresponde au concept d’exploitation du GI. Les GI et les ETF doivent édicter conjointement les prescriptions d’exploitation requises à cet effet. La conception de l'exploitation ferroviaire doit être prise en compte dans la mesure où cela est approprié. Cela signifie notamment que la signification fondamentale des images des signaux au signal principal correspond à celle de l'exploitation ferroviaire.
+	
+2.11.6	Indication de verrouillage d’aiguilles
+	
+	Le GI doit définir dans les prescriptions d’exploitation les convois qui doivent prêter attention à une indication de verrouillage et les aiguilles concernées. 
+Dans la mesure du possible, la réglementation doit être formulée de manière générique de sorte que, pendant la circulation, le MEC et le CMAN puissent identifier systématiquement les aiguilles qui doivent présenter une indication de verrouillage et celles pour lesquelles ce n’est pas le cas.
+	
+2.11.7	Application des PCT dans le cadre de l’exploitation des tramways
+	
+	Les règlements ci-après ne s’appliquent pas dans le cadre de l’exploitation des tramways : 
+–	Contrôle de la marche des trains R 300.7 
+–	Formulaires R 300.10 
+–	Mécanicien / mécanicienne de locomotive (MEC) R 300.13 
+–	Freins R 300.14 
+–	Formes particulières d’exploitation R 300.15.
+Dans les règlements mentionnés ci-après, les dispositions applicables à l’exploitation des tramways sont énoncées à la fin, dans des chiffres spécifiques : 
+–	Mouvements de manœuvre R 300.4, chiffre 7 
+–	Préparation des trains R 300.5, chiffre 5
+–	Circulation des trains R 300.6, chiffre 7 
+–	Dérangements R 300.9, chiffre 15 
+–	Travaux sur et aux abords des voies R 300.12, chiffre 5.
+Les autres chiffres ne s’appliquent pas à l’exploitation des tramways.
+Lorsque le règlement dans le détail des situations est délégué aux ECF, ces dernières s’appuient sur les règles définies pour l’exploitation ferroviaire.
+
+
+Annexe 1
+
+
+
+Champs d’application partiels et fonctions PCT
+
+
+
+Champs d’application partiels et fonctions PCT
+
+L’annexe 1 présente une brève description des champs d’application partiels. L’affectation des chiffres des PCT aux champs d’application partiels, résultant de cette même réglementation, figure également à titre informatif dans le complément 3 de la Dir. PE-PCT. Il incombe aux GI et aux ETF de trancher sur la question de l’applicabilité des champs d’application partiels. 
+Les fonctions mentionnées dans les PCT sont définies dans l’explication des termes et assorties d’une abréviation. L’affectation des chiffres des PCT aux fonctions PCT (abréviations), résultant de cette même réglementation, figure également à titre informatif dans le complément 3 de la Dir. PE-PCT. Il incombe aux GI et aux ETF de décider de l’attribution des fonctions énoncées dans les PCT au personnel concerné.
+
+Champ d’application partiel « Exclusivement mouvements de manœuvre » 
+
+Ce champ d’application partiel prend en compte les infrastructures franchies exclusivement par des mouvements de manœuvre. Il peut également s’agir de parties clairement délimitées d’une infrastructure que le GI compétent (resp. gestionnaire de voie de raccordement) attribue explicitement au champ d’application partiel « Exclusivement mouvements de manœuvre ». Les voies de raccordement permettant la circulation des trains ne rentrent pas dans ce champ d’application partiel.
+
+Champ d’application partiel « Signalisation extérieure sur le réseau interopérable » 
+
+Il s’agit du réseau principal et du réseau complémentaire interopérable selon l’annexe 6 de l’OCF, respectivement de la carte synoptique (tronçons en vert foncé et en vert clair) figurant au chapitre F de la directive de l’OFT relative à l’article 15a de l’OCF (Dir. IOP). 
+Ce champ d’application partiel englobe les mouvements de manœuvre et les circulations de trains. Pour les trains, l’assentiment pour circuler est transmis par la mise à voie libre des signaux principaux.
+
+
+Champ d’application partiel « Signalisation extérieure sur le réseau non interopérable »
+
+Il s’agit du réseau non interopérable selon l’annexe 5 de l’OCF et la carte synoptique (tronçons en rouge) figurant au chapitre F de la directive de l’OFT relative à l’article 15a de l’OCF (Dir. IOP). Ce champ d’application partiel englobe les mouvements de manœuvre et les circulations de trains. Pour les trains, l’assentiment pour circuler est transmis par la mise à voie libre des signaux principaux. 
+Ce champ d’application partiel s’applique également aux tronçons équipés de signaux principaux, sans block ou protection des itinéraires.
+Champ d’application partiel « Circulation sans signaux avec assentiment » 
+
+Ce champ d’application partiel s’applique aux infrastructures dépourvues de signaux principaux. Il englobe les mouvements de manœuvre et les circulations de trains. 
+L’assentiment pour une circulation de train est transmis au moyen : 
+    • d’un horaire ou 
+    • d’une marche ou
+    • d’un ordre de croisement et de dépassement ou 
+    • d’un avis à quittancer du CC (de vive voix ou en phonie).
+
+Champ d’application partiel « Tramway » 
+
+Ce champ d’application partiel est applicable à des infrastructures en principe dépourvues de signaux principaux et sur lesquelles les convois circulent de manière générale en marche à vue. 
+Il englobe les mouvements de manœuvre et les circulations de trains sur des voies de ligne régulière et des voies de service. Le parcours est établi et l’assentiment pour circuler octroyé au fur et à mesure par l’ETF (exploitation des tramways).
+
+Option « Crémaillère » 
+
+Cette option englobe en sus les dispositions applicables à l’exploitation des véhicules à crémaillère. Elle est admise pour les champs d’application partiels « Signalisation extérieure sur le réseau non interopérable » et « Circulation sans signaux avec assentiment ». 
+
+Option « Groupe de trains » 
+
+Cette option englobe en sus les dispositions applicables à l’exploitation en groupe de trains. Elle est admise pour les champs d’application partiels « Signalisation extérieure sur le réseau non interopérable » et « Circulation sans signaux avec 
+assentiment ». 
+
+
+.
+Annexe 2
+
+
+
+Répercussions du droit européen
+	
+L’incidence juridique des directives européennes, à savoir la « Spécification technique d’interopérabilité du sous-système exploitation et gestion du trafic » (STI OPE) sur les PCT est divisée en quatre catégories (chiffre 1). 
+L’affectation des chiffres pertinents des PCT à ces catégories figure dans un tableau (chiffre 2). 
+
+
+
+1	Catégories relatives à l’incidence juridique 	
+		
+Catégorie	Importance / incidence	Remarques 
+complémentaires
+NIOP	Les règles s’appliquent aux chemins de fer du réseau non IOP. (Sur le fond, ces règles correspondent à la STI OPE ou sont en dehors du champ d'action de la STI OPE).	Pour les chemins de fer du réseau principal et complémentaire IOP, l’incidence juridique des règles qui correspondent à la STI OPE découle directement de la STI OPE (annexe 6 DE-OCF). 
+Les chemins de fer du réseau principal et complémentaire IOP peuvent prendre en compte les règles NIOP qui ne sont pas incluses dans la STI OPE dans le cadre de l’établissement de leurs prescriptions d’exploitation comme reflétant l’état de la technique. Ils doivent s’entendre à l’avance sur les conséquences au niveau des interfaces entre les GI, entre les ETF ou entre les GI et les ETF.
+NIOP*	Les règles s’appliquent aux chemins de fer du réseau non IOP. (Le contenu de ces règles est en contradiction avec la STI OPE ou ne doit pas être appliqué sur le réseau principal et complémentaire IOP à des fins d'harmonisation).	Si un chemin de fer du réseau principal ou complémentaire IOP a besoin de l’une de ces règles, il faut prévoir au préalable une procédure de dérogation par rapport aux PCT.
+
+RTNN – Règles 
+techniques nationales 
+notifiées	Les règles s’appliquent à tous les chemins de fer.	Les RTNN sont des règles complémentaires ou dérogatoires à la STI OPE qui figurent dans les PCT et qui sont notifiées comme règles nationales par le biais des instances de l’Union européenne
+TOUS	Les règles s’appliquent à tous les chemins de fer.	Ces dispositions présentent un caractère descriptif et ne contiennent pas de règle ayant un impact sur l’exploitation ferroviaire opérationnelle. Leur incidence découle du texte des PCT lui-même. Les dispositions relatives à la sécurité au travail (R 300.8) n’entrent pas dans le champ d’application de la STI OPE et ne concernent pas l’interopérabilité.
+

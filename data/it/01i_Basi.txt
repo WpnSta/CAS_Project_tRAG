@@ -1,0 +1,704 @@
+﻿Ferrovie svizzere	R 300.1
+
+
+
+Basi
+
+	
+
+1	Osservazioni preliminari
+	
+1.1	Emanazione
+	
+	L’ufficio federale dei trasporti (UFT),
+	visto l’articolo 11a dell’Ordinanza sulle ferrovie del 23 novembre 1983 (Oferr, RS 742.141.1),
+emana:
+le Prescrizioni svizzere sulla circolazione dei treni (PCT). Queste prescrizioni, i loro allegati e i loro annessi entrano in vigore il 14 dicembre 2025.
+	Abrogazione del diritto previgente
+	Le seguenti emanazioni, comprese le loro modifiche, gli allegati, gli annessi e i promemoria, sono abrogate:
+–	le Prescrizioni svizzere sulla circolazione dei treni del 31 ottobre 2023 (data dell’entrata in vigore: 1° luglio 2024).
+Le ferrovie abrogano le loro proprie emanazioni con la messa in vigore delle disposizioni esecutive rielaborate.
+	Ufficio federale dei trasporti 
+	La direttrice: Christa Hostettler
+
+
+
+1.2	Campo d’applicazione
+	Queste prescrizioni valgono per tutte le ferrovie svizzere nonché per tutte le ferrovie che utilizzano infrastrutture ferroviarie svizzere. 
+La delimitazione dell’efficacia delle PCT rispetto al regolamento di esecuzione UE relativo alla specifica tecnica di interoperabilità per il sottosistema «Esercizio e gestione del traffico» (STI OPE) è spiegata sotto gli effetti del diritto europeo.
+	
+1.2.1	Applicabilità delle disposizioni per ambiti di validità parziali
+	
+	Le disposizioni delle PCT sono attribuite a vari ambiti di validità parziali.
+Nelle prescrizioni d’esercizio dei gestori dell’infrastruttura e delle imprese di trasporto ferroviarie devono essere definiti, in modo univoco per il personale, in quali settori quale ambito o quali ambiti di validità parziali trovano applicazione. 
+Le descrizioni degli ambiti di validità parziali sono definite nell’Allegato 1 al presente R 300.1. Le attribuzioni effettive delle disposizioni delle PCT agli ambiti di validità parziali sono riportati nell’Annesso 3 alla Direttiva sull’emanazione delle prescrizioni d’esercizio e sulla circolazione dei treni (Dir. PE-PCT).
+	
+1.2.2	Applicabilità delle norme secondo le funzioni
+	
+	Le singole disposizioni delle PCT sono attribuite alle funzioni che svolgono queste attività e, contemporaneamente, a quelle funzioni che necessitano di tali disposizioni per avere una comprensione globale. 
+Qualora la funzione non risulti in maniera inequivocabile in riguardo all’attività, i gestori dell’infrastruttura e le imprese di trasporto ferroviarie devono regolare nelle prescrizioni d’esercizio, quali funzioni devono essere svolte da chi. Questo nell’intento di assicurare la consapevolezza del personale interessato. 
+Le funzioni secondo le PCT sono definite nelle spiegazioni dei termini e completate con un’abbreviazione. Le attribuzioni delle disposizioni delle PCT alle funzioni sono visibili nell’Annesso 3 alla Dir. PE-PCT.
+	
+1.2.3	Effetti del diritto europeo
+	
+	In forza del vigente diritto europeo (cfr. Allegato 6 DE-Oferr), solo alcune parti delle PCT valgono per le imprese ferroviarie della rete principale interoperabile (IOP) secondo Allegato 6 Oferr e della rete complementare interoperabile secondo capitolo D della Direttiva Requisiti di interoperabilità per le tratte della rete complementare (Dir. IOP).  Se necessario, i rispettivi GI e le ITF possono riprendere nelle loro prescrizioni d’esercizio ulteriori disposizioni delle PCT.
+Le attribuzioni concrete delle disposizioni delle PCT sono definite nell’Allegato 2 al presente R 300.1.
+La procedura circa l’inserimento di disposizioni nelle prescrizioni d’esercizio è visibile nella direttiva PE-PCT.
+	
+1.2.4	Applicazione delle PCT ai binari di raccordo
+	
+	Le PCT devono essere applicate ai binari di raccordo. Per le corse sui binari di raccordo fanno stato le disposizioni valevoli per le stazioni.
+	Per quanto concerne gli aspetti legati all’infrastruttura, la responsabilità è del gestore del binario di raccordo. 
+In relazione con gli aspetti legati alla circolazione, di regola, è responsabile un’impresa di trasporto ferroviaria. Tale responsabilità incombe ai raccordati, se essi eseguono autonomamente delle corse.
+	
+1.3	Allestimento delle prescrizioni rispondente alle necessità degli utilizzatori
+	
+	Le imprese ferroviarie mettono a disposizione del personale le disposizioni delle PCT e delle prescrizioni d’esercizio, necessarie allo svolgimento dei suoi compiti, in modo rispondente alle necessità degli utilizzatori. Questo può avvenire in forma cartacea o elettronica.
+	
+1.4	Autorizzazione per l’accesso all’autorità di sorveglianza
+	
+	Al personale dell’UFT dev’essere assicurato nel contesto dell’attività di sorveglianza l’accesso incondizionato alle installazioni, impianti e ai veicoli (incluso le cabine di guida) come pure la circolazione gratuita sulle imprese di trasporto. Il personale dell’UFT deve potersi legittimare in modo confacente.
+	
+1.5	Denominazione di persone
+	
+	Alcune denominazioni di persone contenute nelle PCT sono espresse in una forma specifica di genere e si applicano alla persona che esercita la funzione, indipendentemente della sua identità di genere.
+	Per le funzioni vengono utilizzate le abbreviazioni attribuite alle corrispondenti definizioni dei termini. Il significato riguardo al singolare o al plurale e visibile in considerazione del contesto. 
+
+		
+2	Disposizioni fondamentali	
+		
+2.1	Osservanza delle prescrizioni	
+		
+	I superiori di tutti i livelli di gestione devono verificare correntemente l’osservanza delle PCT e delle relative disposizioni esecutive. Nell’ambito della sua responsabilità per il sistema, il gestore dell’infrastruttura sorveglia l’osservanza delle prescrizioni da parte delle imprese di trasporto ferroviarie.	
+		
+2.2	Procedimento in caso di situazioni impreviste, non disciplinate	
+		
+	Se si producono situazioni che non sono disciplinate da queste prescrizioni o dalle disposizioni esecutive, o che lo sono solo in modo parziale, tutti gli interessati devono accordarsi in maniera inequivocabile sull’ ulteriore procedimento. La sicurezza è prioritaria e deve essere garantita.
+	
+2.3	Elenco delle abbreviazioni
+	
+	Nelle prescrizioni sulla circolazione dei treni si utilizzano le seguenti abbreviazioni. Esse sono riportate e definite nelle spiegazioni dei termini.
+	
+
+2.4	Regolamenti
+	
+	Le PCT comprendono le regole di sicurezza rilevanti per tutte le corse su binari. Le prescrizioni parziali elencate qui di seguito costituiscono, nel loro complesso, un’unità. Questo vale, anche se all’interno delle prescrizioni sono menzionate disposizioni complementari. Inoltre, i regolamenti possono essere completati da allegati (che appartengono formalmente ai regolamenti e contengono precisazioni materiali) e annessi (esempi chiarificatori, tabelle, supporti). A seconda delle singole situazioni d’esercizio devono essere applicate le disposizioni del caso.
+	–	Basi					R 300.1
+–	Segnali					R 300.2
+	–	Comunicazione, disposizioni e trasmissione	R 300.3
+–	Movimenti di manovra			R 300.4
+	–	Preparazione dei treni			R 300.5
+	–	Corse dei treni				R 300.6
+–	Controllo della marcia dei treni		R 300.7
+–	Sicurezza del lavoro				R 300.8
+–	Perturbazioni				R 300.9
+–	Formulari					R 300.10
+–	Commutazione e messa a terra
+di linee di contatto 				R 300.11
+–	Lavori nella zona dei binari			R 300.12
+–	Macchinista (MAC)				R 300.13
+	–	Freni					R 300.14
+–	Forme d’esercizio particolari			R 300.15
+	
+	
+
+
+2.5	Terminologia
+2.5.2	Spiegazione dei termini
+	
+Accompagnatore / accompagnatrice del treno (ACCT)
+personale che accompagna i treni per ragioni legate alla sicurezza dell’esercizio
+Accoppiamento di manovra
+accoppiamento meccanico azionabile dal posto di guida di un veicolo di manovra
+Annunciare la percorribilità (binario / scambio)
+annuncio singolo di un’area dei lavori che il suo settore è nuovamente percorribile
+Apparecchio centrale
+impianto che serve ad assicurare tecnicamente e dirigere la circolazione dei treni e dei movimenti di manovra
+Area dei lavori
+zona dei binari o zona ad essa adiacente in cui sono svolti i lavori
+Ascolto preliminare
+controllo effettuato per appurare che il canale non sia già occupato da una conversazione o da un segnale di controllo
+Assicurare
+misure da adottare all’impianto di sicurezza, contro il passaggio involontario rispettivamente delle parti dell’impianto momentaneamente non utilizzabili o utilizzabili solo parzialmente
+Attività legate alla circolazione dei treni
+attività che includono le mansioni e le funzioni disciplinate dalle prescrizioni svizzere sulla circolazione dei treni
+Attrezzature di lavoro
+mezzi necessari per l’esecuzione del lavoro, p.es. veicoli, macchinari, apparecchi, attrezzi e materiali
+Balise
+supporto informativo montato nel binario per la trasmissione dei dati fra la tratta e il veicolo
+Barriera protettiva
+dispositivo tecnico costruttivo stabile, avente come scopo di impedire l’involontaria penetrazione nella zona di pericolo durante lavori nella zona dei binari
+Binario adiacente
+binario situato accanto al binario entrante in considerazione o a quello di lavoro, a destra o a sinistra
+Binario destro
+in una tratta a doppio binario quello situato a destra nella direzione di marcia
+Binario d’esercizio
+un binario utilizzabile per i treni e i movimenti di manovra
+Binario di lavoro
+binario o scambio sul quale, o in prossimità del quale, sono svolti i lavori e misure d’allarme si rendono necessarie
+Binario di linea
+binario in esercizio di tram che di regola viene percorso in esercizio per linea
+Binario di raccordo
+binario collegato a un’infrastruttura ferroviaria e utilizzato di regola per il trasporto di merci. Questi binari sono contrassegnati da una corrispondente tavola indicatrice
+Binario di servizio
+binario in esercizio di tram che di regola non viene percorso in esercizio per linea
+Binario di testa
+binario principale che termina con un paraurti
+Binario di tratta
+sezione di binario situata fra i segnali d’entrata di due stazioni vicine
+Binario occupato
+binario parzialmente occupato da veicoli
+Binario principale
+binario di stazione che può essere percorso in entrata e in uscita utilizzando i segnali
+Binario secondario
+binario di stazione sul quale non si può entrare e uscire con l’ausilio dei segnali o si può solo uscire
+Binario sinistro
+in una tratta a doppio binario quello situato a sinistra nella direzione di marcia
+Binario tronco
+binario secondario che termina con un paraurti
+Binario vicino
+il binario più vicino, a sinistra o a destra di quello considerato
+Blocco
+elemento dell’apparecchio centrale che serve per assicurare un treno contro le corse successive o quelle della direzione opposta
+Calcolo di frenatura
+determina la categoria di freno e la categoria di treno
+Camminamento
+un percorso nella zona dei binari fuori delle gallerie che il personale può utilizzare per la sosta o per svolgere lavori. Per le sue caratteristiche (in ghiaia fine o sabbia o asfalto, ossia senza pietrisco), esso è chiaramente riconoscibile
+Capo / capa della sicurezza (CS)
+personale responsabile per l’applicazione delle misure di sicurezza sull’area dei lavori
+Capomanovra (CMAN)
+persona responsabile per la direzione e l’esecuzione del movimento di manovra. Assume la guida indiretta
+Capomovimento (CMOV)
+persona responsabile per regolare la circolazione dei treni e i movimenti di manovra, garantendone la sicurezza
+Carro con merci pericolose
+carro munito di etichetta di pericolo, secondo i modelli da 1 a 9 del RID
+Categoria di freno
+rapporto di frenatura definito che, secondo la distanza esistente dal segnale avanzato e la pendenza della tratta, costituisce la base per definire la velocità massima ammessa nelle tabelle delle tratte
+Categoria di treno
+indicazione espressa con lettere maiuscole per la composizione, rispettivamente la velocità massima e in curva di un treno
+Checklist circolazione (CL-C)
+lista specifica per ogni impianto di sicurezza, con uso vincolante per le operazioni di soccorso e per assicurare
+Colpo
+movimento di manovra consistente nell’accelerare alla velocità necessaria i veicoli spinti non agganciati alla manovra i quali, fermandosi la stessa, proseguono da soli la loro corsa. I veicoli che proseguono la corsa vengono definiti colpo
+Concatenamento
+fra la protezione lato ferrovia e i corrispondenti passaggi a livello sorvegliati si trovano impianti di passaggio a livello a sicurezza intrinseca oppure una protezione lato ferrovia di altri passaggi a livello sorvegliati
+Controllo della marcia dei treni
+equipaggiamento di sorveglianza a supporto l’osservanza dei segnali o il rispetto delle velocità massime o ad agire sui veicoli
+Coordinatore / coordinatrice delle aree dei lavori (COAL)
+se su binari sbarrati vi sono più aree dei lavori, un CS può essere designato quale COAL
+Corsa
+termine generale per corsa treno o movimento di manovra, suddivisi in:
+    • Corse ordinarie
+        ◦ corse regolari, se circolano giornalmente o in determinati giorni senza essere ordinate in modo speciale
+        ◦ corse facoltative, se circolano solo in caso di bisogno in seguito a ordinazioni particolari.
+    • Corse speciali
+Corse che circolano in seguito a ordinazione particolare e secondo un orario di marcia appositamente compilato
+Corsa a vista
+velocità di corsa, adeguata alle condizioni di visibilità, di 40 km/h al massimo, che permette di fermarsi tempestivamente prima di un eventuale ostacolo riconoscibile a distanza di visuale. In casi singoli, le prescrizioni specifiche d’ordine superiore prevedono altre velocità massime. Nell’esercizio di tram, i GI possono segnalare delle velocità massime derogatorie o regolarle nelle prescrizioni d’esercizio.
+Corsa di manovra
+movimento di manovra di veicoli motori singoli o accoppiati, senza o con peso rimorchiato trainato o spinto
+Corsa treno
+corsa
+    • in stazione e sulla tratta assicurata e regolata da segnali principali, o
+    • treni in esercizio di tram
+Dati della tratta
+informazioni concernenti lunghezza, velocità ammessa e pendenza delle varie sezioni di binario, posizione e lunghezza di determinati oggetti (p.es. stazione, galleria, passaggio a livello, ponti, tratte di protezione LC)
+Dati del treno
+informazioni concernenti il treno come lunghezza, velocità massima e rapporto di frenatura, di regola immesse dal MAC prima della corsa del treno
+Direzione responsabile della sicurezza (DS)
+servizio che, sotto la responsabilità del GI, prescrive e sorveglia il DISPO con le misure di sicurezza. Ciò include anche i necessari adeguamenti all’avanzamento dei lavori
+Dispositivi d’allarme
+attrezzature acustiche o ottiche (p.es. cornette d’allarme, cornette d’annuncio, apparecchi di avvertimento per singole persone, lampade girevoli) per l’emissione di segnali di allarme
+Dispositivo d’annuncio di binario libero (ABL)
+installazione tecnica che permette di accertare se sezioni di binario sono libere da veicoli ferroviari
+Dispositivo d’inversione
+dispositivo del veicolo per la regolazione dell’efficacia di frenatura necessaria
+Distanza di frenatura
+distanza necessaria per ridurre una velocità di corsa a quella definita o fino alla fermata, a dipendenza della velocità massima, del rapporto di frenatura e della pendenza della tratta
+Dispositivo di sicurezza (DISPO)
+definizione delle misure di sicurezza necessarie per un’area dei lavori e delle indicazioni prescritte dai GI nelle loro disposizioni di esecuzione
+Driver Machine Interface (DMI)
+elemento di servizio e di visualizzazione in cabina di guida
+Elettrotreno
+unità semovente, accoppiata in modo rigido e non separabile in esercizio regolare
+Esercizio banalizzato
+equipaggiamento delle tratte a più binari, con ogni binario dotato di segnali principali e blocco di tratta, che permette la circolazione su ogni binario in entrambe le direzioni
+Esercizio delle ferrovie
+esercizio ferroviario e esercizio di tram
+esercizio ferroviario
+esercizio in applicazione dei seguenti ambiti di validità parziali:
+        ◦ «Esclusivamente movimenti di manovra»
+        ◦ «Segnalazione esterna rete interoperabile»
+        ◦ «Segnalazione esterna rete non interoperabile»
+        ◦ «Corse senza segnali con consenso».
+Esercizio di tram
+esercizio in applicazione dell’ambito di validità parziale «tram»
+Fermata
+–	fermata prescritta	
+fermata ordinaria e straordinaria
+–	fermata ordinaria	
+fermata prescritta nell’orario di marcia, inclusa la fermata facoltativa
+–	fermata straordinaria	
+fermata non prescritta tramite orario di marcia
+–	fermata non prescritta	
+fermata causata dallo svolgimento dell’esercizio o una perturbazione, p.es. da un segnale su posizione di fermata
+Fermata
+impianto aperto al traffico pubblico situato in tratta o in binari di linea
+Fischietto della locomotiva
+dispositivo sui veicoli motori e sui veicoli di comando per l’emissione di segnali acustici incluso la campana del segnale in esercizio di tram
+Formulario
+modulo utilizzato per la trasmissione di un messaggio, p.es. dal CMOV al MAC o al CS
+Forte discesa
+sezione di tratta che richiede particolari prescrizioni in considerazione della sua pendenza e lunghezza
+Forza di ritenuta
+forza frenante del freno d’immobilizzazione di un veicolo, indipendente dall’efficacia del freno ad aria, espressa in kilonewton (kN)
+Forza di ritenuta minima
+forza minima necessaria per assicurare veicoli fermi, espressa in kilonewton (kN). Possono essere computati solo freni d’immobilizzazione e staffe d’arresto
+Freno a mano
+freno d’immobilizzazione azionabile dal veicolo, anche durante la corsa, per mezzo di una manovella o di un volante
+Freno d’immobilizzazione
+Freni specifici dei veicoli, indipendenti dall’efficacia del freno ad aria, per assicurare veicoli ricoverati contro il rischio di fuga: freni azionabili manualmente, freni d’immo­bilizzazione manovrabili mediante una manovella o un volantino, dalla piattaforma del veicolo o da terra, freni di stazionamento a molla o freni di binario a magneti permanenti (PMS)
+Gestore del binario di raccordo
+il raccordato responsabile per l’esercizio del binario di raccordo dal lato dell’infrastruttura
+Gestore dell’infrastruttura (GI)
+IF che gestisce un’infrastruttura ferroviaria
+Guardiano / guardiana della sicurezza (GS)
+persona responsabile di avvertire tempestivamente il personale su un’area dei lavori, per consentire in maniera sicura lo sgombero della zona dei binari interessata
+Guida diretta
+il MAC serve il veicolo motore e osserva i segnali e l’itinerario
+Guida indiretta
+il servizio del veicolo motore e l’osservazione dei segnali e dell’itinerario sono suddivisi fra più persone. Il MAC serve il veicolo motore e non ha nessuna visuale sull’itinerario e sui segnali. L’osservazione dei segnali e dell’itinerario avviene da parte del personale addetto alla guida indiretta posizionato in testa
+Impianto d’avvertimento
+assume la funzione di avvertimento e aziona i dispositivi d’allarme. Il comando avviene manualmente o in maniera automatica per mezzo dell’impianto di annuncio
+Impianto di annuncio
+avverte automaticamente dell’avvicinarsi di una corsa
+Impianto di passaggio a livello
+impianto per la protezione di uno o più passaggi a livello. Si fa distinzione fra impianti sorvegliati e impianti a sicurezza intrinseca.
+Un impianto di passaggio a livello sorvegliato è assicurato lato ferrovia mediante
+–	segnale principale
+–	luce di controllo
+–	segnale di sbarramento o segnale basso
+–	apparecchio di tratta per il controllo della marcia dei treni
+Un impianto di passaggio a livello a sicurezza intrinseca funziona in modo autonomo e non è assicurato lato ferrovia
+Impianto di regolazione del traffico
+impianto per la regolazione dell’esercizio delle ferrovie e del traffico stradale. Dal lato della ferrovia il traffico è regolato mediante i segnali per tranvie, lato strada mediante segnali luminosi
+Impianto di sicurezza
+impianto che serve a gestire e assicurare le corse di treni e i movimenti di manovra
+Impresa di trasporto ferroviaria (ITF)
+gestione dell’IF nella funzione di trasporto, ciò che comprende in particolare la trazione
+Impresa ferroviaria (IF)
+persone fisiche o giuridiche soggette alla legislazione ferroviaria (esclusi autobus, filobus e impianti a fune)
+Incontro di treni
+incontro su binari di tratta adiacenti di due treni che circolano nella direzione opposta
+Incrocio
+elusione di due corse di direzione opposta, delle quali una o entrambe proseguono sul binario di tratta precedentemente percorso e liberato dalla corsa opposta
+Infrastruttura ferroviaria
+costruzioni e impianti che consentono l’esecuzione di corse in una stazione, sulla tratta, in esercizio di tram e su impianti con SCab, esclusi i binari di raccordo
+Itinerario
+via percorsa da un treno oppure da un movimento di manovra
+Lancio
+movimento di manovra che permette a veicoli di scendere per forza di gravità da un impianto di lancio o da un piano inclinato
+Lavoro nella zona dei binari
+qualsiasi attività da compiere nella zona dei binari (p.es. per la costruzione, la manutenzione, la pulizia, la modifica e lo smantellamento d’impianti ferroviari e d’altro genere, inclusi altri lavori ad essi relativi, quali misurazioni, controlli nonché l’eliminazione di perturbazioni e conseguenze di incidenti). Sono escluse le attività relative alle corse di manovra, alla formazione o alle corse dei treni nonché gli spostamenti di andata e ritorno dal luogo di lavoro
+Macchinista (MAC)
+persona responsabile dal lato tecnico e della circolazione del servizio di veicoli motori di qualsiasi genere
+Manovratore / manovratrice (MAN)
+personale al quale sono affidati lavori nel servizio di manovra
+Mettere a terra
+messa in corto circuito e a terra (cortocircuitare e mettere a terra) o connessione con il conduttore di ritorno di corrente
+Movimento di manovra
+tutti i movimenti di veicoli
+    • in stazione, officine, impianti di deposito, binari di raccordo e sulla tratta, o
+    • in esercizio di tram,
+che non possono essere eseguiti come corsa treno
+Nome di chiamata
+designazione dei partecipanti alla conversazione che ne consente chiaramente l’identificazione
+Orario di marcia
+comprende le indicazioni d’orario tecnicamente necessarie per la condotta di una corsa
+Pendenza
+discesa o salita di una tratta, in per mille (‰)
+Percorso
+itinerario di un treno o di un movimento di manovra tra un punto iniziale e finale assicurato da un apparecchio centrale
+Persona autorizzata alla commutazione
+persona istruita o esperta per le commutazioni ad impianti elettrici. Eccetto situazioni d’emergenza, esegue le commutazioni sempre su incarico
+Persona esperta per impianti elettrici (PESIE)
+persona di esperienza nella manipolazione degli impianti di corrente ad alta tensione. Conosce le condizioni locali e le misure di protezione da adottare. Può essere impiegata p.es. come gestore d’esercizio, responsabile dell’impianto, responsabile dei lavori o persona autorizzata a impartire ordini di commutazione e può istruire e formare delle persone
+Persona istruita per impianti elettrici (PIIE)
+persona con autorizzazione ad eseguire attività limitate ed esattamente definite in impianti di corrente ad alta tensione, secondo l’istruzione da parte di una persona esperta. Conosce le condizioni locali e le misure di protezione da adottare
+Personale
+persone impiegate sotto la responsabilità di sicurezza di un’IF
+Personale viaggiante
+MAC con o senza ACCT oppure MAC e MAN
+Peso assiale
+peso totale di un veicolo diviso per il numero degli assi in tonnellate (t)
+Peso al gancio di trazione
+peso rimorchiato ammissibile per rapporto alla resistenza del dispositivo di trazione
+Peso-norma
+peso rimorchiato ammissibile di un veicolo motore per una determinata tratta
+Peso per metro
+peso totale di un veicolo, diviso per la sua lunghezza, in tonnellate al metro (t/m)
+Peso rimorchiato
+peso totale in tonnellate (t) dei veicoli e dei veicoli motori rimorchiati
+Peso spinto
+carico massimo ammissibile che può essere spinto con riguardo alla forza di spinta stabilita dai GI
+Peso totale
+peso di un veicolo e del suo carico, in tonnellate (t)
+Peso-treno
+peso totale in tonnellate (t) dei veicoli motori attivi e del carico rimorchiato
+Peso-freno
+peso freno in tonnellate (t) è il valore per esprimere la forza di frenatura di un veicolo
+Posto di cambio di binario
+binari e scambi situati in tratta per il collegamento di binari attigui con segnali di blocco
+Preparatore / preparatrice del treno (PRT)
+personale responsabile designato dall’ITF, per l’esecuzione della verifica del treno
+Primo scambio
+primo scambio percorso in stazione provenendo dalla tratta
+Proteggere
+posare segnali di fermata per proteggere un ostacolo
+Pulsante di soccorso
+dispositivo mediante il quale, in caso di perturbazione o di emergenza, si può intervenire sull’impianto di sicurezza o può essere scansato un settore parziale dell’impianto di sicurezza
+Rapporto di frenatura minimo di parte
+rapporto di frenatura minimo di parte garantisce un’azione frenante minima in caso di rottura di un treno, atta a fermare le singole parti di treno e ad evitare fughe di veicoli durante almeno mezz’ora
+Rapporto di frenatura
+efficacia dei freni di un veicolo o di un treno, in percentuale (%)
+Responsabile area dei lavori tram (RALT)
+personale responsabile per l’applicazione delle misure di sicurezza sull’area dei lavori in esercizio di tram sul posto
+Sbarrare
+sbarramento di binari o di scambi per lavori nella zona del binario. I binari/scambi sbarrati non sono utilizzabili per i treni
+Scambio d’entrata
+primo scambio preso di punta di una stazione provenendo dalla tratta
+Scambio d’uscita
+ultimo scambio di una stazione percorso di calcio in direzione della tratta
+Scambio di protezione
+scambio che, nella posizione di protezione, impedisce una corsa di fianco
+Scambio tallonabile
+percorrere di calcio uno scambio, equipaggiato allo scopo, lungo la via non corrispondente alla posizione dello scambio stesso
+Scambio, tallonato
+percorrere involontariamente di calcio uno scambio in posizione sbagliata
+Segnalazione in cabina di guida (SCab)
+trasmissione diretta in cabina di guida delle informazioni sulla circolazione in luogo dell’osservanza di segnali fissi. Talora le prescrizioni possono oltracciò imporre di osservare i segnali fissi
+Segnale di binario
+segnale di settore di binario o segnale d’uscita, che vale solo per un binario
+Segnale di blocco
+segnale principale destinato a suddividere una tratta in più sezioni di blocco
+Segnale d’entrata
+primo segnale principale appartenente a una stazione. Esso delimita la frontiera tra la tratta e la stazione
+Segnale di gruppo
+segnale di settore di binari o segnale d’uscita valevole per più binari
+Segnale di manovra
+segnale di fermata per la manovra, di sgombero, di retrocessione e di lancio
+Segnale di protezione
+segnale principale per proteggere i binari di raccordo, i passaggi a livello sorvegliati o le sezioni di tratta in pericolo senza dipendenza dal blocco
+Segnale di settore di binario
+segnale principale per la suddivisione di un impianto di binari in più settori
+Segnale d’uscita
+ultimo segnale principale di una stazione che conduce verso la tratta
+Segnale fisso
+segnale collocato in modo fisso dell’infrastruttura ferroviaria, ad esempio segnale principale, segnale basso, segnale di manovra
+Sentinella (SENT)
+personale di un’area dei lavori responsabile di annunciare in tempo utile le corse in avvicinamento. La SENT annuncia l’avvicinarsi delle corse al GS con i mezzi di comunicazione previsti dal DISPO
+Sezionamento di tratta
+separazione della linea di contatto di stazione da quella di tratta
+Sezione di blocco
+sezione situata fra due segnali principali consecutivi che si trovano in dipendenza del blocco
+Sezione perturbata
+itinerario che viene compromesso da un elemento dell’impianto di sicurezza perturbato o nel quale si trova un elemento dell’impianto di sicurezza riportato nella posizione di base con un’operazione di soccorso. Corrisponde al percorso che, in esercizio regolare, può essere disposto senza un’operazione di soccorso. Esso va definito nuovamente dal CMOV per ogni corsa
+Sistema d’avvertimento
+dispositivo tecnico e/o organizzativo che avverte le persone (che lavorano nella zona del binario) dei pericoli delle corse in avvicinamento
+Sistema d’avvertimento automatico
+è composto di impianti di annuncio e di avvertimento, i quali svolgono automaticamente le mansioni del sistema di avvertimento
+Sistema radio
+sistema limitato ad un settore radio con uguali caratteristiche tecniche
+Soglia di velocità
+punto in cui cambia la velocità prescritta
+Sorpasso
+la modifica, in una stazione, della successione di almeno due corse circolanti nella medesima direzione e che proseguono sullo stesso binario di tratta
+Spazio di fuga
+luogo determinato in precedenza dove il personale, se in pericolo, può mettersi in salvo
+Spazio di sicurezza intermedio
+spazio esistente fra i binari o fra un binario e un ostacolo fisso, dove sia possibile sostare o lavorare ai veicoli senza provvedimenti di sicurezza specifici. Lo spazio di sicurezza intermedio è disponibile
+–	dove c’è un camminamento, o
+–	quando è contrassegnato nell’impianto esterno, o
+–	fra binari secondari, o
+–	quando è designato nelle prescrizioni d’esercizio del GI, o
+–	quando è menzionato in un dispositivo di sicurezza
+Specie di treni
+Con riguardo alla loro utilizzazione, i treni vengono classificati come segue:
+– treni viaggiatori, che servono in primo luogo al trasporto di viaggiatori
+– treni merci, che servono in primo luogo al trasporto di merci, animali e carri merci vuoti
+– treni di servizio, per scopi di servizio
+Stazione
+impianto per l’assicuramento e la regolazione della circolazione dei treni e dei movimenti di manovra, di solito aperto al traffico pubblico
+    • tra i segnali d’entrata, oppure
+    • dove questi manchino tra gli scambi d’entrata, oppure
+    • dove presenti, tra le tavole di inizio e fine della stazione
+Stazione di riferimento dell’orario
+stazione dove il personale viaggiante deve osservare l’orario di partenza previsto nell’orario di marcia
+Stazione presenziata
+i compiti per lo svolgimento dell’esercizio possono essere eseguiti localmente oppure da un centro operativo del movimento
+Stazione vicina
+quelle più vicine ad una stazione o a un’area dei lavori, in entrambe le direzioni. Se una di queste non è presenziata e non è telecomandata, si considera stazione vicina quella presenziata più prossima. Se una di queste è telecomandata, si considera stazione vicina il centro operativo del movimento
+Suono di chiamata
+segnale acustico che indica una chiamata
+Suono di controllo
+serve per la sorveglianza della comunicazione
+Superfice di lavoro
+elemento di comando e visualizzazione (superficie di lavoro uomo-macchina; MMI)
+Tabella della tratta
+comprende le indicazioni in relazione con la tratta necessarie per la circolazione di un treno o di un movimento di manovra sulla tratta
+Tara
+peso di un veicolo senza carico, in tonnellate (t)
+Tratta
+impianto tra due stazioni vicine
+Treno
+veicoli motori, singoli o accoppiati, con o senza carrozze,
+    • che percorrono la tratta o
+    • circolano in esercizio tram,
+più precisamente dal momento della loro presa in consegna da parte del personale viaggiante sul binario di partenza del luogo d’origine, al loro arrivo sul binario d’arrivo nel luogo di destinazione, salvo durante i movimenti di manovra
+Treno loc
+treno composto da veicoli a motore, singoli o accoppiati o anche rimorchiati
+Treno spola
+composizione formata da uno o più veicoli motore e carrozze, provvista di una cabina di guida alle due estremità e che a dipendenza della direzione di marcia può essere condotta o da l’una o dall’altra cabina di guida
+Ultimo scambio
+ultimo scambio percorso in stazione verso la tratta
+Utente della rete
+ITF che chiede l’accesso alla rete per circolare su un’infrastruttura
+Vagone
+veicolo rimorchiato munito di dispositivi normali di trazione e di repulsione o di accoppiamento automatico
+Vagonetto
+veicolo rimorchiato senza dispositivi normali di trazione e repulsione o accoppiamento automatico (carrelli, scale mobili, lorry ecc.)
+Veicolo a cremagliera
+Veicolo che trasmette la sua forza trainante o frenante a una cremagliera. Si considerano veicoli a cremagliera anche quelli sui quali le forze trainanti e frenanti sono trasmesse contemporaneamente mediante cremagliera e aderenza, se la trasmissione della forza per mezzo della sola aderenza non è sufficiente
+Veicolo di testa
+veicolo dal quale viene guidato il treno o il movimento di manovra
+Veicolo motore
+locomotiva, automotrice, elettrotreno, trattore, veicolo semovente come macchina da cantiere, veicolo strada/rotaia
+Zona dei binari (binari o scambi)
+spazio necessario ai veicoli ferroviari sotto, accanto o sopra i binari, entro il quale le persone possono essere messe in pericolo da questi veicoli. È compresa nella zona dei binari anche quella di eventuali impianti della linea di contatto e di alimentazione d’energia, con i pericoli della corrente elettrica che ne derivano. La zona dei binari determinante va fissata caso per caso estendendola alle zone di pericolo laterali, da misurare in funzione della velocità
+Zona tranvie
+Nell’esercizio di tram zona destinata al traffico impiegata contemporaneamente da strada e ferrovia e nell’esercizio ferroviario i binari contrassegnati da segnali e/o riportati nella tabella della tratta.
+
+
+
+
+2.6	Prescrizioni d’esercizio
+	
+	Le singole IF devono indicare in prescrizioni d’esercizio – le quali assicurano uno svolgimento affidabile dell’esercizio ferroviario tanto nel caso normale quanto in caso di perturbazioni – le disposizioni esecutive, le deroghe, le aggiunte e le spiegazioni necessarie relative alle presenti prescrizioni. L’emanazione di prescrizioni d’esercizio si regola a seconda della Dir. PE-PCT.
+	
+2.6.1	Scorta dei treni
+	
+	I treni che adempiono le condizioni di carattere tecnico circolano, di regola, senza ACCT. Le ITF designano nelle disposizioni esecutive i treni che devono essere scortati.
+	
+2.6.2	Elenco della posizione chilometrica degli impianti di passaggi a livello
+	
+	I GI devono allestire un elenco aggiornato della posizione chilometrica degli impianti di passaggio a livello e dei corrispondenti passaggi a livello. Questo elenco va resa disponibile in forma adeguata almeno al CMOV. 
+	
+2.6.3	Checklist circolazione (CL-C)
+	
+	La stesura delle CL-C e la loro applicazione sono vincolanti nell’esercizio ferroviario,
+–	quando circolano movimenti di manovra sulla tratta 
+–	per l’eliminazione di perturbazioni 
+–	per adottare/eliminare le misure di sicurezza a livello d’esercizio in caso di lavori nella zona dei binari e 
+–	negli ulteriori casi prescritti dall’IF.
+Le PCT sono la base per la redazione delle CL-C.
+	
+2.6.4	Efficienza energetica
+	
+	I GI e le ITF sostengono l’impiego economico dell’energia purché ciò non abbia a pregiudicare la sicurezza. A questo riguardo essi emanano le necessarie prescrizioni d’esercizio.
+
+	
+2.7	Impiego e comportamento del personale
+	
+	Per le attività relative al servizio di circolazione può essere impiegato solo personale istruito ed esaminato. Durante lo svolgimento di attività rilevanti sul piano della sicurezza i collaboratori non devono in nessun caso lasciarsi distrarre da altre attività.
+Se le incombenze legate alla circolazione di una funzione sono assicurate da più persone, esse devono intendersi sulla situazione iniziale (le premesse), sullo stato dei lavori e sul modo di procedere in concreto. Ciò vale in particolare
+–	nella separazione geografica o funzionale delle competenze o
+–	nello scaglionamento temporale.
+Se più funzioni sono assunte da una singola persona, quest’ultima assicura la corretta esecuzione di tutte le corrispondenti attività legate alla circolazione dei treni.
+Se, per principio, dal IF vengono attribuite più funzioni a una singola persona, l’IF può definire nelle prescrizioni d’esercizio una designazione alternativa per questa funzione (p.es. nell’esercizio di tram le funzioni MAC e CMOV come pilota di tram). 
+Se al momento di definire l’organizzazione d’esercizio le funzioni legate alla circolazione sono ripartite, le IF disciplinano, all’occorrenza, le responsabilità, le competenze e le procedure.
+Durante la consegna del servizio la persona uscente trasmette alla persona che le succede le informazioni necessarie. Se la consegna del servizio non avviene direttamente, le particolarità verranno trasmesse per iscritto.
+	
+2.7.1	Capacità compromessa
+	
+	Chi si sente stanco e chi è pregiudicato nell’esercizio delle sue funzioni dalla stanchezza, dall’influsso di alcol, medicamenti o stupefacenti o per altri motivi, non può svolgere attività legate alla circolazione dei treni.
+Le persone che svolgono attività legate alla circolazione dei treni sono corresponsabili per l’osservanza delle norme di legge concernenti la durata del lavoro e i tempi di riposo. 
+	
+
+2.8	Designazione delle corse
+2.8.1	Numerazione dei treni e dei movimenti di manovra sulla tratta in esercizio ferroviario
+	
+	Ogni treno e ogni movimento di manovra sulla tratta viene designato con un numero. Per i movimenti di manovra sulla tratta, viene inoltre aggiunta la lettera «R». Lo schema di numerazione va pubblicato nelle disposizioni esecutive del GI. I GI devono accordarsi circa l’utilizzazione dei numeri sulle tratte comuni e nelle stazioni comuni.
+	
+2.8.2	Designazione dei treni e dei movimenti di manovra su binari di linea in esercizio di tram
+	
+	In esercizio di tram, i GI definiscono la designazione univoca delle corse treno e dei movimenti di manovra su binari di linea.
+	
+2.9	Mezzi di segnalazione 
+2.9.1	Mezzi di segnalazione dei veicoli motore e veicoli di comando in esercizio ferroviario
+	
+	Su ogni veicolo motore e su ogni veicolo di comando bisogna portare
+	–	una lanterna con luce rossa e bianca
+–	una banderuola di segnalazione rossa.
+	
+2.9.2	Mezzi di segnalazione nelle stazioni in esercizio ferroviario
+	
+	Mentre occupate localmente, nelle stazioni bisogna tenere sottomano:
+	–	una lanterna o una lampada tascabile con luce rossa e bianca
+–	una banderuola di segnalazione rossa
+–	un segnale di fermata a disco rosso.
+	
+2.9.3	Mezzi di segnalazione del personale in esercizio ferroviario
+	
+	Il CMAN, il MAN e il CMOV con funzione di sorveglianza devono avere un fischietto. Il ACCT deve avere un fischietto e una lampada tascabile.
+	Di notte, salvo nel caso in cui siano equipaggiati con un mezzo di comunicazione adatto alla trasmissione di ordini, i MAN devono portare con sé una lanterna portatile con luce bianca e rossa.
+	
+2.9.4	Mezzi di segnalazione in esercizio di tram
+	
+	Le IF disciplinano i mezzi di segnalazione da portare con sé nelle prescrizioni d’esercizio.
+2.10	Delimitazione fra segnalazione esterna e SCab
+	
+	Le infrastrutture ferroviarie con istallazioni di sicurezza centralizzate sono equipaggiate o con segnali esterni o con la SCab.
+Il GI regola la delimitazione del sistema fra segnalazione esterna e SCab nelle prescrizioni d’esercizio. 
+	
+2.11	Principi dell’esercizio di tram
+	
+	In esercizio di tram, l’itinerario viene verificato progressivamente a distanza di visuale. 
+Si deve circolare con corsa a vista; la velocità massima consentita è stabilita dal GI tenendo conto dei veicoli e delle caratteristiche del luogo.
+In esercizio di tram valgono inoltre le prescrizioni della legge sulla circolazione stradale. 
+I GI creano le basi per la designazione univoca delle indicazioni locali e dei binari.
+	
+2.11.1	Limite esercizio ferroviario / esercizio di tram e la rispettiva segnalazione
+	
+	Per ogni passaggio tra esercizio ferroviario ed esercizio di tram e viceversa sono da disciplinare nelle prescrizioni d’esercizio il tipo e la validità del consenso per la corsa in esercizio regolare e in caso di perturbazione.
+I limiti vengono segnalati come segue:
+–	limite tra esercizio ferroviario ed esercizio di tram
+–	limite tra esercizio di tram ed esercizio ferroviario. 
+Si può rinunciare alla segnalazione se il limite è situato presso il primo segnale principale.
+	
+2.11.2	Limite tra GI diversi
+	
+	Il limite tra GI diversi viene segnalato. Si può rinunciare alla segnalazione, se il limite è definito nelle prescrizioni d’esercizio e riconoscibile in maniera evidente per il personale
+	
+2.11.3	Utilizzazione per l’esercizio dei binari di linea e dei binari di servizio 
+	
+	L’esercizio di tram si svolge su binari di linea e di servizio. I binari di servizio devono essere designati dai GI nelle prescrizioni d’esercizio.
+Come corsa treno circolano di principio le corse nella direzione di marcia regolare su binari di linea. Il GI disciplina le corse treno che passano binari di servizio o che partono o finiscono in binari di servizio.
+Come movimento di manovra vanno effettuate:
+–	corse su binari di servizio che non possono essere eseguite come corsa treno, p.es. per la formazione e per lo spostamento di veicoli
+–	corse su binari sbarrati
+–	corse su binari di linea contrariamente alla direzione di marcia regolare.
+	
+2.11.4	Diritto di precedenza
+	
+	Le corse sul binario di linea hanno la precedenza alle corse dal binario di servizio.
+Tra binari paritari ha precedenza la corsa proveniente da destra se non vanno applicate regole specifiche locali.
+	
+2.11.5	Sezioni con segnali principali
+	
+	Le sezioni sulle quali il consenso per la corsa viene dato mediante segnali principali, devono essere gestite di principio secondo le norme dell’esercizio ferroviario. 
+Queste sezioni possono essere gestite in alternativa in esercizio di tram, purché ciò corrisponde al concetto d’esercizio del GI. Le prescrizioni d’esercizio necessarie a questo riguardo devono essere allestite dai GI insieme alle ITF, tenendo in considerazione per quanto opportuno la concezione dell’esercizio ferroviario. Ciò significa innanzitutto che il significato essenziale delle immagini di segnali al segnale principale corrisponde a quello dell’esercizio ferroviario.
+	
+
+2.11.6	Indicatori di vincolo agli scambi
+	
+	I GI devono fissare nelle prescrizioni d’esercizio le corse che devono osservare un indicatore di vincolo per determinati scambi. 
+La disposizione va formulata nel modo più generico possibile, affinché durante la circolazione il MAC e il CMAN possano riconoscere chiaramente in ogni momento su quali scambi dev’essere presente un indicatore di vincolo e su quali no.
+	
+2.11.7	Applicazione delle PCT in esercizio di tram
+	
+	I seguenti regolamenti non vanno applicati in esercizio di tram: 
+–	Controllo della marcia dei treni 	R 300.7 
+–	Formulari 				R 300.10 
+–	Macchinisti (MAC) 			R 300.13 
+–	Freni 				R 300.14 
+–	Forme d’esercizio particolari 		R 300.15.
+Nei regolamenti qui elencati, le disposizioni rilevanti per l’esercizio di tram sono riportate alla fine delle rispettive cifre: 
+–	Movimenti di manovra 		R 300.4, cifra 8 
+–	Preparazione dei treni 		R 300.5, cifra 5
+–	Corse dei treni 			R 300.6, cifra 7 
+–	Perturbazioni 			R 300.9, cifra 15 
+–	Lavori nella zona dei binari 		R 300.12, cifra 5.
+Le altre cifre non vanno applicate per l’esercizio di tram.
+Laddove la definizione dettagliata delle situazioni è delegata alle IF, queste fanno riferimento alle norme per l’esercizio ferroviario.
+
+
+
+
+
+
+
+
+Allegato 1
+
+	
+	
+Ambiti di validità parziali e funzioni PCT
+
+
+Ambiti di validità parziali e funzioni PCT
+
+Nell’Allegato 1 sono spiegati brevemente gli ambiti di validità parziali. L’attribuzione delle singole cifre delle PCT agli ambiti di validità parziali, derivante dalle PCT, è ripresa a titolo informativo al contempo nell’Allegato 3 della Dir. PE-PCT. La definizione dell’applicabilità degli ambiti di validità parziali è responsabilità dei GI e delle ITF.
+Le funzioni secondo le PCT sono definite nelle spiegazioni dei termini e completate con un’abbreviazione. L’attribuzione delle singole cifre delle PCT alle funzioni secondo PCT (abbreviazione), derivante dalle PCT, è ripresa al contempo nell’Appendice 3 della Dir. PE-PCT a titolo informativo. L’attribuzione delle funzioni secondo PCT al personale interessato è responsabilità dei GI e delle ITF.
+
+Ambito di validità parziale «Esclusivamente movimenti di manovra»
+
+Questo ambito di validità parziale prende in considerazione le infrastrutture che vengono percorse unicamente da movimenti di manovra. Può trattarsi anche di parti chiaramente definibili di un’infrastruttura, che il preposto GI (o il gestore del binario di raccordo) assegna esplicitamente all’ambito di validità parziale «Esclusivamente movimenti di manovra». I binari di raccordo con possibili corse treno non rientrano in questo ambito di validità parziale.
+
+Ambito di validità parziale «Segnalazione esterna rete interoperabile»
+
+Si tratta della rete principale e complementare interoperabile sec. Allegato 6 Oferr e la carta sinottica (tratte in verde scuro e verde chiaro) al capitolo F della Direttiva UFT relativa all’articolo 15a Oferr (Dir. IOP).
+In questo ambito di validità parziale hanno luogo movimenti di manovra e corse treno. Il consenso per le corse treno è dato disponendo su via libera i segnali principali. 
+
+Ambito di validità parziale «Segnalazione esterna rete non interoperabile»
+
+Si tratta della rete non interoperabile sec. Allegato 5 Oferr e la carta sinottica (tratte in rosso) al capitolo F della Direttiva UFT relativa all’articolo 15a Oferr (Dir. IOP). In questo ambito di validità parziale hanno luogo movimenti di manovra e corse treno. Il consenso per le corse treno è dato disponendo su via libera i segnali principali.
+Questo ambito di validità parziale è anche applicabile per le tratte con segnali principali senza blocco o assicuramento dei percorsi. 
+
+Ambito di validità parziale «Corse senza segnali con consenso»
+
+Questo ambito di validità parziale è applicabile alle infrastrutture senza segnali principali. Vi si effettuano movimenti di manovra e corse treno.
+Il consenso per una corsa treno è dato mediante:
+–	l’orario, oppure
+–	l’orario di marcia, oppure
+–	l’ordine d’incrocio e sorpasso, oppure
+–	avviso con obbligo di quietanza (verbalmente o per telefono) dal CMOV.
+
+Ambito di validità parziale «Tram»
+
+Questo ambito di validità parziale è applicabile alle infrastrutture che, di principio, sono prive di segnali principali e che sono percorse in generale con corsa a vista. 
+Sono effettuati movimenti di manovra e corse treno su binari di linea e di servizio. L’ITF dispone progressivamente l’itinerario e si dà il consenso per la corsa (esercizio di tram).
+
+Opzione «Cremagliera» 
+
+Questa opzione include in più le disposizioni applicabili per un esercizio con cremagliera. Come tale è ammissibile per gli ambiti di validità parziali «Segnalazione esterna rete non interoperabile» e «Corse senza segnali con consenso».
+
+Opzione «Convoglio» 
+
+Questa opzione include in più le disposizioni applicabili per un esercizio con convogli. Come tale è ammissibile per gli ambiti di validità parziali «Segnalazione esterna rete non interoperabile» e «Corse senza segnali con consenso».
+
+
+
+
+
+
+Allegato 2
+
+	
+	
+Effetti del diritto europeo 
+La forza giuridica delle norme europee sulle PCT, nominatamente le «Specifiche tecniche di interoperabilità per il sottosistema Esercizio e gestione del traffico» (STI OPE) viene definita in quattro specifiche categorie (cifra 1).
+L’attribuzione a queste categorie delle cifre delle PCT entranti in linea di conto è riportata in una tabella (cifra 2). 
+
+
+1	Categorie della forza giuridica 
+	
+Categoria	Significato / importanza 	Osservazioni ulteriori 	
+NIOP	Le disposizioni valgono per le ferrovie della rete non IOP. (Riguardo ai contenuti, queste disposizioni o corrispondono alle STI OPE o non rientrano nell’ambito di efficacia delle STI OPE.) 	La forza giuridica delle disposizioni che corrispondono alla STI OPE deriva, per le ferrovie della rete principale e complementare IOP, direttamente dalla STI OPE (Allegato 6 DE-Oferr). 
+Le ferrovie della rete principale e complementare IOP possono prendere in considerazione le disposizioni NIOP non incluse nella STI OPE nell’ambito dell’allestimento delle loro prescrizioni d’esercizio come stato della tecnica. Queste aziende devono convenire reciprocamente e per tempo le possibili conseguenze ai punti di contatto tra i GI, le ITF o tra i GI e le ITF.	
+NIOP*	Le disposizioni valgono per le ferrovie della rete non IOP. (Riguardo i contenuti, queste disposizioni contraddicono alle STI OPE o non sono da applicate sulla rete principale e complementare IOP ai fini di armonizzazione). 	Se una ferrovia della rete principale e complementare IOP necessita di una di queste disposizioni, occorre prevedere preventivamente una procedura in deroga alle PCT.	
+PTNN - Prescrizioni tecniche nazionali notificate	Regola abrogata per le ferrovie IOP, rimane in vigore per le ferrovie non IOP 	Le PTNN sono disposizioni complementari o derogatorie alla STI OPE riportate nelle PCT, che vengono notificate dagli organi dell’UE come disposizioni nazionali.	
+TUTTE	Le disposizioni valgono per tutte le ferrovie.	Queste disposizioni hanno carattere esplicativo e non prevedono alcuna norma con influsso sull’esercizio operativo ferroviario. Il loro effetto deriva dal testo delle PCT medesimo. 
+Le disposizioni relative alla sicurezza sul lavoro (R 300.8) si trovano fuori dall’ambito di validità della STI OPE e non concernono l’interoperabilità.	
+	
+	
+

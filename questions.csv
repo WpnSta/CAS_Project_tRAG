@@ -1,21 +1,67 @@
-Term,DE,FR,IT,Section
-Heizer,Was macht ein Heizer?,Quelles sont les fonctions du chauffeur?,Cosa fa un fuochista?,"R 300.13, section 1.1"
-Abstossen,Welche Arten von Rangierbewegungen gibt es?,Quels genres de mouvements de manoeuvre distingue-t-on?,Quali tipi di movimenti di  manovra si distinguono?,"R 300.4, section 1.3"
-Perron,Unter welchen Bedingungen sind Rangierfahrten gegen eingestellte Zugfahrstrassen erlaubt?,Dans quelles conditions les courses de manœuvre en direction d'itinéraires de train établis sont-elles autorisées?,In quali condizioni sono ammessi i movimenti di manovra verso percorsi treni disposti?,"R 300.4, section 2.3.2"
-Kleinwagen,Welche Fahrzeuge dürfen nicht in Züge eingereiht werden?,Quels véhicules ne doivent pas être incorporés dans un train?,Quale veicoli non possono essere inseriti in un treno?,"R 300.5, section 1.4.1"
-Absperrung,Bei welchen Arbeiten sind für die Arbeitsstelle keine Alarmmassnahmen notwendig?,Pour quels types de travaux n'est-il pas nécessaire de prévoir des mesures d'alarme?,Per quali tipi di lavoro non occorrono misure di allarme per l'area dei lavori?,"R 300.12, section 3.1.7"
-Einfahrweiche,Was sind Zielpunkte im Fahrweg?,Quels points peuvent être utilisés comme but pour un parcours?,Quali sono i punti d'arrivo nell'itinerario?,"R300.4, section 4.3.2"
-Nebengleis,Unter welchen Bedingungen ist der Sicherheits-Zwischenraum vorhanden?,Dans quelles conditions considère-t-on qu'une zone intermédiaire de sécurité est disponible?,In quali condizioni è disponibile lo spazio di sicurezza intermedio?,"R 300.1, section 2.5.2"
-Arbeitsstelle,Unter welchen Bedingungen sind Arbeiten ohne Sicherheitswärter zugelassen?,Dans quelles conditions des travaux sans protecteur sont-ils autorisés?,Per quali lavori si può rinunciare al guardiano di sicurezza?,"R 300.12, section 3.1.6"
-Kreuzung,Wie können dem Lokführer die Zustimmung zur Fahrt auf Strecken ohne Hauptsignale erteilt werden?,Comment l'assentiment pour circuler sur les tronçons dépourvus de signaux principaux est-il transmis au mécanicien?,Come viene dato il consenso per la corsa su tratte prive di segnali principali al macchinista?,"R 300.6, section 1.3.4"
-Sperren,Welche Massnahmen hat der Fahrdienstleiter bei Unregelmässigkeiten an der Fahrbahn zu treffen?,Quelles mesures doit prendre le chef-circulation en cas de signalement d'irrégularités à la voie?,Quali provvedimenti deve adottare il capomovimento in caso di irregolarità al binario?,"R 300.9, section 8.1.1"
-Wagen,Unter welchen Bedingungen darf mit einem ungebremsten Fahrzeug am Zugschluss weitergefahren werden?,Dans quelles conditions la marche avec un véhicule non freiné en queue du train peut-elle être poursuivie?,In quali condizioni è ammesso proseguire con un veicolo non frenato in coda al treno?,"R 300.9, section 12.3.4"
-Wagen,Was muss zur Vermeidung von Risiken und Gefahren des elektrischen Stroms gemacht werden?,Que faut-il faire pour diminuer les risques et les dangers du courant électrique?,Cosa bisogna fare per diminuire i rischi e i pericoli della corrente elettrica?,"R 300.8, section 2.4.1"
-Lokführer,Wann sind Transporte von Waren aller Art im bedienten Führerstand zugelassen?,Quand est-il permis de transporter des marchandises dans une cabine de conduite desservie?,Quando è ammesso il trasporto di merci nella cabina di guida occupata?,"R 300.13, section 3.2.6"
-Gefälle,Wann muss der Lokführer die Wirkung der Luftbremse prüfen?,À quel moment le mécanicien doit-il s'assurer de l'efficacité du frein à air?,Quando il macchinista deve verificare l'efficacia del freno ad aria?,"R 300.14, section 2.3.7"
-Neigung,Wie werden Bremskurven ermittelt?,Comment les courbes de freinages sont-elles calculées?,Come sono calcolate le curve di frenatura?,"R 300.7, section 3.2"
-Zwergsignal,Für welche optischen Signale wird die Farbe weiss verwendet?,Pour quels signaux optiques la couleur blanche est-elle utilisée?,Per quali segnali ottici si usa il colore bianco?,"R 300.2, section 1.2.1"
-Erste Weiche,"Wo befindet sich die Geschwindigkeitsschwelle im Bahnhof, wenn sich die Bahnhofsgeschwindigkeit auf der Einfahrseite von der Streckengeschwindigkeit unterscheidet?","Où se trouve le seuil de vitesse en gare si, du côté de l'entrée, la vitesse en gare est différente de la vitesse de la pleine voie?",Dove si trova la soglia di velocità in stazione se sul lato d'entrata la velocità in stazione è diversa dalla velocità di tratta?,"R 300.6, section 2.2.2"
-Nachbargleis,Wann darf im Bahnhof mit einer Höchstgeschwindigkeit von 40 km/h gefahren werden?,Dans quels cas un mouvement de manœuvre peut-il circuler à la vitesse maximale de 40 km/h en gare?,Quando si può circolare alla velocità massima di 40 km/h in stazione?,"R 300.4, section 3.6.3"
-Sichern,Was muss vor der Durchführung der Bremsprobe gemacht werden?,Que faut-il faire avant le début de l'essai du frein?,Cosa si fa prima dell'inizio della prova dei freni?,"R 300.5, section 4.3.1"
-Stoss,Wann ist bei Rangierfahrten das Speichern von Fahrstrassen verboten?,Quand est-il interdit d'enregistrer des itinéraires lors des courses de manœuvre?,Quando è vietata la memorizzazione dei percorsi durante le corse di manovra?,"R 300.4, section 2.3.7"
+ID,Source Term,Query,Language,Relevant section,Target Term
+1,Heizer,Was macht ein Heizer?,de,"R 300.13, section 1.1",Feuerung
+2,Heizer,Quelles sont les fonctions du chauffeur?,fr,"R 300.13, section 1.1",foyer
+3,Heizer,Cosa fa un fuochista?,it,"R 300.13, section 1.1",regolazione del fuoco
+4,Abstossen,Welche Arten von Rangierbewegungen gibt es?,de,"R 300.4, section 1.3",abstossen
+5,Abstossen,Quels genres de mouvements de manoeuvre distingue-t-on?,fr,"R 300.4, section 1.3",lancer
+6,Abstossen,Quali tipi di movimenti di  manovra si distinguono?,it,"R 300.4, section 1.3",colpo
+7,Perron,Unter welchen Bedingungen sind Rangierfahrten gegen eingestellte Zugfahrstrassen erlaubt?,de,"R 300.4, section 2.3.2",Perron
+8,Perron,Dans quelles conditions les courses de manœuvre en direction d'itinéraires de train établis sont-elles autorisées?,fr,"R 300.4, section 2.3.2",quai
+9,Perron,In quali condizioni sono ammessi i movimenti di manovra verso percorsi treni disposti?,it,"R 300.4, section 2.3.2",marciapiede
+10,Kleinwagen,Welche Fahrzeuge dürfen nicht in Züge eingereiht werden?,de,"R 300.5, section 1.4.1",Kleinwagen
+11,Kleinwagen,Quels véhicules ne doivent pas être incorporés dans un train?,fr,"R 300.5, section 1.4.1",wagonnets
+12,Kleinwagen,Quale veicoli non possono essere inseriti in un treno?,it,"R 300.5, section 1.4.1",piccoli veicoli
+13,Absperrung,Bei welchen Arbeiten sind für die Arbeitsstelle keine Alarmmassnahmen notwendig?,de,"R 300.12, section 3.1.7",Absperrung
+14,Absperrung,Pour quels types de travaux n'est-il pas nécessaire de prévoir des mesures d'alarme?,fr,"R 300.12, section 3.1.7",barrage
+15,Absperrung,Per quali tipi di lavoro non occorrono misure di allarme per l'area dei lavori?,it,"R 300.12, section 3.1.7",barriera protettiva
+16,Einfahrweiche,Was sind Zielpunkte im Fahrweg?,de,"R300.4, section 4.3.2",Einfahrweiche
+17,Einfahrweiche,Quels points peuvent être utilisés comme but du parcours?,fr,"R300.4, section 4.3.2",l'aiguille d'entrée
+18,Einfahrweiche,Quali sono i punti d'arrivo nell'itinerario?,it,"R300.4, section 4.3.2",scambio d'entrata
+19,Nebengleis,Unter welchen Bedingungen ist der Sicherheits-Zwischenraum vorhanden?,de,"R 300.1, section 2.5.2",Nebengleisen
+20,Nebengleis,Dans quelles conditions considère-t-on qu'une zone intermédiaire de sécurité est disponible?,fr,"R 300.1, section 2.5.2",voies secondaires
+21,Nebengleis,In quali condizioni è disponibile lo spazio di sicurezza intermedio?,it,"R 300.1, section 2.5.2",binari secondari
+22,Arbeitsstelle,Unter welchen Bedingungen sind Arbeiten ohne Sicherheitswärter zugelassen?,de,"R 300.12, section 3.1.6",Arbeitsstellen
+23,Arbeitsstelle,Dans quelles conditions des travaux sans protecteur sont-ils autorisés?,fr,"R 300.12, section 3.1.6",chantiers
+24,Arbeitsstelle,Per quali lavori si può rinunciare al guardiano di sicurezza?,it,"R 300.12, section 3.1.6",aree dei lavori
+25,Kreuzung,Wie können dem Lokführer die Zustimmung zur Fahrt auf Strecken ohne Hauptsignale erteilt werden?,de,"R 300.6, section 1.3.4",Kreuzung
+26,Kreuzung,Comment l'assentiment pour circuler sur les tronçons dépourvus de signaux principaux est-il transmis au mécanicien?,fr,"R 300.6, section 1.3.4",croisement
+27,Kreuzung,Come viene dato il consenso per la corsa su tratte prive di segnali principali al macchinista?,it,"R 300.6, section 1.3.4",incrocio
+28,Sperren,Welche Massnahmen hat der Fahrdienstleiter bei Unregelmässigkeiten an der Fahrbahn zu treffen?,de,"R 300.9, section 8.1.1",sperren
+29,Sperren,Quelles mesures doit prendre le chef-circulation en cas de signalement d'irrégularités à la voie?,fr,"R 300.9, section 8.1.1",interdire
+30,Sperren,Quali provvedimenti deve adottare il capomovimento in caso di irregolarità al binario?,it,"R 300.9, section 8.1.1",Sbarrare
+31,Wagen,Unter welchen Bedingungen darf mit einem ungebremsten Fahrzeug am Zugschluss weitergefahren werden?,de,"R 300.9, section 12.3.4",Wagens
+32,Wagen,Dans quelles conditions la marche avec un véhicule non freiné en queue du train peut-elle être poursuivie?,fr,"R 300.9, section 12.3.4",voiture
+33,Wagen,In quali condizioni è ammesso proseguire con un veicolo non frenato in coda al treno?,it,"R 300.9, section 12.3.4",carrozza
+34,Wagen,Was muss zur Vermeidung von Risiken und Gefahren des elektrischen Stroms gemacht werden?,de,"R 300.8, section 2.4.1",Wagen
+35,Wagen,Que faut-il faire pour diminuer les risques et les dangers du courant électrique?,fr,"R 300.8, section 2.4.1",wagon
+36,Wagen,Cosa bisogna fare per diminuire i rischi e i pericoli della corrente elettrica?,it,"R 300.8, section 2.4.1",vagone
+37,Lokführer,Wann sind Transporte von Waren aller Art im bedienten Führerstand zugelassen?,de,"R 300.13, section 3.2.6",LF
+38,Lokführer,Quand est-il permis de transporter des marchandises dans une cabine de conduite desservie?,fr,"R 300.13, section 3.2.6",MEC
+39,Lokführer,Quando è ammesso il trasporto di merci nella cabina di guida occupata?,it,"R 300.13, section 3.2.6",MAC
+40,Gefälle,Wann muss der Lokführer die Wirkung der Luftbremse prüfen?,de,"R 300.14, section 2.3.7",Gefälle
+41,Gefälle,À quel moment le mécanicien doit-il s'assurer de l'efficacité du frein à air?,fr,"R 300.14, section 2.3.7",pente
+42,Gefälle,Quando il macchinista deve verificare l'efficacia del freno ad aria?,it,"R 300.14, section 2.3.7",discesa
+43,Neigung,Wie werden Bremskurven ermittelt?,de,"R 300.7, section 3.2",Neigung
+44,Neigung,Comment les courbes de freinages sont-elles calculées?,fr,"R 300.7, section 3.2",déclivité
+45,Neigung,Come sono calcolate le curve di frenatura?,it,"R 300.7, section 3.2",pendenza
+46,Zwergsignal,Für welche optischen Signale wird die Farbe weiss verwendet?,de,"R 300.2, section 1.2.1",Zwergsignale
+47,Zwergsignal,Pour quels signaux optiques la couleur blanche est-elle utilisée?,fr,"R 300.2, section 1.2.1",signaux nains
+48,Zwergsignal,Per quali segnali ottici si usa il colore bianco?,it,"R 300.2, section 1.2.1",segnali bassi
+49,Erste Weiche,"Wo befindet sich die Geschwindigkeitsschwelle im Bahnhof, wenn sich die Bahnhofsgeschwindigkeit auf der Einfahrseite von der Streckengeschwindigkeit unterscheidet?",de,"R 300.6, section 2.2.2",ersten Weiche
+50,Erste Weiche,"Où se trouve le seuil de vitesse en gare si, du côté de l'entrée, la vitesse en gare est différente de la vitesse de la pleine voie?",fr,"R 300.6, section 2.2.2",première aiguille
+51,Erste Weiche,Dove si trova la soglia di velocità in stazione se sul lato d'entrata la velocità in stazione è diversa dalla velocità di tratta?,it,"R 300.6, section 2.2.2",primo scambio
+52,Nachbargleis,Wann darf im Bahnhof mit einer Höchstgeschwindigkeit von 40 km/h gefahren werden?,de,"R 300.4, section 3.6.3",Nachbargleise
+53,Nachbargleis,Dans quels cas un mouvement de manœuvre peut-il circuler à la vitesse maximale de 40 km/h en gare?,fr,"R 300.4, section 3.6.3",voies contiguës
+54,Nachbargleis,Quando si può circolare alla velocità massima di 40 km/h in stazione?,it,"R 300.4, section 3.6.3",binari attigui
+55,Nachbargleis,Wann ist eine Sperrung von Gleisen/Weichen notwendig?,de,"R 300.12, section 3.2.4",Nachbargleis
+56,Nachbargleis,Quand est-ce qu'une interdiction des voies/aiguilles est nécessaire?,fr,"R 300.12, section 3.2.4",voie contiguë
+57,Nachbargleis,Quando è necessario uno sbarramento di binari/scambi?,it,"R 300.12, section 3.2.4",binario adiacente
+58,Sichern,Was muss vor der Durchführung der Bremsprobe gemacht werden?,de,"R 300.5, section 4.3.1",Sichern
+59,Sichern,Que faut-il faire avant le début de l'essai du frein?,fr,"R 300.5, section 4.3.1",assurer
+60,Sichern,Cosa si fa prima dell'inizio della prova dei freni?,it,"R 300.5, section 4.3.1",assicurare
+61,Sichern,"Wie ist vorzugehen, wenn eine Zahnstangenweiche aufgeschnitten wurde?",de,"R 300.9, section 4.6.2",Sichern
+62,Sichern,Que faut-il faire si une aiguille de voie à crémaillère a été talonnée?,fr,"R 300.9, section 4.6.2",protéger
+63,Sichern,Come si procede se è stato tallonato uno scambio a cremagliera?,it,"R 300.9, section 4.6.2",assicurare
+64,Stoss,Wann ist bei Rangierfahrten das Speichern von Fahrstrassen verboten?,de,"R 300.4, section 2.3.7",Stoss
+65,Stoss,Quand est-il interdit d'enregistrer des itinéraires lors des courses de manœuvre?,fr,"R 300.4, section 2.3.7",lancer
+66,Stoss,Quando è vietata la memorizzazione dei percorsi durante le corse di manovra?,it,"R 300.4, section 2.3.7",colpo

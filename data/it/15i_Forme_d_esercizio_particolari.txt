@@ -1,0 +1,193 @@
+﻿Ferrovie svizzere	R 300.15
+
+
+
+Forme d’esercizio particolari
+
+1	Tratta senza blocco	
+1.1	Ambito di validità	
+		
+	Le presenti prescrizioni valgono per le tratte senza dispositivi tecnici che proteggono i treni da corse successive o provenienti dalla direzione opposta, e per il passaggio a queste tratte.
+I principi delle PCT, se non specificato diversamente qui di seguito, restano comunque validi.	
+		
+1.2	Ordini e annunci	
+1.2.1	Tabella della tratta
+	
+	La dotazione della tratta su tratte senza blocco è contrassegnata come segue:
+	
+			tratta a binario semplice senza blocco		
+		
+1.2.2	Orario di marcia	
+		
+	Sulle tratte senza blocco non è ammesso l’impiego dell’orario di marcia semplificato.	
+		
+1.2.3	Ricezione e distribuzione di ordini e annunci	
+		
+	Se i treni sono accompagnati, l’ITF deve definire chi, su questi treni, è la persona competente per la ricezione e distribuzione di ordini e annunci come pure per la comunicazione fra il personale viaggiante e il CMOV.
+La persona che riceve gli ordini o gli annunci deve avvisare il resto del personale viaggiante nel treno con obbligo di quietanza.	
+		
+1.3	Segno d’incrocio 	
+1.3.1	Il segno d’incrocio X nell’orario di marcia	
+		
+	Gli incroci su tratte senza blocco o gli incroci al passaggio da un tronco di tratta con blocco verso un tronco di tratta senza blocco sono contrassegnati con il segno X nell’orario di marcia.
+Al segno X va aggiunto il numero del treno o del movimento di manovra da incrociare, e inoltre
+    • il rispettivo periodo di circolazione, se la corsa non circola giornalmente, e
+    • la lettera F, se si tratta di una corsa facoltativa.	
+	X 2215	22	Incrocio su tratte senza blocco
+
+	Esempi
+	
+	Tratta senza blocco
+
+	
+	Tratta con e senza blocco 
+
+	
+	Stazione d’origine del treno
+
+
+
+1.3.2	Osservanza del segno d’incrocio X
+	
+	Il segno d’incrocio X dev’essere osservato dal personale viaggiante e dal CMOV. Il segno d’incrocio X vale per le corse di treni e per i movimenti di manovra sulla tratta. Se per una corsa è indicato il segno d’incrocio X nell’orario di marcia, essa deve aspettare l’arrivo del treno opposto nella stazione d’incrocio, anche se non è prescritta fermata. 
+La corsa può essere proseguita soltanto quando la corsa opposta è giunta completamente o se il personale viaggiante è stato avvisato con obbligo di protocollo in merito alla soppressione o allo spostamento dell’incrocio. 
+Se al personale viaggiante è impossibile controllare in modo irreprensibile il completo arrivo di una corsa opposta, deve richiederne conferma al CMOV prima di proseguire la corsa.
+Se una stazione non è presenziata, la responsabilità per l’esecuzione dell’incrocio spetta unicamente al personale viaggiante. L’IF stabilisce di quali stazioni si tratta e come deve essere svolta la procedura d’incrocio.
+	
+1.4	Incrocio straordinario o facoltativo e soppressione di un incrocio
+1.4.1	Principio
+	
+	L’ordine d’incrocio e di sorpasso deve essere utilizzato in caso di:
+–	incroci straordinari ordine 41 oppure 
+–	incroci facoltativi ordine 41 oppure
+–	soppressione di incroci ordine 43 oppure
+–	spostamenti d’incrocio ordine 44.
+	
+1.4.2	Incrocio straordinario o facoltativo
+	
+	Il MAC che deve eseguire un incrocio straordinario o facoltativo senza che ciò sia prescritto nel suo orario di marcia, dev’essere avvisato con obbligo di protocollo dal servizio preposto agli ordini, mediante un Ordine d’incrocio e di sorpasso.
+Il servizio che ordina corse facoltative o speciali è responsabile per l’avviso con obbligo di protocollo delle stazioni e delle corse interessate. Se la stazione è presenziata, esso può delegare l’avviso al CMOV.
+	
+
+1.4.3	Soppressione di un incrocio
+	
+	È responsabile di consegnare al personale viaggiante, con obbligo di protocollo, l’Ordine d’incrocio e di sorpasso per un incrocio soppresso il CMOV della stazione in cui, secondo orario, è previsto l’incrocio. Questo può incaricare una stazione appropriata di consegnare l’ordine. 
+	
+1.4.4	Spostamento d’incrocio
+	
+	In caso di spostamento d’incrocio, il CMOV della stazione regolare d’incrocio deve avvisare il CMOV della nuova stazione d’incrocio e chiedere il suo consenso per lo spostamento dell’incrocio.
+Il CMOV della nuova stazione d’incrocio ordina lo spostamento d’incrocio, con obbligo di protocollo, mediante un Ordine d’incrocio e di sorpasso.
+Dopo che la stazione regolare d’incrocio lo ha confermato con quietanza soggetta a protocollo, l’incrocio vale come spostato, anche se le stazioni intermedie non sono state ancora avvisate. L’avviso con obbligo di protocollo delle stazioni intermedie spetta al CMOV della nuova stazione d’incrocio. 
+Con l’Ordine d’incrocio e di sorpasso sono avvisati con obbligo di protocollo:
+–	il personale viaggiante della corsa che deve incrociare prima della stazione regolare d’incrocio, da parte del CMOV della nuova stazione d’incrocio, e 
+–	il personale viaggiante della corsa avanzante da parte del CMOV della stazione regolare d’incrocio.
+Se un incrocio viene spostato:
+–	da una tratta con blocco ad una tratta senza blocco oppure
+–	in una stazione di passaggio da tratte con blocco a tratte senza blocco,
+si deve utilizzare l’Ordine di incrocio e di sorpasso. 
+Se una stazione d’incrocio non è presenziata, il CMOV che ordina lo spostamento d’incrocio è responsabile per l’avviso al personale viaggiante. 
+L’avviso alla corsa avanzante può essere dato soltanto quando il treno opposto è stato avvisato, con obbligo di protocollo, in merito allo spostamento d’incrocio.
+Se uno spostamento d’incrocio concordato non può essere rispettato o se l’incrocio dev’essere spostato in una nuova stazione, bisogna eseguire nuovamente la procedura sopra descritta. 
+
+
+1.5	Sorpassi
+	
+	Se il GI consente dei sorpassi, questi devono essere disciplinati dalle disposizioni d’esecuzione.
+Valgono i seguenti segni nell’orario di marcia:
+–	I:	la corsa deve essere sorpassata dalla corsa indicata accanto al
+	segno
+–	II:	la corsa deve sorpassare la corsa indicata accanto al segno 
+Questi segni vanno osservati dal CMOV e dal personale viaggiante.
+L’Ordine d’incrocio e di sorpasso, soggetto a protocollo, va utilizzato in caso di:
+–	sorpassi straordinari ordine 42 oppure 
+–	sorpassi facoltativi ordine 42 oppure 
+–	soppressione di sorpassi ordine 43.
+	
+1.6	Annuncio di arrivo dei treni 
+1.6.1	Principio
+	
+	Treni possono susseguirsi al più presto a distanza d’annuncio d’arrivo. L’annuncio d’arrivo di un treno è soggetto a protocollo.
+	
+1.6.2	Rinuncia all’annuncio d’arrivo 
+	
+	L’annuncio d’arrivo può essere tralasciato se
+–	su una tratta a binario semplice, la corsa successiva circola nella direzione opposta, quando sia stato ordinato un incrocio oppure
+–	la tratta è percorsa da una sola composizione (esercizio spola) oppure 
+–	in generale si circola con corsa a vista.
+	
+1.6.3	Annuncio di arrivo dell’ultimo treno
+	
+	L’arrivo dell’ultimo treno della giornata va in ogni caso annunciato con obbligo di protocollo.
+Il GI definisce il genere di annuncio d’arrivo nelle proprie disposizioni d’esecuzione.
+	
+
+1.7	Mancanza dei segnali principali
+1.7.1	Stazione senza segnali d’entrata
+	
+	La circolazione anticipata o ritardi superiori a cinque minuti devono essere annunciati con obbligo di protocollo al CMOV della stazione vicina. 
+	
+1.7.2	Movimenti di manovra sulla tratta
+	
+	Il CMOV può dare il suo consenso a un movimento di manovra che va oltre lo scambio d’entrata o, dove presente, oltre la tavola di fine stazione solo:
+–	se il binario di tratta è sbarrato o protetto e eventuali altri movimenti di manovra sono stati avvisati, oppure 
+–	se tutte le corse avvengono generalmente con corsa a vista e
+–	nei dieci minuti successivi, non sono attese corse nella direzione opposta, oppure 
+–	nei dieci minuti successivi, è attesa una corsa nella direzione opposta e se, sia per il movimento di manovra sia per la corsa opposta, è stata ordinata, con obbligo di protocollo, la circolazione a metà della distanza visuale.
+	
+1.7.3	Stazione senza segnali d’uscita
+	
+	In una stazione priva di segnali d’uscita, un treno con fermata prescritta o che attende un incrocio deve fermare almeno prima del segno di sicurezza dello scambio d’uscita.
+Nelle stazioni occupate, il CMOV deve dare in ogni caso un permesso di partenza, anche se non è prescritta fermata.
+Se il CMOV deve dare un permesso di partenza straordinario in stazioni non occupate localmente, la procedura va disciplinata nelle disposizioni d’esecuzione del GI.
+	
+1.7.4	Proseguimento in parti dopo uno spezzamento del treno se mancano i segnali d’entrata 
+	
+	Se dalla posizione in cui si trova il treno non è possibile allestire il collegamento, con la prima parte del treno si può circolare fino al telefono più vicino, e comunque al massimo fino al prossimo scambio d’entrata o, dove presente, al massimo fino alla tavola d’inizio stazione.
+	
+
+
+2	Convoglio
+2.1	Ambito di validità
+	
+	Queste prescrizioni si applicano alle sezioni di treno che circolano a vista come convogli. 
+I principi delle PCT, se non specificato diversamente qui di seguito, restano comunque validi.
+	
+2.2	Definizione
+	
+	Un convoglio si compone di singole sezioni di treno. Queste possono essere treni precedenti, treni regolari o treni successivi; i treni precedenti e i treni successivi sono denominati treni supplementari.
+	
+	
+2.3	Velocità e distanze minime
+	
+	All’interno del convoglio le sezioni di treno successive alla prima sezione di treno devono circolare con corsa a vista.
+Con riguardo alla velocità massima di tratta ammessa, fra le sezioni di treno sulla tratta valgono le distanze minime seguenti:
+–	vmax fino a 12 km/h compresi: 	=     50 metri 
+–	vmax fino a 28 km/h compresi:		=   100 metri
+–	vmax fino a 40 km/h compresi:		=   200 metri
+
+	
+
+2.4	Numero del treno e orario di marcia
+	
+	Tutte le sezioni di treno che compongono un convoglio portano il mede­simo numero di treno. L’identificazione di ogni singolo treno supplemen­tare dev’essere resa possibile mediante indicazioni aggiuntive al rispettivo numero di treno. 
+I treni supplementari circolano con il medesimo orario di marcia di quello ordinario. Si applicano i medesimi orari di circolazione, incroci e sorpassi del treno regolare.
+	
+2.5	Spostamenti di incroci, soppressione di incroci e di sorpassi, incroci straordinari, sorpassi straordinari e facoltativi
+	
+	Sulle tratte senza blocco la prima sezione di treno all’interno di un convoglio dev’essere avvisata dal CMOV con obbligo di protocollo in merito a spostamenti d’incrocio, soppressioni d’incroci e sorpassi, incroci straordinari o sorpassi straordinari e facoltativi. Tutte le altre sezioni di treno vanno avvisate dal CMOV con obbligo di quietanza.
+Sulle tratte con blocco tutte le sezioni di treno vanno avvisate con obbligo di quietanza dal CMOV.
+	
+2.6	Contrassegno di sezioni di treno
+	
+	Sulle tratte senza blocco le sezioni di treno di un convoglio devono segnalare le sezioni di treno che le seguono con un disco verde/bianco o una luce verde, di notte con una luce verde, in linea generale davanti o dietro. Di conseguenza, l’ultima sezione di treno non porta nessuna delle predette segnalazioni.
+	
+2.7	Incroci con sezioni di treno
+	
+	Se, ad un incrocio, il treno opposto segnala la presenza di sezioni di treno successive, il personale viaggiante è responsabile di attendere il passaggio dell’ultima sezione di treno.
+	
+2.8	Fermata straordinaria sulla tratta
+	
+	Se una sezione di treno deve fermarsi eccezionalmente sulla tratta, bisogna avvisare immediatamente i MAC delle sezioni di treno che seguono. Il personale viaggiante deve dare il segnale fermata – pericolo.
+
+	
+

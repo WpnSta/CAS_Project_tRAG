@@ -1,0 +1,970 @@
+﻿Chemins de fer suisses	R 300.9
+
+
+
+Dérangements
+
+
+
+1	Généralités
+	
+	Pour les mouvements de manœuvre en gare et sur les voies de raccordement, les ordres concernés sont transmis par des avis contre quittance au lieu d’ordres à protocoler.
+Lorsque le CC n’a pas la possibilité de desservir les installations de sécurité, la personne du service technique compétent peut exceptionnellement exécuter les manipulations nécessaires sur ordre formel du CC.
+	
+1.1	Avis
+	
+	Au besoin, le personnel concerné se concerte de manière réciproque sur les irrégularités, les retards ainsi que sur les effets et les mesures.
+En cas de dérangement engendrant un retard, les voyageurs doivent être informés sur le motif et, lorsqu’elle est connue, sur la durée probable du dérangement jusqu’à la poursuite de la marche.
+La sécurité des personnes concernées doit être garantie. Ces personnes  doivent être rendues attentives des dangers éventuels.
+	
+1.2	Principes de base pour lever un dérangement
+1.2.1	Constater l’intégralité d’un convoi
+	
+	L’intégralité d’un convoi est constatée par
+–	le MEC pour son propre convoi ou
+–	le CC sur place en observant le signal de queue du train ou
+–	le CMAN, durant les mouvements de manœuvre, pour son propre convoi.
+Aucune modification dans la formation des véhicules moteurs et de la charge remorquée ne doit alors avoir lieu sur un tronçon en dérangement.
+	
+
+1.2.2	Contrôle sur place
+	
+	Un contrôle sur place peut être réalisé sur les éléments de l’installation de sécurité suivants :
+–	aiguille
+–	installation de passage à niveau surveillée
+–	ELV.
+Par le biais d’un contrôle sur place, on s’assure que l’élément en dérangement de l’installation de sécurité est libre.
+S’agissant des aiguilles, il convient de contrôler toutes les branches jusqu’à l’extrémité des ELV.
+Pour s’assurer que l’on a contrôlé sur place l’élément de l’installation de sécurité de manière correcte, le CC transmet contre quittance au personnel désigné les données nécessaires pour établir la position de l’élément.
+	
+1.2.3	Appel au service technique
+	
+	Si le CC ne peut pas lever le dérangement ou si l’installation ne peut pas être remise en position normale malgré son franchissement, le CC doit faire appel au service technique.
+
+2	Processus principal en cas de dérangement
+2.1	Vérifications et mesures de sécurité
+2.1.1	Premières vérifications
+	
+	Lorsqu’un signal ne se met pas à voie libre ou lorsqu’un autre élément de l’installation de sécurité n’atteint pas l’état voulu, le CC doit partir du principe qu’une manipulation a été omise ou que des raisons d’exploitation empêchent une mise à voie libre. Si ce n’est pas le cas, il faut partir du principe qu’il s’agit d’un dérangement.
+Font notamment partie des éléments de l’installation de sécurité :
+–	le signal
+–	l’aiguille
+–	l’installation de passage à niveau surveillée
+–	l’ELV
+–	le block
+–	le verrouillage par un itinéraire.
+	
+2.1.2	Protéger l’élément en dérangement de l’installation de sécurité
+	
+	Lorsque les premières vérifications ont démontré qu’il y a bien un élément de l’installation de sécurité en dérangement, celui-ci doit être protégé. 
+	
+2.1.3	ELV en dérangement
+	
+	L’ELV peut être remis en position normale par le CC, à l’aide d’une commande de secours, lorsqu’il a été constaté au moyen d’un contrôle sur place que le dispositif de contrôle de l’état libre de la voie est libre.
+Si le dérangement est levé après la mise en position normale, les mesures de sécurité peuvent être supprimées.
+	
+2.1.4	Prise de mesures
+	
+	Le CC doit définir et protocoler 
+–	le dernier convoi qui a franchi l’élément en dérangement de l’installation de sécurité et 
+–	le tronçon en dérangement pour le prochain convoi.
+Ensuite, le CC doit vérifier qu’aucun convoi ne se trouve sur le tronçon en dérangement défini et qu’aucun assentiment n’a été donné pour un convoi sur le tronçon en dérangement.
+
+2.2	Vitesse sur le tronçon en dérangement
+	
+	Le tronçon en dérangement doit être franchi en marche à vue. Le MEC doit alors considérer les installations de passage à niveau surveillées comme étant en dérangement.
+A partir du deuxième convoi, il existe la possibilité de franchir le tronçon en dérangement à la vitesse maximale prescrite pour autant que les conditions pour la suppression de la marche à vue soient remplies.
+	
+2.2.1	Conditions pour la suppression de la marche à vue à partir du deuxième convoi
+	
+	S’il existe la nécessité du point de vue exploitation, le GI doit régler dans les prescriptions d’exploitation les conditions et la marche à suivre pour la suppression de la marche à vue à partir du deuxième convoi.
+Le CC doit vérifier si
+–	le dernier convoi a quitté le tronçon en dérangement et son intégralité a été constatée et
+–	si les directives définies par le GI dans ses prescriptions d’exploitation sont remplies.
+Si les prescriptions d’exploitation du GI ne contiennent aucune directive pour la suppression de la marche à vue à partir du deuxième convoi, la marche à vue ne peut pas être supprimée.
+	
+2.3	Etablir et protéger un parcours
+2.3.1	Principe
+	
+	Dans la mesure du possible, le CC doit établir et protéger le parcours.
+	
+2.3.2	ELV d’une voie ou block en dérangement
+	
+	L’ELV d’une voie ou le block peut, après avoir prescrit la marche à vue par un ordre à protocoler, être remis en position normale pour le prochain convoi. Il est possible de renoncer à prescrire la marche à vue pour le prochain convoi si les directives pour la suppression de la marche à vue à partir du deuxième convoi sont remplies.
+2.3.3	Manœuvrer une aiguille malgré une annonce d’occupation
+	
+	Lorsqu’il a été constaté que l’aiguille est libre au moyen d’un contrôle sur place, celle-ci peut être manœuvrée à l’aide de la commande de secours.
+	
+
+2.4	Assentiment
+2.4.1	Assentiment pour les trains
+	
+	L’assentiment est transmis comme suit :
+–	en mettant à voie libre le signal principal ou
+–	en mettant à voie libre le signal principal au moyen d’une commande de secours ou
+–	au moyen du signal principal pour installation de passage à niveau en dérangement ou
+–	au moyen du signal auxiliaire ou
+–	au moyen de l’ordre 1 à protocoler ou
+–	sur les tronçons dépourvus de signaux principaux, le GI doit définir la procédure à suivre.
+	
+2.4.2	Le signal principal est mis à voie libre au moyen d’une 
+commande de secours
+	
+	Si le signal principal est mis à voie libre au moyen d’une commande de secours, le CC doit prescrire au prochain convoi, avant la mise à voie libre du signal principal, la marche à vue au moyen de l’ordre 6 à protocoler, excepté si les directives pour la suppression de la marche à vue à partir du deuxième convoi sont remplies.
+	
+2.4.3	Signal auxiliaire et franchissement d’un signal présentant l’image d’arrêt
+	
+	Au moyen du signal auxiliaire ou avec l’ordre 1 à protocoler, le CC transmet l’assentiment pour franchir le signal principal concerné au MEC.
+Le signal auxiliaire ou l’ordre 1 à protocoler permet également le franchissement des signaux nains éteints et présentant l’image arrêt.
+Il y a lieu de circuler en marche à vue jusqu’au prochain signal principal. Il faut s’attendre à trouver le prochain signal principal présentant l’image arrêt.
+Aucun avis supplémentaire au MEC n’est nécessaire si une entrée sur voie occupée s’effectue simultanément.
+S’il faut circuler au-delà du prochain signal principal à voie libre en marche à vue, il faut le prescrire au MEC au moyen de l’ordre 6 à protocoler.
+Si un signal auxiliaire s’éteint avant que la tête du train ne l’ait franchi, le MEC doit arrêter immédiatement le train et prendre contact avec le CC.
+	
+2.4.4	Assentiment pour les mouvements de manœuvre en gare
+	
+	Le CC transmet au CMAN, par un avis contre quittance, l’ordre pour franchir à l’arrêt le signal nain ou le signal de manœuvre. Cet ordre doit être transmis séparément pour chaque mouvement de manœuvre.
+	
+2.4.5	Assentiment pour les mouvements de manœuvre en pleine voie
+	
+	Avant de transmettre l’assentiment sur le tronçon en dérangement, le CC doit prescrire au prochain mouvement de manœuvre en pleine voie la marche à vue au moyen de l’ordre 6 à protocoler, excepté si les directives pour la suppression de la marche à vue à partir du deuxième convoi sont remplies.
+	
+2.4.6	Assentiment pour les mouvements de manœuvre sur voie interdite
+	
+	Avant de transmettre l’assentiment sur le tronçon en dérangement, le CC avise le CS, par un ordre à protocoler, que la marche à vue ne peut pas être supprimée pour les mouvements de manœuvre concernés.
+	
+2.5	Suppression des mesures de sécurité après un convoi 
+	
+	S’il est assuré que le convoi a franchi puis libéré le tronçon en dérangement ou une partie de celui-ci, les mesures de sécurité correspondantes qui ont été prises spécialement pour ce convoi peuvent être supprimées.
+	
+2.6	Fin du dérangement
+	
+	Lorsqu’il n’existe plus de tronçon en dérangement, le CC doit constater l’intégralité du convoi qui a franchi puis libéré en dernier le tronçon en dérangement.
+S’il existe des ELV actifs en permanence, on peut renoncer à l’intégralité du dernier train. Ceci pour autant que le prochain train circule en tant que tel et que le signal principal puisse être mis à voie libre sans commande de secours.
+Les mesures de sécurité qui ont été prises pour le tronçon en dérangement peuvent être supprimées.
+
+
+3	Dispositions complémentaires en cas de dérangement aux 
+signaux
+3.1	Ordre pour le franchissement de plusieurs signaux présentant l’image arrêt
+	
+	Si plusieurs signaux successifs présentant l’image arrêt doivent être franchis, cela doit être prescrit au moyen d’un seul ordre 1. Le premier et le dernier signal à franchir à l’arrêt doivent être clairement spécifiés. Si le tronçon à parcourir comporte plusieurs voies, il y a lieu d’indiquer en plus la voie de la pleine voie sur laquelle le train doit circuler (par ex. voie de gauche).
+	
+3.2	Le signal principal reste à voie libre
+	
+	Si un signal principal reste à voie libre ou si un signal auxiliaire ou un signal principal pour installation de passage à niveau en dérangement reste allumé après le passage d’un train, le CC doit remettre le signal manuellement en position de base.
+	
+3.3	Le signal principal se remet prématurément à l’arrêt
+	
+	Lorsqu’un signal principal se remet prématurément à l’arrêt, le MEC doit immédiatement arrêter le train et prendre contact avec le CC.
+Si le train s’arrête après le signal, un assentiment contre quittance du CC au MEC suffit pour poursuivre la marche du train.
+	
+3.4	Signal de barrage
+	
+	Si un signal de barrage ne peut pas être éteint, le MEC ou le CMAN doit être avisé contre quittance par le CC sur le franchissement du signal de barrage présentant l’image arrêt.
+	
+3.5	Signal annonciateur de voie libre éteint avec des trains passant sans arrêt
+	
+	Si, après avoir franchi un signal avancé de sortie présentant une image de voie libre, le MEC constate qu’un signal annonciateur de voie libre est éteint et que le MEC n’a pas été avisé, le MEC doit arrêter le train et prendre contact avec le CC compétent. Il faut s’attendre à trouver le signal principal correspondant en position d’arrêt.
+Si le CC peut constater un signal annonciateur de voie libre en dérangement, le MEC doit être avisé contre quittance.
+	
+	
+3.6	Image douteuse à un signal nain
+	
+	Lorsque le MEC ou le CMAN constate dans un itinéraire qu’un signal nain est éteint ou dont seule une des deux lampes inférieures est allumée et que le MEC n’a pas été avisé, le MEC doit arrêter le train ou le mouvement de manœuvre et prendre contact avec le CC compétent. 
+Le CC transmet au MEC ou au CMAN, par un avis contre quittance, l’assentiment pour la poursuite de la marche.
+Si seule la lampe supérieure est allumée, il faut considérer que le signal nain présente l’image avancer prudemment.
+Si le CC peut déterminer quel signal nain est en dérangement, le CC doit aviser contre quittance le MEC ou le CMAN.
+	
+3.7	Arrêt facultatif
+	
+	Jusqu’à la levée du dérangement au signal pour arrêt facultatif, le CC doit prescrire contre quittance l’arrêt à tous les trains concernés.
+Si, dans le train, l’installation pour demander l’arrêt facultatif est en dérangement, il faut s’arrêter dans chaque halte ou chaque gare avec arrêt facultatif.
+	
+3.8	Signaux concernant la traction électrique
+	
+	Si un signal lumineux pour  
+–	une section de protection (également le signal avancé), lorsque la section de protection est déclenchée, ou
+–	la manœuvre des pantographes ou
+–	la protection des zones commutables ou
+–	le changement de tension
+ne peut pas être allumé, le CC doit aviser contre quittance le MEC.
+	
+
+4	Dispositions complémentaires en cas de dérangement aux 
+aiguilles
+4.1	Principe
+	
+	Les aiguilles dont l’indication de la position est douteuse ou qui n’ont pas atteint leur position de fin de course ne doivent pas être franchies.
+	
+4.2	Le verrouillage de l’aiguille manque
+	
+	Les aiguilles sont verrouillées dans les itinéraires. Si une aiguille ne peut pas être verrouillée dans un itinéraire, le signal correspondant ne peut pas être mis à voie libre. Dans ce cas, les aiguilles doivent être protégées dans la mesure de possible à l’appareil d’enclenchement pour empêcher qu’elles soient manœuvrées inopinément.
+	
+4.3	L’aiguille ne peut pas être manœuvrée
+4.3.1	Principe
+	
+	Si une aiguille ne peut pas être manœuvrée ou une aiguille à transmission rigide ou funiculaire ne peut être mise en position de fin de course qu’avec peine, il faut la remettre immédiatement dans sa position 
+initiale.
+	
+4.3.2	Causes possibles
+	
+	Les raisons suivantes peuvent empêcher en particulier une aiguille d’être manœuvrée :
+–	corps étranger / saleté
+–	l’aiguille est verrouillée
+–	l’ELV indique une occupation malgré un état libre
+–	l’alimentation électrique est interrompue
+–	autres défauts.
+	
+4.3.3	Aiguille verrouillée
+	
+	Il est possible de déverrouiller l’aiguille pour autant
+–	qu’aucun véhicule ne s’approche de l’aiguille
+–	qu’aucun signal et aucun assentiment n’autorise de franchir l’aiguille.
+	
+	
+	
+4.3.4	Alimentation électrique interrompue
+	
+	Quand l’alimentation électrique d’une aiguille est interrompue, il y a lieu de contrôler les fusibles et de les remplacer si nécessaire. De même, il faut contrôler les disjoncteurs de protection, au besoin les réenclencher.
+Si ces mesures restent vaines, il faut assurer l’aiguille de sorte qu’elle ne se mette pas en mouvement inopinément lors du retour du courant. L’aiguille peut alors être manœuvrée à la manivelle.
+	
+4.3.5	Autres défauts
+	
+	S’il n’est pas possible de manœuvrer l’aiguille à l’aide de la manivelle, il faut procéder selon les indications du service technique compétent.
+	
+4.4	Position des aiguilles incertaine
+	
+	Si dans une gare non occupée, le franchissement d’un signal présentant l’image arrêt a été prescrit par un ordre à protocoler et que la position des aiguilles ne peut pas être contrôlée par le CC, le CC doit ordonner l’arrêt contre quittance devant l’aiguille ou le groupe d’aiguilles concerné. Le MEC procède alors à un contrôle de l’aiguille concernée ou du groupe d’aiguilles pour s’assurer de l’absence de corps étrangers et de dégâts mécaniques ainsi que de leur bonne position. Lorsque la bonne position des aiguilles a été constatée et qu’il n’y a aucun dégât, la marche peut être poursuivie après avoir pris contact avec le CC. Les trains suivants peuvent franchir les aiguilles sans arrêt. 
+	
+4.5	Le contrôle de l’aiguille manque
+	
+	La position de fin de course des aiguilles est contrôlée électriquement. Si le contrôle de fin de course manque, les signaux concernés ne peuvent pas être mis à voie libre. 
+Le CC peut demander au personnel technique ou au personnel lié à la circulation ferroviaire d’examiner sur place la position de fin de course correcte de l’aiguille afin de vérifier l’absence de corps étrangers et de dégâts mécaniques. Cet examen doit être répété après chaque manœuvre pour une aiguille abordée depuis le talon ou avant chaque franchissement pour une aiguille abordée depuis la pointe.
+Si l’aiguille n’est mécaniquement pas en fin de course, si elle est endommagée ou si les résultats de l’examen sur place ne sont pas clairs, l’aiguille ne doit plus être franchie. On procédera ensuite selon les indications du service technique compétent.
+
+
+Si le contrôle sur place d’une aiguille est effectué par du personnel se trouvant sur le train, le CC prescrit contre quittance au MEC l’arrêt devant l’aiguille et lui demande de contrôler l’aiguille.
+Ensuite, l’assentiment ou l’ordre 1 à protocoler peut être transmis.
+Si le contrôle sur place a révélé que l’aiguille est en bon état et qu’elle doit être franchie sans le contrôle de fin de course, il faut la mettre dans la position désirée et la protéger à l’appareil d’enclenchement contre une manœuvre inopinée. Jusqu’au contrôle sur place par le service technique compétent, les vitesses maximales suivantes doivent être prescrites par un ordre à protocoler :
+–	10 km/h pour chaque franchissement d’une aiguille abordée depuis la pointe
+–	40 km/h pour chaque franchissement d’une aiguille abordée depuis le talon.
+Il faut procéder ensuite selon les indications du service technique compétent.
+	
+4.6	Talonnage d’aiguille
+4.6.1	Principe
+	
+	Le talonnage des aiguilles est interdit car il entraîne des dégâts pouvant mettre l’exploitation en danger. Exception : les aiguilles talonnables.
+	
+4.6.2	Aiguille talonnée
+	
+	Lorsqu’une aiguille a été talonnée, il faut arrêter immédiatement tous les mouvements qui courent un danger et aviser de suite tous les intéressés. Il y a lieu ensuite de protéger l’aiguille talonnée, de la libérer du talon en direction de la pointe puis de la contrôler mécaniquement.
+Lorsqu’une aiguille de voie à crémaillère a été talonnée, il faut s’arrêter immédiatement et protéger l’aguille. On procédera ensuite selon les indications du service technique compétent.
+	
+
+4.6.3	Contrôle de l’aiguille talonnée
+	
+	Le contrôle mécanique sur place d’une aiguille talonnée doit en principe être effectué par les services techniques compétents.
+Si toutefois, ce contrôle mécanique ne peut pas être effectué dans des délais raisonnables par les services techniques compétents, il est permis de la franchir à la vitesse maximale de 40 km/h pour autant que l’aiguille ait été contrôlée dans les deux positions par du personnel lié à la circulation ferroviaire et que ce contrôle n’ait pas relevé de dommages mécaniques. Le CC doit prescrire la réduction de vitesse au MEC par un ordre à protocoler. La situation peut être rétablie à l’appareil d’enclenchement. Par ailleurs, si le contrôle de fin de course de l’aiguille talonnée manque après avoir pris les mesures appropriées, il faut respecter en plus les dispositions prévues lorsque le contrôle de fin de course d’une aiguille manque.
+	
+4.6.4	Aiguille endommagée mécaniquement
+	
+	Si l’aiguille est endommagée mécaniquement ou si les résultats du contrôle sur place ne sont pas clairs, l’aiguille ne peut plus être franchie. On procédera ensuite selon les indications du service technique compétent.
+	
+4.6.5	Aiguille non endommagée
+	
+	Si le contrôle effectué par le service technique compétent ne décèle aucun dommage, l’aiguille peut être franchie à nouveau normalement.
+	
+4.7	Calage d’une aiguille
+	
+	En cas de nécessité, le GI fixe dans les dispositions d’exécution les mesures à prendre pour caler une aiguille.
+
+
+5	Chiffre plus valable
+
+
+
+6	Chiffre plus valable
+	
+
+7	Dispositions complémentaires en cas de dérangement aux 
+installations de passage à niveau surveillées ainsi qu’aux installations de régulation du trafic
+7.1	Dérangement aux installations de passage à niveau surveillées
+7.1.1	Principe
+	
+	Si une installation de passage à niveau surveillée est en dérangement, le signal principal reste à l’arrêt ou le feu de contrôle est éteint.
+Si une installation de passage à niveau est mécaniquement endommagée  en raison d’influences extérieures, les collaborateurs concernés doivent convenir de la suite de la procédure.
+	
+7.1.2	Installation de passage à niveau surveillée en dérangement
+	
+	Le processus principal pour les dérangements s’applique pour une installation de passage à niveau surveillée par un signal principal et en dérangement. Font exception les signaux principaux sur lesquels l’assentiment pour franchir est transmis au moyen du signal principal pour installation de passage à niveau en dérangement.
+Si l’assentiment pour franchir est transmis au moyen d’un signal principal pour installation de passage à niveau en dérangement, il convient d’appliquer les dispositions pour le franchissement d’une installation de passage à niveau en dérangement. La vitesse maximale est de 60 km/h jusqu’au dernier passage à niveau en dérangement de l’installation de passage à niveau surveillée. Indépendamment de cette prescription, il convient de respecter une vitesse maximale de 40 km/h sur les aiguilles en gare et celles en pleine voie.
+Si le MEC rencontre un feu de contrôle éteint ou que le contrôle de la marche des trains s’active, il doit appliquer les dispositions pour le franchissement d’une installation de passage à niveau surveillée en dérangement.
+Si le MEC constate qu’un feu de contrôle est éteint ou que le contrôle de la marche des trains s’active et que le MEC n’a pas été avisé, le MEC  doit annoncer le dérangement au CC, au plus tard après le franchissement du dernier passage à niveau de l’installation de passage à niveau en dérangement. Le CC avise contre quittance les trains suivants du feu de contrôle éteint ou du contrôle de la marche des trains en dérangement.
+	
+
+7.1.3	Franchissement d’une installation de passage à niveau surveillée en dérangement		
+			
+	Sans surveillance sur place, un passage à niveau surveillé doit être franchi comme suit par le MEC :
+–	avant de franchir le passage à niveau, la vitesse doit être réduite à la vitesse d’un homme au pas, en cas de nécessité il faut s’arrêter
+–	donner des signaux d’avertissement et avancer avec le premier véhicule sur le passage à niveau
+–	reprendre la vitesse autorisée dès que le premier véhicule a franchi le passage à niveau.
+Avec une surveillance sur place, un passage à niveau surveillé peut être franchi à la vitesse maximale autorisée.		
+		
+7.1.4	Avis avec une surveillance sur place	
+		
+	Avant qu’un convoi ne s’engage sur un tronçon avec une installation de passage à niveau surveillée en dérangement, le CC doit aviser du départ imminent les personnes compétentes chargées de surveiller le passage à niveau sur place. Avant de transmettre l’assentiment, le CC doit recevoir, de la part des personnes compétentes la confirmation que l’arrêt du trafic routier est garanti.
+Le CC doit aviser contre quittance le MEC que le passage à niveau surveillé est en dérangement et qu’il est surveillé sur place. Cet avis est supprimé lorsqu’un train doit circuler en marche à vue en raison d’un dérangement.	
+	
+7.1.5	Déclenchement d’une installation de passage à niveau surveillée	
+		
+	Si l’installation de passage à niveau surveillée ne se déclenche pas avec la commande automatique, les barrières peuvent être ouvertes au moyen d’une commande de secours ou, pour les signaux à feux clignotants, déclenchés manuellement, 
+–	lorsqu’aucun véhicule ferroviaire ne se trouve sur le passage à niveau
+–	lorsqu’aucun véhicule ferroviaire ne s’approche du passage à niveau
+–	lorsqu’aucun signal ou aucun assentiment n’autorise de circuler sur le passage à niveau
+–	lorsqu’un signal de protection ne peut pas être mis auparavant à l’arrêt au moyen de la mise à l’arrêt de secours et que les conditions ci-dessus soient remplies.	
+7.2	Dérangement aux installations de régulation du trafic	
+7.2.1	Principe	
+		
+	En cas de dérangement à une installation de régulation du trafic, le signal pour les chemins de fer routiers indique l’image hors service ou reste à l’arrêt.
+Si, dans le cas d’une installation en dérangement, le signal pour les chemins de fer routiers reste à l’arrêt, la mise à voie libre, dans la mesure du possible, est à demander manuellement ou l’installation doit être mise hors service.	
+		
+7.2.2	Franchir l’installation de régulation du trafic en dérangement ou hors service	
+		
+	Si le signal pour les chemins de fer routiers indique l’image hors service, le MEC franchit la zone de l’installation de régulation du trafic selon les prescriptions applicables pour la zone pour les chemins de fer routiers.
+Si le signal pour les chemins de fer routiers reste à l’arrêt, le MEC doit franchir la zone de l’installation de régulation du trafic comme un passage à niveau en dérangement et non surveillé sur place.	
+		
+7.2.3	Signaux pour les chemins de fer routiers en dépendance avec un appareil d’enclenchement	
+		
+	Pour le franchissement de signaux pour les chemins de fer routiers qui sont en dépendance avec un appareil d’enclenchement, un assentiment par un ordre à protocoler du CC est nécessaire avant de les franchir lorsqu’ils indiquent les images hors service ou arrêt.	
+
+8	Irrégularités à la voie
+8.1	Premières constatations
+	
+	Lorsqu’une irrégularité à la voie (rupture de rail, déjettement de la voie, affouillement, etc.) est annoncée au CC, le CC doit déterminer :
+–	l’endroit du dommage
+–	la nature du dommage.
+	
+8.1.1	Mesures
+	
+	Le CC doit :
+–	protéger le tronçon concerné
+–	aviser le service technique
+–	dans la mesure du possible, éviter de circuler sur le tronçon concerné. Si cela n’est pas possible, le CC doit vérifier si l’endroit concerné peut être encore franchi.
+–	Si l’endroit en question ne peut plus être franchi, le CC doit interdire le tronçon.
+–	Si l’endroit a été reconnu praticable ou s’il ne peut pas être établi qu’il l’est, le CC doit laisser franchir l’endroit en question par les convois suivants conformément aux dispositions ci-après.
+	
+8.1.2	Marche à suivre
+	
+	Le CC prescrit la marche à vue, vitesse maximale 10 km/h, au prochain convoi à l’endroit en question et ce, par un ordre à protocoler.
+Si le MEC confirme le dommage, le CC interdit la voie.
+Si le MEC ne constate aucun dommage, le CC prescrit par un ordre à protocoler la vitesse maximale de 40 km/h à l’endroit en question aux MEC des prochains convois.
+Tant que les signaux de ralentissement ne sont pas posés, il faut procéder en outre selon les dispositions « Signaux de ralentissement non posés ».
+Cette règle est applicable jusqu’au moment où le service technique a analysé l’endroit et avisé le CC de la marche à suivre.
+
+
+9	Irrégularités à la ligne de contact	
+9.1	Premières constatations	
+		
+	Lorsqu’une irrégularité à la ligne de contact (bras de retenue défectueux, fil de contact qui pend, etc.) est annoncée au CC, le CC doit déterminer :
+–	l’endroit du dommage
+–	la nature du dommage.	
+		
+9.1.1	Mesures
+	
+	Si le MEC constate des dommages à la ligne de contact,
+–	le MEC doit immédiatement abaisser les pantographes et, si nécessaire, arrêter le convoi
+–	le MEC peut poursuivre sa marche que s’il est établi que les pantographes ne sont pas endommagés et que la ligne de contact ne peut pas être plus endommagée
+–	et que le MEC ne peut plus poursuivre sa marche, le MEC doit juger s’il y a un danger immédiat avec la ligne de contact arrachée ou lorsqu’une partie de celle-ci pend. En cas de danger, le MEC prend les mesures nécessaires afin que les voyageurs ne quittent pas le train et ce, jusqu’à ce que les collaborateurs compétents aient pris les mesures de sécurité correspondantes. On peut procéder à l’évacuation du train seulement lorsqu’il ne subsiste plus aucun danger. 
+Le CC doit :
+–	protéger le tronçon concerné
+–	aviser le service technique
+–	dans la mesure du possible, éviter de circuler sur le tronçon concerné. Si cela n’est pas possible, le CC doit vérifier si l’endroit en question peut être encore franchi.
+–	Si l’endroit en question ne peut plus être franchi, le CC doit interdire le tronçon.
+–	Si l’endroit a été reconnu praticable ou s’il ne peut pas être établi qu’il l’est, un convoi ne peut circuler que lorsqu’il est établi qu’aucune autre irrégularité ne sera occasionnée et que le convoi ne sera pas mis en danger.
+		
+
+9.1.2	Marche à suivre
+	
+	Le prochain convoi ne peut franchir l’endroit en question qu’avec les pantographes abaissés ou être conduit par des véhicules thermiques.
+Si le MEC juge l’endroit en question comme étant non franchissable ou si le MEC ne peut pas en juger, le CC interdit la voie.
+A défaut, les convois suivants doivent franchir l’endroit en question avec les pantographes abaissés ou être conduits par des véhicules thermiques.
+Si les convois circulent avec pantographes abaissés, le CC doit aviser le MEC au moyen de l’ordre 9 à protocoler.
+Cette règle est applicable jusqu’au moment où le service technique a analysé l’endroit et avisé le CC de la marche à suivre.
+	
+9.2	Ligne de contact sans tension
+	
+	Si, après une absence de tension, le MEC constate que la ligne de contact ne peut pas immédiatement être remise sous tension, le MEC doit procéder comme suit :
+–	circuler immédiatement en marche à vue
+–	continuer à circuler aussi longtemps qu’il est sûr de pouvoir s’arrêter, en fonction du genre de frein
+–	abaisser les pantographes pour le franchissement des 
+sectionnements
+–	s’arrêter à un endroit approprié, mais au plus tard à la prochaine gare.
+Dès que la ligne de contact est à nouveau sous tension, le MEC peut poursuivre la marche sans restriction. Si le MEC ne peut pas constater que la ligne de contact est à nouveau sous tension, le MEC doit prendre contact avec le CC.
+Si le CC constate une absence de tension, le CC ne peut pas transmettre d’assentiment pour le tronçon sans tension ou le CC doit annuler tout assentiment déjà transmis pour ce tronçon.
+
+10	Dérangement aux équipements de sécurité des trains
+10.1	Fonctionnement du contrôle de la marche des trains lorsque le signal principal présente un assentiment pour circuler	
+		
+	Si le contrôle de la marche des trains transmet de manière inopinée la fonction « Arrêt » ou « Avertissement » lors du franchissement d’un signal principal présentant un assentiment pour circuler, le MEC doit admettre que le signal a été remis intentionnellement à l’arrêt. Le train doit être arrêté immédiatement. Il n’est permis de remettre le convoi en marche qu’avec l’assentiment du CC par un avis contre quittance.	
+		
+10.2	Dérangement aux équipements de voie du contrôle de la marche des trains	
+		
+	Si le contrôle de la marche des trains transmet un message d’erreur lors du franchissement d’un équipement de voie du contrôle de la marche des trains, le MEC en informe le CC en indiquant le signal concerné et, si possible, le type d’erreur.
+Jusqu’à la levée des dérangements permanents aux équipements de voie du contrôle de la marche des trains, le CC doit aviser contre quittance les MEC du dysfonctionnement ou du non fonctionnement du contrôle de la marche des trains. Le MEC ne doit pas arrêter le train malgré le fonctionnement du contrôle de la marche des trains à hauteur d’un signal principal présentant un assentiment pour circuler. 
+Les installations de passage à niveau surveillées uniquement par le contrôle de la marche des trains sont à considérer comme étant en dérangement.	
+		
+10.3	Panne du contrôle de la marche des trains du véhicule de tête sur les tronçons à adhérence
+	
+	Dans la mesure où cela ne s’avère pas nécessaire, les véhicules présentant des dérangements au contrôle de la marche des trains ne doivent pas circuler comme véhicules de tête. Il est interdit de faire circuler des véhicules présentant des dérangements au contrôle de la marche des trains qui sortent de l’installation de maintenance.
+Si le contrôle de la marche des trains du véhicule de tête tombe en panne, le MEC doit exiger, à la première occasion, la présence d’un MEC supplémentaire ou de personnel examiné en conséquence dans la cabine de conduite.
+Avec un MEC supplémentaire ou du personnel examiné en conséquence, il est possible de circuler à la vitesse maximale de 80 km/h.
+
+
+Aussi longtemps qu’aucun MEC supplémentaire ou personnel examiné en conséquence n’est présent dans la cabine de conduite, il est possible de continuer à circuler à la vitesse maximale de 40 km/h.
+Les installations de passage à niveau surveillées uniquement par un contrôle de la marche des trains sont à considérer comme étant en dérangement.
+À partir du moment où le dérangement survient, le véhicule peut être en service comme véhicule de tête au maximum 6 heures avec un contrôle de la marche des trains défectueux. Les courses directes vers l’installation de maintenance sont également autorisées après 6 heures, à condition qu’elles soient effectuées avec un MEC supplémentaire ou du personnel examiné en conséquence et à la vitesse maximale de 80 km/h.
+
+10.4	Panne du dispositif de sécurité du véhicule de tête sur les tronçons à adhérence
+	
+	Dans la mesure où cela ne s’avère pas nécessaire, les véhicules présentant des dérangements au dispositif de sécurité ne doivent pas circuler comme véhicules de tête. Aucun véhicule sortant de l’installation de maintenance avec des dérangements au dispositif de sécurité ne peut être utilisé.
+Si le dispositif de sécurité du véhicule de tête tombe en panne, le MEC doit exiger, à la première occasion, la présence d’une personne supplémentaire d’une ECF dans la cabine de conduite. Le MEC instruit cette personne sur la manière d’arrêter le train en cas d’urgence. Aussi longtemps qu’aucune personne instruite supplémentaire d’une ECF n’est présente dans la cabine de conduite, il est possible de continuer à circuler à la vitesse maximale de 60 km/h avec un dispositif de sécurité défectueux.
+Le véhicule peut circuler au maximum 6 heures à partir du moment où le dérangement survient comme véhicule de tête avec un dispositif de sécurité défectueux. Les courses directes vers l’installation de maintenance sont également autorisées après 6 heures, à condition qu’une personne instruite d’une ECF soit présente en plus dans la cabine de conduite pouvant arrêter le train en cas d’urgence.
+	
+10.5	Panne d’un équipement de sécurité sur un chemin de fer à 
+crémaillère
+	
+	Sur un chemin de fer à crémaillère, si un équipement de sécurité tombe en panne, le MEC doit, le cas échéant, s’arrêter de suite et vérifier s’il est possible de lever le dérangement. Si l’équipement de sécurité fonctionne à nouveau, il est possible de poursuivre l’exploitation. 
+
+
+Si l’équipement de sécurité reste en panne et qu’il n’est pas possible de lever le dérangement, le MEC peut poursuivre la marche à la moitié de la vitesse admise pour son convoi et le tronçon concerné. Les voyageurs doivent être évacués à l’endroit approprié le plus proche. Il est possible de poursuivre la marche avec l’équipement de sécurité en panne tout au plus jusqu’au prochain endroit où le service technique peut examiner le véhicule ou le réparer. 
+Si, dans le cas de systèmes redondants, une partie d’un équipement de sécurité continue de fonctionner, le MEC peut poursuivre la marche à la vitesse normale jusqu’au prochain endroit où le service technique peut examiner le véhicule ou le réparer.
+On procédera ensuite conformément aux directives de l’ETF.
+
+
+
+
+
+11	Irrégularités aux véhicules
+11.1	Principe
+	
+	En cas d’irrégularités aux véhicules pouvant mettre en danger des personnes ou endommager des installations ou des véhicules, le convoi ne doit ni démarrer ni poursuivre sa marche.
+Lorsque des installations de contrôle des trains destinées à la surveillance du bon fonctionnement technique d’un convoi en marche sont utilisées, le GI concerné doit édicter les dispositions d’exécution nécessaires.
+	
+11.2	Premières constatations
+	
+	Lorsqu’une irrégularité à un véhicule est constatée, le personnel responsable doit, compte tenu des prescriptions d’exploitation en vigueur, décider si le convoi peut démarrer ou poursuivre sa marche. Lorsque le personnel responsable ne peut pas décider de lui-même sur place, il doit appeler en renfort le service technique pour déterminer la marche à suivre.
+La vérification ou la levée d’un dérangement aux véhicules doivent, si possible, être effectuées depuis le côté opposé à la voie ou depuis le côté disposant d’une zone intermédiaire de sécurité. Si cela s’avère impossible, il faut procéder selon les dispositions « Absence de zone intermédiaire de sécurité ».
+	
+11.3	Mesures à prendre pour certaines irrégularités 
+	
+	S’agissant des irrégularités reprises ci-après, les mesures y relatives sont applicables.
+	
+11.3.1	Portes extérieures, parois latérales et toits coulissants ouverts
+	
+	Les portes extérieures, parois latérales et toits coulissants ouverts doivent être immédiatement fermés.
+	
+11.3.2	Déplacement de chargements
+	
+	Les chargements s’étant déplacés doivent être immédiatement remis en place et assurés.
+	
+11.3.3	Véhicules ayant déraillé
+	
+	Après un réenraillement, les véhicules déraillés ne peuvent être déplacés qu’avec l’assentiment du service technique et conformément à ses directives.
+
+11.3.4	Défaillance totale des feux avant
+	
+	Si le MEC ne peut allumer aucun des feux avant, les dispositions suivantes s'appliquent : 
+    • Lorsque la visibilité est bonne 
+Le MEC annonce au CC de la défaillance des feux. Le train continue d’avancer à la vitesse maximale autorisée jusqu’à l’endroit le plus proche où les feux avant peuvent être réparés ou remplacés, ou bien où le véhicule concerné peut être remplacé. Alors qu’il poursuit sa route, le MEC utilise le sifflet de locomotive si cela est nécessaire ou sur instruction du CC. 
+    • Dans l’obscurité ou lorsque la visibilité est mauvaise 
+Le MEC avise le CC de la défaillance des feux. Tant que l’avant du train est équipé d’un feu portatif diffusant une lumière blanche, le train continue d’avancer jusqu’à l’endroit le plus proche où les feux avant peuvent être réparés ou remplacés, ou bien où le véhicule concerné peut être remplacé. Si le train est difficilement identifiable, il faut, si nécessaire, réduire la vitesse en fonction des conditions de visibilité. Si le train n’est pas muni d’un feu portatif à l’avant, il ne poursuit pas sa route, à moins que le CC ne donne l’instruction formelle de continuer jusqu’à l’endroit approprié le plus proche où la voie peut être libérée. Alors qu’il poursuit sa route, le MEC utilise le sifflet de locomotive si cela est nécessaire ou sur instruction du CC.
+	
+11.3.5	Défaillance du sifflet de locomotive
+	
+	Si le sifflet de locomotive est défaillant, le MEC en informe le CC. Le train ne dépasse pas la vitesse autorisée en cas de défaillance du sifflet de locomotive et s’achemine jusqu’à l’endroit le plus proche où le sifflet de locomotive peut être réparé ou le véhicule concerné remplacé. Le MEC doit être prêt à s’arrêter avant de franchir un passage à niveau où le sifflet de locomotive doit être actionné et ne franchir le passage à niveau que lorsqu’il est sans danger de le faire. Dans le cas où un dispositif d’avertissement à sons multiples est défaillant mais au moins l’un des sons fonctionne, le train peut poursuivre sa route normalement.
+	
+11.3.6	Défaillance totale du signal de queue du train
+	
+	Si le CC constate la défaillance totale du signal de queue du train, il prend les mesures qui s’imposent pour faire stopper le train dans un endroit approprié et en informer le MEC.
+Le MEC vérifie alors si le train est complet et procède si nécessaire à la réparation ou au remplacement du signal de queue du train.
+Le MEC informe le CC que le train est prêt à poursuivre sa route. Dans le cas contraire, si la réparation n’est pas possible, le train ne peut repartir, sauf si le CC et le MEC conviennent de dispositions particulières.
+Lorsque, de nuit et sur des tronçons nécessitant un déblocage manuel ou sur des lignes sans block, on constate qu’un signal de queue est éteint, le CC doit aviser contre quittance les gares suivantes.
+	
+11.3.7	Panne de l’indicateur de vitesse
+	
+	Si l’indicateur de vitesse tombe en panne, le MEC doit réduire fortement la vitesse du convoi, de manière que la vitesse maximale autorisée ne soit pas dépassée. Si possible, le MEC doit estimer sa vitesse en fonction du kilométrage.
+	
+11.3.8	Panne du dispositif d’inhibition du frein d’urgence / panne du dispositif de demande de freinage d’urgence
+	
+	Seuls les trains équipés du dispositif d’inhibition du frein d’urgence ou du dispositif de demande de freinage d’urgence en état de marche peuvent circuler sur les tronçons sur lesquels ces dispositifs sont prescrits.
+	
+11.3.9	Panne du système de communication en cas de transmission en phonie pour trains
+	
+	Si les prescriptions d’exploitation du GI exigent pour les trains un système de communication pour une transmission en phonie, 
+–	un train dans la gare de départ ne peut pas partir si le système de communication est défectueux,
+–	un train peut continuer de circuler tant que la communication d’urgence est assurée ou tant qu’il existe un autre moyen de communication entre le CC et le MEC.
+Le véhicule ou le système de communication doit être remplacé à la première occasion.
+
+
+12	Dérangement aux freins et rupture d’attelage	
+12.1	Dérangement aux freins	
+12.1.1	Mesures immédiates
+	
+	Si le frein devient inutilisable en cours de route ou si le MEC constate pendant la marche une efficacité insuffisante des freins, le train doit être arrêté au plus vite.
+		
+12.2	Rupture d’attelage	
+12.2.1	Accouplement de frein	
+		
+	Après une rupture d’attelage, le robinet d’arrêt du frein à air au dernier véhicule de la partie de train raccordé à la locomotive de tête ne peut être fermé qu’avec l’accord du MEC.	
+		
+12.2.2	Accostage	
+		
+	Pour l’accostage consécutif à une rupture d’attelage, les prescriptions sur les mouvements de manœuvre sont applicables.
+Pour les trains non accompagnés, le MEC peut refouler avec la plus grande prudence la partie de train avec l’assentiment du CC.	
+		
+12.2.3	Abandon / assurer / poursuite de la marche de parties de train	
+		
+	Lorsque des parties de train doivent être abandonnées et que la poursuite de la marche n’est possible qu’avec des parties de train, le MEC doit convenir de la suite des opérations avec le CC. Le MEC peut poursuivre sa marche sans accord du CC au plus jusqu’au prochain signal principal, ceci même si ce dernier est à voie libre.
+Le personnel roulant doit assurer les parties de train abandonnées contre la dérive.
+Le CC doit protéger le tronçon concerné.	
+		
+12.3	Poursuite de la marche	
+12.3.1	Cause d’un dérangement aux freins pas détectable	
+		
+	Si, suite à un dérangement aux freins, la cause ne peut pas être détectée de manière irréfutable, il faut procéder à un essai du frein complet.	
+		
+
+12.3.2	Sans paralyser les freins d’autres véhicules
+	
+	Le procédé ci-dessous est applicable
+–	après un dérangement aux freins
+–	après une rupture d’attelage
+–	si les attelages peuvent à nouveau être reliés après la rupture d’attelage ou
+–	pour aller chercher les parties de train abandonnées.
+Si le dérangement est levé et qu’aucun frein des autres véhicules ne doit être paralysé et
+–	s’il est possible de procéder à un essai du frein, le convoi peut continuer sa route selon le rapport de freinage effectif
+–	s’il n’est pas possible de procéder à un essai du frein, le convoi peut continuer sa route selon le rapport de freinage effectif en réduisant de moitié la vitesse propre à la catégorie de train et de freinage selon le calcul de freinage, mais à la vitesse maximale de 40 km/h. Un essai d’efficacité des freins doit être effectué dès la reprise de la marche. L’essai du frein doit être effectué à la prochaine gare appropriée.
+		
+12.3.3	Nécessité de paralyser les freins d’autres véhicules	
+		
+	Si, pour supprimer le dérangement, il est nécessaire de paralyser un ou plusieurs freins, la marche peut être poursuivie aux conditions suivantes :
+–	le rapport de freinage doit être vérifié
+–	les conditions pour le rapport de freinage partiel doivent être remplies.
+De plus, il faut procéder à un essai du frein. Si cela n’est pas possible, le poids-frein restant et le rapport de freinage partiel doivent suffire au moins pour la vitesse la plus basse et la déclivité déterminante. Le convoi peut reprendre sa marche selon le rapport de freinage en réduisant de moitié la vitesse propre à la catégorie de train et de freinage selon le calcul de freinage, mais à la vitesse maximale de 40 km/h, jusqu’à la prochaine gare appropriée où il faut procéder à l’essai du frein. Un essai d’efficacité des freins doit être effectué dès la reprise de la marche.	
+		
+
+12.3.4	Poursuite de la marche avec un véhicule non freiné en queue du train	
+		
+	La procédure suivante s’applique au maximum à un véhicule non freiné en queue du train lorsque le frein a dû être paralysé en cours de route, après le départ de la gare initiale, et au plus tard à la prochaine modification de la composition ou au changement de direction.
+La marche peut être poursuivie aux conditions suivantes : 
+–	le rapport de freinage et le rapport de freinage partiel doivent être calculés sur la base des freins restant en service ; ils doivent suffire au moins pour la vitesse la plus basse et la déclivité déterminante. Le rapport de freinage partiel pour le véhicule non freiné en queue du train doit être atteint en tenant compte au plus des deux véhicules précédents 
+–	si une voiture non freinée circulant en queue d’un train est occupée par des voyageurs, le frein d’immobilisation manœuvrable depuis le véhicule doit être occupé 
+–	l’attelage entre le véhicule non freiné et le véhicule précédent doit être fortement tendu. La conduite générale doit, si possible, être reliée jusqu’en queue du train.
+Si ces conditions ne peuvent pas être remplies et
+–	si le véhicule moteur se trouve du côté de la pente ou le train se trouve sur un palier et si le rapport de freinage restant suffit pour la vitesse la plus basse et la déclivité déterminante, il est permis de continuer la marche selon le rapport de freinage jusqu’à la prochaine gare à la vitesse maximale de 40 km/h
+–	si le véhicule moteur se trouve du côté de la rampe, il est interdit de continuer la marche. Le train doit être assuré contre la dérive. 	
+		
+12.3.5	Essai du frein sur les véhicules équipés des dispositifs d’indication dans la cabine de conduite	
+		
+	Aux véhicules sur lesquels un essai du frein est possible avec des dispositifs d’indication, l’essai du frein doit être exécuté depuis le sol en cas de dérangement.
+	
+12.3.6	Véhicules à crémaillère
+	Pour la poursuite de la marche à la suite d’un dérangement, les prescriptions de l’ETF s’appliquent aux véhicules à crémaillère. 
+	
+
+	
+
+13	Danger et accidents	
+13.1	Comportement de manière générale	
+	
+	Lorsqu’un danger est constaté ou qu’un accident survient, le personnel doit procéder dans l’ordre indiqué :
+–	reconnaître le danger
+–	évaluer les conséquences
+–	diminuer le danger
+–	déclencher l’alarme
+–	procéder au sauvetage des personnes
+–	poursuivre l’exploitation.	
+		
+13.2	Type de dangers	
+		
+	Sont considérés comme dangers de l’exploitation ferroviaire tous les événements provoquant ou susceptibles de provoquer un accident.
+Il s’agit en particulier de :
+–	dépression dans la conduite générale
+–	déraillement
+–	tamponnement/accostage
+–	rupture d’attelage
+–	véhicules à la dérive
+–	déplacement de chargement
+–	irrégularité inexpliquée pendant la marche du train
+–	train demeurant immobile sans raison apparente
+–	obstacle imprévu sur et aux abords des voies
+–	voie/aiguille/ligne de contact endommagée
+–	dépassement d’un signal présentant l’image arrêt
+–	réception d’un appel d’urgence ou d’une alerte
+–	fuite de matières dangereuses / marchandises dangereuses
+–	dangers naturels (par ex. menace de glissement de terrain, danger d’avalanche).	
+		
+
+13.3	Genre d’accidents
+	
+	Sont considérés comme accidents d’exploitation ferroviaire, les événements ayant en particulier les conséquences suivantes :
+–	personnes blessées ou tuées
+–	gros animaux blessés ou tués
+–	infrastructures ferroviaires endommagées
+–	déraillement de véhicules ferroviaires ou dégâts causés à ceux-ci
+–	véhicules routiers endommagés
+–	collisions avec des objets sur et aux abords des voies et qui, en raison de leur taille ou structure, peuvent mettre en danger l’exploitation ferroviaire
+–	incendies
+–	lésions corporelles pouvant être graves ou dommages environnementaux (par ex. irrégularités avec des marchandises dangereuses / matières dangereuses).
+	
+13.4	Diminuer le danger
+	
+	Le personnel qui constate un danger ou un accident doit immédiatement, en prenant garde à sa propre sécurité, faire en sorte de réduire les conséquences, par exemple :
+–	envoyer un appel d’urgence
+–	arrêter les véhicules à la dérive
+–	l’EMAN donne un ordre d’arrêt
+–	le PROT fait évacuer la voie
+–	enclencher le signal arrêt de secours sur les chantiers
+–	le CC met les signaux à l’arrêt, déclenche les lignes de contact, enclenche les installations de passage à niveau, protège les voies, ordonne une réduction de vitesse, permet au convoi de sortir du tunnel, n’autorise aucune autre circulation dans le tunnel
+–	le MEC conduit le train en feu hors du tunnel, au besoin avec le dispositif d’inhibition du frein d’urgence
+–	le MEC arrête le train à un endroit adéquat, au besoin en utilisant le dispositif d’inhibition du frein d’urgence (par ex. pas dans des tunnels, dans des galeries ou sur des ponts), enclenche le signal d’alerte, envoie un appel d’urgence et déclenche la ligne de train
+–	avertir les personnes en danger.
+
+Pour certains ouvrages, des règles spécifiques sont définies par le GI sur la base du concept d’alerte et de sauvetage. Ces règles spécifiques ont priorité sur les instructions générales.
+	
+13.5	Alarmer
+	
+	Le personnel qui constate un danger ou un accident doit immédiatement aviser le CC et ce, selon le principe :
+–	qui effectue l’annonce ?
+–	qu’est-il arrivé ?
+–	où est-ce arrivé ?
+–	quand est-ce arrivé ?
+Le GI édicte les dispositions d’exécution en fonction desquelles le CC   prend les mesures qui s’imposent.
+	
+13.6	Sauvetage et mesures de protection à l’endroit de l’accident
+	
+	En dégageant ou en sauvant des personnes, des animaux ou des objets, il doit être voué une attention toute particulière à la protection des personnes concernées. On prendra garde par exemple à :
+–	protéger la voie contre tout franchissement
+–	ordonner une réduction de vitesse
+–	déclencher les lignes de contact et les mettre à la terre
+–	faire appel à des PROT.
+	
+13.7	Poursuite de l’exploitation
+	
+	Lorsque tout danger est exclu, pour autant qu’aucune instruction contraire ne soit prévue par les services concernés et dès que les équipes d’enquête ont libéré les lieux de l’accident, les mesures pour limiter le danger peuvent être levées et l’exploitation peut être poursuivie.
+
+14	Dispositions complémentaires en cas de danger et d’accidents		
+14.1	Comportement du MEC qui aperçoit le signal d’alerte ou en cas d’appel d’urgence confus		
+			
+	Lorsqu’il aperçoit le signal d’alerte, le MEC doit arrêter immédiatement le convoi et éclaircir les faits. Si aucune aide n’est nécessaire sur place, il peut poursuivre sa marche pour autant qu’aucun danger n’en résulte.
+En cas d’appel d’urgence confus, le MEC doit immédiatement circuler en marche à vue. Il faut éviter d’entrer dans les tunnels. Le MEC doit prendre contact avec le CC. Si cela n’est pas possible et si le MEC ne reçoit aucune autre instruction, il peut continuer sa route sans restriction après 10 minutes		
+			
+14.2	Frein d’urgence activé		
+			
+	Le MEC doit aviser les AT et les voyageurs lorsqu’il ponte l’action du frein d’urgence.
+Le frein d’urgence ne peut être remis en position neutre qu’après entente avec le MEC.		
+			
+14.3	Poursuite de la marche avant l’arrivée de l’aide		
+			
+	Lorsque de l’aide a été demandée et qu’elle n’est pas encore arrivée, le MEC ne peut déplacer son train ou mouvement de manœuvre qu’avec l’assentiment du CC.		
+			
+14.4	Signal arrêt de secours sur les chantiers		
+		
+	Lorsqu’il aperçoit le signal arrêt de secours sur les chantiers, le MEC doit arrêter immédiatement le convoi et prendre contact avec le CC.
+Le CC détermine les raisons avec le CS. Si le CC reçoit l’assentiment pour poursuivre la marche de la part du CS, le CC doit aviser contre quittance le MEC, après avoir éteint le signal.
+Si le chantier est non occupé ou si le CC ne peut pas prendre contact avec le CS, le CC doit prescrire au MEC du premier convoi, par un ordre à protocoler, le franchissement du signal arrêt de secours sur les chantiers à l’arrêt et la marche à vue jusqu’à l’extrémité du chantier.
+Si aucune irrégularité n’est constatée, le signal peut être éteint. Si le signal ne peut pas être éteint, le CC doit aviser les MEC, par un ordre à protocoler, pour franchir le signal arrêt de secours sur les chantiers.		
+			
+			
+			
+14.5	Accidents avec des matières dangereuses		
+			
+	Les ECF doivent régler les mesures immédiates à prendre lors d’accidents avec des marchandises dangereuses dans un aide-mémoire à caractère obligatoire pour le personnel. Cet aide-mémoire doit être harmonisé en tenant compte des principes du plan d’intervention auprès des chemins de fer selon l’ordonnance sur les accidents majeurs (OPAM, RS 814.012). Il doit régir en particulier :
+–	l’autoprotection du personnel ferroviaire
+–	l’identification du danger (danger pour le chemin de fer et matières spécifiques)
+–	l’annonce de l’événement (service qui annonce, contenu de l’annonce, exemple d’annonce)
+–	les autres mesures (assurer le lieu de l’accident, mettre en sûreté les blessés, guider les forces d’intervention).
+Les ECF doivent fixer la liste de distribution de cet aide-mémoire. Le personnel concerné doit le porter sur lui.		
+			
+14.6	Comportement à adopter avec les personnes concernées		
+			
+	Les personnes blessées ne doivent pas être laissées sans assistance. Les personnes ayant subi un choc doivent, dans la mesure du possible, être prises en charge.
+Il est interdit de circuler sur les victimes de l’accident. Elles doivent être recouvertes et surveillées.		
+			
+14.7	Mesures pour préserver la situation de l’accident		
+			
+	Les mesures de sécurité et de sauvetage nécessaires doivent être prises immédiatement. Pour le reste, le lieu du sinistre ne doit pas être modifié. Le cas échéant, toute modification doit être signalée. La situation initiale des victimes, des véhicules et des objets doit être marquée avec soin.
+Les corps ne peuvent être déplacés qu’avec l’autorisation de l’autorité de poursuite pénale compétente.
+Les responsables des entreprises concernées doivent immédiatement mettre en sûreté et conserver pendant au moins six mois les données (par ex. bande tachygraphique, enregistrements de conversations, ordres à protocoler) et l’état des dispositifs de protection à l’intention des organes chargés de l’enquête, lorsque cela pourrait permettre d’éclaircir les causes et les circonstances de l’événement.
+Les noms et adresses des personnes, qui pourraient fournir des indices sur le déroulement de l’événement, doivent être conservés.
+
+Dès que les autorités chargées de l’enquête arrivent sur le lieu de l’événement, elles décident de la façon et de l’ampleur des mesures de sécurité et de la surveillance du lieu.		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+15	Dérangements en exploitation des tramways
+15.1	Principe
+	
+	Le GI définit les dérangements et les irrégularités pour lesquels il faut obtenir une information et une permission du centre de gestion avant la circulation d’un convoi ou une manipulation. Durant le temps de présence du personnel, le centre de gestion prend la direction de la régulation et de l’information, ordonne des mesures et les supprime. Le GI règle dans ses prescriptions d’exploitation la procédure à suivre en cas d’absence du personnel du centre de gestion. 
+Le GI règle l’engagement, l’habilitation à donner des instructions, les commandes autorisées sur les installations et l’équipement du personnel du service d’intervention de l’exploitation sur place ou du personnel qui vient en renfort.
+	
+15.1.1	Avis
+	
+	Au besoin, le personnel concerné se concerte de manière réciproque sur les irrégularités, les retards ainsi que sur les effets et les mesures. 
+En cas de dérangement engendrant un retard, les voyageurs doivent être informés sur le motif et, lorsqu’elle est connue, sur la durée probable du dérangement jusqu’à la poursuite de la marche.
+La sécurité des personnes concernées doit être garantie. Ces personnes doivent être rendues attentives aux dangers éventuels. 
+Le GI règle les conditions d’appel au service d’intervention de l’exploitation et aux services technique.
+	
+15.1.2	Première vérifications
+	
+	Lorsqu’un signal ne se met pas à voie libre ou lorsqu’une aiguille ou un autre élément n’atteint pas l’état voulu, il faut partir du principe qu’une manipulation a été omise ou que des raisons d’exploitation l’empêchent. Si ce n’est pas le cas, il faut partir du principe qu’il s’agit d’un dérangement. 
+Font notamment partie des éléments : 
+–	les aiguilles, le cas échéant avec l’ELV correspondant et les signaux d’aiguilles 
+–	les installations de régulation du trafic, le cas échéant avec l’ELV correspondant 
+–	les signaux fixes.
+	
+15.2	Dispositions en cas de dérangement aux aiguilles
+15.2.1	Principe
+	
+	Les aiguilles dont l’indication de la position est douteuse ou qui n’ont pas atteint leur position de fin de course ne doivent pas être franchies.
+	
+15.2.2	L’aiguille ne peut pas être manœuvrée 
+	
+	Les raisons suivantes peuvent empêcher en particulier une aiguille d’être manœuvrée : 
+–	corps étranger / saleté 
+–	l’aiguille est verrouillée 
+–	l’ELV indique une occupation malgré un état libre 
+–	l’alimentation électrique est interrompue 
+–	l’annonce de la position de l’aiguille n’a pas été reçue 
+–	autres défauts à l’aiguille.
+Si une aiguille ne peut pas être manœuvrée ou qu’avec peine, il faut la remettre immédiatement dans sa position. 
+S’il est impossible de manœuvrer l’aiguille même par desserte locale ou au moyen de la tringle de commande d’aiguille, il faut en aviser le centre de gestion.
+	
+15.2.3	Le verrouillage de l’aiguille ou l’indication de la position de fin de course manque
+	
+	Si une aiguille dotée d’une indication de verrouillage n’est pas verrouillée par la commande d’aiguille, le verrouillage de l’aiguille n’est pas indiqué. Il faut s’arrêter avant la lame d’aiguille. Dans ce cas, il faut si possible manœuvrer une nouvelle fois l’aiguille ou la mettre dans la bonne position au moyen de la tringle de commande d’aiguille. 
+Le GI règle les conditions de franchissement d’aiguilles lorsque l’indication de verrouillage manque ou lorsque l’aiguille n’a pas atteint sa position de fin de course. Il définit en particulier si le franchissement est autorisé, les modalités de contrôle de la position de fin de course et la vitesse maximale de franchissement le cas échéant.
+	
+
+15.2.4	Talonnage d’aiguille
+	
+	Le talonnage des aiguilles est interdit car il entraîne des dégâts pouvant mettre l’exploitation en danger. 
+Lorsqu’une aiguille a été talonnée, il faut arrêter immédiatement tous les mouvements qui courent un danger et aviser de suite tous les intéressés. Il y a lieu ensuite de protéger l’aiguille talonnée, de la libérer du talon en direction de la pointe puis de la contrôler mécaniquement. 
+Le contrôle mécanique sur place d’une aiguille talonnée doit en principe être effectué par les services techniques compétents. Le GI définit si le personnel d’exploitation peut contrôler les aiguilles talonnées et de quelle manière.
+Si l’aiguille est endommagée mécaniquement ou si les résultats du contrôle sur place ne sont pas clairs, l’aiguille ne peut plus être franchie. 
+On procédera ensuite selon les indications du service technique compétent.
+	
+15.2.5	Calage ou mise hors service d’une aiguille
+	
+	Le GI définit les mesures à prendre pour caler une aiguille et la mettre hors service.
+	
+15.3	Dispositions en cas de dérangement aux installations de régulation du trafic
+	
+	En cas de dérangement à une installation de régulation du trafic, le signal de chemin de fer routier indique l’image hors service ou reste à l’arrêt. 
+Si, dans le cas d’une installation en dérangement, le signal de chemin de fer routier reste à l’arrêt, la mise à voie libre, dans la mesure du possible, est à demander manuellement ou l’installation doit être mise hors service.
+Pour les convois pour lesquels le signal de chemin de fer routier présente l’image arrêt, le GI règle les conditions de franchissement et les compétences du personnel des ECF par rapport au trafic individuel. À cet effet, le GI se concerte avec les autorités cantonales et communales compétentes.
+	
+15.3.1	Franchir l’installation de régulation du trafic en dérangement ou hors service
+	
+	Si le signal de chemin de fer routier indique l’image hors service, le MEC franchit la zone en redoublant de prudence. 
+
+
+	Si le signal de chemin de fer routier présente l’image arrêt et si une personne en charge de la régulation du trafic se trouve sur place, le MEC franchit la zone selon les principes édictés dans la législation sur la circulation routière. Si le signal de chemin de fer routier présente l’image arrêt et si aucune personne en charge de la régulation du trafic ne se trouve sur place, le MEC franchit la zone selon les consignes du GI.
+	
+15.4	Irrégularités aux voies et aux aiguilles
+15.4.1	Premières constatations
+	
+	Si le MEC ou le CMAN constate une irrégularité aux voies ou aux aiguilles, le MEC ou le CMAN doit dans la mesure du possible arrêter le convoi avant l’endroit du dommage. Il faut en aviser immédiatement le centre de gestion en lui indiquant l’endroit où se trouve le dommage et sa nature.
+	
+15.4.2	Mesures
+	
+	Le centre de gestion doit : 
+–	arrêter le convoi suivant le cas échéant
+–	si possible vérifier si l’endroit peut être franchi après entente avec le MEC ou le CMAN
+–	aviser les convois suivants conformément aux consignes du GI
+–	faire appel ou aviser le service d’intervention de l’exploitation et les services techniques. 
+Si l’endroit en question ne peut plus être franchi, le centre de gestion doit faire interdire la voie ou l’aiguille.
+	
+15.5	Irrégularités à la ligne de contact
+15.5.1	Premières constatations
+	
+	Si le MEC ou le CMAN constate une irrégularité à la ligne de contact, il doit dans la mesure du possible arrêter le convoi avant l’endroit du dommage ou abaisser les pantographes. Il faut en aviser immédiatement le centre de gestion en lui indiquant l’endroit où se trouve le dommage et sa nature.
+	
+
+15.5.2	Mesures	
+		
+	Le centre de gestion doit : 
+–	arrêter le convoi suivant le cas échéant
+–	si possible vérifier si l’endroit peut être franchi après entente avec le MEC ou le CMAN
+–	aviser les convois suivants conformément aux consignes du GI
+–	faire appel ou aviser le service d’intervention de l’exploitation et les services techniques. 
+Si l’endroit en question ne peut plus être franchi, le centre de gestion doit faire interdire le tronçon. 
+Si le convoi ne peut plus poursuivre sa marche, le MEC ou le CMAN doit juger s’il y a un danger immédiat avec la ligne de contact arrachée ou lorsqu’une partie de celle-ci pend. En cas de danger, le MEC ou le CMAN prend les mesures nécessaires afin que les voyageurs ne quittent pas le train et ce, jusqu’à ce que les collaborateurs compétents aient pris les mesures de sécurité correspondante. On peut procéder à l’évacuation du train seulement lorsqu’il ne subsiste plus aucun danger.	
+	
+15.5.3	Marche à suivre	
+		
+	Les consignes du GI s’appliquent en ce qui concerne la possibilité pour les convois suivants de franchir l’endroit en question, par exemple avec les pantographes abaissés.	
+		
+15.5.4	Ligne de contact sans tension	
+		
+	Si, après une absence de tension, le MEC constate que la ligne de contact ne peut pas immédiatement être remise sous tension, le MEC doit procéder comme suit : 
+–	poursuivre la marche en redoublant de prudence 
+–	s’arrêter à un endroit approprié, au plus tard à la prochaine halte, dans la mesure du possible sans gêner la circulation.	
+		
+15.6	Dérangement aux équipements de sécurité des trains	
+15.6.1	Panne du dispositif de sécurité du véhicule de tête	
+		
+	Dans la mesure où cela ne s’avère pas nécessaire, les véhicules présentant des dérangements au dispositif de sécurité ne doivent pas circuler comme véhicules de tête. Aucun véhicule sortant de l’installation de maintenance avec des dérangements au dispositif de sécurité ne peut être utilisé. 
+	
+	Si le dispositif de sécurité du véhicule de tête tombe en panne, le MEC doit exiger, à la première occasion, la présence d’une personne supplémentaire d’une ECF dans la cabine de conduite. Le MEC instruit cette personne sur la manière d’arrêter le train en cas d’urgence. 
+Le véhicule peut circuler au maximum 6 heures à partir du moment où le dérangement survient comme véhicule de tête avec un dispositif de sécurité défectueux. Les courses directes vers l’installation de maintenance sont également autorisées après 6 heures, à condition qu’une personne instruite d’une ECF soit présente en plus dans la cabine de conduite pouvant arrêter le train en cas d’urgence.
+	
+15.7	Irrégularités aux véhicules	
+15.7.1	Principe	
+		
+	En cas d’irrégularités aux véhicules pouvant mettre en danger des personnes ou endommager des installations ou des véhicules, le convoi ne doit ni démarrer ni poursuivre sa marche. 
+Lorsque des installations de contrôle des trains destinées à la surveillance du bon fonctionnement technique d’un convoi en marche sont utilisées, le GI concerné doit édicter les dispositions d’exécution nécessaires. 
+En cas de dérangements et de défaillances, le centre de gestion décide de remplacer le véhicule concerné après entente avec les services techniques.	
+		
+15.7.2	Premières constatations	
+		
+	Lorsqu’une irrégularité à un véhicule est constatée, le personnel responsable doit, compte tenu des prescriptions d’exploitation en vigueur, décider si le convoi peut démarrer ou poursuivre sa marche. Lorsque le personnel responsable ne peut pas décider de lui-même sur place, il doit appeler en renfort le centre de gestion pour déterminer la marche à suivre. 
+La vérification et la levée d’un dérangement aux véhicules doivent, si possible, être effectuées depuis le côté opposé à la voie. Il convient à cet égard de respecter les dispositions relatives à la sécurité au travail.	
+		
+
+15.7.3	Mesures à prendre pour certaines irrégularités
+	
+	S’agissant des irrégularités reprises ci-après, les mesures y relatives sont applicables :
+–	Portes extérieures ouvertes 
+	Les portes extérieures ouvertes doivent être immédiatement fermées. 
+–	Véhicules déraillés 
+	Après un réenraillement, les véhicules déraillés ne peuvent être déplacés qu’avec l’assentiment du service technique et conformément à ses directives. 
+–	Défaillance totale ou partielle des feux avant 
+	Les ETF définissent la procédure à suivre en cas de défaillance des feux avant en tenant compte de la visibilité des convois pour les autres usagers. 
+–	Défaillance du sifflet de locomotive 
+	Si le sifflet de locomotive est inutilisable, le MEC ou le CMAN doit redoubler de prudence lors de la circulation. Le centre de gestion doit être avisé de la défaillance. Le train ou le mouvement de manœuvre s’achemine jusqu’à l’endroit le plus proche où le sifflet de locomotive peut être réparé ou le véhicule concerné remplacé. 
+–	Défaillance totale du signal de queue du train 
+	Les ETF définissent la procédure à suivre en cas de défaillance du signal de queue du train en tenant compte de la visibilité des convois pour les autres usagers. 
+–	Panne de l’indicateur de vitesse 
+	Si l’indicateur de vitesse tombe en panne, le MEC doit réduire fortement la vitesse du convoi, de manière que la vitesse maximale autorisée ne soit pas dépassée. Les ETF règlent la suite de la procédure. 
+–	Panne du dispositif d’inhibition du frein d’urgence / du dispositif de demande de freinage d’urgence 
+	Seuls les trains équipés du dispositif d’inhibition du frein d’urgence ou du dispositif de demande de freinage d’urgence en état de marche peuvent circuler sur les tronçons sur lesquels ces dispositifs sont prescrits. 
+–	Panne du système de communication en cas de transmission en phonie pour trains 
+	Les ECF règlent la procédure à suivre en cas de défaillance de systèmes de communication.
+–	Panne du clignotant de direction 
+	En cas de panne des clignotants de direction, le MEC ou le CMAN doit conduire avec une prudence particulière. Le centre de gestion doit être avisé de la panne. Le train doit se rendre à l'endroit le plus proche où le clignotant de direction peut être remis en état ou le véhicule concerné remplacé.
+	
+15.8	Dérangement aux freins
+15.8.1	Mesures immédiates
+	
+	Si le frein devient inutilisable en cours de route ou si le MEC constate pendant la marche une efficacité insuffisante des freins, le train doit être arrêté au plus vite et la cause recherchée. Il faut procéder selon les prescriptions d’exploitation édictées pour le véhicule correspondant.
+	
+15.8.2	Poursuite de la marche
+	
+	Si, suite à un dérangement aux freins, la cause ne peut pas être détectée de manière irréfutable, il faut procéder à un essai du frein.
+	
+15.8.3	Poursuite de la marche avec un véhicule non freiné
+	
+	L’ETF règle la procédure à suivre pour la poursuite de la marche avec un véhicule non freiné à la suite d’un dérangement aux freins.
+	
+15.9	Danger et accidents
+15.9.1	Comportement de manière générale
+	
+	Lorsqu’un danger est constaté ou qu’un accident survient, le personnel doit procéder dans l’ordre indiqué : 
+–	reconnaître le danger 
+–	évaluer les conséquences 
+–	diminuer le danger 
+–	déclencher l’alarme 
+–	procéder au sauvetage des personnes 
+–	poursuivre l’exploitation.
+	
+
+15.9.2	Type de dangers
+	
+	Sont considérés comme dangers de l’exploitation des tramways tous les événements provoquant ou susceptibles de provoquer un accident. 
+Il s’agit en particulier de : 
+–	véhicules qui ne sont pas en état de marche ou qui sont 
+endommagés
+–	déraillement 
+–	tamponnement/accostage
+–	véhicules à la dérive 
+–	irrégularité inexpliquée pendant la marche du train 
+–	train demeurant immobile sans raison apparente 
+–	voie / aiguille / ligne de contact endommagée 
+–	dépassement d’un signal présentant l’image arrêt 
+–	réception d’un appel d’urgence ou d’une alerte 
+–	dangers et événements naturels (par ex. crue, tempête, incendie).
+	
+15.9.3	Genre d’accidents
+	
+	Sont considérés comme accidents en exploitation des tramways les événements ayant en particulier les conséquences suivantes : 
+–	personnes blessées ou tuées
+–	gros animaux blessés ou tués
+–	infrastructures endommagées
+–	déraillement de véhicules ou dégâts causés à ceux-ci
+–	véhicules routiers endommagés
+–	collisions avec des objets sur et aux abords des voies et qui, en raison de leur taille ou structure, peuvent mettre en danger l’exploitation des tramways
+–	incendies 
+–	lésions corporelles pouvant être graves ou dommages environnementaux (par ex. irrégularités avec des marchandises dangereuses / matières dangereuses).
+
+15.9.4	Diminuer le danger	
+		
+	Le personnel qui constate un danger ou un accident doit immédiatement, en prenant garde à sa propre sécurité, faire en sorte de réduire les conséquences, par exemple :
+–	envoyer un appel d’urgence 
+–	arrêter les véhicules à la dérive 
+–	le CMAN donne un ordre d’arrêt 
+–	le RESCT fait évacuer la voie 
+–	le centre de gestion arrête l’exploitation 
+–	le MEC conduit le train en feu hors du tunnel, au besoin avec le dispositif d’inhibition du frein d’urgence 
+–	le MEC arrête le train à un endroit adéquat, au besoin en utilisant le dispositif d’inhibition du frein d’urgence (par ex. pas dans des tunnels, dans des galeries ou sur des ponts) ou enclenche le clignotant d’avertissement et envoie un appel d’urgence 
+–	avertir les personnes en danger. 
+Pour certains ouvrages, des règles spécifiques sont définies par le GI sur la base du concept d’alerte et de sauvetage. Ces règles spécifiques ont priorité sur les instructions générales.	
+		
+15.9.5	Alarmer	
+		
+	Le personnel qui constate un danger ou un accident doit immédiatement aviser le centre de gestion et ce, selon le principe : 
+–	qui effectue l’annonce ? 
+–	qu’est-il arrivé ? 
+–	où est-ce arrivé ? 
+–	quand est-ce arrivé ? 
+Le GI édicte les dispositions d’exécution en fonction desquelles le centre de gestion prend les mesures qui s’imposent, par ex. l’information des autres convois, l’utilisation d’appels collectifs ou d’annonces effectuées sur tout le réseau.	
+	
+
+15.9.6	Sauvetage et mesures de protection à l’endroit de l’accident	
+		
+	En dégageant ou en sauvant des personnes, des animaux ou des objets, il doit être voué une attention toute particulière à la protection des personnes concernées. On prendra garde par exemple à  
+–	protéger la voie contre tout franchissement 
+–	ordonner une réduction de vitesse 
+–	déclencher les lignes de contact et les mettre à la terre 
+–	faire appel au service d’intervention de l’exploitation ou à du personnel auxiliaire sur place.	
+	
+15.9.7	Poursuite de l’exploitation	
+		
+	Lorsque tout danger est exclu, pour autant qu’aucune instruction contraire ne soit prévue par les services concernés et dès que les équipes d’enquête ont libéré les lieux de l’accident, les mesures pour limiter le danger peuvent être levées et l’exploitation peut être poursuivie.	
+		
+15.10	Dispositions complémentaires en cas de danger et d’accidents	
+15.10.1	Comportement du MEC qui aperçoit des clignotants d’avertissement ou en cas d’appel d’urgence confus	
+		
+	Lorsqu’il aperçoit des clignotants d’avertissement, le MEC ou le CMAN doit immédiatement circuler en redoublant de prudence et, si nécessaire, s’arrêter immédiatement ainsi qu’éclaircir les faits en cas de doute. Si aucune aide n’est nécessaire sur place et qu’il n’y a pas de danger, il peut poursuivre sa marche. 
+En cas d’appel d’urgence confus, le MEC doit immédiatement circuler en redoublant de prudence. Il faut éviter d’entrer dans les tunnels. Le MEC doit prendre contact avec le centre de gestion. Si cela n’est pas possible et si le MEC ne reçoit aucune autre instruction, il peut continuer sa route sans restriction après 10 minutes.	
+		
+15.10.2	Frein d’urgence activé	
+		
+	Le MEC doit aviser les voyageurs lorsqu’il ponte l’action du frein d’urgence. 
+Le frein d’urgence ne peut être remis en position neutre qu’après entente avec le MEC.	
+		
+	
+

@@ -1,0 +1,640 @@
+﻿Ferrovie svizzere	R 300.12
+
+
+
+Lavori nella zona dei binari
+
+
+
+1	In generale
+1.1	Ambito di validità
+1.1.1	Lavori nella zona dei binari
+	
+	L’applicazione di misure di sicurezza è necessaria non appena sono intrapresi lavori nella zona dei binari come pure se persone e/o attrezzature di lavoro possono invadere, in maniera volontaria o involontaria, la zona del binario.
+	
+1.1.2	Finalità
+	
+	Le misure di sicurezza da adottare sulle aree dei lavori nella zona dei binari hanno come fine
+–	la protezione del personale sulle aree dei lavori dai pericoli derivanti dall’esercizio ferroviario, e 
+–	la sicurezza dell’esercizio ferroviario nel settore delle aree dei lavori. 
+	
+1.2	Pericoli importanti e principi di sicurezza
+1.2.1	Pericoli importanti
+	
+	Il personale che lavora nella zona dei binari è esposto in modo prevalente ai pericoli originati dalla circolazione dei treni, dagli impianti ad alta tensione e dalle attrezzature di lavoro impiegate. 
+L’esercizio ferroviario è messo in pericolo dai lavori svolti nella zona dei binari e, in particolare, dall’uso di macchine da costruzione.
+	
+1.2.2	Principi di sicurezza
+	
+	Il personale impiegato deve poter svolgere il proprio lavoro senza essere costretto a prestare attenzione all’esercizio ferroviario. 
+Esso va avvertito per tempo in caso di pericolo, così da poter sgomberare in modo sicuro ma non precipitoso la zona dei binari.
+	
+1.3	Responsabilità
+	
+	Il GI è responsabile che siano osservate le prescrizioni relative alle misure di sicurezza in relazione con i lavori nella zona dei binari, sia sulle aree di lavoro proprie, sia su quelle di committenti estranei alla ferrovia.
+	
+
+1.4	Personale di imprese private
+	
+	Il GI fissa nelle sue disposizioni esecutive quali compiti il personale di un’impresa privata può assumere e a quali condizioni può farlo.
+
+2	Personale
+2.1	Insieme del personale
+2.1.1	Doveri in generale
+	
+	Se il personale non viene orientato in merito al DISPO dal CS, deve informarsi dal CS a tale riguardo all’inizio del lavoro.
+Le misure di sicurezza vanno applicate prioritariamente rispetto a qualsiasi altro lavoro.
+	
+2.1.2	Scopo dei segnali d’allarme
+	
+	I segnali d’allarme servono ad avvertire il personale.
+	
+2.1.3	Compiti legati all’impiego dei segnali d’allarme
+	
+	Appena sono emessi segnali d’allarme, tutti i collaboratori hanno 3 doveri da compiere immediatamente:
+–	per sé stesso
+interrompere immediatamente il lavoro e allontanarsi dalla zona dei binari
+–	per gli altri 
+osservare se i propri compagni reagiscono ai segnali, all’occor­renza avvertirli e trascinarli fuori della zona dei binari interessata.
+–	per le attrezzature di lavoro 
+accertarsi che nelle sue vicinanze nessun attrezzo di lavoro rappresenti un pericolo per la corsa imminente.
+	
+2.1.4	Emissione dei segnali d’allarme 
+	
+	Di principio i segnali acustici d’allarme sono emessi una sola volta. Possono essere ripetuti solo per motivi di forza maggiore (p.es. se non vi è alcuna reazione).
+Se il segnale ottico d’allarme completa il segnale ottico di allarme, quest’ultimo continua a funzionare per analogia.
+	
+2.1.5	Comportamento al segnale d’allarme 1
+	
+	Il personale deve interrompere il lavoro nella zona dei binari corrispondente e ritirarsi nel binario di lavoro sbarrato.
+	
+
+2.1.6	Comportamento al segnale d’allarme 2
+	
+	Il personale deve sgomberare tutti i binari e ritirarsi nello spazio di fuga designato. 
+	
+2.1.7	Comportamento al segnale d’allarme «Pericolo»
+	
+	Il personale deve abbandonare immediatamente tutti i binari.
+	
+2.1.8	Comportamento in caso di dubbi
+	
+	Se sorgono dubbi circa l’esatto significato dei segnali d’allarme, si devono sgomberare tutti i binari e applicare le istruzioni del DISPO.
+	
+2.1.9	Comportamento all’emissione di segnali ottici 
+	
+	L’accesso alla zona dei binari è vietato fin quando è illuminato l’allarme ottico.
+	
+2.1.10	Ripresa del lavoro
+	
+	Il lavoro può essere ripreso solo con il permesso del GS.
+	
+2.2	Direzione responsabile della sicurezza (DS)
+2.2.1	Obblighi della DS
+	
+	La DS è il servizio che, sotto la responsabilità del GI, prescrive e sorveglia il DISPO con le misure di sicurezza del personale. Ciò include anche il necessario adeguamento all’avanzamento dei lavori.
+	
+2.3	Capo / capa della sicurezza (CS) 
+2.3.1	Obblighi del CS
+	
+	Il CS è responsabile per l’applicazione delle misure di sicurezza sull’area dei lavori. 
+	
+2.4	Guardiano / guardiana di sicurezza (GS) 
+2.4.1	Obblighi del GS
+	
+	Il GS è responsabile di avvertire tempestivamente il personale, per consentire in maniera sicura lo sgombero dei binari. 
+All’avvicinarsi di una corsa, il GS deve:
+–	emettere il segnale d’allarme o sorvegliare l’attivazione dei dispositivi d’allarme azionati automaticamente 
+–	accertarsi che prima del passaggio più nessuno si trovi nella zona dei binari entrante in considerazione.
+Dopo il passaggio, il GS si accerta che più nessuna altra corsa si avvicini all’area dei lavori e dà il permesso per la ripresa del lavoro.
+Eccettuato il servizio dei mezzi di comunicazione e dell’impianto di avvertimento, al GS non è permesso compiere altri lavori.
+	
+2.4.2	Equipaggiamento del GS
+	
+	La dotazione di base del GS comprende gli oggetti seguenti:
+–	il DISPO 
+–	un copricapo bianco
+–	una bandiera rossa
+–	di notte, una lanterna a luce rossa e bianca 
+–	il mezzo di comunicazione previsto per ricevere gli avvisi
+–	i dispositivi d’allarme previsti per l’avvertimento.
+	
+2.5	Sentinella (SENT) 
+2.5.1	Obblighi della SENT
+	
+	La SENT è responsabile di annunciare in tempo utile l’avvicinarsi di corse. La SENT annuncia l’avvicinarsi delle corse al GS con i mezzi di comunicazione previsti dal DISPO.
+La SENT deve provocare l’arresto di una corsa in avvicinamento mediante il segnale Fermata-Pericolo, se
+–	il GS non conferma l’annuncio come previsto, o 
+–	il mezzo di comunicazione previsto per ricevere gli avvisi è perturbato.
+Durante il suo servizio, la SENT non può eseguire nessun altro lavoro.
+	
+
+2.5.2	Equipaggiamento della SENT
+	
+	La dotazione di base della SENT comprende gli oggetti seguenti:
+–	un copricapo bianco 
+–	una bandiera rossa
+–	di notte, una lanterna a luce rossa e bianca
+–	il mezzo di comunicazione previsto per ricevere gli avvisi. 
+	
+
+3	Decorso
+3.1	Pianificazione dell’organizzazione di sicurezza sull’area 
+dei lavori
+3.1.1	Valutazione del rischio 
+	
+	La DS fissa le misure di sicurezza atte a garantire l’incolumità del personale e la protezione dell’esercizio ferroviario.
+La scelta delle misure di sicurezza si basa su una valutazione dei rischi. A tale scopo la DS giudica i pericoli derivanti dall’esercizio ferroviario per l’area dei lavori e viceversa. Su queste basi, essa decide le misure di sicurezza da adottare.
+	
+3.1.2	Criteri da osservare
+	
+	Nella valutazione dei pericoli occorre osservare i criteri qui elencati: 
+–	genere dei lavori
+–	impiego delle attrezzature di lavoro
+–	effettivo di personale
+–	luogo in cui si svolgono i lavori (p.es. ponti, gallerie, linea a cielo aperto, spazio di sicurezza intermedio)
+–	decorso della circolazione dei treni e dei movimenti di manovra
+–	velocità delle corse
+–	stato di commutazione degli impianti ad alta tensione e della linea di contatto. 
+	
+3.1.3	Scelta delle misure di sicurezza
+	
+	Se lo consentono la situazione locale sull’area dei lavori e le condizioni generali d’esercizio, un pericolo va eliminato.
+Se ciò non è possibile, il pericolo va minimizzato prendendo misure di sicurezza complementari.
+Le misure di allarme sono definite in funzione delle misure di sicurezza adottate e dei pericoli che permangono, e comprendono
+–	la designazione dei binari (binario adiacente, binario di lavoro ecc.) 
+–	la definizione dei termini di sicurezza e dei segnali d’allarme e
+–	la definizione del tipo di sistema d’avvertimento.
+	
+
+3.1.4	Allestimento del DISPO
+	
+	Il DISPO contempla tutte le misure scelte dalla DS per la rispettiva area dei lavori. 
+Per i lavori pianificabili, il DISPO è allestito in forma scritta. Sull’area dei lavori, esso è conservato dal CS e dal GS.
+Quale mezzo ausiliario per i lavori a breve termine, p.es. per l’elimina­zione di perturbazioni, la DS può definire in anticipo i punti critici d’intervento e fissare corrispondenti misure di sicurezza. 
+Il GI stabilisce nelle sue disposizioni esecutive la forma e il contenuto dei dispositivi di sicurezza.
+	
+3.1.5	Lavori con GS e impiego dei dispositivi d’allarme
+	
+	In linea di principio, su ogni area dei lavori si devono impiegare dispositivi d’allarme, in combinazione con la presenza di GS, SENT e impianti di annuncio e di avvertimento. Fanno eccezione i lavori per i quali si può rinunciare al GS e quelli effettuati su aree di lavoro senza misure di allarme.
+	
+3.1.6	Lavori senza GS
+	
+	Si può rinunciare al GS unicamente 
+–	per lavori eseguiti da 2 persone al massimo, i quali consentano l’osservazione senza ostacoli della circolazione e per i quali sia assicurato lo sgombero rapido e sicuro in qualsiasi momento (p.es. guardiatratta)
+–	sulle sezioni di tratta che, in base al concetto d’esercizio, sono percorse sempre con corsa a vista e alla velocità massima di 20 km/h riconoscere i pericoli
+–	per le aree dei lavori situate in prossimità della zona dei binari e dotate di un sistema di avvertimento automatico
+–	sulle aree dei lavori che non necessitano di misure di allarme.
+Le persone che svolgono lavori nella zona dei binari senza GS sono responsabili personalmente della loro incolumità. Ciò include anche la preventiva programmazione delle singole misure di sicurezza. 
+Quale requisito per l’esecuzione di lavori nella zona dei binari senza GS occorrono in particolare sufficienti conoscenze dalla protezione personale rispetto ai pericoli dell’esercizio ferroviario e delle condizioni locali.
+
+3.1.7	Aree dei lavori senza misure d’allarme
+	
+	Se è possibile eliminare i pericoli per il personale e per l’esercizio ferroviario, non occorrono misure di allarme per l’area dei lavori. Ciò vale in particolare per lavori 
+–	su tratte a semplice binario, se il binario è sbarrato
+–	su tratte a più binari, se tutti i binari sono sbarrati contemporaneamente
+–	in prossimità della zona dei binari se l’area dei lavori è protetta da una barriera protettiva
+–	a tutte le linee di contatto, fintantoché nell’ambito dei binari adiacenti non sono compiuti lavori che impongono misure di allarme
+–	compiuti in prossimità della zona dei binari, se il suo accesso è impedito e durante il loro svolgimento nessuna persona o nessun mezzo di lavoro può penetrare involontariamente nella zona delimitata.
+	
+3.2	Pianificazione delle misure di sicurezza legate all’esercizio
+3.2.1	Principio
+	
+	Le misure di sicurezza legate all’esercizio vanno previste e concordate per tempo con il servizio preposto del GI. Fra queste rientrano:
+–	la stesura di annunci
+–	l’adozione di restrizioni d’esercizio
+–	lo sbarramento di binari/scambi.
+	
+3.2.2	Annunci
+	
+	Gli annunci all’area dei lavori devono conformarsi alle misure di allarme. Essi consentono l’avvertimento tempestivo allorché in via eccezionale non è possibile rispettare le condizioni per i sistemi di avvertimento impiegati (p.es. treni che oltrepassano segnali su posizione di fermata, modifica dell’utilizzazione dei binari stabilita ecc.). 
+Il GI stabilisce nelle sue disposizioni esecutive quali annunci possono essere convenuti.
+3.2.3	Restrizioni d’esercizio
+	
+	Le restrizioni d’esercizio devono fare riferimento alle misure di allarme e alle misure di sicurezza. Esse permettono l’avvertimento tempestivo dell’area dei lavori (p.es. riduzione della velocità) o sono adottate quali misure di sicurezza (p.es. definizione della direzione di corsa, inserimento del settore di manutenzione).
+Il GI stabilisce nelle sue disposizioni esecutive quali restrizioni d’esercizio possono essere convenute.
+3.2.4	Sbarramento di binari/scambi
+	
+	I binari/scambi vanno sbarrati se 
+–	lo esige la sicurezza del personale o dell’esercizio ferroviario, o 
+–	i binari o gli scambi non sono percorribili in seguito a lavori di costruzione, riparazioni, manutenzione, pulizia, eventi naturali, infortuni o altre ragioni. 
+In particolare, lo sbarramento è necessario 
+–	per lavori che comportano un’interruzione del binario stesso
+–	quando al binario devono essere montate attrezzature di lavoro che costituiscono un pericolo per le corse. A tale riguardo va rispettato il profilo di spazio libero.
+–	quando non è garantito in modo affidabile lo sgombero del binario e ciò può costituire un pericolo per la corsa annunciata 
+–	per lavori alla linea di contatto
+–	per lavori senza uno spazio di fuga
+–	anche se per poco tempo, per un binario adiacente, quando il suo profilo di spazio libero viene occupato dalle rotazioni di una gru o di macchine da costruzione o di veicoli. 
+	
+3.2.5	Richiesta di misure di sicurezza legate all’esercizio
+	
+	Le misure di sicurezza legate all’esercizio programmate vanno richieste in anticipo al servizio preposto del GI. In via eccezionale, richieste a breve termine possono anche essere presentate direttamente al CMOV di competenza.
+La fine di uno sbarramento va fissata in maniera tale che il binario in questione possa essere annunciato percorribile per tempo prima del passaggio del prossimo treno.
+	
+3.2.6	Richiesta di commutazioni della linea di contatto
+	
+	Uno sbarramento e il disinserimento della linea di contatto devono essere coordinati.
+I disinserimenti pianificati della linea di contatto vanno domandati in anticipo al servizio preposto del GI. La procedura corretta è indicata nelle prescrizioni esecutive del GI.
+
+3.2.7	Coordinamento dello sbarramento
+	
+	Se su binari sbarrati vi sono più aree di lavoro, un CS può essere designato quale COAL. Il COAL è responsabile per 
+–	il coordinamento dei lavori sulle diverse aree di lavoro per l’intera sezione di tratta interessata dallo sbarramento
+–	l’annuncio della prima area dei lavori per la quale viene richiesto lo sbarramento
+–	l’annuncio al CMOV responsabile circa la percorribilità della sezione dopo la fine di tutti i lavori.
+L’impiego di un COAL va stabilito in anticipo dalla DS.
+Lo sbarramento è ordinato in forma scritta una sola volta per l’insieme dei cantieri. Sull’annuncio va designato il COAL responsabile. Il COAL va informato anticipatamente in merito a tutti i lavori che si svolgono sui diversi cantieri. 
+Se su binari sbarrati vi sono più aree di lavoro e si svolgono contemporaneamente più movimenti di manovra, vi è da designare imperativamente un COAL.
+	
+3.3	Attuazione del DISPO 
+3.3.1	Orientamento del CS
+	
+	La DS garantisce che il CS sia informato e istruito sulle misure da adottare.
+	
+3.3.2	Verifica della situazione locale
+	
+	Il CS controlla se la situazione locale attuale è stata adeguatamente considerata nel DISPO e se le misure di sicurezza previste sono appropriate. Se necessario, il CS adegua il DISPO alle condizioni accertate e ne informa la DS.
+	
+3.3.3	Orientamento e istruzione
+	
+	Il CS orienta il personale in merito
+–	all’organizzazione e allo svolgimento dei lavori
+–	alle misure previste dal DISPO
+–	al significato esatto dei segnali d’allarme.
+Il CS istruisce i GS e le SENT per lo svolgimento delle loro funzioni.
+	
+
+3.3.4	Adozione delle misure di sicurezza
+	
+	Prima di intraprendere qualsiasi lavoro nella zona dei binari devono essere adempiute le seguenti condizioni: 
+–	sono state prese tutte le misure di sicurezza prescritte per un’efficace tutela del personale e dell’esercizio ferroviario e 
+–	sono state predisposte e controllate le attrezzature necessarie per l’applicazione delle misure di sicurezza. 
+	
+3.3.5	Sicurezza non più garantita
+	
+	Se la sicurezza sull’area dei lavori non è più garantita, p.es. 
+–	per un guasto o il mancato funzionamento di un sistema di avvertimento o
+–	per un improvviso cambiamento della situazione,
+si deve sgomberare la zona dei binari e avvisare il CS. I lavori possono essere proseguiti solo dopo aver eliminato la perturbazione e se il CS ha adottato corrispondenti misure di sicurezza.
+	
+3.4	Attuazione delle misure di sicurezza legate all’esercizio
+3.4.1	Principio
+	
+	Se devono essere prese misure di sicurezza legate all’esercizio, il CS prende contatto con il preposto CMOV. Insieme con la richiesta di misure di sicurezza legate all’esercizio, viene annunciata contemporaneamente anche l’area dei lavori. 
+Nelle sue disposizioni esecutive il GI può stabilire altri casi in cui deve avvenire un annuncio. Esso allestisce i formulari che servono al personale sull’area dei lavori per la messa in pratica delle misure di sicurezza legate all’esercizio.
+Quando sul medesimo binario sono già annunciate altre aree dei lavori, il CMOV ne avvisa i CS interessati.
+Se viene designato un COAL, questo risponde per la comunicazione con il CMOV. Tutti i lavori svolti sui diversi cantieri vanno annunciati al COAL, che li deve approvare.
+	
+3.4.2	Richiesta degli annunci
+	
+	Il CS deve richiedere al CMOV gli annunci con obbligo di protocollo. 
+	
+
+3.4.3	Richiesta di restrizioni d’esercizio
+	
+	Il CS deve richiedere al CMOV le restrizioni d’esercizio convenute con obbligo di protocollo.
+	
+3.4.4	Assicuramento nell’ambito di annunci e di restrizioni d’esercizio 
+	
+	Il CMOV deve assicurare l’area dei lavori secondo gli annunci e le restrizioni d’esercizio richiesti e confermare con obbligo di protocollo al CS l’effettività degli annunci e delle restrizioni d’esercizio concordati. 
+	
+3.4.5	Trasmissione di annunci
+	
+	Il CMOV trasmette al CS con obbligo di protocollo gli annunci convenuti sulla base delle CL-C applicate. Il CS annota nel formulario previsto gli annunci pervenuti.
+Se un’area dei lavori non può essere raggiunta, il CMOV deve prescrivere al MAC con obbligo di protocollo la corsa a vista su tutta la sezione assicurata per l’area di lavoro. 
+I movimenti di manovra in stazione sono avvisati con obbligo di quietanza.
+	
+3.4.6	Richiesta di sbarramento
+	
+	Il CS deve chiedere con obbligo di protocollo al CMOV l’introduzione dello sbarramento del binario convenuto. In particolare, il CS deve indicare il luogo (stazione / tratta) e la designazione precisa del binario / dello scambio.
+	
+3.4.7	Assicuramento dello sbarramento
+	
+	Il CMOV deve assicurare lo sbarramento richiesto e confermare con obbligo di protocollo al CS l’effettività dello sbarramento con il testo: «(Luogo), binario / scambio … sbarrato». 
+	
+3.4.8	Disinserimento di linee di contatto
+	
+	La procedura corretta per il disinserimento di linee di contatto è indicata nelle disposizioni «Inserimenti, disinserimenti e messa a terra delle linee di contatto».
+	
+
+3.4.9	Protezione
+	
+	Un’area dei lavori va protetta quando non è possibile assicurare lo sbarramento all’apparecchio centrale. 
+Un binario va protetto quando si effettuano ripetutamente entrate e uscite in stazione o sulla tratta.
+Il GI stabilisce in quali casi occorre proteggere.
+	
+3.5	Movimenti di manovra sul binario sbarrato 
+3.5.1	Autorizzazione del CS
+	
+	Per i movimenti di manovra su un binario sbarrato occorre l’auto­rizzazione del CS. 
+Prima che il CS dia al CMOV l’autorizzazione al movimento di manovra, si deve disporre o deve essere avvenuto l’avviso al CMAN in merito all’osservanza di misure particolari o alla soppressione della corsa a vista.
+	
+3.5.2	Misure particolari nell’ambito di un’area dei lavori
+	
+	Se nel settore di un’area dei lavori è necessario adottare misure particolari per i movimenti di manovra (p.es. quando si lavora senza GS), occorre avvisarne il CMAN. 
+	
+3.5.3	Soppressione della corsa a vista
+	
+	Fuori del settore dell’area dei lavori si può sopprimere la corsa a vista, purché ciò sia previsto nel DISPO.
+
+Sulla base della situazione attuale, il CS decide se tale soppressione sia possibile.
+La sezione di binario deve poter essere definita in maniera inequivocabile e l’area dei lavori ben riconoscibile.
+Se sul medesimo binario sono annunciate altre aree dei lavori, il CS deve intendersi con esse circa la soppressione della corsa a vista.
+	
+3.5.4	Avviso al CMAN 
+	
+	Prima di impartire il consenso per movimento di manovra, il CS avvisa con obbligo di quietanza il CMAN, per ogni singola corsa, in merito
+–	ai provvedimenti particolari da osservare nel settore delle aree dei lavori;
+–	alla sezione di binario sulla quale la corsa a vista è soppressa.
+3.6	Sorveglianza delle misure di sicurezza
+3.6.1	Compiti della DS
+	
+	La DS deve compiere regolarmente ispezioni delle aree dei lavori. In tale contesto, essa deve sorvegliare il rispetto e l’efficacia delle misure prese e, in caso di necessità, completarle. 
+	
+3.6.2	Compiti del CS
+	
+	Il CS deve sempre essere presente nell’area dei lavori. Il CS sorveglia il rispetto delle misure di sicurezza. Se durante l’esecuzione dei lavori subentrano nuove condizioni, il CS adegua il DISPO e ne informa la DS.
+	
+3.7	Soppressione delle misure di sicurezza legate all’esercizio
+3.7.1	Annuncio della percorribilità del binario
+	
+	Prima di annunciare la percorribilità di un binario sbarrato, sull’area dei lavori devono essere rimosse tutte le cause che rendono necessario uno sbarramento.
+Sono inoltre da rimuovere: 
+–	tutte le attrezzature di lavoro in modo che non costituiscano un pericolo e
+–	i segnali di fermata. 
+Inoltre, nei binari sbarrati non devono più trovarsi veicoli, fatta eccezione in stazione.
+Il CS annuncia al CMOV il binario percorribile con obbligo di protocollo.
+Se il binario è libero l’annuncio è il seguente: «(Luogo), binario / scambio ...  percorribile.»
+Se vi sono ancora binari occupati, l’annuncio è il seguente:
+«(Luogo), binario / scambio ... percorribile; rimangono occupati dei binari.». Le denominazioni dei binari occupati vengono trasmesse con obbligo di quietanza.
+Il CMOV elimina le misure di assicuramento connesse con lo sbarramento.
+	
+3.7.2	Soppressione di restrizioni d’esercizio
+	
+	Se le restrizioni d’esercizio non sono più necessarie, il CS deve avvisarne il CMOV con obbligo di protocollo. 
+Il CMOV elimina le misure di assicuramento adottate. 
+	
+
+3.7.3	Soppressione di annunci
+	
+	Se gli annunci non sono più necessari, il CS deve avvisarne il CMOV con obbligo di protocollo. 
+Il CMOV elimina le misure di assicuramento adottate.
+	
+3.7.4	Inserimento di linee di contatto
+	
+	La procedura corretta per l’inserimento di linee di contatto è indicata nelle disposizioni «Inserimenti, disinserimenti e messa a terra delle linee di contatto».
+	
+3.7.5	Annuncio di chiusura dell’area dei lavori
+	
+	Una volta eliminate tutte le misure di sicurezza legate all’esercizio, la fine dell’area dei lavori viene annunciata al CMOV. 
+	
+3.8	Fine dell’area dei lavori
+	
+	Al termine dei lavori, dopo aver sgomberato l’area dei lavori ed eliminato le misure di sicurezza, il CS chiude il cantiere.
+	
+
+
+4	Basi complementari 
+4.1	Impiego di GS e di SENT
+4.1.1	Pianificazione dei GS e delle SENT
+	
+	La DS pianifica l’impiego dei GS e delle SENT in modo tale che
+–	l’area dei lavori da proteggere possa essere osservata costan­temente 
+–	i segnali d’allarme possano essere dati in qualsiasi momento
+–	siano garantiti la possibilità di percepire i segnali d’allarme e il termine di sicurezza fissato. 
+Per adempiere le condizioni, o in loro vece, parti del sistema d’avver­timento possono essere completate da impianti di annuncio e di avvertimento o sostituite mediante sistemi d’avvertimento automatici.
+	
+4.1.2	Criteri di pianificazione
+	
+	La quantità e la posizione dei GS e delle SENT da impiegare sono determinate in base ai criteri seguenti:
+–	genere dei lavori da compiere
+–	attrezzature di lavoro impiegate
+–	rumori prodotti sull’area dei lavori e provenienti dall’ambiente circostante 
+–	effettivo del personale sull’area dei lavori
+–	visibilità sulla distanza d’approccio
+–	misure d’allarme previste. 
+La posizione della SENT va scelta in maniera tale che, in caso d’emergenza, la SENT abbia la possibilità di dare il segnale Fermata-Pericolo a una corsa.
+	
+
+4.2	Termine di sicurezza e distanza d’approccio
+4.2.1	Termine di sicurezza
+	
+	Il termine di sicurezza è il tempo necessario per l’avvertimento del personale sull’area dei lavori e lo sgombero della zona dei binari. Esso muta in funzione delle condizioni locali e del genere dei lavori. 
+Il termine di sicurezza dipende
+–	dai pericoli derivanti dal lavoro, dalle attrezzature di lavoro impiegate, dall’esercizio ferroviario e dal luogo di lavoro e
+–	dalle misure di sicurezza adottate.
+Il termine di sicurezza è fissato nel DISPO e dev’essere adeguato se cambiano le situazioni.
+	
+4.2.2	Composizione del termine di sicurezza
+	
+	Il termine di sicurezza costituisce la somma dei seguenti valori:
+–	tempo di reazione e tempo di trasmissione occorrenti alla SENT per individuare una corsa e annunciarne l’avvicinamento al GS,
+–	tempo di reazione e tempo d’avvertimento necessari al GS per individuare una corsa o per confermare l’annun­cio della SENT e avvertire l’area dei lavori,
+–	tempo di sgombero, intercorrente fra l’emissione dell’allarme e il completo sgombero della zona dei binari,
+–	un lasso di tempo aggiuntivo per gli imprevisti (margine di sicurezza supplementare).
+	
+4.2.3	Termine di sicurezza nel binario di lavoro
+	
+	Per le corse sul binario di lavoro il termine di sicurezza ammonta ad almeno 20 secondi.
+	
+4.2.4	Termine di sicurezza nel binario adiacente
+	
+	Il termine di sicurezza per le corse sul binario adiacente è di regola inferiore a quello sul binario di lavoro. 
+Se occorrono misure d’allarme per un binario adiacente, il termine di sicurezza non può essere inferiore a 10 secondi.
+	
+
+4.2.5	Distanza d’approccio
+	
+	La distanza d’approccio è il tragitto percorso dalla corsa durante il termine di sicurezza, ossia dal luogo in cui la corsa dev’essere avvistata o annunciata, fino al punto d’inizio dell’area dei lavori.
+	
+4.3	Limitazioni di velocità
+4.3.1	Tratti di rallentamento a protezione del personale
+	
+	Se necessario, sui binari adiacenti vanno predisposti tratti di rallenta­mento quale protezione del personale.
+Tali riduzioni di velocità vanno limitate alla lunghezza dell’area dei lavori e sono da sopprimere dopo ogni turno di lavoro, quando il personale ha lasciato l’area dei lavori.
+4.4	Sistemi d’avvertimento e segnali d’allarme
+4.4.1	Impianti di annuncio e d’avvertimento o sistemi d’avvertimento automatici 
+	
+	Il GI stabilisce i tipi di sistemi di annuncio e di avvertimento, o i sistemi di avvertimento automatici da impiegare e ne fissa le corrispondenti disposizioni d’uso. 
+	
+4.4.2	Sistemi d’avvertimento automatici senza GS
+	
+	I sistemi d’avvertimento automatici possono essere impiegati senza GS solo a condizione che 
+–	il personale non deve lavorare sui binari in esercizio e
+–	nessuna attrezzatura di lavoro possa costituire un pericolo. A tale riguardo va rispettato il profilo di spazio libero. 
+	
+4.4.3	Dispositivi d’allarme
+	
+	Il GI stabilisce i tipi di dispositivi d’allarme che si possono impiegare sulle aree dei lavori e ne fissa le corrispondenti disposizioni d’uso. 
+	
+4.4.4	Segnali d’allarme acustici
+	
+	I segnali d’allarme acustici possono essere completati, o in casi particolari sostituiti con dispositivi d’allarme ottici. 
+	
+
+4.4.5	Segnali d’allarme acustici completati da un allarme ottico
+	
+	L’allarme ottico è utilizzato a complemento dei segnali acustici emessi nell’area dei lavori.
+L’allarme ottico va impiegato in tutte le aree dei lavori vaste o, a dipendenza delle condizioni locali, rumorose.
+L’allarme ottico deve poter essere percepito dall’intero personale. Esso è attivato dal GS o da un impianto d’avvertimento, allorché una corsa si trova all’inizio della distanza d’approccio dell’area dei lavori e si disinserisce solo dopo che essa ha lasciato l’area dei lavori. 
+4.4.6	Allarme ottico senza segnali d’allarme acustici
+	
+	Il GI stabilisce nelle disposizioni esecutive in quali casi l’allarme ottico può sostituire i segnali d’allarme acustici (p.e. come lotta al rumore durante lavori notturni).
+Se l’area dei lavori è avvertita solo da allarmi ottici, allora il binario deve essere sbarrato.
+	
+4.4.7	Emissione del segnale d’allarme 1
+	
+	Il segnale d’allarme 1 viene emesso quando sul binario adiacente una corsa si avvicina a un’area dei lavori situata su un binario sbarrato.
+	
+4.4.8	Emissione del segnale d’allarme 2
+	
+	Il segnale d’allarme 2 è emesso quando sul binario di lavoro o su quello adiacente una corsa si avvicina a un’area dei lavori situata su o accanto a un binario in esercizio. 
+	
+4.4.9	Emissione del segnale d’allarme «Pericolo»
+	
+	Questo tipo di segnale va emesso solo in caso di assoluta necessità e di pericolo immediato. 
+	
+4.4.10	Binario d’esercizio senza misure d’allarme
+	
+	Su certe aree dei lavori, p.es. quelle situate sopra o sotto un binario e per le quali non sono necessarie misure d’allarme, ma dove il personale potrebbe essere colto di sorpresa, a titolo informativo può essere emesso il segnale d’allarme 2. 
+	
+
+
+5	Lavori nella zona dei binari in esercizio di tram
+5.1	Finalità
+	
+	Le misure di sicurezza da adottare sulle aree dei lavori nella zona dei binari hanno come fine:
+–	la protezione del personale sulle aree dei lavori dai pericoli derivanti dall’esercizio di tram, e
+–	la sicurezza dell’esercizio di tram nel settore delle aree dei lavori.
+	
+5.1.1	Pericoli importanti	
+		
+	Il personale che lavora nella zona dei binari è esposto in modo prevalente ai pericoli originati dalla circolazione dei tram, dagli impianti sotto tensione e dall’impiego delle attrezzature di lavoro. 
+L’esercizio di tram è messo in pericolo dai lavori svolti nella zona dei binari e, in particolare, dall’uso di macchine da costruzione.	
+	
+5.1.2	Principi di sicurezza
+	
+	Il personale impiegato deve poter svolgere il proprio lavoro senza essere costretto a prestare attenzione all’esercizio di tram. 
+Non appena il personale impiegato sull’area dei lavori riconosce il MAC o il CMAN di una corsa in avvicinamento, entra in contatto visivo con il MAC o il CMAN e segnala, alzando un braccio o facendo un altro chiaro segnale con la mano, se il treno deve fermarsi.
+	
+5.1.3	Responsabilità
+	
+	Il GI è responsabile che siano osservate le prescrizioni relative alle misure di sicurezza in relazione con i lavori nella zona dei binari, sia sulle aree di lavoro proprie, sia su quelle di committenti estranei alla ferrovia.
+	
+5.1.4	Personale di imprese private
+	
+	Il GI fissa nelle sue disposizioni esecutive quali compiti il personale di un’impresa privata può assumere e a quali condizioni può farlo.
+	
+
+5.2	Personale	
+		
+	Le misure di sicurezza vanno applicate prioritariamente rispetto a qualsiasi altro lavoro. Il personale dei GI e delle ITF adotta un comportamento conforme alle disposizioni sulla sicurezza del lavoro. 
+Se il personale sull’area dei lavori non viene informato in merito al DISPO dal RALT, deve informarsi dal RALT a tale riguardo all’inizio del lavoro.	
+5.2.1	Direzione responsabile della sicurezza (DS)
+	
+	La DS è il servizio che, sotto la responsabilità del GI, decide se sono necessarie misure di sicurezza. Se sono necessarie misure di sicurezza, la DS allestisce il DISPO con le misure di sicurezza del personale. Ciò include anche il necessario adeguamento all’avanzamento dei lavori.
+	
+5.2.2	Responsabile dell’area dei lavori tram (RALT)
+	
+	Il RALT è responsabile per l’applicazione delle misure di sicurezza sull’area dei lavori.
+	
+5.2.3	Personale del servizio del traffico	
+		
+	Il personale del servizio del traffico regola il traffico stradale e di tram secondo le regole della circolazione stradale. Sulle aree dei lavori per le quali sono disposte misure di sicurezza, questo avviene sotto la responsabilità del RALT.	
+		
+
+5.3	Decorso
+5.3.1	Valutazione del rischio
+	
+	La DS stabilisce, sulla base di una valutazione dei rischi, se sono necessarie misure di sicurezza. Se del caso, la DS fissa le misure di sicurezza atte a garantire l’incolumità del personale e la protezione dell’esercizio di tram.
+La scelta delle misure di sicurezza si basa su una valutazione dei rischi. A tale scopo la DS giudica i pericoli derivanti dall’esercizio di tram per l’area dei lavori prevista e viceversa. Misure di sicurezza devono essere valutate in particolare quando la sicurezza non può essere garantita in misura sufficiente dalla corsa a vista.  
+Nella valutazione dei pericoli occorre osservare i criteri qui elencati: 
+–	genere dei lavori
+–	impiego delle attrezzature di lavoro
+–	effettivo di personale
+–	luogo in cui si svolge il lavoro (in particolare gli effetti del traffico stradale e delle immediate vicinanze, ponti, gallerie, zona a cielo aperto)
+–	decorso della circolazione dei treni e dei movimenti di manovra
+–	velocità delle corse
+–	stato di commutazione degli impianti di alimentazione di corrente e della linea di contatto.
+	
+5.3.2	Necessità delle misure di sicurezza
+	
+	Le misure di sicurezza sono necessarie in particolare quando il personale e/o le attrezzature di lavoro possono invadere, in maniera volontaria o involontaria, la zona del binario e se l’area dei lavori non può essere sgombrata abbastanza rapidamente.
+	
+5.3.3	Lavori senza misure di sicurezza
+	
+	Per i lavori svolti senza misure di sicurezza non è necessaria alcuna ulteriore pianificazione dell’organizzazione di sicurezza e quindi non occorre un DISPO.
+	
+
+5.3.4	Misure di sicurezza
+	
+	Esistono i seguenti tipi di misure di sicurezza:
+–	misure di sicurezza organizzative, comprendenti la gestione degli altri utenti della circolazione che sono interessati dall’area dei lavori o dalle sue vicinanze.
+	Si tratta ad esempio di: servizio del traffico, modifiche alla direzione del traffico e riduzione della velocità per il traffico stradale, indirizzamento dei viaggiatori, barriere.
+–	misure di sicurezza tecniche, comprendenti tutti i provvedimenti di natura tecnica e costruttiva sull’area dei lavori.
+	Si tratta ad esempio di: sbarramenti, provvedimenti e limitazioni alle attrezzature di lavoro e ai macchinari, quale protezione nei confronti dell’esercizio di tram. 
+–	misure di sicurezza legate all’esercizio, comprendenti la riduzione della velocità, lo sbarramento di binari e di scambi, l’incuneamento o il vincolo di scambi, l’adattamento della segnalazione, la regolazione della circolazione dell’esercizio di tram.
+I binari / gli scambi vanno sbarrati se 
+–	lo esige la sicurezza del personale o dell’esercizio di tram, o
+–	i binari o gli scambi non sono percorribili in seguito a lavori di costruzione, riparazioni, manutenzione, pulizia, eventi naturali, infortuni o altre ragioni. 
+In particolare, lo sbarramento è necessario
+–	per lavori che comportano un’interruzione del binario stesso
+–	quando al binario devono essere montate attrezzature di lavoro che costituiscono un pericolo per le corse. A tale riguardo va rispettato il profilo di spazio libero.
+	I binari e gli scambi sbarrati sono sempre coperti sul posto da segnali di fermata.
+–	dispositivi d’allarme
+	Di regola le aree dei lavori sono predisposte in modo da evitare l’impiego di dispositivi d’allarme e di sistemi di annuncio e di avvertimento. Se eccezionalmente vengono utilizzati dispositivi d’allarme, si devono impiegare i segnali secondo le norme per l’esercizio ferroviario.
+	
+
+5.3.5	Allestimento del DISPO per aree dei lavori con misure di sicurezza
+	
+	Il GI stabilisce nelle sue disposizioni esecutive la forma e il contenuto del DISPO. 
+Il DISPO contempla tutte le misure scelte dalla DS per la rispettiva area dei lavori. 
+Per i lavori pianificabili, il DISPO è allestito in forma scritta sulla base di una valutazione dei rischi. Sull’area dei lavori, esso è conservato dal RALT. 
+Nel caso di lavori a breve termine, ad es. per l’eliminazione di una perturbazione, i GI possono allestire DISPO standardizzati con misure di sicurezza standard.
+	
+5.3.6	Attuazione del DISPO, informazione del RALT
+	
+	La DS garantisce che il RALT sia informato o istruito sulle misure da adottare.
+	
+5.3.7	Verifica della situazione locale	
+		
+	Il RALT controlla se la situazione locale attuale è stata adeguatamente considerata nel DISPO e se le misure di sicurezza previste sono appropriate. Se necessario, il RALT adegua il DISPO alle condizioni accertate e ne informa la DS.	
+	
+5.3.8	Orientamento e istruzione
+	
+	Il RALT orienta il personale in merito 
+–	all’organizzazione e allo svolgimento dei lavori, e
+–	alle misure previste dal DISPO.
+	
+5.3.9	Adozione delle misure di sicurezza
+	
+	I GI fissano nelle prescrizioni d’esercizio i casi in cui sono necessari un annuncio e un’intesa con la centrale di comando. 
+Prima di intraprendere qualsiasi lavoro nella zona dei binari devono essere adempiute le seguenti condizioni:
+–	sono state prese tutte le misure di sicurezza prescritte per un’efficace tutela del personale e dell’esercizio di tram, e
+–	sono state predisposte e controllate le attrezzature necessarie per l’applicazione delle misure di sicurezza.
+	
+5.3.10	Sicurezza non più garantita
+	
+	Se la sicurezza sull’area dei lavori non è più garantita, i lavori vanno interrotti immediatamente e il RALT dev’essere avvisato I lavori possono essere proseguiti solo dopo aver eliminato la perturbazione e se il RALT ha adottato corrispondenti misure di sicurezza.
+	
+5.3.11	Movimenti di manovra sul binario sbarrato	
+		
+	Per i movimenti di manovra su un binario sbarrato occorre l’autorizzazione del RALT. Il GI disciplina il modo di procedere, i provvedimenti particolari e l’informazione nel singolo caso.	
+	
+5.3.12	Sorveglianza delle misure di sicurezza
+	
+	La DS deve compiere regolarmente ispezioni delle aree dei lavori. In tale contesto, essa deve sorvegliare il rispetto e l’efficacia delle misure prese e, in caso di necessità, completarle. 
+Il CS deve essere presente nell’area dei lavori secondo le disposizioni del DISPO. Il RALT sorveglia il rispetto delle misure di sicurezza. Se durante l’esecuzione dei lavori subentrano nuove condizioni, il RALT adegua il DISPO e ne informa la DS.
+	
+5.3.13	Soppressione delle misure di sicurezza legate all’esercizio	
+		
+	Le misure di sicurezza legate all’esercizio non più necessarie devono essere revocate. Il GI disciplina il coinvolgimento della centrale di comando. 
+Prima che il RALT annunci la percorribilità di un binario sbarrato, sull’area dei lavori devono essere rimosse tutte le cause che rendono necessario uno sbarramento. Se occorre, il RALT coinvolge prima le persone specializzate secondo le disposizioni del GI. 
+Tutte le attrezzature di lavoro devono inoltre essere rimosse in modo da non costituire un pericolo. In seguito vanno eliminati i segnali di fermata.	
+	
+5.3.14	Fine e annuncio di chiusura dell’area dei lavori
+	
+	I GI disciplinano in quali casi sia necessario annunciare la percorribilità o la chiusura dell’area dei lavori alla centrale di comando. 
+Al termine dei lavori, dopo aver sgomberato l’area dei lavori ed eliminato le misure di sicurezza, il RALT chiude il cantiere.
+	
+

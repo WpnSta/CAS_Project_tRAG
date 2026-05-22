@@ -2,7 +2,7 @@
 .venv/
 
 # Data (raw source documents — distribute separately)
-data/
+#data/
 
 # Vector databases (rebuilt by running the notebooks)
 chroma_db_de/

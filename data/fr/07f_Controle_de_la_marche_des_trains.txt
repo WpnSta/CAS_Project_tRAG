@@ -1,0 +1,105 @@
+﻿Chemins de fer suisses	R 300.7
+
+
+
+Contrôle de la marche des trains
+
+
+1	Champ d’application
+	
+	Ce règlement s’applique à tous les chemins de fer équipés d’un système de contrôle de la marche des trains.
+Les systèmes standardisés sont décrits dans les annexes à ce règlement. Cela est également valable pour les systèmes de signalisation avec des fonctions de contrôle de la marche des trains intégrées.
+Pour les systèmes qui ne sont pas décrits dans les annexes du présent règlement, les GI règlent dans leurs prescriptions d’exploitation l’effet des fonctions du système pour les ETF et les éventuelles restrictions d’exploitation en cas de dérangement.
+	
+
+
+2	Principes de base
+2.1	But
+	
+	Le contrôle de la marche des trains fonctionne principalement en arrière-plan et assiste le MEC dans le but d’éviter le dépassement de la fin de l’assentiment de circuler et les dépassements de vitesse. Il permet également de s’assurer que le MEC a perçu activement les informations déterminantes pour la sécurité transmises par les signaux.
+	
+2.2	Types de surveillance
+	
+	Le contrôle de la marche des trains assure une surveillance ponctuelle ou continue en dépendance avec le système installé, assorti à l’infrastructure ainsi qu’à la densité et au genre de trafic.
+	
+2.3	Contrôles
+	
+	Le fonctionnement de l’équipement se trouvant sur les véhicules moteurs et les voitures de commande doit être contrôlé au moins une fois par jour, conformément aux consignes édictées par les ETF. Le résultat de ces contrôles doit être protocolé.
+	
+2.4	Fonctionnement
+	
+	Le contrôle de la marche des trains agit sur le système de freinage et sur la logique de commande des véhicules concernés.
+Les informations de l’infrastructure sont transmises au calculateur du véhicule au travers de l’équipement fixe (balises, aimants, câble rayonnant). Le véhicule reçoit les informations par un récepteur.
+	
+
+	
+
+3	Fonctions	
+3.1	Généralités	
+		
+	Le contrôle de la marche des trains agit sur le véhicule conduisant le train, que ce soit en conduite directe ou indirecte, au moyen de fonctions standardisées.	
+		
+3.2	Données nécessaires	
+		
+	Certaines fonctions utilisent des courbes de freinage. Celles-ci sont calculées en fonction des données de la voie (fonction active, distance, vitesse au but, déclivité, etc.) et des données du convoi (catégorie de train, rapport de freinage, vitesse maximale, longueur du train, etc.).
+Les données de la voie sont programmées selon la fonction voulue. Elles peuvent être fixes ou variables (en fonction de l’image des signaux, de la position des éléments de protection, etc.). Les données du véhicule sont saisies par le MEC au moyen d’une interface utilisateur.	
+		
+3.3	Description des fonctions	
+		
+	En principe, on distingue les fonctions principales suivantes :
+–	arrêt 
+–	arrêt de manœuvre
+–	avertissement
+–	surveillance
+–	de la vitesse maximale
+–	du train
+–	du mode d’exploitation
+–	du tronçon
+–	du mouvement de manœuvre
+–	de la courbe de freinage
+–	de la vitesse au but
+–	empêchement au départ
+–	surveillance de la commutation adhérence/crémaillère.
+	
+3.3.1	Arrêt	
+		
+	La fonction « Arrêt » provoque un serrage imposé lors de la réception du télégramme correspondant. Cette fonction est utilisée au niveau des signaux principaux et pour la protection d’installations de passage à niveau. Il s’agit d’une surveillance ponctuelle.
+
+La fonction « Arrêt de manœuvre » est une variante de la fonction 
+« Arrêt » et provoque un serrage imposé si le véhicule se trouve en mode manœuvre lors de la réception du télégramme correspondant.	
+		
+3.3.2	Avertissement	
+		
+	La fonction « Avertissement » rend attentif le MEC par un signal optique et/ou acoustique à une réduction de vitesse lors de la réception du télégramme correspondant ou lorsqu’une courbe de surveillance est atteinte. Si le MEC ne réagit pas, un serrage imposé, respectivement un serrage par le système, réduit la vitesse du train afin d’éviter le dépassement de la fin de l’assentiment pour circuler ou le franchissement d’une zone à vitesse réduite à une vitesse inadaptée. Il peut s’agir d’une surveillance ponctuelle ou continue.	
+		
+3.3.3	Surveillances	
+		
+	Pour la surveillance des vitesses, les données du train et du tronçon parcouru sont accordées.
+Le dépassement de la vitesse maximale autorisée provoque un serrage imposé, respectivement un serrage par le système, qui peut être précédé d’un signal optique et/ou acoustique. En cas d’absence de réaction du MEC, cela provoque un serrage de circonstance.
+–	Surveillance de la vitesse maximale
+concerne selon les cas la vitesse maximale autorisée du train, du tronçon de ligne, du mode d’exploitation ou du mouvement de manœuvre.
+–	Surveillance de la courbe de freinage
+dans le cas d’une réduction de vitesse ou lorsqu’un signal indique l’image arrêt, la courbe de freinage est surveillée de manière continue en fonction des données du train et du parcours. 
+–	Surveillance de la vitesse au but
+une vitesse déterminée peut être surveillée, indépendamment d’une courbe de freinage.	
+		
+3.3.4	Empêchement au départ	
+		
+	L’empêchement au départ permet d’éviter que, en cas de signal indiquant l’image arrêt, le train au départ atteigne le point dangereux. Le contrôle de la marche des trains fonctionne au moyen d’un groupe de balises ou d’une boucle. Selon la méthode utilisée, le train est freiné dès qu’il se gare ou lors du franchissement des balises. Un signal sonore et/ou optique peut d’abord être émis, suivi d’un serrage imposé.	
+		
+3.3.5	Surveillance lors de la commutation adhérence/crémaillère	
+		
+	Le système surveille si le commutateur de régime « adhérence-crémaillère » se trouve dans la position correspondante. L’appareil embarqué provoque un serrage imposé si le commutateur de régime n’est pas placé dans la position correcte dans le délai imparti. 	
+		
+
+
+4	Dérangements
+4.1	Généralités
+	
+	En cas de dérangement du contrôle de la marche des trains, il faut procéder selon les dispositions « Dérangement aux équipements de sécurité des trains ».
+	
+4.1.1	Dérangement d’un système de contrôle de la marche des trains du véhicule menant
+	
+	Lorsque le système de contrôle de la marche des trains est en dérangement, il est permis de circuler sans restriction si les fonctions prévues pour l’infrastructure parcourue sont garanties par un autre système de contrôle de la marche des trains. 
+
+

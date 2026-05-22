@@ -1,0 +1,667 @@
+﻿Ferrovie svizzere	R 300.6
+
+
+
+Corse dei treni
+
+
+
+
+1	Principi per le corse dei treni
+1.1	Disposizione e svincolo del percorso
+	
+	Tenuto conto dei processi d’esercizio, i percorsi vengono definiti e disposti mediante i rispettivi impianti di sicurezza e vincolati così da impedire un azionamento involontario tramite l’apparecchio centrale. In seguito i segnali sono disposti su via libera. Dopo essere stati percorsi, i segnali sono disposti su fermata, i percorsi vengono svincolati e l’arrivo del treno, assicurato tramite il blocco, annunciato.
+Questo avviene interamente o in parte in maniera automatica per mezzo degli apparecchi centrali, all’occorrenza con l’ausilio di un sistema di guida dei treni. Gli interventi manuali sugli impianti di sicurezza sono compiuti dal CMOV.
+	
+1.1.1	Sorveglianza del comando automatico 	
+		
+	Il CMOV deve sorvegliare il corretto funzionamento del sistema di guida dei treni e del comando automatico. Se del caso, si deve intervenire manualmente.
+In esercizio regolare si può rinunciare a questa sorveglianza, a condizione che sia garantito il rispetto delle norme d’esercizio. Oltre a ciò, nell’eventualità di perturbazioni o di eventi si deve assicurare l’intervento o la messa in allarme dei rispettivi servizi.	
+		
+1.1.2	Verifica del percorso
+	
+	Prima di disporre un itinerario si deve verificare se: 
+–	l’itinerario da percorrere è libero
+–	non sono in corso movimenti di manovra e altre corse treno che mettono in pericolo il treno
+–	gli scambi sono nella giusta posizione 
+–	i segnali di manovra indicano l’immagine del segnale corrispondente
+–	gli impianti di passaggio a livello sorvegliati sui quali si deve transitare sono inseriti. 
+Se questa verifica non è effettuata dagli apparecchi centrali, la stessa incombe al CMOV.	
+	
+
+1.1.3	Svincolo dei percorsi senza il pulsante di soccorso
+	
+	In stazione il percorso treno può essere svincolato se si è constatato che nessun percorso può essere disposto involontariamente in questa sezione e gli scambi e i passaggi a livello sorvegliati nel percorso sono stati percorsi e poi liberati, o dopo che il treno si è fermato anche se scambi o passaggi a livello sorvegliati restano occupati.
+Se non sono verificate dall’apparecchio centrale, le relative condizioni devono essere controllate dal CMOV.
+	
+1.1.4	Svincolo dei percorsi con il pulsante di soccorso	
+		
+	Un percorso treno può essere svincolato dal CMOV con il pulsante di soccorso, se
+–	nessun treno è coinvolto o
+–	il treno coinvolto si è fermato ed è stato accertato che non prosegue la corsa o
+–	il treno coinvolto ha lasciato completamente il percorso. Inoltre bisogna procedere secondo le disposizioni del «Processo chiave in caso di perturbazioni» 	
+		
+1.1.5	Annuncio d’arrivo dei treni 	
+		
+	L’arrivo di un treno può essere annunciato solo quando esso ha oltrepassato completamente l’ultimo segnale principale della rispettiva sezione di blocco e quest’ultimo è stato nuovamente disposto su fermata.
+	
+1.2	Osservanza dei segnali
+	
+	Il MAC deve osservare i segnali per lui valevoli.
+Quando il MAC incontra segnali su posizione di fermata, deve arrestare il treno. 
+Un treno che non può essere arrestato davanti a un segnale su posizione di fermata, può essere mosso dopo l’arresto solo con l’autorizzazione del CMOV.  
+		
+1.2.1	Segnale principale su fermata 	
+		
+	Quando senza motivo evidente un segnale principale non si dispone su via libera, il MAC deve annunciarsi al CMOV.	
+
+1.2.2	Nessun segnale avanzato 	
+		
+	Se non c’è un segnale avanzato, il MAC deve sempre attendersi la fermata al prossimo segnale principale.	
+	
+	1.3	Consenso per la corsa	
+			
+		Per ogni treno è necessario un consenso per la corsa.	
+			
+	1.3.1	Accordare il consenso per la corsa 	
+			
+		Il CMOV accorda il consenso per la corsa al MAC con la disposizione su via libera del segnale principale.	
+			
+	1.3.2	Validità del consenso per la corsa	
+			
+		Il consenso per la corsa è valido 
+–	sulla tratta sino al prossimo segnale principale
+–	in stazione sino alla fermata. Se non esiste il consenso di circolare nel/sino al prossimo settore, il MAC può muovere il treno solo con il consenso del CMOV, soggetto a quietanza.
+Il GI regola la procedura, se sono previste più di una fermata per treni all’interno del medesimo settore.	
+			
+	1.3.3	Annullamento del consenso per la corsa	
+			
+		Se deve annullare il consenso per la corsa a causa di motivi d’esercizio, il CMOV avvisa il MAC con obbligo di quietanza prima dell’annullamento. Se nessun treno si trova nei pressi del segnale avanzato o principale o davanti a tali segnali, si può rinunciare all’avviso. 	
+			
+	1.3.4	Consenso per la corsa su tratte prive di segnali principali	
+			
+		Il consenso per la corsa viene dato a MAC come segue:
+–	mediante l’orario, o 
+–	mediante l’orario di marcia, o
+–	mediante l’Ordine di incrocio e sorpasso, o 
+–	verbalmente o per telefono, soggetto a quietanza, dal CMOV.
+I GI devono disciplinare nelle loro prescrizioni d’esercizio la procedura per il rilascio, la validità e le condizioni per una revoca del consenso per la corsa, prendendo in considerazione le regole sovrane esistenti circa il posto di fermata più lontano. 	
+			
+1.4	Utilizzazione del binario	
+		
+	Di principio, i binari possono essere utilizzati liberamente. 	
+		
+1.4.1	Utilizzazione dei binari in stazione	
+		
+	I treni con trasporto di viaggiatori e con fermata prescritta devono utilizzare i binari dotati di marciapiede. 	
+		
+1.4.2	Utilizzazione dei binari sulla tratta 	
+		
+	Sulle tratte a doppio binario dotate di dispositivo per esercizio a semplice binario, di regola bisogna utilizzare il binario sinistro. 
+La dotazione della singola tratta viene contrassegnata nella tabella delle tratte. 	
+			
+1.5	Passaggio da corsa treno a movimento di manovra 	
+		
+	Prima del passaggio da corsa treno a movimento di manovra si deve sempre eseguire una fermata.	
+	
+
+2	Soglia di velocità	
+2.1	Cambiamento della velocità	
+2.1.1	Riduzione della velocità	
+		
+	In caso di riduzione della velocità, la velocità più bassa deve essere raggiunta quando la testa del treno percorre la soglia di velocità.	
+		
+2.1.2	Aumento della velocità	
+		
+	In caso di aumento della velocità, il treno non deve essere accelerato fin quando la coda del treno non ha percorso la soglia di velocità.	
+		
+2.1.3	Treni con rapporto di frenatura ridotto	
+		
+	Nel caso di treni con rapporto di frenatura ridotto può accadere che la velocità prescritta per la tratta sia inferiore a quella prescritta per la stazione o indicata dal segnale per treni. In tali casi fa stato la velocità di tratta più alta.	
+		
+2.2	Soglia di velocità in caso di via libera	
+2.2.1	Principio
+	
+	Se i segnali per treni mostrano via libera o avviso di via libera, le velocità vanno sempre desunte dalla tabella delle tratte.
+	
+2.2.2	Soglia di velocità in stazione 
+	
+	Se sul lato d’entrata la velocità in stazione è diversa dalla velocità di tratta, la soglia di velocità si trova:
+    • al primo scambio oppure 
+    • circa a 200 m dopo il segnale d’entrata, se nel binario interessato non ci sono scambi.
+Se sul lato d’uscita la velocità in stazione è diversa dalla velocità di tratta, la soglia di velocità si trova:
+    • all’ultimo scambio oppure
+    • al segnale d’uscita, se nel binario interessato non ci sono scambi.
+
+	Se la velocità d’entrata è diversa da quella d’uscita, la soglia di velocità si trova:
+    • a metà del marciapiede del binario percorso oppure 
+    • a metà del fabbricato viaggiatori o, se manca il marciapiede, al centro della stazione;
+la sezione senza scambi né curve fra il lato d’entrata e il lato d’uscita può essere percorsa alla velocità più alta fra le due velocità di stazione. 
+Se nella colonna di stazione della tabella delle tratte, per l’entrata e l’uscita sono indicate due o più velocità scalari, la posizione delle soglie di velocità deve essere regolata dal GI nelle prescrizioni d’esercizio. 
+Se in stazione non sono prescritte velocità, in caso di via libera fra il primo e l’ultimo scambio vale la velocità di tratta più elevata ammessa prima della stazione o dopo la stessa.
+	
+2.2.3	Soglia di velocità a una fermata 
+	
+	La soglia di velocità si trova a metà del marciapiede del binario percorso.
+Per le curve prima o dopo la fermata, la soglia di velocità si trova a metà del marciapiede del binario percorso.
+	
+2.3	Soglia di velocità in caso di velocità segnalata 
+2.3.1	Principio
+	
+	Una velocità si considera come segnalata se un segnale per treni non mostra né l’immagine di via libera né Avviso di via libera.
+Un segnale ripetitore non vale mai come soglia di velocità.
+	
+2.3.2	Inizio della velocità segnalata
+	
+	La velocità segnalata con un segnale per treni vale a partire dal segnale per treni successivo.
+La velocità da eseguire segnalata ad un segnale per treni vale a partire da questo stesso segnale per treni. 
+Fanno eccezione,
+    • i segnali d’entrata del sistema L, se al segnale precedente una tavola di avviso rimanda alla soglia di velocità al primo scambio.
+    • se vi sono scambi prima del segnale di gruppo, la soglia di velocità si trova al primo scambio percorso sul lato d’uscita.
+Le soglie di velocità deroganti da queste norme sono regolamentate nelle prescrizioni d’esercizio dal GI.
+2.3.3	Cambiamento o fine della velocità segnalata
+	
+	Una velocità segnalata vale fino al prossimo segnale per treni o, nel caso di sistema di segnali N, fino alla tavola d’orientamento della velocità di tratta.
+Se il prossimo segnale per treni mostra una velocità più alta o se vi è una tavola d’orientamento della velocità di tratta, si può accelerare se 
+–	l’immagine del segnale o la tavola d’orientamento della velocità di tratta e l’appartenenza al rispettivo binario sono state riconosciute chiaramente e 
+–	la coda del treno ha liberato gli scambi in deviazione e 
+–	la testa del treno ha percorso l’ultimo scambio della sezione e 
+–	nessun controllo della marcia dei treni sorveglia una velocità più bassa,
+al massimo fino 
+–	alla velocità segnalata oppure 
+–	alla velocità da eseguire, a condizione che nel medesimo luogo non venga segnalata una velocità più bassa.
+Trattandosi dell’ultimo segnale per treni del sistema di segnali L sul lato d’uscita o prima del posto di cambio di binario, si può accelerare se 
+–	la coda del treno ha liberato gli scambi in deviazione e
+–	la testa del treno ha percorso l’ultimo scambio della stazione o il posto di cambio di binario.
+Se un segnale per treni che indica l’immagine avvertimento o preavvertimento è seguito da un segnale per treni indicante l’immagine avvertimento o preavvertimento, è possibile di accelerare al massimo alla velocità di 40 km/h. Le ferrovie a scartamento ridotto possono prescrivere velocità inferiori.
+		
+
+		
+3	Partenza	
+3.1	Principio	
+		
+	Se le condizioni per la partenza di un treno sono adempiute, si deve iniziare la corsa, oppure proseguirla dopo una fermata. 	
+		
+3.1.1	Condizioni per la partenza del treno 	
+		
+	Il MAC che ha ricevuto il consenso per la corsa può partire solo quando 
+–	la preparazione del treno è terminata  
+–	le porte sono chiuse
+e per quanto necessario
+–	è realizzata la prontezza sotto il profilo del servizio alla clientela 
+–	è stato accordato il permesso di partenza.	
+		
+3.2	Momento per accordare il consenso per la corsa
+	
+	Con riguardo all’opportunità dell’esercizio, il CMOV deve dare il consenso per la corsa in modo tale che sia possibile circolare in tempo.
+Nelle stazioni o parti di stazione designate dal GI nelle disposizioni esecutive, il consenso per la corsa può essere dato solo dopo aver ricevuto l’annuncio dell’avvenuta preparazione del treno.  
+Qualora, senza motivi evidenti, il consenso per la corsa non può essere dato in tempo, il CMOV, per quanto possibile, ne avvisa il MAC.
+	
+3.3	Consenso per la corsa ai segnali di gruppo
+	
+	Se i segnali di gruppo sono dotati di una segnalazione complementare, quest’ultima dev’essere osservata in aggiunta al consenso per la corsa. Come segnalazione complementare si utilizzano tavole di fermata per segnali di gruppo combinate con avvisatore di via libera oppure con la tavola indicatrice d’immagine, segnali bassi, indicatori del numero di binario oppure frecce d’indicazione per segnale di gruppo. 
+Se la testa di un treno a un segnale di gruppo indicante fermata, si trova fra la tavola di fermata per segnale di gruppo e il segnale di gruppo, il MAC deve avvisare il CMOV con obbligo di quietanza in merito alla posizione del treno. Il modo di procedere ulteriore dipende dalle disposizioni relative ai segnali di gruppo non dotati di segnalazione complementare.
+	
+
+3.3.1	Segnali di gruppo dotati di segnalazione complementare
+	
+	Il consenso per la corsa da un segnale di gruppo su posizione di via libera è valevole con la seguente segnalazione complementare: 
+–	tavola di fermata per segnale di gruppo con avvisatore di via libera illuminato, oppure
+–	tavola di fermata per segnale di gruppo con tavola indicatrice d’immagine. L’immagine del segnale di gruppo deve corrispondere con la tavola indicatrice d’immagine, oppure
+–	segnale basso su posizione di via libera, oppure
+–	indicatore del numero di binario illuminato per il corrispondente binario di appartenenza, oppure
+–	freccia d’indicazione per segnale di gruppo illuminata per il corrispondente binario di appartenenza. 
+Negli impianti dotati di segnali bassi e di avvisatori della posizione di via libera, il segnale basso deve mostrare via libera e l’avvisatore della posizione di via libera deve essere illuminato.
+Se il consenso per la corsa è accertato già al segnale avanzato, i MAC di treni senza fermata prescritta possono ignorare la segnalazione complementare al segnale di gruppo.
+		
+3.3.2	Segnale di gruppo dotato di segnale basso	
+		
+	Prima della partenza il MAC deve accertare che fra la testa del treno e il segnale di gruppo, tutti i segnali bassi attribuiti al suo binario mostrino via libera. Se tra la testa del treno e il prossimo segnale basso ci sono scambi o incroci non occupati, si deve accertare la posizione di via libera del segnale basso retrostante. 
+Se questi controlli non possono essere eseguiti, il MAC deve prendere contatto con il CMOV. Si può tralasciare la presa di contatto, se l’avvisatore della posizione di via libera è illuminato o se un permesso di partenza è stato trasmesso mediante un segnale fisso del permesso di partenza per il rispettivo binario.	
+		
+3.3.3	Segnale di gruppo senza segnalazione complementare
+	
+	Se in una stazione occupata sul posto ci sono più treni pronti per la partenza, prima di disporre il segnale di gruppo su via libera il CMOV deve avvisare, con obbligo di quietanza, i MAC che non devono partire in merito a questa situazione. Tale avviso è ugualmente necessario prima che un segnale di gruppo sia disposto su via libera per un treno in transito.
+		
+
+3.4	Prontezza sotto il profilo del servizio alla clientela	
+		
+	La prontezza sotto il profilo del servizio alla clientela è realizzata quando lo scambio dei viaggiatori e il carico e lo scarico sono terminati nonché quando è giunta l’ora della partenza o è ammessa la circolazione anticipata. Per la partenza del treno è determinante l’orologio della stazione. I treni il cui l’orario non è pubblicato possono circolare in anticipo. 
+Se è prevedibile che la prontezza sotto il profilo del servizio alla clientela non può essere allestita per tempo, il MAC ne avvisa il CMOV. Tale avviso avviene il più presto possibile, di regola prima che venga dato il consenso per la corsa.	
+		
+3.5	Permesso di partenza	
+3.5.1	Principio	
+		
+	Nei casi seguenti, nella stazione di origine del treno o dopo una fermata prescritta è necessario un permesso di partenza:
+–	da parte dell’ACCT per i treni scortati, oppure 
+–	da parte del CMOV per determinati treni contrassegnati nell’orario di marcia o nella tabella delle tratte oppure
+–	da parte del CMOV per le stazioni, parti di esse o binari isolati.	
+	
+3.5.2	Impartire il permesso di partenza	
+		
+	Prima di impartire il permesso di partenza da parte dell’ACCT o del CMOV, occorre verificare che vi sia il consenso per la corsa e sia stata allestita la prontezza sotto il profilo del servizio alla clientela.
+Il permesso di partenza viene dato secondo le prescrizioni sui segnali, oppure con obbligo di quietanza con l’ordine: «Treno …. partire». 
+Se esistono mezzi dipendenti dal segnale (per es. segnali fissi o sistemi SMS) per impartire il permesso di partenza, questi devono essere utilizzati.	
+		
+
+	3.6	Consenso per la corsa in stazione senza visibilità sul segnale principale
+	3.6.1	Conferma dell’esistenza del consenso per la corsa 
+		
+		Se nella stazione non può vedere il prossimo segnale principale, il MAC deve avere conferma che è stato dato il consenso per la corsa.
+Quale conferma vale:
+–	al relativo segnale di ripetizione è visibile il consenso per la corsa o
+–	l’avvisatore della posizione di via libera del binario è illuminato o
+–	la testa del treno si trova dopo il segnale d’uscita e
+–	il MAC ha potuto accertare il consenso per la corsa precedentemente al segnale d’uscita la cui immagine non segnalava corsa breve e
+–	il MAC non ha oltrepassato alcun segnale indicante avvertimento o
+–	sussiste il permesso di partenza impartito con mezzi dipendenti dal segnale (p. es. segnali fissi o sistemi SMS).
+Se non vi è alcuna di queste conferme, al MAC occorre una conferma con obbligo di quietanza da parte del CMOV, che esiste un consenso per la corsa. In caso di necessità il MAC domanda tale conferma al CMOV.
+	
+3.6.2	Velocità massime
+	
+	Se è stato dato:
+–	il permesso di partenza impartito con mezzi dipendenti dal segnale (p. es. segnali fissi o sistemi SMS), o 
+–	la conferma con quietanza da parte del CMOV 
+la velocità massima è limitata a 40 km/h e al prossimo segnale principale vi è da attendersi fermata.
+Se l’avvisatore della posizione di via libera è illuminato, la velocità massima è di 40 km/h.
+Se il consenso per la corsa è visibile al segnale di ripetizione, o venne costatato al segnale d’uscita precedente, la velocità massima è determinata dall’immagine indicata o dall’immagine costatata precedentemente.
+Se esistono più conferme, può essere applicata la disposizione meno restrittiva.
+In tutti i casi, per un eventuale aumento ammesso della velocità si devono osservare le disposizioni concernenti la «soglia di velocità».  
+3.7	Partenza da una fermata senza visibilità sul segnale principale
+	
+	Se a una fermata, il MAC non ha la visibilità sul segnale principale e le ulteriori condizioni per la partenza sono adempiute, il MAC può partire. In questo caso occorre considerare anche l’immagine segnalata al segnale precedente.  
+	 
+
+
+
+	4	Corsa
+4.1	Avvisatore della posizione di via libera
+	
+	Se dopo aver oltrepassato un segnale avanzato che mostra avvertimento, il rispettivo avvisatore della posizione di via libera del binario da percorrere è illuminato, si deve proseguire la corsa alla velocità massima di 40 km/h fino a quando non viene riconosciuta la posizione di via libera del segnale principale. 
+		
+	4.2	Circolazione su sezioni a velocità ridotta 
+	4.2.1	Riduzione fissa della velocità 
+	
+		Le sezioni di binario da percorrere in modo permanente a velocità massima ridotta, sono contrassegnate con tavole di velocità.
+		
+	4.2.2	Tratti di rallentamento
+		
+		Le sezioni di binario che devono essere percorse temporaneamente con riduzione della velocità massima, vengono contrassegnate con segnali di rallentamento.
+		
+	4.2.3	Comunicazione
+		
+		Il GI deve annunciare la posa e la rimozione dei segnali di rallentamento, la loro posizione chilometrica e la velocità massima ammessa. Le ITF avvisano i MAC. Questi devono portare con sé le singole disposizioni o una distinta dei tratti di rallentamento.
+		
+	4.2.4	Termine di notifica
+		
+		La posa dei segnali di rallentamento deve essere notificata dapprima alle ITF secondo il termine fissato dal GI nelle disposizioni esecutive, affinché esse possano avvisarne tempestivamente i MAC. La rimozione dei segnali deve essere notificata il più presto possibile, affinché i MAC ne prendano conoscenza prima che i segnali siano tolti.
+		
+
+	4.2.5	Mancato rispetto del termine di notifica
+		
+		Se il termine di notifica non è rispettato, il GI deve avvisare le stazioni vicine al tratto di binario interessato, nonché le ITF interessate, in merito alla posizione dei segnali di rallentamento, come pure in merito alla velocità di corsa ammessa. Fino alla scadenza del termine di notifica queste stazioni devono comunicare ai MAC, con obbligo di protocollo, la posizione dei segnali ed eventualmente la velocità ammessa. 
+		
+	4.2.6	Segnali di rallentamento non posati 
+		
+		Quando una sezione di binario deve essere percorsa temporaneamente con riduzione della velocità massima prima che i segnali di rallentamento siano stati posati, il CMOV deve avvisare il MAC con obbligo di protocollo, in merito: 
+–	alla situazione della sezione da percorrere 
+–	alla velocità massima ammessa 
+–	alla mancanza dei segnali di rallentamento.
+Dal segnale principale, dalla stazione o dalla fermata precedente fino al tratto di rallentamento si deve prescrivere la velocità massima seguente:
+–	40 km/h, se il tratto di rallentamento deve essere percorso a 40 km/h o a una velocità inferiore oppure
+–	alla velocità ammessa per il tratto di rallentamento se essa è superiore a 40 km/h.
+		
+	4.2.7	Riduzione della velocità 
+		
+		Se, il CMOV deve avvisare il MAC con obbligo di protocollo in merito a una riduzione di velocità, al momento di trasmettere l’ordine 5 e l’ordine 6 il CMOV deve anche indicare al MAC, con obbligo di protocollo, il tipo di consenso per la corsa. 
+		
+	4.3	Circolazione su sezioni con pantografi abbassati
+	4.3.1	Tratti della linea di contatto senza tensione o danneggiate 
+		
+	Le sezioni di binario che devono essere percorse a pantografi abbassati, vengono contrassegnate con segnali per pantografi.
+	
+
+4.3.2	Comunicazione
+	
+	Il GI deve annunciare la posa e la rimozione dei segnali amovibili per pantografi e la loro posizione chilometrica. Le ITF avvisano i MAC. Questi devono portare con sé le singole disposizioni.
+	
+4.3.3	Termine di notifica
+	
+	La posa dei segnali per pantografi deve essere notificata dapprima alle ITF secondo il termine fissato dal GI nelle disposizioni esecutive, affinché esse possano avvisarne tempestivamente i MAC. La rimozione dei segnali deve essere notificata il più presto possibile, affinché i MAC ne prendano conoscenza prima che i segnali siano tolti.
+	
+4.3.4	Mancato rispetto del termine di notifica
+	
+	Se il termine di notifica non è rispettato, il GI deve avvisare le stazioni vicine al tratto di binario interessato, nonché le ITF interessate, in merito alla posizione dei segnali per pantografi. Fino alla scadenza del termine di notifica queste stazioni devono comunicare ai MAC, con obbligo di protocollo, la posizione dei segnali. 
+	
+	4.3.5	Segnali per il servizio dei pantografi non posati 
+		
+		Nel caso in cui non sono posati segnali per il servizio dei pantografi, il CMOV deve avvisare il MAC con obbligo di protocollo in merito
+–	alla posizione della sezione da superare
+–	all’assenza di segnali per l’esercizio dei pantografi
+Per la circolazione:  
+–	all’entrata in stazione, i pantografi devono essere abbassati prima di superare il segnale d’entrata; devono rimanere abbassati fino all’arresto o fino al fabbricato viaggiatori o fino al centro della stazione. Se il veicolo motore di un treno che si ferma si trova ancora dal lato dell’entrata, il MAC può dopo intesa con il CMOV rialzare il pantografo.
+–	all’uscita dalla stazione, tutti i pantografi devono essere abbassati a partire dal fabbricato viaggiatori o al centro della stazione e possono essere rialzati solo dopo il passaggio al segnale d’entrata della direzione opposta.
+–	per il transito in stazione, tutti i pantografi devono essere abbassati prima del passaggio al segnale d’entrata e possono essere rialzati solo dopo il passaggio al segnale d’entrata della direzione opposta.
+		
+	4.4	Zona tranvie 
+		
+		Nella zona tranvie si deve circolare con corsa a vista; la velocità massima consentita è stabilita dal GI tenendo conto dei veicoli e delle caratteristiche del luogo. 
+Nella zona tranvie valgono inoltre le prescrizioni della legge sulla circolazione stradale. 
+		
+4.5	Esercizio a semplice binario su tratta a doppio binario 
+con dispositivo per l’esercizio a semplice binario	
+	4.5.1	Introduzione dell’esercizio a semplice binario
+		
+		Nel caso in cui un binario dev’essere sbarrato su una tratta a doppio binario dotata di dispositivi per l’esercizio a semplice binario e circolare sul binario destro, bisogna introdurre l’esercizio a semplice binario.
+Prima dell’introduzione dell’esercizio a semplice binario il CMOV deve 
+–	attendere l’annuncio d’arrivo dell’ultimo treno che ha percorso il binario sinistro, oppure 
+–	avvisare con obbligo di quietanza i MAC di tutti i treni che si trovano sul binario sinistro, che possono proseguire solo con l’autorizzazione del CMOV e
+–	verificare, che tutti i segnali posizionati sul binario sinistro indicano la posizione di fermata.
+Qualora l’impianto di sicurezza non può essere commutato per l’esercizio a semplice binario, bisogna procedere secondo le disposizioni «processo chiave in caso di perturbazioni». Questo vale anche per l’entrata nella stazione vicina.
+		
+	4.5.2	Avviso ai MAC
+		
+		Il GI designa le tratte sulle quali, per ragioni tecniche, è necessaria un avviso soggetto a quietanza in caso di circolazione sul binario destro.
+		
+	4.5.3	Validità dei segnali
+		
+		I segnali del binario sinistro valgono per il treno circolante sul binario destro. Se il binario destro è dotato di propri segnali, valgono questi ultimi.
+		
+	4.5.4	Ripristino dell’esercizio a doppio binario
+		
+		Prima di reintrodurre l’esercizio a doppio binario, il CMOV deve attendere l’annuncio d’arrivo dell’ultimo treno che ha percorso il binario destro. 
+		
+	4.6	Fermata facoltativa
+		
+		Una fermata facoltativa è contrassegnata nell’orario di marcia.
+Il MAC deve fermare un treno con fermata facoltativa quando
+–	il segnale per la fermata facoltativa è inserito, oppure
+–	è evidente che alcuni passeggeri si apprestano a salire sul treno, oppure 
+–	nel treno viene premuto il pulsante per la richiesta di fermata, oppure
+–	gli viene richiesto di fermarsi.
+Avvicinandosi a una fermata o a una stazione, il MAC di un treno con fermata facoltativa deve ridurre la velocità in base alla situazione locale e attuale esistente come pure ai mezzi di frenatura disponibili nel treno. La velocità dev’essere calcolata in modo tale da poter fermare il treno per tempo e al posto previsto, se necessario.
+Le ITF possono, in caso di necessità, prescrivere la velocità massima di avvicinamento nelle loro disposizioni esecutive.
+		
+	4.7	Fermata o transito straordinari
+		
+		Se un treno deve eccezionalmente fermare o transitare, il CMOV ne avvisa il MAC con obbligo di quietanza.
+		
+	4.8	Tratti di rallentamento nel settore di passaggio fra segnalazione esterna e SCab
+		
+		Un tratto di rallentamento è situato nel settore di passaggio se ciascuna parte della tratta da percorrere a velocità ridotta si trova almeno nella zona di SCab e in quella con segnalazione esterna. Le distanze di frenatura massime possibili prima dell’effettivo tratto di rallentamento vanno considerate come elemento della tratta da percorrere lentamente. 
+Tutti i tratti di rallentamento nel settore di passaggio sono segnalati mediante segnali di ripetizione al termine della SCab verso la zona di segnalazione esterna.
+I segnali di ripetizione devono essere posti presso il limite del sistema tra la segnalazione esterna e la SCab. Come segnali di ripetizione si utilizzano:
+–	un segnale avanzato con 2 luci, se esso si trova prima del tratto di rallentamento, o 
+–	un segnale avanzato con 1 luce, se esso si trova nel settore del tratto di rallentamento.
+		
+
+4.9	Impianti di passaggio a livello sorvegliati con disinserimento temporizzato
+	
+	Per gli impianti di passaggio a livello sorvegliati con disinserimento temporizzato, i GI devono disciplinare nelle loro prescrizioni d’esercizio il modo di procedere nel caso di una fermata o della circolazione a velocità ridotta fra il contatto d’inserimento e l’impianto di passaggio a livello.
+	
+
+
+
+5	Entrata	
+5.1	Entrata in una stazione non dotata di sottopassaggi 
+o sovrapassaggi
+	
+	Le prescrizioni che seguono si applicano alle entrate in stazioni non dotate di sotto- o sovrappassaggi. Esse non valgono se gli accessi che possono essere attraversati dai viaggiatori sono provvisti di una barriera.
+	
+5.1.1	Principio qualora ci sono più treni
+	
+	Se sono interessati più treni con trasporto di viaggiatori, quello con trasporto di viaggiatori che entra per primo deve utilizzare il binario principale più vicino al fabbricato viaggiatori. 
+Se dopo l’entrata di un treno con trasporto di viaggiatori, il prossimo utilizza un binario principale vicino al fabbricato viaggiatori, i MAC dei treni interessati ne devono essere avvisati in modo corrispondente. 
+	
+5.1.2	Entrata contemporanea
+	
+	Qualora in caso di entrata contemporanea è interessato un treno con trasporto di viaggiatori, devono esserne avvisati i MAC dei treni entranti in considerazione.
+	
+5.1.3	Misure in caso di stazione non occupata sul posto 
+	
+	Qualora un treno con trasporto di viaggiatori e con fermata prescritta circola sul binario principale il quale è il più vicino al fabbricato viaggiatori che quello utilizzato in prevalenza, il MAC ne deve essere avvisato in modo conforme. 
+Qualora un treno in una stazione con marciapiedi non percorre passaggi che possono essere utilizzati da viaggiatori fino al posto abituale di fermata, si può rinunciare all’avviso.
+	
+5.1.4	Avviso e entrata
+	
+	I MAC sono avvisati come segue:
+–	con il segnale per l’entrata in una stazione senza sovra- o sottopassaggi, oppure 
+–	con un contrassegno nella tabella delle tratte, oppure 
+–	con obbligo di quietanza a cura del CMOV. I segnali d’entrata possono essere disposti su via libera solo dopo che l’avviso è avvenuto.
+
+	Questi treni devono circolare dall’inizio del marciapiede finché
+–	il treno si è fermato oppure
+–	la testa del treno ha raggiunto la fine del marciapiede
+con corsa a vista, velocità massima 20 km/h. Se non esiste un marciapiede, vale la zona tra il segno di sicurezza dello scambio d’entrata e quello d’uscita.
+	
+5.2	Posto di fermata dei treni
+5.2.1	Posto di fermata più lontano 
+	
+	I treni devono fermarsi al più tardi davanti al segnale principale, di sbarramento o per tranvie che mostra la fermata. 
+Se immediatamente prima del rispettivo segnale principale su fermata vi è un segnale basso che mostra fermata, bisogna fermarsi davanti a quest’ultimo. 
+	
+5.2.2	Posto di fermata più lontano nell’ambito di un segnale di gruppo 
+	
+	Quando un segnale di gruppo indica la fermata, i treni devono fermarsi al più tardi:
+–	davanti al segnale di gruppo, se esso si trova prima dello scambio d’uscita. Se immediatamente prima del rispettivo segnale principale su fermata vi è un segnale basso che mostra fermata, bisogna fermarsi davanti a quest’ultimo.
+–	davanti al segno di sicurezza dello scambio d’uscita, se il segnale di gruppo è situato dopo lo scambio d’uscita
+–	davanti alla tavola di fermata per segnale di gruppo. Il tratto fra la tavola di fermata per segnale di gruppo e il segno di sicurezza del successivo scambio percorso di calcio deve essere libero.
+Lo scambio sul lato d’uscita può trovarsi in una posizione qualsiasi.
+	
+5.2.3	Posto abituale di fermata 
+	
+	Nelle stazioni, i treni con fermata prescritta devono fermarsi nel posto abituale. Esso è quello più adatto per la salita e la discesa dei viaggiatori e per il carico e lo scarico delle merci.
+Il posto di fermata può essere segnalato da tavole di fermata o da tavole della lunghezza del treno.
+I posti di fermata particolari possono essere disciplinati nell’orario di marcia o nelle disposizioni esecutive dei GI.
+
+5.2.4	Fermata prima del posto abituale di fermata
+	
+	Se un treno deve eccezionalmente fermare prima del posto abituale, il CMOV avvisa il MAC con obbligo di quietanza. 
+Il rispettivo segnale principale può essere disposto su via libera solo dopo che è avvenuto l’avviso al MAC.
+Se il MAC non può riconoscere inequivocabilmente il posto di fermata designato, deve essere dato il segnale a mano.
+	
+5.2.5	Fermata dopo il posto abituale di fermata
+	
+	Se un treno deve eccezionalmente oltrepassare il posto abituale, il CMOV avvisa il MAC con obbligo di quietanza. 
+Se ciò non è possibile, il CMOV o la persona designata deve invitare il treno entrante ad avanzare mediante cenni.
+	
+5.2.6	Superamento del segnale di sbarramento o principale su posizione di fermata 
+	
+	In certi casi si può avanzare, senza fermarsi, oltre il segnale di sbarramento, di settore di binario o d’uscita su posizione di fermata. Questi casi sono da indicare nelle disposizioni esecutive del GI.
+Il CMOV o la persona designata deve invitare il treno entrante ad avanzare mediante cenni.
+	
+5.3	Stazioni di testa e singoli binari di testa 
+	
+	Le stazioni di testa o singoli binari di testa in una stazione con binari di transito vengono contrassegnati nella tabella delle tratte.
+Nel caso dei singoli binari di testa, l’indicazione può cadere se l’entrata viene segnalata con l’immagine corsa breve, o quando l’estremità del binario viene contrassegnata con una luce rossa collocata all’incirca nella stessa posizione degli altri segnali d’uscita.
+I binari di testa di lunghezza normale indicati nella tabella della tratta possono essere occupati su una determinata lunghezza all’estremità, senza che questo fatto venga considerato come entrata su binario occupato. Questi casi sono da indicare nelle disposizioni esecutive del GI.
+	
+
+5.4	Entrata su un binario occupato
+5.4.1	Avviso
+	
+	Un’entrata su un binario occupato viene indicata al rispettivo segnale principale mediante il segnale per binario occupato o nella tabella delle tratte, nell’orario di marcia oppure con l’ordine 5 soggetto a protocollo.
+	
+5.4.2	Condizioni per un’entrata su binario occupato
+	
+	Sulla soglia di velocità per l’entrata, la velocità può essere di 40 km/h al massimo. Dalla distanza di frenatura dopo la soglia di velocità si deve circolare con corsa a vista.
+I veicoli possono essere collocati al più presto a distanza di frenatura dalla soglia di velocità. I valori minimi corrispondenti devono essere fissati nelle disposizioni esecutive del GI. 
+	
+5.4.3	Cifra stralciata
+	
+5.4.4	Accostamento diretto
+	
+	I treni entranti possono accostare direttamente ai veicoli senza fermarsi.
+	
+5.5	Binario utilizzabile limitatamente
+	
+	Un binario utilizzabile limitatamente può essere percorso senza restrizioni fino al posto abituale di fermata, ma non fino al posto di fermata più lontano. 
+Sono considerate entrate su binari utilizzabili limitatamente:
+–	l’entrata verso un binario tronco o un segnale per binario tronco
+–	l’entrata verso un segnale basso che mostra fermata
+–	l’entrata verso un binario che può essere percorso al massimo fino al segno di sicurezza del primo scambio disposto in posizione 
+falsa.
+I binari utilizzabili limitatamente sono contrassegnati nella tabella della tratta.
+Il segno per il binario utilizzabile limitatamente non ha alcun significato se il MAC può accertare che il segnale d’uscita mostra via libera per il treno in arrivo.
+
+5.6	Impianto di passaggio a livello aperto prima del segnale d’uscita
+	
+	Entrate verso impianti di passaggio a livello aperti che si trovano prima del segnale d’uscita sono permesse solo se il binario può essere percorso senza restrizioni fino al posto abituale di fermata.
+Un treno con fermata deve fermarsi al posto abituale di fermata, al più tardi però, prima del passaggio a livello aperto. 
+Le stazioni nelle quali sono possibili entrate verso impianti di passaggio a livello aperti sono contrassegnate nella tabella delle tratte. Tale contrassegno deve avvenire anche quando il passaggio a livello si trova dopo una tavola di fermata per segnale di gruppo.
+Il segno per passaggi a livello aperti prima del segnale d’uscita non ha alcun significato se il MAC può accertare che il segnale d’uscita mostra via libera per il treno in arrivo.
+
+6	Casi speciali
+6.1	Corse di prova
+6.1.1	Scopo
+	
+	Le corse di prova servono al collaudo di veicoli e di impianti.
+	
+6.1.2	Ordinazione
+	
+	Le corse di prova vengono ordinate come treni facoltativi o speciali, oppure come movimenti di manovra sulla tratta. 
+	
+6.1.3	Esecuzione
+	
+	La pianificazione di provvedimenti eventualmente necessari (p.es. le deroghe alle prescrizioni sulla circolazione dei treni o l’accompagnamento straordinario) deve essere stabilita in forma scritta fra il GI e l’ITF. 
+	
+6.2	Corse per lo sgombero della neve
+6.2.1	Genere 
+	
+	Le corse per lo sgombero della neve vengono eseguite con veicoli motori dotati di spazzaneve fissi, con spazzaneve spinti e con spazzaneve a turbina su ruote proprie. 
+	
+6.2.2	Ordinazione
+	
+	Il servizio competente determina quando si devono impiegare le corse per lo sgombero della neve e come si deve procedere.
+Le corse per lo sgombero della neve vengono ordinate come treni facoltativi o speciali o come movimenti di manovra sulla tratta.
+	
+6.2.3	Incontri di treni 
+	
+	Una corsa spazzaneve che esegue lo sgombero verso il binario adiacente può incontrare altri treni e movimenti di manovra solo nelle stazioni. Se questo non è possibile, la corsa spazzaneve deve fermarsi al momento dell’incontro lungo la tratta.
+Gli spazzaneve a turbina devono fermarsi, quando il getto non può essere rivolto tempestivamente verso il lato opposto a quello dei treni o dei movimenti di manovra che vengono incontrati.
+
+7	Corse dei treni in esercizio di tram
+7.1	Basi
+7.1.1	Itinerario
+	
+	Con riguardo ai processi d’esercizio, gli itinerari vengono definiti e disposti progressivamente nella direzione di marcia. Questo può avvenire interamente o in parte in maniera automatica.
+	
+7.1.2	Sorveglianza del comando automatico
+	
+	Il MAC sorveglia il corretto funzionamento del comando automatico per la sua corsa; se del caso, si deve intervenire manualmente
+	
+7.1.3	Osservanza dei segnali
+	
+	Il MAC deve osservare i segnali per lui valevoli. 
+Quando il MAC incontra segnali su posizione di fermata, deve arrestare il treno. 
+I GI disciplinano la procedura nel caso in cui non è stato possibile arrestare un treno davanti a un segnale su posizione di fermata.
+	
+7.1.4	Verifica dell’itinerario e consenso per la corsa
+	
+	Per ogni treno è necessario un consenso per la corsa. 
+Tenuto conto delle regole sulla precedenza e diritti di priorità, il CMOV dispone gli scambi nell’itinerario e gestisce gli impianti di regolazione del traffico. 
+Il CMOV verifica l’itinerario e impartisce progressivamente il consenso per la corsa, a condizione che:
+–	gli scambi sono nella posizione corretta e
+–	dove necessario sono presenti gli indicatori di vincolo degli scambi, e
+–	i segnali autorizzano la corsa, e
+–	l’itinerario è libero.
+	
+
+7.1.5	Validità del consenso per la corsa
+	
+	Il consenso per la corsa accertato è valido
+–	fino a un ostacolo presente sull’itinerari
+–	fino a un segnale disposto su fermata
+–	fino al limite tra esercizio di tram ed esercizio ferroviario. 
+Dopo una fermata, il consenso per la corsa decade.
+	
+7.1.6	Utilizzazione dei binari
+	
+	Sui binari di linea, i treni utilizzano il binario destro nella direzione di marcia. Su un cappio di ritorno si deve circolare nella direzione di marcia prevista. 
+Se esiste solo un binario di linea o più di due binari di linea paralleli, il GI stabilisce la direzione di marcia e l’utilizzazione dei binari. 
+Sui binari di servizio che possono essere percorsi anche da corse treno, il GI stabilisce le procedure per il servizio e la circolazione sull’impianto.
+	
+7.2	Soglia di velocità
+7.2.1	Riduzione della velocità
+	
+	In caso di riduzione della velocità, la velocità più bassa deve essere raggiunta quando la testa del treno percorre la soglia di velocità.
+	
+7.2.2	Aumento della velocità
+	
+	In caso di aumento della velocità, si deve mantenere la velocità più bassa fin quando la coda del treno non ha percorso la soglia di velocità
+Se previsto dalle prescrizioni d’esercizio del GI, sotto forma di segnalazione supplementare sulla tavola di velocità o sulla base di una regolamentazione a livello di rete, è possibile accelerare quando la testa del treno ha raggiunto la tavola di velocità.
+	
+7.3	Partenza
+7.3.1	Principio
+	
+	Se le condizioni per la partenza di un treno sono adempiute, si deve iniziare la corsa, oppure proseguirla dopo una fermata.
+
+7.3.2	Condizioni per la partenza del treno
+	
+	Il MAC che ha ricevuto il consenso per la corsa può partire solo quando
+–	la preparazione del treno è terminata e
+–	le porte sono chiuse
+e per quanto necessario 
+–	è realizzata la prontezza sotto il profilo del servizio alla clientela. 
+Le ITF stabiliscono in quali casi è necessario in più un permesso di partenza e in che modo viene impartito.
+	
+7.3.3	Prontezza sotto il profilo del servizio alla clientela
+	
+	La prontezza sotto il profilo del servizio alla clientela è realizzata quando lo scambio dei viaggiatori e il carico e lo scarico sono terminati nonché quando è giunta l’ora della partenza o è ammessa la circolazione anticipata.
+	
+7.4	Corsa
+7.4.1	Velocità massima dipendente dal luogo
+	
+	Le velocità massime sulle sezioni di binario come pure sugli scambi e gli incroci di binari sono contrassegnate con segnali di velocità o vengono stabilite dai GI nelle prescrizioni d’esercizio.
+	
+7.4.2	Velocità massima generale per elementi dell’infrastruttura
+	
+	Per elementi dell’infrastruttura possono essere fissate delle velocità massime. Gli elementi e le relative velocità massime sono da stabilire da GI nelle prescrizioni d’esercizio.
+	
+7.4.3	Velocità massima dipendente dalla situazione
+	
+	I GI possono fissare velocità massime in funzione della situazione, ad esempio negli incontri di treni.
+	
+7.4.4	Tratti di rallentamento
+	
+	Le sezioni di binario che devono essere percorse temporaneamente con riduzione della velocità massima, vengono contrassegnate con segnali di rallentamento. 
+Il GI deve annunciare la posa e la rimozione dei segnali di rallentamento, la loro ubicazione e la velocità massima ammessa. 
+Le ITF informano i MAC. 
+Il GI può fissare un termine di notifica per la posa di segnali di rallentamento. 
+Se i segnali di rallentamento non sono ancora stati posati, la procedura è conforme al processo in caso di perturbazioni.
+	
+7.4.5	Circolazione su sezioni senza tensione e corsa in caso di linea di contatto danneggiata
+	
+	I GI stabiliscono se le sezioni di binario senza tensione o le sezioni con linea di contatto danneggiata possono essere percorse. Se queste sezioni vengono percorse, i GI disciplinano la procedura nelle prescrizioni d’esercizio.
+	
+7.4.6	Indicatore di direzione 
+	
+	L’indicatore di direzione viene utilizzato in base alle regole della circolazione stradale, p.es.:
+–	svoltando a sinistra o a destra
+–	ove la sicurezza del traffico lo richieda, per avvertire gli altri utenti della strada, in particolare prima di partire.
+Le IF possono emanare altre disposizioni circa l’impiego degli indicatori di direzione e delle luci di avvertimento lampeggianti.
+	
+7.5	Fermata
+7.5.1	Posto di fermata più lontano
+	
+	I treni devono fermarsi al più tardi davanti al segnale per tranvie che mostra la fermata. Se prima del segnale disposto su fermata si trova una linea di fermata complementare, occorre fermare prima di questa
+	
+7.5.2	Posto abituale di fermata
+	
+	I treni con fermata prescritta devono fermarsi nel posto abituale. Esso è quello più adatto per la salita e la discesa dei viaggiatori. 
+Il posto di fermata può essere segnalato da tavole o da demarcazioni del posto di fermata. 
+I posti di fermata particolari possono essere disciplinati nell’orario di marcia o nelle disposizioni esecutive dei GI.
+
+7.6	Casi speciali
+7.6.1	Corse di prova
+	
+	Le corse di prova servono al collaudo di veicoli e di impianti. 
+La pianificazione di eventuali provvedimenti (p. es. le deroghe alle PCT o l’accompagnamento straordinario) deve essere stabilita in forma scritta fra il GI e l’ITF.
+	
+7.6.2	Corse per lo sgombero della neve
+	
+	Le corse per lo sgombero della neve vengono eseguite secondo le disposizioni dei GI.
+	
+
+
+

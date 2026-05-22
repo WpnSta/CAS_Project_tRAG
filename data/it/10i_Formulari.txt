@@ -1,0 +1,76 @@
+﻿Ferrovie svizzere	R 300.10
+
+
+
+Formulari
+
+
+
+1	Formulari
+1.1	Principi
+	
+	L’IF è autorizzata ad applicare il proprio logo sui formulari. Modifiche della rappresentazione o del formato dei formulari possono essere attuate di propria competenza dalle imprese ferroviarie.
+Se i formulari includono domande del tipo SI - NO, si deve sempre prevedere una casella per il Sì e una per il No. La casella corrispondente va sempre crociata. 
+Se i formulari includono possibilità di scelta, si devono prevedere i corrispondenti campi di selezione. La rispettiva casella va in ogni caso crociata. 
+Per ogni formulario può essere consegnato un solo ordine, che al bisogno viene completato nel rispettivo campo con i provvedimenti supplementari per la stessa situazione. 
+
+
+2	Classificazione	
+		
+	I formulari sono suddivisi in tre categorie in base al loro contenuto. Il possibile impiego è indicato in una raccolta dei modelli.	
+		
+2.1	Formulari della prima categoria	
+		
+	Fra i formulari di questa categoria rientrano:
+–	i formulari d’ordine (ordini 1, 3, 4, 5, 6, 8 e 9)
+–	l’ordine di incrocio e sorpasso.
+La corrispondente designazione deve figurare sull’intestazione.
+I singoli ordini hanno una struttura sistematica con numerazione continua. Il numero d’ordine assegnato al singolo ordine, nonché la numerazione e le denominazioni dei campi, secondo la raccolta dei modelli – secondo la raccolta dei modelli – non possono essere mutati. 
+Se un ordine con obbligo di quietanza viene consegnato o trasmesso con obbligo di protocollo, si deve utilizzare il relativo Formulario d’ordine. 
+Gli ordini inseriti nelle circolari hanno il medesimo valore degli ordini dati con i formulari della prima categoria.
+	
+2.1.1	Contenuto
+	
+	I formulari della prima categoria contengono ordini con testi previsti di carattere vincolante. Deve essere garantita la comprensibilità della trasmissione.
+	
+2.1.2	Rinuncia a singoli ordini e successione degli ordini
+	
+	Si possono tralasciare singoli ordini o parti di essi che non vengono mai adoperati.
+È ammesso modificare la successione degli ordini, nella misura in cui ciò procuri vantaggi per l’esercizio di un’IF.
+	
+2.1.3	Numerazione dei singoli ordini
+	
+	I numeri da 1 a 20 sono riservati agli ordini armonizzati a livello europeo. Gli ordini dati sul piano nazionale ed eventuali ordini da definire dai GI, recano i numeri a partire da 21. I numeri utilizzati nelle PCT sono vincolanti.
+	
+
+2.1.4	Designazione e impiego dei campi degli ordini 1-20
+	
+	I singoli campi da compilare hanno una designazione univoca. I campi / caselle che non sono necessari possono essere tralasciati dal formulario. Non è ammesso inserire negli ordini campi o caselle nuovi o supplementari.
+I GI stabiliscono i contenuti dell’identificazione unica (casella Z) nelle loro prescrizioni d’esercizio.
+2.2	Formulari della seconda categoria
+	
+	Fra i formulari di questa categoria rientrano:
+–	il bollettino di frenatura (indicazioni per la condotta del treno) 
+–	l’orario di marcia per treni
+–	l’orario di marcia per movimenti di manovra sulla tratta
+–	l’avviso di uno sbarramento di binario.
+La corrispondente designazione deve figurare sull’intestazione.
+I formulari non portano moduli numerati. Essi vengono di regola trasmessi a dipendenza dei casi.
+	
+2.2.1	Contenuto
+	
+	I formulari della seconda categoria contengono avvisi con testi vincolanti a determinate condizioni. Si devono utilizzare i contenuti previsti e le indicazioni richieste nelle prescrizioni (p.es. per treni speciali). Deve essere garantita la comprensibilità della trasmissione.
+	
+2.3	Formulari della terza categoria
+	
+	Fra i formulari di questa categoria rientrano:
+–	orario di marcia stampato 
+–	tabella delle tratte.
+Lo scopo di utilizzazione deve essere visibile sulla base dell’intestazione.
+Di regola questi formulari sono consegnati per tempo.
+	
+2.3.1	Contenuto
+	
+	I formulari della terza categoria contengono indicazioni vincolanti a determinate condizioni. Si devono utilizzare i contenuti previsti nelle prescrizioni (p.es indicazioni nell’orario di marcia e tabella delle tratte). Altre aggiunte e informazioni specifiche all’azienda possono essere attuate di propria competenza dalle IF.
+	
+

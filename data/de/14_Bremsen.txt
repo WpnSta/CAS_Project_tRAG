@@ -1,0 +1,839 @@
+﻿Schweizerische Eisenbahnen	R 300.14
+
+
+
+Bremsen
+
+
+
+
+1	Allgemeines
+	
+	Die EVU regeln die erforderlichen Ergänzungen zu dieser Vorschrift in den Betriebsvorschriften, insbesondere
+–	die Bedienung im Einzelfall
+–	die technische Beschreibung der Bremseinrichtungen
+–	die Vorschriften über deren Unterhalt
+–	die Besonderheiten der Bremseinrichtungen historischer Fahrzeuge, insbesondere der einlösigen Bremse
+–	die Besonderheiten der Bremseinrichtungen von Zahnradfahrzeugen.
+Im Sinne dieser Vorschrift sind Antriebsbremsen wie hydrodynamische Bremsen oder Wirbelstrombremsen den elektrischen Bremsen gleichgestellt.
+Der Einsatz von auf die Schienen wirkenden Wirbelstrombremsen ist nicht zulässig.
+	
+
+
+
+2	Bedienung	
+2.1	Allgemeines	
+2.1.1	Grundsatz	
+		
+	Bei der Bedienung der Bremsen sind möglichst wenige, jedoch bewusst überlegte und vorausschauende Handlungen auszuführen.
+Die Kenntnisse der wesentlichen Vorgänge in den Bremsapparaten, die Beobachtung der Manometer und des Geschwindigkeitsmessers, das Gefühl für die herrschende Verzögerung sowie das richtige Abschätzen der Bremswirkung, der Entfernung und der Adhäsionsverhältnisse sind die Hauptbedingungen für eine einwandfreie Bremsbedienung.	
+	
+2.1.2	Mehrere bediente Triebfahrzeuge
+	
+	Die automatische Bremse wird grundsätzlich von der Spitzenlok aus bedient.
+	
+2.2	Anwendung der Bremse
+2.2.1	Züge
+	
+	Nach Möglichkeit ist immer die elektrische Bremse zu verwenden. Bei ungenügender Wirkung der elektrischen Bremse ist zusätzlich die automatische Bremse zu verwenden. 
+Für alleinfahrende Triebfahrzeuge ist nach Möglichkeit die elektrische Bremse zu verwenden, zum Anhalten die Rangier- oder gegebenenfalls die automatische Bremse.
+	
+2.2.2	Rangierbewegungen
+	
+	Grundsätzlich ist die automatische Bremse zu verwenden.
+Die Rangierbremse allein darf angewendet werden
+–	für alleinfahrende Triebfahrzeuge
+–	bei kleinen Wagengruppen
+–	in den erlaubten Fällen wo die Anhängelast nicht mit der Luft gebremst werden muss.
+Die EVU regeln in den Betriebsvorschriften die Anwendung der elektrischen Bremse bei Rangierbewegungen.
+	
+
+2.2.3	Stillstand
+	
+	Stillstehende und mit LF besetzte Triebfahrzeuge mit oder ohne Anhängelast sind in jedem Fall mit der Rangierbremse zu sichern. Fehlt diese oder ist deren Wirkung ungenügend, ist die automatische Bremse oder gegebenenfalls die Feststellbremse zu verwenden.
+	
+2.2.4	Sichern der Triebfahrzeuge
+	
+	Abgestellte und nicht mit LF besetzte Triebfahrzeuge sind mit der Feststellbremse zu sichern.
+Die EVU regeln in den Betriebsvorschriften die Anwendung von Feststellbremsen, welche sich über die Hauptleitung lösen lassen.
+	
+2.2.5	Winterbetrieb
+	
+	Im Winterbetrieb sind bei der Bremsbedienung mindestens folgende Massnahmen erforderlich:
+–	Bei Temperaturen unter 0°C hat der LF unmittelbar nach Beginn der Fahrt das leichtgängige Rollen der Fahrzeuge zu prüfen
+–	Nach dem Anhalten auf Bahnhöfen sind die Bremsen, wenn mög-lich sofort zu lösen
+–	Bei eingepresstem Schnee oder Eis zwischen Bremssohle und Rad bzw. Bremsbelag und Bremsscheibe kann die Wirkung der Feststellbremse nachlassen! Die Fahrzeuge sind zusätzlich mit Hemmschuhen zu sichern
+–	Bremsungen mit der Luftbremse sind frühzeitig einzuleiten, um die Reibungsflächen (Bremssohlen, Scheibenbremsen) von Schnee und Eis zu befreien
+Die EVU regeln den Winterbetrieb in den Betriebsvorschriften.
+	
+
+2.3	Bremsprobe
+2.3.1	Zweck der Bremsprobe
+	
+	Mit der Bremsprobe wird festgestellt, ob
+–	die Luft in beiden Richtungen ungehindert durch die Hauptleitung strömen kann und keine Undichtheiten an den Bremsapparaten wahrnehmbar sind
+–	nach einer Betriebsbremsung vom bedienten Führerstand aus die Bremsen an allen gebremsten Achsen fest anliegen und nach dem Lösen der Bremse von der gleichen Stelle aus ohne Betätigen von Auslöseventilen wieder vollständig gelöst sind.
+	
+2.3.2	Betriebsbereitschaft
+	
+	Die Bremsprobe darf erst begonnen werden, wenn die Steuerventile und die zugehörigen Luftbehälter aller an die Hauptleitung angeschlossenen Fahrzeuge gefüllt bzw. die Bremsapparate evakuiert sind. Bei Druckluftbremsen muss zudem in den Hauptluftbehältern mindestens der Normaldruck vorhanden sein. Bei den Normalspur- und vielen Schmalspurbahnen beträgt dieser 5 bar, bei einigen Bahnen 4, 4,2 oder 4,5 bar.
+	
+2.3.3	Füll- bzw. Evakuierungszeit der automatischen Bremse
+	
+	Die Füllzeit der leeren Bremsapparate eines druckluftgebremsten Fahrzeugs beträgt je nach Bremssystem bei der Personenzugbremse ca. 2 Minuten und bei der Güterzugbremse ca. 2 bis 5 Minuten. Mit zunehmender Länge des Zuges vergrössert sich die Gesamtfüllzeit.
+Für das Evakuieren der Bremsapparate eines vakuumgebremsten Fahrzeugs gelten ungefähr die gleichen Werte wie bei der Güterzugbremse.
+	
+
+2.3.4	Dichtigkeitsprüfung
+	
+	Die Hauptleitung und die Bremsapparate müssen wie folgt auf Dichtigkeit geprüft werden:
+–	Automatische Druckluftbremse
+	Vor Beginn der Hauptbremsprobe oder bei Verdacht auf Undichtigkeiten: 
+Bei unterbrochener Nachspeisung darf der Druckverlust in der Hauptleitung während einer Minute höchstens 0,3 bar betragen.
+	Vor Beginn der Zusatz- oder der vereinfachten Bremsprobe:
+Bei kurz unterbrochener Nachspeisung darf am Hauptleitungsmanometer kein Druckverlust feststellbar sein.
+	–	Vakuumbremse
+	Vor Beginn der Bremsprobe:	
+Bei abgestellter Vakuumpumpe darf das Vakuum während 10 Sekunden nicht mehr als 4 cmHg absinken und nicht unter 45 cmHg fallen.
+	
+2.3.5	Bremsprobe bei Triebfahrzeugen
+	
+	Bei der Inbetriebnahme der Triebfahrzeuge ist die Funktion deren Luftbremsen durch den LF wie folgt zu prüfen:
+–	Die Rangierbremse ist mittels Bremszylinder-Manometer (1 bar und anschliessend voller Druck) oder Meldeeinrichtung zu prüfen.
+–	Die automatische Bremse ist wie folgt zu prüfen:
+–	Mittels Bremszylinder-Manometer oder Meldeeinrichtung für Lokzüge mit einzeln bedienten Triebfahrzeugen und für Rangierbewegungen.
+	Bei Druckluftbremsen ist der Hauptleitungsdruck um 0,5 bar zu senken, bzw. bei der Vakuumbremse auf 20 cmHg zu bringen. Anschliessend ist zu prüfen, ob die Bremszylinder Druckluft enthalten.
+–	Vom Boden aus oder am Manometer für geschleppte oder in Vielfachsteuerung verkehrende Triebfahrzeuge in den Fällen, wo eine Hauptbremsprobe vorgeschrieben ist.
+Nach jedem Führerstandwechsel sind die Rangier- und die automatische Bremse und nach dem Abhängen des Triebfahrzeugs die Rangierbremse mittels Bremszylinder-Manometer oder Meldeeinrichtung zu prüfen. 
+Sind keine Bremszylinder-Manometer oder Meldeeinrichtung vorhanden, ist die Bremse in jedem Fall vom Boden aus zu prüfen.
+Nach der Funktionsprüfung ist die Wirkung der Bremse unmittelbar nach dem Ingangsetzen des Triebfahrzeugs zu prüfen.
+
+2.3.6	Durchführung der Bremsprobe bei Zügen
+	
+	–	Bremsen
+	Die Probe der automatischen Bremse muss mit einer Betriebsbremsung durchgeführt werden. Bei Druckluftbremsen ist dabei der Hauptleitungsdruck um 1 bar zu senken. 
+–	Lösen
+	Die Bremse ist nach Möglichkeit mit einem Hochdruckfüllstoss mit anschliessender Niederdrucküberladung zu lösen.
+	
+2.3.7	Bremsprobe auf Wirkung bei Zügen
+	
+	Der LF hat die Wirkung der Luftbremse zu prüfen
+–	unmittelbar nach der Abfahrt
+–	vom Ausgangs- oder Wendebahnhof
+–	nach Veränderungen an der Zusammensetzung des Zuges
+–	nach einem LF-Wechsel
+–	vor der Einfahrt 
+–	in ein starkes Gefälle
+–	in einen Kopfbahnhof
+–	von Zeit zu Zeit nach der letzten Bremsung mit der automatischen Bremse bei Flugschnee oder bei grosser Kälte
+Die Bremsprobe auf Wirkung hat mit einer Betriebsbremsung bei ausgeschalteter elektrischer Bremse und ausgelöster Luftbremse des Triebfahrzeugs zu erfolgen. Für spezifische Fahrzeugbedienungen oder für die Einhaltung allfälliger Anwendungsbedingungen von Bremskomponenten (z.B. Bremssohlen aus Verbundstoff) erlassen die EVU entsprechende Betriebsvorschriften.
+	
+2.3.8	Bremsprobe der Sicherheitsbremse
+	
+	Die EVU regeln die Durchführung der Bremsprobe der Sicherheitsbremse in den Betriebsvorschriften.
+	
+
+2.4	Automatische Druckluftbremse
+2.4.1	Bremsen
+	
+	Es wird zwischen folgenden Bremsbedienungsarten unterschieden:
+–	Betriebsbremsung
+	Die Betriebsbremsung wird zum Anhalten der Züge und für Geschwindigkeitsreduktionen angewendet. Der Druck in der Hauptleitung wird stufenweise oder auf einmal um weniger als 1,5 bar reduziert. Die erste Druckabsenkung soll dabei rasch erfolgen.
+	Sie soll für Züge mit Gusssohlen mindestens 0,4 bis 0,5 bar, für Reisezüge mit Scheibenbremsen oder Verbundstoffsohlen mindestens 0,5 bis 0,8 bar und für Güterzüge mit Scheibenbremsen oder Verbundstoffsohlen mindestens 1 bar betragen.
+–	Vollbremsung
+	Eine Vollbremsung liegt vor, wenn der Druck in der Hauptleitung um 1,5 bar vermindert wird. Dadurch wird der grösste mögliche Bremszylinderdruck und somit auch die grösste Bremskraft der automatischen Bremse erreicht.
+–	Schnellbremsung
+	Eine Schnellbremsung liegt vor, wenn die Hauptleitung mit dem Führerbremsventil über einen grossen Auslassquerschnitt vollständig entleert wird (0 bar). Durch das rasche und vollständige Entleeren der Hauptleitung wird in kürzester Zeit bei gleicher Bremskraft wie bei einer Vollbremsung der kürzeste Bremsweg erreicht. Zudem wirken bei entsprechend ausgerüsteten Fahrzeugen die Magnetschienenbremsen, die Schnellbremsbeschleunigungsventile und, sofern geschleppt, bei Triebfahrzeugen die Nachbremse.
+	Bei Triebfahrzeugen wirkt eine vorher ausgelöste Luftbremse wieder voll.
+–	Notbremsung
+	Eine Notbremsung liegt vor, wenn durch das Betätigen einer Notbremseinrichtung die Hauptleitung entleert wird. Die Wirkung ist grundsätzlich dieselbe wie bei einer Schnellbremsung.
+–	Zwangsbremsung
+	Eine Zwangsbremsung liegt vor, wenn durch eine Sicherheitseinrichtung oder durch den Fahrzeugrechner die Hauptleitung entleert wird. Die Wirkung ist grundsätzlich dieselbe wie bei einer Schnellbremsung. Sofern zusätzlich die Nachspeisung unterbrochen wird, verkürzt sich die Zeit für den Aufbau der maximalen Bremskraft entsprechend.
+	
+2.4.2	Lösen bzw. Füllen
+	
+	Das Führerbremsventil ist zum Lösen bzw. Füllen der Bremsen in die Fahrstellung, bzw. wenn vorhanden, in die Füllstellung (Querschnittswechsel) zu verbringen. Dabei ist die Funktion einer Niederdrucküberladung (Angleichfunktion), sofern vorhanden, anzuwenden.
+Bei Führerbremsventilen ohne zeitliche Begrenzung des Füllstosses ist beim Verbringen in die Füllstellung darauf zu achten, dass bei vollständig gelöster Bremse der Normaldruck in der Hauptleitung höchstens um 0,4 bar überschritten wird.
+	Das Lösen mit Füllstellung ist in der Regel anzuwenden
+–	nach dem Ankuppeln des Triebfahrzeugs an den Zug
+–	bei der Inbetriebnahme eines Pendelzugs
+–	wenn unterwegs Wagen beigestellt werden
+–	bei der Bremsprobe
+–	zum sicheren Lösen der Bremsen während der Fahrt, ausgenommen bei Zügen bis zu einer Gesamtlänge von 125 m
+–	wenn vorher aus der Niederdrucküberladung gebremst werden musste
+–	am Ende einer Gefällefahrt.
+Das Lösen in Füllstellung bzw. der Aufbau einer Niederdrucküberladung ist zu vermeiden
+–	wenn kurze Zeit nach dem Lösen wieder gebremst werden muss
+–	bei der Anwendung der Sägezahnmethode
+–	wenn die Bremsen kurz danach mit einem andern Führerbremsventil bedient werden.
+Bei gelöster Bremse ist das Verbringen des Führerbremsventils in die Füllstellung bzw. der Aufbau einer Niederdrucküberladung zu unterlassen.
+	
+
+2.5	Vakuumbremse
+2.5.1	Bremsen
+	
+	Es wird zwischen folgenden Bremsbedienungsarten unterschieden:
+–	Betriebsbremsung
+	Die Betriebsbremsung wird zum Anhalten der Züge und für Geschwindigkeitsreduktionen angewendet. Das Vakuum in der Hauptleitung wird stufenweise oder auf einmal auf 42 bis 20 cmHg abgesenkt.
+–	Vollbremsung
+	Eine Vollbremsung liegt vor, wenn das Vakuum in der Hauptleitung mit dem Führerbremsventil vollständig aufgehoben wird.
+–	Schnellbremsung
+	Eine Schnellbremsung liegt vor, wenn das Vakuum in der Hauptleitung mit dem Führerbremsventil über einen grossen Einlassquerschnitt augenblicklich aufgehoben wird. Die dadurch ausgelöste Druckwelle bewirkt, dass in rascher Folge alle Schnellbremsventile ansprechen. Damit wird in kürzester Zeit bei grösster Bremskraft der kürzeste Bremsweg erreicht.
+–	Notbremsung
+	Eine Notbremsung liegt vor, wenn das Vakuum in der Hauptleitung durch das Öffnen eines Notbremshahns vollständig zerstört wird. Die Wirkung ist grundsätzlich dieselbe wie bei einer Schnellbremsung.
+–	Zwangsbremsung
+	Eine Zwangsbremsung liegt vor, wenn das Vakuum durch eine Sicherheitseinrichtung oder durch den Fahrzeugrechner vollständig zerstört wird. Die Wirkung ist grundsätzlich dieselbe wie bei einer Schnellbremsung.
+	
+2.5.2	Lösen bzw. Evakuieren
+	
+	Die Vakuumpumpe ist während der Fahrt mit der niedrigsten Drehzahl zu betreiben. Für das Evakuieren der Bremsapparate nach der Zugbildung und für das rasche Lösen bei der Bremsprobe ist eine höhere Drehzahl zu wählen.
+	
+
+2.6	Elektrische Bremse	
+2.6.1	Grundsatz	
+		
+	Die elektrische Bremse muss für Gefällefahrten, Geschwindigkeitsverminderungen und zum Anhalten immer mit der zulässigen Bremskraft verwendet werden.
+Die elektrische Bremse soll frühzeitig in Betrieb genommen werden. Bei einem Versagen derselben muss noch genügend Zeit verbleiben, um an deren Stelle die Luftbremse anzuwenden.	
+	
+2.6.2	Normalspurfahrzeuge mit Schraubenkupplung Bauart UIC	
+		
+	Sofern Langsamfahrstellen oder Weichen in ablenkender Stellung mit höchstens 40 km/h befahren werden können, darf die elektrische Bremse der Triebfahrzeuge an der Spitze von Zügen und Rangierbewegungen nur mit stark verminderter Bremskraft verwendet werden.
+Befinden sich mehrere Triebfahrzeuge mit elektrischer Bremse an der Zugspitze, gelten folgende Einschränkungen:
+–	Bei einzeln bedienten Triebfahrzeugen darf nur auf dem an der Spitze und den schiebenden Triebfahrzeugen die höchstzulässige Bremskraft ausgenützt werden. Bei allen übrigen Triebfahrzeugen darf mit der elektrischen Bremse nur deren Eigengewicht abgebremst werden.
+–	Bei Triebfahrzeugen in Vielfachsteuerung darf nur mit reduzierter Bremskraft gemäss den Vorgaben des EVU gebremst werden.	
+		
+2.7	Bedienen der automatischen Bremse während der Fahrt	
+2.7.1	Geschwindigkeitsreduktion und Haltebremsungen von druckluftgebremsten Fahrten mit Güter- und Dienstwagen	
+		
+	Bei der Fahrt über Weichen in ablenkender Stellung, die höchstens mit 40 km/h befahren werden dürfen, ist folgendes zu beachten:
+–	Zum Vermindern der Geschwindigkeit oder zum Anhalten soll der Hauptleitungsdruck höchstens um 0,5 bar gesenkt werden, ausgenommen wenn Gefahr droht.
+–	Wenn beim Anhalten der Druck in der Hauptleitung um mehr als 1 bar gesenkt wurde, ist vor der Weiterfahrt der ganze Zug bzw. die Rangierbewegung bei gelöster automatischer Bremse vor Ort auf Unregelmässigkeiten zu kontrollieren.	
+		
+
+2.7.2	Bedienen der automatischen Druckluftbremse der Normalspurzüge im Gefälle
+	
+	–	Sägezahnmethode
+	Sobald bei Gefällefahrten mit einer zulässigen Höchstgeschwindigkeit von > 40 km/h die elektrische Bremse des Triebfahrzeugs allein zum Einhalten der Geschwindigkeit nicht mehr genügt, muss die Sägezahnmethode angewendet werden. Dadurch wird eine thermische Überbeanspruchung von Rädern, Bremsscheiben und Bremsklötzen vermieden und das Risiko, dass sich die Bremsen auf der Gefällefahrt erschöpfen ist ausgeschlossen.
+	Mit einer genügend starken Bremsung (Hauptleitungsdruck auf 4,6 bis 4 bar senken) ist die Geschwindigkeit so weit abzusenken, dass zwischen dem Lösen und dem Einleiten der neuen Bremsung eine Zeit von mindestens 90 Sekunden verbleibt. Um das zu erreichen, ist die Geschwindigkeit des Zuges um folgenden Richtwert zu reduzieren:
+	
+	
+	
+	
+		Die zur Geschwindigkeitsreduktion benötigte Bremszeit sollte dabei 60 Sekunden nicht überschreiten. Zum anschliessenden Lösen ist nur die Fahrstellung des Führerbremsventils zu verwenden. 
+	Das Zeitintervall von mindestens 90 Sekunden bis zum Einleiten der nächsten Bremsung ist zu überprüfen. Nötigenfalls ist die Geschwindigkeitsreduktion anzupassen.
+	Die Luftbremse der Triebfahrzeuge ist nach Möglichkeit auszulösen.
+	–	Reguliermethode
+	Bei Zügen mit Triebfahrzeugen ohne oder mit gestörter elektrischer Bremse muss bei der Gefällefahrt die Reguliermethode angewendet werden.
+	Dabei ist zum Einhalten der Geschwindigkeit der Hauptleitungsdruck zwischen 4,6 bis 4,4 bar zu regulieren. Das Fahren mit einem Hauptleitungsdruck zu nahe an der Lösegrenze von 4,8 bar ist zu vermeiden.
+	Die Luftbremse der Triebfahrzeuge soll nicht ausgelöst werden.
+	Nötigenfalls regeln die EVU in den Betriebsvorschriften eine Verminderung der Höchstgeschwindigkeit.
+	
+
+2.7.3	Halteort unmittelbar vor einem Hindernis oder unmittelbar vor einem Halt zeigenden Signal
+	
+	Bei der Fahrt 
+–	gegen ein Halt zeigendes Signal
+–	in ein Kopfgleis 
+–	in ein besetztes oder beschränkt ausnützbares Gleis
+–	gegen offene Barrieren
+ist die Geschwindigkeit des Zuges mit einer mässigen Bremsung rechtzeitig zu vermindern, so dass zum Anhalten oder im Notfall die Bremswirkung noch verstärkt werden kann.
+Die elektrische Bremse darf bei der Fahrt in ein Kopfgleis nur verwendet werden, wenn deren Wirkung bei einem allfälligen Ausfall gleichwertig und automatisch durch andere Bremsmittel kompensiert wird.
+Für Triebzüge gelten die entsprechenden Betriebsvorschriften des EVU.
+	
+2.7.4	Abhängen des Triebfahrzeugs, Führerstandswechsel
+	
+	Vor dem Abhängen des Triebfahrzeugs ist die Anhängelast mit der automatischen Bremse zu bremsen.
+Während dem Wechseln des Führerstands ist das Triebfahrzeug bzw. der Pendelzug mit der automatischen Bremse oder nach den Vorgaben des EVU zu bremsen.
+	
+2.7.5	Abstellen eines Zuges oder eines Zugteils
+	
+	Im Sinne der Bremsvorschriften gilt ein Unterbruch der Nachspeisung, welcher länger als zur Dichtheitsprobe notwendig ist, als Abstellen eines Zuges oder Zugteils.
+Wird die Nachspeisung unterbrochen, (z.B. bei der Ausserbetriebnahme des Führerstandes) ist eine Betriebsbremsung einzuleiten. So wird ein Erschöpfen der Bremsen bei langsamer Absenkung des Hauptleitungs-drucks vermieden.
+	
+
+
+3	Störungen
+3.1	Allgemeines
+3.1.1	Art der Störung
+	
+	Störungen an Luftbremsen können grundsätzlich als Folge mangelhafter Bereitschaft oder wegen mangelhaftem Zustand auftreten.
+	
+3.1.2	Mangelhafte Bereitschaft
+	
+	Mangelhafte Bereitschaft der Bremse ist die Folge von unterlassener oder fehlerhafter Handhabung der Luftbremse bzw. einzelner Teile davon. Dazu gehören insbesondere 
+–	nicht oder falsch verbundene Luftleitungen
+–	ganz oder teilweise in falscher Stellung stehende Kupplungs-     oder Ausschalthahnen
+–	Umstellvorrichtungen falsch oder in Zwischenstellung stehend
+–	angezogene Feststellbremsen
+–	überladene oder nicht oder nur ungenügend gefüllte bzw. evakuierte Bremsapparate.
+	
+3.1.3	Mangelhafter Zustand
+	
+	Mangelhafter Zustand der Bremse macht sich bemerkbar durch Undichtheiten an Leitungen und Apparaten oder gehemmte Beweglichkeit von Kolben, Schiebern, Ventilen, usw. Die Ursachen sind oft Abnützung, Alterung, Trockenlauf oder das Eindringen von Fremdkörpern in die Leitungen und Apparate.
+Mangelhafte Zustände und daraus resultierende Störungen lassen sich unter anderem vermeiden, wenn unbenützte Schrauben- und Bremskupplungen sofort in die dafür bestimmten Halterungen verbracht werden und die Hauptleitung der Druckluftbremse sowie die Speiseleitung nach Möglichkeit vor dem Kuppeln kurz ausgeblasen werden.
+	
+3.1.4	Ermitteln der Störungsursache
+	
+	Bei unklarer Ursache einer Bremsstörung ist das gestörte Fahrzeug bzw. der gestörte Zugteil zuerst auf die Bereitschaft und anschliessend auf den Zustand zu überprüfen.
+Kann die Störung nicht behoben werden, sind die Bremsen der gestörten Fahrzeuge nach Möglichkeit auszuschalten.
+
+3.2	Bremsprobe
+3.2.1	Plausibilitätsprüfung
+	
+	Bei der Bremsprobe hat der LF insbesondere darauf zu achten, ob ein der Länge der Hauptleitung entsprechend plausibel rasches oder langsames Fallen oder Steigen des Hauptleitungsdrucks vorliegt.
+	
+3.2.2	Angefrorene Bremssohlen
+	
+	Werden angefrorene Bremssohlen festgestellt, ist bei klotzgebremsten Fahrzeugen beim Lösen jeder Bremsklotz einzeln zu kontrollieren.
+	
+3.3	Pneumatischer Teil
+3.3.1	Fahrzeuge nicht an die Hauptleitung angeschlossen
+	
+	Die Luftbremsen der nicht an die Hauptleitung des Triebfahrzeugs angeschlossenen Fahrzeuge sind zu entleeren.
+	
+3.3.2	Ausfall des Kompressors
+	
+	Bei Ausfall des Kompressors während der Fahrt ist anzuhalten, bevor der Hauptluftbehälterdruck unter den Wert des Normaldrucks der Hauptleitung gesunken ist.
+	
+3.3.3	Überladen der Hauptleitung bei Druckluftbremsen
+	
+	Sofern der Druckregler am Führerbremsventil von Hand verstellbar ist, kann der LF bei kleineren Überladungen durch Verstellen des Druckreglers den Hauptleitungsdruck erhöhen, bis alle Bremsen gelöst sind. Danach ist der Druck unter Beobachtung des Hauptleitungsmanometers durch langsames Zurückstellen des Druckreglers wieder auf den Normaldruck herabzusetzen.
+Wird infolge eines Defekts oder einer Fehlmanipulation beim Füllen die Bremse überladen und kann sie mit dem Normaldruck bzw. der Niederdrucküberladung nicht gelöst werden, ist der Hauptleitungsdruck auf 0,5 bar unter den Normaldruck herabzusetzen. Anschliessend sind die Auslöseventile der Wagen zu betätigen. Gegebenenfalls sind vorgängig ZVB bzw. ZBE zu verständigen.
+	
+3.3.4	Ungewolltes Bremsen
+	
+	Wenn während der Fahrt bei dichter Hauptleitung Wagen ungewollt bremsen, kann versucht werden, die Wagen mit kurzzeitigem Bremsen und Lösen zu lösen, nach Möglichkeit mit Niederdrucküberladung.
+
+3.3.5	Undichtheiten
+	
+	Die Druckluftbremsen sind gegen geringe Undichtheiten unempfindlich. Starke Undichtheiten hingegen können zu Bremsstörungen am ganzen Zug führen. Kann eine solche Undichtheit nicht behoben oder durch das Ausschalten der Luftbremse umgangen werden, ist das betreffende Fahrzeug auszusetzen oder am Schluss des Zuges einzureihen.
+	
+3.4	Luftbremsen ausschalten
+	
+	Bei Fahrzeugen ohne Einrichtung zum Ausschalten der Bremsen ist nach den Vorgaben des EVU zu verfahren.
+	
+3.4.1	Automatische Druckluftbremse ausschalten
+	
+	Ist an einem Wagen die Luftbremse unbrauchbar, ist sie wie folgt auszuschalten:
+1.	Ausschalthahn schliessen
+2.	Auslöseventil betätigen
+3.	gelöster Zustand der Luftbremse ist mit einer Zusatzbremsprobe mittels Schnellbremsung am betreffenden Wagen zu prüfen.
+	Müssen Luftbremsen aus betrieblichen Gründen ausgeschaltet werden, z.B. Güterzüge mit Anhängelast über 1200 t oder Fahrzeuge, an welchen die vorgeschriebene Stellung von Umstellvorrichtungen nicht vorhanden ist, genügt es, den gelösten Zustand der Luftbremse zu prüfen.
+	
+3.4.2	Schäden an Fahrwerk und Bremsen
+	
+	Die Luftbremse muss insbesondere bei 
+–	defekten oder stark abgenutzten Bremssohlen
+–	losen Radreifen
+–	unterklotzten Tragfedern
+–	Triebfahrzeugen mit demontierten Trieb- oder Kuppelstangen
+ausgeschaltet werden. Ist ein Ausschalten nicht möglich, müssen solche Fahrzeuge ausgesetzt werden.
+	
+
+3.4.3	Störung am Gleitschutz
+	
+	Ist der Gleitschutz gestört, muss am betreffenden Wagen die Umstellvorrichtung für Bremswirkung auf P/RIC gestellt werden. Ist das nicht möglich, ist die Luftbremse auszuschalten.
+	
+3.5	Störung an der Magnetschienenbremse
+	
+	Bei Störungen an der Mg-Bremse ist nach den Vorgaben des EVU zu verfahren.
+	
+3.6	Bremsstörung während der Fahrt
+3.6.1	Dichtigkeitsprüfung während der Fahrt
+	
+	Sind während der Fahrt im Zug Anzeichen wahrnehmbar, die auf das Ansprechen einzelner Bremsen hindeuten, hat der LF wo möglich eine Dichtigkeitsprobe vorzunehmen. Ist bei der Durchführung der Dichtigkeitsprobe ein Druckverlust in der Hauptleitung feststellbar, ist der Zug anzuhalten.
+	
+3.6.2	Sinkender Hauptleitungsdruck
+	
+	Bemerkt der LF ohne Dichtigkeitsprobe ein Absinken des Hauptleitungsdrucks unter den eingestellten Wert, so ist das Führerbremsventil sofort in die Schnellbremsstellung zu verbringen.
+	
+3.6.3	Vermutete Zugtrennung
+	
+	Vermutet der LF bei sinkendem Hauptleitungsdruck eine Zugtrennung, ist das Führerbremsventil in der Fahrstellung zu belassen. Kurz vor dem Halt ist das Führerbremsventil in die Betriebsbremsstellung zu verbringen.
+	
+
+3.7	Gefährdungen
+3.7.1	Anhalten bei Gefahr
+	
+	Wenn bei Gefahr ein sofortiges Anhalten des Zuges notwendig ist, haben die LF aller an die Hauptleitung angeschlossenen Lokomotiven den Zug mit einer Schnellbremsung anzuhalten bzw. die auf der Spitzenlok ausgelöste Schnellbremsung ist zu unterstützen. Dabei ist die Luftbremse ohne Rücksicht auf die elektrische Bremse sofort zu benützen und auf den Triebfahrzeugen ebenfalls voll wirken zu lassen.
+Eine Schnellbremsung ist auch auszuführen, wenn die beabsichtigte Wirkung einer Betriebsbremsung trotz starker Verminderung des Drucks in der Hauptleitung nicht erreicht wird. Zudem ist der Zug nötigenfalls mit allen verfügbaren Mitteln zu bremsen. Dazu zählen insbesondere die Nottaste, der Nothahn und das Ansprechenlassen von Sicherheitseinrichtungen.
+	
+3.7.2	Schlechte Adhäsionsverhältnisse
+	
+	Bei schlechten Adhäsionsverhältnissen hat der LF vorausschauend und nötigenfalls ohne Rücksicht auf allfällige Zeitverluste mit stark reduzierter Geschwindigkeit zu fahren. In kritischen Situationen sind, sofern vorhanden, die Sander zu betätigen.
+Die erforderliche Bremskraft soll möglichst von allen Achsen aufgebracht werden. Zu grosse Bremskräfte mit der Luft- oder mit der elektrischen Bremse sind möglichst zu vermeiden.
+Bei der Einfahrt in Gefälle ist die Bremsung rechtzeitig und vor dem Erreichen der Höchstgeschwindigkeit einzuleiten.
+	
+
+
+
+Beilage 1
+
+
+
+Beschreibung der Bremsen
+
+ 
+1	Allgemeines
+1.1	Zweck der Bremsen
+	
+	Die Bremsen dienen dem Regulieren der Geschwindigkeit und zum Anhalten von Zügen bzw. Rangierbewegungen.
+	
+1.2	Bremssysteme
+	
+	In der Regel werden Eisenbahnfahrzeuge gebremst
+–	mit Reibungsbremsen
+–	mit elektrischen Bremsen
+–	mit Schienenbremsen
+–	mit Zahnradbremsen 
+–	mit weiteren Systemen ohne mechanische Reibung (z.B. Wirbelstrombremsen, hydrostatische oder hydrodynamische Bremsen).
+	
+1.2.1	Reibungsbremsen
+	
+	Als Reibungsbremsen werden hauptsächlich Klotz- oder Scheibenbremsen verwendet. Weiter kommen in speziellen Fällen auch Trommelbremsen vor, die als Band- oder Klotzbremse ausgeführt sein können.
+Bei der Klotzbremse werden Bremssohlen aus Grauguss oder Verbundstoff an die Lauffläche der Räder aus Stahl gepresst. Bei der Scheibenbremse werden Bremsbeläge auf eine am Radsatz befestigte Scheibe gepresst.
+In der Regel werden Reibungsbremsen als Luftbremsen ausgeführt.
+Die meisten Triebfahrzeuge sowie Reisezug- und die meisten Güterwagen sind zudem mit einer von Hand zu betätigenden mechanischen Reibungsbremse ausgerüstet. Dabei wird unterschieden zwischen
+–	vom Fahrzeug oder vom Boden aus bedienbaren Bremsen, die der Sicherung von Fahrzeugen gegen Entlaufen dienen und
+–	nur vom Fahrzeug aus bedienbaren Bremsen, die einerseits der Sicherung von Fahrzeugen gegen Entlaufen und andererseits dem Regulieren der Geschwindigkeit für bestimmte Rangierbewegungen dienen.
+	
+
+1.2.2	Elektrische Bremse
+	
+	Bei der elektrischen Bremse wirken die Triebmotoren der Triebfahrzeuge als Generatoren. Die dadurch gewonnene elektrische Energie wird bei der Nutzstrombremse ins Fahrleitungsnetz zurückgespeist, bei der Widerstandsbremse über Widerstände in Wärmeenergie umgewandelt. 
+Die elektrische Bremse dient dem Regulieren und Vermindern der Geschwindigkeit, in gewissen Fällen bis zum Halt. Sie hat zudem folgende Vorteile:
+–	Der Verschleiss der mechanischen Bremsen ist geringer
+–	Die Lärmemissionen sind geringer
+–	Bei Gefällefahrten werden die Räder weniger erwärmt
+–	Die Zugführung wird erleichtert
+–	Bei Gefahr besteht eine erhöhte Bremsbereitschaft der auto-
+matischen Bremse
+	
+1.2.3	Schienenbremse
+	
+	Bei der Schienenbremse werden Bremsschuhe unter dem Fahrgestell abgesenkt und in der Regel durch Magnetkraft auf den Schienenkopf gepresst.
+	
+1.3	Automatische Bremse
+	
+	Die automatische Bremse ist eine durchgehende Bremse, mit der sämtliche daran angeschlossenen Fahrzeuge eines Zuges oder einer Rangierbewegung von einer Stelle aus bedient werden können.
+Die automatische Bremse muss
+–	jederzeit das Anhalten ermöglichen
+–	bei einer Zugtrennung auf jeden Zugteil automatisch wirken
+–	im Notfall von jedem Fahrzeug aus, auf dem sich während der Fahrt Personen befinden, betätigt oder angefordert werden können
+–	unabhängig von einer Energiequelle ausserhalb des Fahrzeugs ausreichend lange wirksam sein.
+Automatische Bremsen werden in der Regel als indirekt wirkende Luftbremsen gebaut (automatische Druckluftbremse, Vakuumbremse). 
+Weiter werden auch direkt wirkende Luftbremsen, elektro-pneumatische, elektro-hydraulische oder rein elektrische Bremsen als automatische Bremsen verwendet.
+	
+
+1.4	Luftbremsen
+	
+	Luftbremsen werden hauptsächlich verwendet als
+–	automatische Bremse
+	Automatische Luftbremsen sind in der Regel als indirekt wirkende Druckluft- oder Vakuumbremsen ausgeführt. Die mittels Kompressor erzeugte Druckluft dient bei der automatischen Bremse nicht nur der Krafterzeugung, sondern auch der Steuerung des Bremsvorgangs. Dasselbe gilt für das mittels Vakuumpumpe erzeugte Vakuum.
+–	Rangierbremse
+	Die Rangierbremse wirkt direkt auf das bediente Fahrzeug (Triebfahrzeug oder Steuerwagen) und gegebenenfalls auf das vielfach- oder ferngesteuerte Fahrzeug.
+	
+
+
+2	Reibung Bremsklotz - Rad - Schiene
+2.1	Verhältnis der Kräfte zwischen Bremsklotz, Rad und Schiene
+	
+	
+	
+	Die durch die Bremsklotzkraft am Radreifen entstehende Reibung erzeugt die Reibungskraft, die am Radumfang tangential angreift und der Drehrichtung des Rades entgegengesetzt ist. Eine gleich grosse Gegenkraft (Haftreibungskraft) wird zwischen Rad und Schiene erzeugt, die den Lauf des Fahrzeugs hemmt.
+Die vom Bremsklotz auf das Rad wirkende Reibungskraft darf nie grösser werden als die vom Rad auf die Schiene übertragbare Haftreibungskraft, ansonsten die Räder zum Gleiten kommen und Flachstellen entstehen. Diese physikalische Gegebenheit bewirkt, dass aufgrund der im Vergleich zu Strassenfahrzeugen geringen Haftreibung erheblich längere Bremswege resultieren. Höchstdruckbegrenzer verhindern einen übermässigen Druck im Bremszylinder und ein dadurch entstehendes Gleiten der Räder.
+	
+2.2	Haftreibungswert Rad - Schiene
+	
+	Der Haftreibungswert zwischen Rad und Schiene ist bei sauberen, trockenen oder vollständig nassen Schienen am grössten. Bei beginnendem Regen, bei Nebel, Raureif, auf Bahnübergängen wegen Streusalz, besonders aber bei Laubfall oder Verschmutzung mit Öl, können die Schienen rutschig und der Haftreibungswert sehr klein werden. Gleitschutzvorrichtungen verhindern das Gleiten, allenfalls hilft auch das Sanden.
+	
+
+2.3	Reibungswert zwischen Bremssohle und Rad
+	
+	Der Reibungswert zwischen Bremssohle und Rad ist von der Geschwindigkeit, der Flächenpressung der Bremssohle sowie der Materialpaarung Rad / Bremssohle abhängig.
+Ein Vergleich zwischen Bremsen mit Bremssohlen aus Grauguss und Verbundstoff (z.B. K, L und LL) sowie Scheibenbremsen ergibt, dass mit zunehmender Geschwindigkeit
+–	bei Bremssohlen aus Grauguss der Reibungswert relativ stark abnimmt
+–	bei Bremssohlen aus Verbundstoff (z.B. K, L und LL) der Reibungswert nur schwach abnimmt 
+–	bei Scheibenbremsen der Reibungswert konstant bleibt.
+Um ein Blockieren der Räder zu verhindern, darf im unteren Geschwindigkeitsbereich der Klotzdruck einen bestimmten Wert nicht übersteigen. Im oberen Geschwindigkeitsbereich hingegen muss bei Bremsen mit Bremssohlen aus Grauguss der Klotzdruck erhöht werden, damit die nötige Bremswirkung noch erbracht werden kann.
+	
+
+3	Mechanischer Aufbau
+3.1	Bremsanlage eines Güterwagens
+	
+	Bremsanlage eines Güterwagens mit Bremsgestängesteller, GP-Wechsel und manuellem Lastwechsel
+	
+
+	
+	
+	
+	Die durch den Kolben des Bremszylinders 16 ausgeübte Kraft wirkt auf den Horizontalhebel 12, von diesem auf die Kombination Bremsgestängesteller 10 / Laststange 13 / Bremszugstange 19 weiter über die Vertikalbremshebel 20 über die Bremsdreiecke 24 auf die Bremssohlen 23 und damit auf die Laufflächen der Räder.
+Mit der Feststellbremskurbel 5 wird die Kraft über Bremsspindel 6, Bremsspindelmutter 7, Bremswelle 8 und die Zugstange 9 auf den Horizontalhebel 12 übertragen. Von dort wirkt die Kraft, wie oben beschrieben, auf die Laufflächen der Räder.
+	
+
+3.2	Bremsblock / Bremseinheiten
+	
+	Bei geringem Raumbedarf wirkt beim Bremsblock die Kraft direkt vom Bremszylinder über das Bremsgestänge mit Gestängeregler und Bremssohle auf die Lauffläche des Rades. Normalerweise ist jedes Rad mit seinem eigenen Bremsblock ausgerüstet.
+	
+3.3	Bremsgestängesteller
+	
+	Durch die Abnützung der Bremssohlen und Radreifen vergrössert sich das Spiel zwischen Bremssohle und Rad. Dies bedeutet vermehrten Verbrauch an Druckluft sowie längere Bremszylinderfüll- und Lösezeiten aufgrund des grösseren Weges. Bei Bremsen, deren Wirkung vom Kolbenhub abhängig ist, hat das grössere Spiel zudem einen kleineren Klotzdruck und dadurch eine Verschlechterung der Bremswirkung zur Folge.
+Mit einem im Bremsgestänge eingebauten, in der Regel automatischen Gestängesteller, werden diese Nachteile behoben. Dieser sorgt dafür, dass die Bremssohlenabnützung durch Verkürzen einer Bremszugstange kompensiert wird, damit das Klotzspiel und der Kolbenhub nicht grösser werden.
+	
+3.4	Lastabbremsung
+	
+	Wagen, bei denen das Bruttogewicht erheblich grösser ist als das Leergewicht, sind mit einer Lastabbremsung ausgerüstet. Diese Einrichtung ermöglicht das Anpassen des Bremsklotzdrucks an das effektive Wagengewicht.
+Das Umstellen des Bremsklotzdrucks geschieht
+–	durch den manuellen Lastwechsel mit den Stellungen «leer» und «beladen»
+–	durch den automatischen Lastwechsel mit den Stellungen «leer» und «beladen»
+–	durch die automatische Lastabbremsung kontinuierlich entsprechend
+–	der Beladung bis zum höchsten möglichen Gesamtgewicht
+–	der Beladung nur bis zu einem bestimmten Gesamtgewicht. Bei einer höheren Beladung vermindert sich das Bremsverhältnis entsprechend.
+	
+
+4	Pneumatik
+	
+	Die Luftschicht der Erdatmosphäre drückt auf die Erde ungefähr so stark wie das Gewicht einer Wassersäule von 10 m Höhe oder einer Quecksilbersäule von 760 mm Höhe. Das entspricht je cm2 Erdoberfläche rund 10 N (1 kp) oder ca. 1 bar.
+	
+4.1	Eigenschaften der Druckluft
+	
+	Druckluft entsteht, wenn Luft von atmosphärischem Druck auf einen Teil ihres ursprünglichen Volumens zusammengedrückt wird. Dabei wird der Überdruck (in bar) gegenüber dem atmosphärischen Druck gemessen.
+Druckluft strömt in einer Leitung stets von der Stelle des höheren zur Stelle des tieferen Drucks. Die Strömungsgeschwindigkeit ist abhängig von der Höhe des Druckunterschieds und dem Widerstand in der Leitung.
+Wird ein mit Druckluft gefüllter Behälter mit einem zweiten leeren, d.h. nur mit Luft von atmosphärischem Druck gefüllten Behälter, verbunden, so strömt die Druckluft so lange in diesen, bis in beiden Behältern der gleiche Druck herrscht (Druckausgleich).
+Die Druckluft ist stets bestrebt, sich auszudehnen. Wird dem Bremszylinder Druckluft zugeführt, sucht diese den Kolben zu bewegen, bis er Widerstand findet, d.h. bis die Bremsklötze an den Radreifen anliegen.
+	
+4.2	Eigenschaften des Vakuums
+	
+	Ein Vakuum entsteht, wenn aus einem geschlossenen Raum mit einer Vakuumpumpe die Luft abgesaugt wird und dadurch gegenüber dem atmosphärischen Druck ein Unterdruck entsteht. Betreffend den Druckausgleich gilt dasselbe wie bei Druckluft.
+	
+
+
+5	Luftleitungen
+5.1	Verbindung zwischen den Fahrzeugen
+	
+	Zur Verbindung der verschiedenen Luftleitungen zwischen den Fahrzeugen ist jede Fahrzeugseite mindestens mit einem Schlauch mit Kupplungskopf und Absperreinrichtung ausgerüstet.
+Die unterschiedlichen Bauarten der Kupplungsköpfe verhindern, dass verschiedenartige Leitungen miteinander gekuppelt werden können. 
+Bei gewissen automatischen Kupplungen werden die Luftleitungen mit dem Kuppel- bzw. Entkuppelvorgang automatisch verbunden bzw. getrennt.
+	
+5.1.1	Hauptleitung (Hauptluftleitung HLL)
+	
+	Die Hauptleitung verbindet, ausgehend vom Führerbremsventil des bedienten Führerstandes, sämtliche an die automatische Bremse angeschlossenen Fahrzeuge bis zum Zugende. Sie versorgt die Fahrzeuge mit der zur Krafterzeugung und Steuerung der Bremse nötigen Druckluft bzw. Vakuum.
+Zum Absperren der Hauptleitung an Fahrzeugen mit Druckluftbremse ist an jedem Stossbalken ein Kupplungshahn vorhanden, bei doppelter Anordnung der Bremskupplungen sind dementsprechend zwei Kupplungshahnen angebracht. Der Kupplungshahn ist offen, wenn sich dessen Griff in der Regel in waagrechter Stellung befindet und geschlossen, wenn sich der Griff in der Regel in senkrechter Stellung befindet. In geschlossener Stellung wird die Bremskupplung durch eine Bohrung im Hahngehäuse mit dem Freien verbunden und dadurch entlüftet.
+Zum Absperren der Hauptleitung an Fahrzeugen mit Vakuumbremse ist an den Kupplungsköpfen der Bremskupplung ein Blinddeckel angebracht. Dieser saugt sich bei erzeugtem Vakuum auf dem Kupplungskopf fest.
+	
+
+5.1.2	Speiseleitung 
+(Hochdruck-Speiseleitung, Hauptluftbehälterleitung HBL)
+	
+	Die Speiseleitung versorgt ab dem Hauptluftbehälter des Triebfahrzeugs die angeschlossenen Fahrzeuge mit Druckluft. Für die Funktion der Bremsen ist das Kuppeln der Speiseleitung zwingend
+–	zum Versorgen des Führerbrems- und Rangierbremsventils eines vom Steuerwagen aus geführten Zuges mit Druckluft
+–	zum Versorgen der Bremszylinder mit Druckluft für Fahrzeuge mit direkt wirkender elektropneumatischer Bremse
+–	zum Versorgen der Bremszylinder mit Druckluft für Fahrzeuge mit vakuumgesteuerter Druckluftbremse.
+Das Absperren der Speiseleitung geschieht auf dieselbe Weise wie das Absperren der Hauptleitung für die Druckluftbremse.
+	
+5.1.3	Rangierbremsleitung
+	
+	Die Rangierbremsleitung versorgt, ausgehend vom Rangierbremsventil des bedienten Führerstands, die in Vielfachsteuerung angeschlossenen Triebfahrzeuge mit Druckluft für deren Rangierbremse.
+Die Rangierbremsleitung besitzt in der Regel keine Absperrhahnen. Zum Absperren dient ein in die Kupplungsköpfe integriertes Rückschlagventil.
+	
+
+6	Automatische Druckluftbremse
+6.1	Prinzip der automatischen Druckluftbremse
+	
+	
+	
+	Fahrzeuge mit automatischer Druckluftbremse sind mindestens ausgerüstet mit Hauptleitung, Ausschalthahn, Steuerventil mit bzw. ohne Steuerbehälter, Hilfsluftbehälter und Bremszylinder. Triebfahrzeuge sind 
+zusätzlich ausgerüstet mit Kompressor, Hauptluftbehälter und Führerbremsventil, gegebenenfalls mit Rangier- und Anhängerbremsventil.
+Die automatische Druckluftbremse wird auch als indirekt wirkende Bremse bezeichnet, da die Druckluft dem Bremszylinder indirekt über das Steuerventil aus dem Hilfsluftbehälter zugeführt wird, welches durch den Hauptleitungsdruck gesteuert ist.
+Die automatische Bremse kann in der Regel an jedem Fahrzeug separat ausser Betrieb gesetzt werden. Bei Wagen geschieht das mit einem aussen am Fahrzeug angebrachten Ausschalthahn. In der Regel ist dieser offen, wenn sich dessen Griff in senkrechter Stellung befindet und geschlossen, wenn sich der Griff in waagrechter Stellung befindet.
+	
+6.1.1	Füllen bzw. Lösen
+	
+	Der Kompressor auf dem Triebfahrzeug presst Druckluft in den Hauptluftbehälter. Von da gelangt die Druckluft über das Führerbremsventil via Hauptleitung in die Steuerventile und Hilfsluftbehälter der einzelnen an die Hauptleitung angeschlossenen Fahrzeuge. Das Führerbremsventil reguliert den Druck in der Hauptleitung und in den Apparaten der Fahrzeuge auf einen bestimmten Druck. Der Raum über dem Kolben des an das Steuerventil angeschlossenen Bremszylinders ist mit der Aussenluft verbunden, eine Feder im Raum unter dem Kolben oder im Gestänge drückt diesen in die Lösestellung. Die Bremse ist betriebsbereit, wenn das Bremsystem auf den entsprechenden Normaldruck gefüllt ist.
+
+6.1.2	Bremsen
+	
+	Mit dem Führerbremsventil wird der Druck in der Hauptleitung abgesenkt und steuert damit das Steuerventil im einzelnen Fahrzeug in die Bremsstellung und verbindet den Hilfsluftbehälter mit dem Bremszylinder. Die Verbindung zwischen Bremszylinder und Aussenluft wird unterbrochen. Die Druckluft strömt vom Hilfsluftbehälter über das Steuerventil in den Raum über dem Kolben des Bremszylinders. Die Kraft der Feder im Raum unter dem Kolben wird überwunden und der Kolben in die Bremsstellung gedrückt.
+	
+6.2	Das Steuerventil
+6.2.1	Allgemeines
+	
+	Das Steuerventil dient der automatischen Steuerung der Verbindungen zwischen der Hauptleitung, dem Hilfsluftbehälter, den Bremszylindern und dem atmosphärischen Druck (Aussenluft). Das Steuerventil verleiht der Bremse folgende wichtige Eigenschaften:
+–	Unerschöpfbar bei sachgerechter Bremsbedienung
+–	gute Regulierfähigkeit, das heisst hohe Empfindlichkeit beim Bremsen und Lösen
+–	hohe Durchschlagsgeschwindigkeit
+–	geringe Empfindlichkeit gegen Überladen des Systems
+–	Unempfindlichkeit gegen geringe Druckschwankungen
+–	selbsttätiges Ersetzen der Luftverluste in den Bremszylindern
+–	rasches Ansprechen der Bremse und kontinuierlichen Druckverlauf
+–	Zuverlässigkeit bei jeder Witterung.
+Die gute Regulierfähigkeit ist sowohl beim Bremsen als auch beim Lösen wichtig. Die Bremsen sind beim Lösen wie auch beim Bremsen immer abgestuft regulierbar.
+	
+6.2.2	Funktion
+	
+	Pneumatische Steuerventile arbeiten in der Regel nach dem sogenannten Dreidruckprinzip. Gesteuert werden der Hauptleitungsdruck (blau), der Druck im Steuerbehälter (gelb) und der Druck im Bremszylinder (grün). Der Druck im Hilfsluftbehälter (rot) enthält den Luftvorrat zur Speisung des Bremszylinders.
+In bestimmten Fällen können gewisse Steuerventile an Stelle des Steuerbehälters (gelb) mit einer Feder ausgerüstet sein.
+
+6.2.3	Füllen und Lösen
+	
+	
+	
+	Aus der Hauptleitung 2 strömt Druckluft über den Ausschalthahn 3
+–	in den Raum (blau) über dem Steuerkolben 7
+–	über das Rückschlagventil 5 in den Hilfsluftbehälter 1 und in den Raum (rot) über dem Einlassventil 10
+–	über das Rückschlagventil 6 in den Steuerbehälter 9 und in den Raum (gelb) unter dem Steuerkolben 7.
+Der Steuerkolben wird durch die auf den Regulierkolben 8 drückende Feder etwas belastet, folglich steht der hohle Stössel mit dem auf seinem Sitz ruhenden Einlassventil 10 nicht in Berührung. Der Bremszylinder ist somit über die Bohrung des Stössels mit dem Freien verbunden.
+	
+
+6.2.4	Bremsen
+	
+	
+	
+	Eine Druckverminderung in der Hauptleitung bewirkt eine Abnahme des Drucks im Raum (blau) über dem Steuerkolben 7. Gleichzeitig schliessen die Rückschlagventile 5 und 6. Somit kann weder aus dem Hilfsluftbehälter noch aus dem Steuerbehälter Druckluft in die Hauptleitung zurückströmen. Infolge des Druckunterschieds zwischen der Steuerluft (gelb) und der Hauptleitungsluft (blau) hebt sich der Steuerkolben, dessen Stössel das Einlassventil von seinem Sitz abhebt und öffnet. Die Verbindung des Bremszylinders 4 durch die Bohrung des Ventilstössels ist geschlossen und aus dem Hilfsluftbehälter strömt Druckluft (grün) durch das geöffnete Einlassventil 10 in den Bremszylinder.
+	
+
+6.2.5	Abschlussstellung
+	
+	
+	
+	Wenn der Druck im Bremszylinder und damit der Druck (grün) im Raum über dem Regulierkolben 8 so weit gestiegen ist, dass die nach unten gerichtete Kraft des Regulierkolbens die nach oben gerichtete Kraft des Steuerkolbens 7 aufzuheben vermag bzw. leicht überwiegt, wird der Steuerkolben und mit ihm der hohle Stössel so weit nach unten bewegt, dass das Einlassventil 10 durch seine Feder auf seinen Sitz gedrückt und geschlossen wird. Die weitere Luftzufuhr aus dem Hilfsluftbehälter nach dem Bremszylinder ist damit abgeschlossen. Weil der hohle Ventilstössel mit dem Einlassventil in Berührung bleibt, ist auch kein Luftaustritt vom Bremszylinder nach dem Freien möglich. Jede weitere Druckverminderung in der Hauptleitung hat eine entsprechende Erhöhung des Drucks im Bremszylinder zur Folge, wobei jede Druckstufe in gleicher Weise abgeschlossen wird. Die volle Bremswirkung wird erreicht, wenn der Druck in der Hauptleitung so weit gesenkt ist, dass zwischen Hilfsluftbehälter und Bremszylinder ein Druckausgleich vorhanden ist.
+	
+
+6.2.6	Stufenweises Lösen
+	
+	
+	
+	Wird durch das Führerbremsventil wieder Druckluft in die Hauptleitung eingelassen, so erhöht sich der Druck im Raum (blau) über dem Steuerkolben. Dadurch wird der Gleichgewichtszustand des Steuerkolbens gestört und dieser bewegt sich soweit nach unten, bis dessen Ventilstössel den Kontakt mit dem Einlassventil verliert. Die Druckluft (grün) kann nun aus dem Bremszylinder durch die Bohrung im Ventilstössel ins Freie entweichen, jedoch nur so lange, als die nach unten gerichtete Kraft genügt, um den Steuerkolben in der Lösestellung und damit die Bohrung des Ventilstössels offen zu halten. Mit der Abnahme des Bremszylinderdrucks wird auch der von oben auf den Regulierkolben 8 wirkende Druck schwächer, so dass sich der Steuerkolben unter dem Einfluss des Steuerdruckes (gelb) so weit nach oben bewegt, bis der Ventilstössel den Luftaustritt aus dem Bremszylinder schliesst. Bei weiteren Druckerhöhungen in der Hauptleitung wiederholt sich der Lösevorgang.
+	
+6.2.7	Vollständiges Lösen
+	
+	Die Bremse ist erst dann vollständig gelöst, wenn in der Hauptleitung der ursprüngliche d.h. der vor der ersten Bremsung vorhanden gewesene Druck wieder erreicht und der Hilfsluftbehälter wieder gefüllt ist.
+	
+
+6.3	Verhältnis Hauptleitungs- zu Bremszylinderdruck
+	
+	Der Höchstdruck im Bremszylinder ist erreicht, wenn der Druck in der Hauptleitung um 1,5 bar vermindert wird. Wurde der Bremszylinder eines Triebfahrzeugs nach einer ersten Bremsung ausgelöst, kann der Bremszylinderdruck mit einer weiteren Senkung des Hauptleitungsdrucks um 0,6 bar noch bis zu einem bestimmten Wert aufgebaut werden. Ein Höchstdruckbegrenzer am Steuerventil verhindert das Überschreiten des höchstzulässigen Drucks im Bremszylinder.
+Der Bremszylinder ist vollständig gelöst, sobald der Druck in der Hauptleitung bis auf 0,2 bar unter den Normaldruck angestiegen ist. Die Lösegrenze ist auf diesen Wert festgelegt um Lösestörungen zu vermeiden, d.h. alle Bremsapparate, insbesondere auch diejenigen am Schluss des Zuges, sollen beim Erhöhen der Hauptleitung auf den Normaldruck, auch bei langen Zügen, zuverlässig lösen.
+	
+6.4	Durchschlagsgeschwindigkeit bei der 
+automatischen Druckluftbremse
+	
+	Die eingeleitete Bremsung soll sich in möglichst kurzer Zeit bis zum Zugende fortpflanzen. Je rascher dies geschieht, desto kürzer wird der Bremsweg. Die Geschwindigkeit, mit der eine Bremsung bis zum Zugende durchschlägt, wird sinngemäss als Durchschlagsgeschwindigkeit bezeichnet. Als Durchschlagszeit gilt die Zeit zwischen dem Umlegen des Führerbremsventils in die Schnellbremsstellung und dem Beginn des Druckanstiegs im Bremszylinder des letzten Fahrzeugs.
+Das Steuerventil ist in der Regel mit einem Beschleunigungsventil ausgerüstet. Dies bewirkt, dass beim Bremsen eine gewisse Menge Druckluft an Ort und Stelle aus der Hauptleitung ausströmt. Dadurch kann die Durchschlagsgeschwindigkeit von ca. 90 bis 180 m/s auf ca. 250 bis 280 m/s erhöht werden.
+	
+
+6.5	Personen- und Güterzugbremse
+	
+	Man unterscheidet zwischen der Personenzugbremse und der Güterzugbremse, weil mit Rücksicht auf die zulässige Länge und die zulässige Höchstgeschwindigkeit der Züge entsprechende Anforderungen an die Bremsen gestellt werden. Schnell fahrende Züge benötigen einen längeren Bremsweg, deshalb brauchen diese Züge eine entsprechend schnell wirkende Bremse. Bei der Verwendung von Bremsklötzen aus Grauguss muss die Personenzugbremse im hohen Geschwindigkeitsbereich zudem auch stärker wirken.
+	Die Bremsen müssen unter allen Verhältnissen und im Fahrzeugverband so wirken, dass keine übermässig grossen Längsdruckkräfte im Zug entstehen. Schwere, lange und unterschiedlich beladene und gebremste Güterzüge benötigen deshalb zur Verminderung der Längsdruckkräfte eine langsam wirkende Bremse.
+	
+6.6	Personenzugbremsen
+6.6.1	P-Bremse
+	
+	Die P-Bremse ist eine rasch wirkende Bremse. Sie wird für leichte bis mittelschwere Züge verwendet.
+Die Bremszylinderfüllzeit beträgt ca. 3 bis 5 s und die Lösezeit ca. 10 bis 20 s.
+Diese kurzen Druckentwicklungszeiten setzen voraus, dass alle Bremsen des Wagenmaterials gleichmässig wirken und die Fahrzeuge straff gekuppelt sind. Die kurzen Bremszylinderfüll- und Lösezeiten werden dadurch erreicht, dass die Luftdurchgänge in den Steuerventilen weniger gedrosselt werden.
+	
+
+6.6.2	R-Bremse
+	
+	Die R-Bremse ist grundsätzlich als P-Bremse zu betrachten. Bei Zügen mit höheren Geschwindigkeiten bis zu 160 km/h können die nötigen Bremswege nur eingehalten werden, wenn die Bremsen der Fahrzeuge, welche mit Bremssohlen aus Grauguss ausgerüstet sind, im oberen Geschwindigkeitsbereich verstärkt wirken. Dadurch wird erreicht, dass die Bremskräfte aufgrund des sich verändernden Reibungswertes möglichst gleich bleiben. Zu diesem Zweck wird der Bremsklotzdruck bei Geschwindigkeiten über einen bestimmten Wert (z.B. 80 km/h) erhöht. Bei Abnahme der Geschwindigkeit unter einen bestimmten Wert (z.B. 50 km/h) wird der Bremsklotzdruck wieder auf den normalen Wert reduziert, damit wird auch ein Blockieren der Räder vermieden.
+Bei Fahrzeugen mit Scheibenbremsen oder Bremssohlen aus Verbundstoff (z.B. K, L und LL) bleibt der Reibungswert über den ganzen Geschwindigkeitsbereich unverändert. Deshalb kann auf eine geschwindigkeitsabhängige R-Bremssteuerung verzichtet werden.
+	
+6.7	Güterzugbremse
+	
+	Die G-Bremse ist eine langsam wirkende Bremse. Sie hat deshalb längere Bremswege zur Folge. Sie wird für schwere, aus nicht einheitlichem Wagenmaterial bestehenden oder für extrem lange Züge verwendet. Die Voraussetzungen für ein ruckfreies Bremsen und Lösen dieser Züge ist weniger günstig. Das nicht einheitliche Wagenmaterial und die unterschiedlichen Beladungszustände bewirken auch eine unterschiedliche Abbremsung der einzelnen Fahrzeuge und dadurch das Entstehen ungewollter Längsdruckkräfte, die bei nicht sachgerechter Bremsbedienung zu Pufferübergreifungen und Entgleisungen führen können. Aus diesem Grund ist die G-Bremse so ausgelegt, dass bei einer Bremsung die einzelnen Bremsen möglichst rasch ansprechen (Einschuss) und die Bremskraft anschliessend verhältnismässig langsam aufgebaut wird. Damit werden zu hohe Längsdruckkräfte im Zug vermieden. Die in den Kupplungen und Puffern auftretenden Zug- und Stosskräfte können sich somit allmählich ausgleichen. Aus den gleichen Gründen muss auch beim Lösen der Bremse die Bremskraft langsam abnehmen.
+Die Bremszylinderfüllzeit beträgt in Abhängigkeit der Zuglänge ca. 18 bis 35 s und die Lösezeit ca. 45 bis 60 s.
+Der für die G-Bremse vorgeschriebene rasche Ansprung der Bremskraft (Einschuss) bei Beginn der Bremsung wird im Steuerventil mit dem sogenannten Mindestdruckventil erzeugt. Dieses lässt Druckluft vom Hilfsluftbehälter direkt in den Bremszylinder einströmen, bis darin ein Druck von 0,8 bar erreicht ist. Dann wird die Verbindung geschlossen und die weitere Drucksteigerung im Bremszylinder geht langsam voran, weil die Druckluft durch eine kleinkalibrierte Drosselbohrung strömen muss.
+
+6.8	Umstellvorrichtungen für Bremswirkung
+	
+	Triebfahrzeuge sind in der Regel mit einem GP-, GPR- oder GR-Wechsel, Wagen hauptsächlich mit einem GP- bzw. RIC/R-, RIC/R+Mg- oder RIC/R/R+Mg-Wechsel ausgerüstet. Diese Einrichtung ermöglicht das wahlweise Anpassen der Bremse an die Bremsart des Zuges.
+	
+6.9	Führerbremsventil
+	
+	Mit dem Führerbremsventil kann der Druck in der Hauptleitung reguliert werden.
+Die Füllstellung (Querschnittswechsel) dient dem raschen Füllen der Hauptleitung und der Bremsapparate. Dabei wird der Hauptluftbehälter des Triebfahrzeugs über grosse Kanäle direkt mit der Hauptleitung verbunden. Bei vielen Führerbremsventiltypen bewirkt das Verbringen in die Füllstellung einen zeitlich begrenzten Füllstoss (Druckwelle) mit anschliessender Niederdrucküberladung (Angleichfunktion) der Hauptleitung auf 0,2 bis 0,4 bar über dem Normaldruck.
+In der Fahrstellung wird diese Verbindung gedrosselt. Die Niederdrucküberladung baut sich dadurch langsam ab, so dass die Bremsen nicht ansprechen. Die Verbindung führt zudem über einen Druckregler, welcher den Normaldruck dauernd aufrecht erhält. Kleine Druckverluste werden automatisch ergänzt.
+	In der Bremsstellung wird der Druck in der Hauptleitung durch Luftauslass ins Freie vermindert. Der Druck in der Hauptleitung kann in dieser Weise stufenweise bis zur vollen Bremswirkung gesenkt werden.
+In der Schnellbremsstellung strömt die Druckluft unmittelbar und direkt aus der Hauptleitung ins Freie, wodurch die Hauptleitung schneller entlüftet wird. Dadurch erfolgt der Anstieg der Bremswirkung im Zug schneller.
+In der Neutralstellung bzw. Abschlussstellung ist die Verbindung zwischen Hauptluftbehälter und Hauptleitung unterbrochen.
+	
+6.10	Auslöseventil
+	
+	Die Fahrzeuge sind mit einem Auslöseventil ausgerüstet. Mit diesem kann durch Entleerung der Bremsapparate die Bremse ohne Erhöhung des Hauptleitungsdrucks gelöst werden.
+Bei Triebfahrzeugen kann das Auslöseventil an der Pneumatiktafel, bei Wagen in der Regel mit Zugstangen oder –drähten von beiden Seiten aus betätigt werden.
+Die Bremszylinder der Triebfahrzeuge können mit einem vom Führerstand aus bedienbaren elektromagnetischen Auslöseventil entlüftet werden.
+
+6.11	Elektropneumatische Bremsen
+	
+	Die EP-Bremse ist eine elektropneumatisch gesteuerte automatische Druckluftbremse. Die EP-Bremse ermöglicht das gleichzeitige Bremsen oder Lösen aller Fahrzeuge unabhängig von der Länge des Zuges. Damit kann eine gleichmässige Bremsung mit geringsten Längsdruckkräften im Zug erreicht werden.
+Das Triebfahrzeug ist mit einem Steuergerät und die einzelnen Wagen sind mit elektropneumatischen Ventilen ausgerüstet. Die Übertragung und Überwachung der elektrischen Steuerbefehle erfolgt über eine Steuerleitung. Fällt die elektropneumatische Steuerung aus, wird die Bremse rein pneumatisch über die Hauptleitung gesteuert.
+Die EP-Bremsen unterteilen sich in zwei Ausführungen
+–	die direkt wirkende EP-Bremse
+–	die indirekt wirkende EP-Bremse.
+	
+6.11.1	Direkt wirkende EP-Bremse
+	
+	Bei der direkt wirkenden EP-Bremse ist ein Steuergerät auf dem Triebfahrzeug oder Steuerwagen mit dem Führerbremsventil oder dem massgebenden Bedienelement kombiniert. Das Steuergerät gibt einen Brems- oder Lösebefehl ab, der proportional zur gewünschten Bremswirkung ist. Auf jedem Fahrzeug im Zug ist ein elektropneumatisches Ventil vorhanden, das in Abhängigkeit des Befehls in der elektrischen Steuerleitung (EP-Leitung) den Druck in den Bremszylindern entsprechend reguliert.
+	
+6.11.2	Indirekt wirkende EP-Bremse
+	
+	Bei der indirekt wirkenden EP-Bremse wird das Steuergerät auf dem Triebfahrzeug oder Steuerwagen mit dem Führerbremsventil betätigt. Es gibt einen elektrischen Brems- oder Lösebefehl ab, wenn der Druck in der Hauptleitung gesenkt oder erhöht wird. Diese Bremse arbeitet somit parallel mit der automatischen Druckluftbremse. Jedes Fahrzeug besitzt zwei Elektroventile: ein Bremsventil und ein Löseventil. Im erregten Zustand verbinden diese Ventile die Hauptleitung des Fahrzeugs mit dem Freien (Bremsen) oder direkt mit der Speiseleitung (Lösen). Die indirekte EP-Bremse wirkt somit auf die automatische Druckluftbremse aller an die Hauptleitung gekuppelten Fahrzeuge.
+	
+
+
+7	Automatische Vakuumbremse
+7.1	Prinzip der Vakuumbremse
+	
+	
+	
+	Fahrzeuge mit Vakuumbremse, auch Luftsaugebremse genannt, sind mindestens ausgerüstet mit Hauptleitung, Bremszylinder mit Unter- und Oberkammer, Sonderbehälter und Rückschlagventil zwischen Sonderbehälter und Unterkammer des Bremszylinders. Triebfahrzeuge sind zusätzlich ausgerüstet mit Vakuumpumpe mit Rückschlagventil und Führerbremsventil (Vakuumschieber).
+	
+7.1.1	Evakuieren bzw. Lösen
+	
+	Die Vakuumpumpe auf dem Triebfahrzeug saugt (evakuiert) über ein Rückschlagventil aus dem ganzen System die Luft ab, dadurch wird ein Vakuum aufgebaut. Über die Hauptleitung werden die Unterkammern der Bremszylinder und über Rückschlagventile die Oberkammern und die Sonderbehälter evakuiert. Beim waagrecht montierten Bremszylinder hält eine Rückholfeder bzw. beim senkrecht montierten Bremszylinder das Eigengewicht des Kolbens diesen in der Lösestellung. Die Bremse ist betriebsbereit bzw. gelöst, wenn zwischen dem atmosphärischen Druck und dem System eine Druckdifferenz von 52 cmHg erzeugt ist und zwischen Unter- und Oberkammern der angeschlossenen Bremszylinder Druckausgleich herrscht. Auf dem Triebfahrzeug begrenzt ein Regulierventil die Druckdifferenz zwischen dem atmosphärischen Luftdruck und der Hauptleitung auf 52 cmHg und ein Rückschlagventil verhindert bei Stillstand der Vakuumpumpe das unkontrollierte Eindringen von Aussenluft.
+
+7.1.2	Bremsen
+	
+	Mit dem Führerbremsventil wird das Vakuum in der Hauptleitung und den Unterkammern der Bremszylinder durch dosiertes Einlassen von Aussenluft vermindert. Der Unterdruck von 52 cmHg in den Oberkammern und den Sonderbehältern bleibt dank der automatisch wirkenden Abdichtung durch die eingebauten Rückschlagventile erhalten. Infolge des Druckunterschieds in den beiden Kammern wird die Kraft der Rückholfeder bzw. das Eigengewicht des Kolbens überwunden und dieser bewegt sich in die Bremsstellung.
+	
+7.2	Durchschlagsgeschwindigkeit bei Vakuumbremse
+	
+	Allgemein gilt für die Durchschlagsgeschwindigkeit bei der Vakuumbremse dasselbe wie bei der Druckluftbremse.
+Die Durchschlagsgeschwindigkeit beträgt in der Regel 15 m/s, bei einer Schnellbremsung ca. 200 m/s.
+	
+7.3	Vakuumgesteuerte Druckluftbremse
+	
+	Die vakuumgesteuerte Druckluftbremse hat gegenüber der reinen Vakuumbremse unter anderem folgende Vorteile:
+–	sie kann mit einem Gleitschutz kombiniert werden
+–	für Triebfahrzeuge ist die Kombination mit einer Rangier- und einer Schleuderbremse möglich.
+Die vakuumgesteuerte Druckluftbremse ist zusätzlich zur reinen Vakuumbremse mit einem Vakuumsteuerventil ausgerüstet. Dieses hat die gleiche Funktion wie das Steuerventil der Druckluftbremse. Der Bremszylinder wird über die Speiseleitung und das Vakuumsteuerventil mit Druckluft versorgt.
+	
+
+	
+	
+	Beim Füllen und Lösen wird die Hauptleitung 2 und der Steuerbehälter 6 durch die Vakuumpumpe des Triebfahrzeugs auf 52 cmHg evakuiert. Der Kolben des Steuerventils bewegt sich nach unten und der Bremszylinder 4 wird entlüftet.
+Beim Bremsen wird durch die Zerstörung des Vakuums in der Hauptleitung der Kolben des Steuerventils nach oben bewegt. Im Steuerbehälter 6 bleibt das Referenzvakuum von 52 cmHg durch schliessen des Rückschlagventils erhalten. Druckluft strömt aus der Speiseleitung 1 durch das geöffnete Einlassventil 9 in die Kammer über dem Regulierkolben 8 und in den Bremszylinder.
+Der Druckanstieg in der Kammer über dem Regulierkolben bewirkt, dass der Kolben des Steuerventils nach unten gedrückt und das Einlassventil geschlossen wird.
+Auf Grund des Vakuums in der Hauptleitung, des Vakuums im Steuerbehälter und des Bremszylinderdrucks funktioniert das Steuerventil nach dem Dreidruckprinzip. Dadurch ist es möglich, den Bremszylinderdruck abgestuft zu regeln.
+Voraussetzung für die sichere Funktionsfähigkeit der vakuumgesteuerten Druckluftbremse ist die Versorgung mit Druckluft über die Speiseleitung. Mit der Mindestdrucküberwachung 10 wird der Druck der Speiseleitung überwacht. Sinkt dieser unter 5,5 bar, wird die Hauptleitung zwangsbelüftet.
+	
+
+
+8	Rangierbremse
+	
+	
+	
+	Die auf dem Triebfahrzeug oder Steuerwagen vorhandene direkt wirkende Luftbremse wird als Rangierbremse bezeichnet. Sie wirkt auf das Triebfahrzeug bzw. auf den Steuerwagen und gegebenenfalls auf weitere Triebfahrzeuge in Vielfachsteuerung. In gewissen Fällen wird die Rangierbremse vom Steuerwagen aus elektropneumatisch angesteuert und kann in diesem Fall zusätzlich auch auf das Triebfahrzeug wirken.
+Die Rangierbremse wird mit dem Rangierbremsventil bedient, welches die Druckluft aus dem Hauptluftbehälter über einen Druckregler bezieht. Dieser ist, um Überbremsungen zu vermeiden, auf einen bestimmten Höchstdruck eingestellt.
+Mit der Rangierbremse kann beim Bremsen wie auch beim Lösen der Druck im Bremszylinder kontinuierlich reguliert werden.
+	
+
+
+9	Schienenbremse
+	
+	Schienenbremsen werden verwendet
+–	zur Verkürzung des Bremswegs beim Einleiten einer Schnellbremsung, insbesondere im Strassenbahnbereich
+–	als Kompensation der Bremskraft bei plötzlichem Ausfall der     elektrischen Bremse
+–	als Feststellbremse.
+Die Bremsschuhe üben ihre Bremskraft in der Regel durch elektro- oder permanentmagnetische Kraftwirkung auf den Schienenkopf aus. Dadurch wird die Reibungskraft unabhängig von der Rad/Schiene-Reibung unmittelbar auf die Schiene ausgeübt.
+	
+
+
+10	Notbremseinrichtungen
+	
+	Die Notbremseinrichtung bezweckt, dass im Notfall ein Zug oder eine Rangierbewegung angehalten werden kann. Eine Notbremseinrichtung befindet sich in der Regel auf jedem Fahrzeug, auf dem sich während der Fahrt Personen aufhalten können.
+	
+10.1	Notbremsventil
+	
+	Jedes dem Reisenden zugängliche Fahrzeug ist in der Regel mit einem Notbremsventil ausgerüstet. Das Notbremsventil kann von einer Drittperson geöffnet werden. Das geöffnete Notbremsventil verbindet die Hauptleitung unmittelbar mit dem Freien und es tritt eine Notbremsung ein, wobei bei vielen Wagen durch das Ausströmen der Druckluft gleichzeitig eine Signalpfeife aktiviert wird. Der normale Betriebszustand kann in der Regel nur mit einer besonderen Rückstellvorrichtung oder mit Hilfe des Wagenschlüssels hergestellt werden.
+Dienst-, Gepäck- und Güterwagen können mit einem einfachen Notbremshahn ohne Rückstellvorrichtung ausgerüstet sein.
+	
+10.2	Notbremsüberbrückung, Notbremsanforderung
+	
+	Fahrzeuge für Personenbeförderung sind in bestimmten Fällen mit einer Notbremsüberbrückung oder einer Notbremsanforderung ausgerüstet. Die Notbremsüberbrückung bzw. -anforderung soll verhindern, dass ein Zug an ungeeigneter Stelle zum Stillstand kommt.
+	
+10.2.1	Notbremsüberbrückung
+	
+	Ein geöffnetes Notbremsventil löst eine Notbremsung aus, gleichzeitig wird im Führerstand die Betätigung der Notbremse angezeigt. Die Wirkung der Notbremsung kann durch den LF im Führerstand überbrückt werden. Ein anderweitig bedingter Luftverlust in der Hauptleitung (z.B. Zugtrennung) kann nicht überbrückt werden.
+	
+10.2.2	Notbremsanforderung
+	
+	Eine betätigte Notbremseinrichtung wird im Führerstand angezeigt, löst jedoch keine Notbremsung aus.
+	
+
+
+11	Schnellbremsbeschleuniger, Schnellbremsventile
+	
+	Mit Schnellbremsbeschleuniger ausgerüstet sind bei druckluftgebremsten Zügen bestimmte Reisezugwagen. Mit Schnellbremsventilen können bei vakuumgebremsten Zügen nebst Reisezugwagen auch Güterwagen ausgerüstet sein.
+Bei einer raschen Entleerung der Hauptleitung (Schnell- oder Notbremsung) verbinden die Schnellbremsbeschleunigungsorgane an den Fahrzeugen die Hauptleitung mit dem Freien. Dadurch kann die Durchschlagsgeschwindigkeit wesentlich erhöht werden. Nach dem Ansprechen der Schnellbremsbeschleunigungsorgane schliessen diese die Verbindung zwischen Hauptleitung und dem Freien erst wieder, nachdem die Hauptleitung komplett entleert wurde.
+	
+
+
+12	Anhängerbremse
+	
+	
+	
+	Die Anhängerbremse ermöglicht das Bedienen der automatischen Bremse der Anhängelast mit der Rangierbremse des Triebfahrzeuges.
+Ein auf dem Triebfahrzeug montiertes Anhängerbremsventil steuert in Abhängigkeit vom Bremszylinderdruck der Rangierbremse die nötigen Druckveränderungen in der Hauptleitung und damit die automatische Bremse der einzelnen Fahrzeuge.
+	
+
+
+13	Nachbremse
+13.1	Nachbremse für Triebfahrzeuge der Adhäsionsbahnen
+	
+	Traktoren ohne automatische Bremse oder Triebfahrzeuge, deren automatische Bremse beim Schleppen nicht wirksam ist, sind mit einer Nachbremse ausgerüstet.
+Bei einer Betriebs- oder Vollbremsung sowie bei der Bedienung der Anhängerbremse spricht die Nachbremse nicht an. Die Nachbremse bewirkt, dass die Luftbremse eines an die Hauptleitung angeschlossenen Triebfahrzeugs zum Ansprechen kommt, wenn der Hauptleitungsdruck um ca. 2,5 bar abgesenkt wird. Bei der Erhöhung des Hauptleitungsdrucks auf den Wert einer Vollbremsung löst die Nachbremse damit ausgerüsteter Fahrzeuge.
+	
+13.2	Nachbremse für gemischte Zahnrad- / Adhäsionsbahnen
+	
+	Für das Befahren von Zahnstangenstrecken können Wagen mit einer Adhäsions- und einer verzögert wirkenden Zahnradbremse ausgerüstet sein.
+Bei einer mässigen Absenkung des Vakuums (bis 25 cmHg) bzw. des Hauptleitungsdrucks spricht nur die Adhäsionsbremse an. Das genügt zum Einhalten der Geschwindigkeit bei Talfahrt. Eine stärkere Absenkung des Vakuums (ab 24 cmHg) bzw. des Hauptleitungsdrucks bewirkt, dass zusätzlich auch die Zahnradbremse anspricht.
+	
+
+
+14	Schleuderbremse
+	
+	Die Schleuderbremse verhindert durch leichtes Anbremsen das Schleudern der Triebräder bei schlechten Adhäsionsverhältnissen. Damit diese Bremse richtig wirkt, muss das rasche Anlegen der Bremssohlen und das sofortige Lösen gewährleistet sein. Dies geschieht mit einem elektropneumatischen Ventil, das durch ein automatisches Steuergerät oder mit einem Druckknopfschalter betätigt wird.
+	
+
+
+15	Gleitschutzvorrichtung
+	
+	Die Bremskraft kann in ungünstigen Fällen den Grenzwert der Haftung zwischen Rad und Schiene erreichen. Dabei besteht die Gefahr, dass die Achsen beim Bremsen blockieren. Das führt zu längeren Bremswegen und hat weiter zur Folge, dass die Laufflächen der Räder durch Flachstellen beschädigt werden. Gleitschutzvorrichtungen können ein Gleiten des Rades verhindern.
+Die Gleitschutzvorrichtung vergleicht die Drehzahl der Fahrzeugachsen. Sobald die Drehzahldifferenz einen bestimmten Wert erreicht, wird der Bremszylinder entlüftet und dessen Speisung unterbrochen. Sobald die Achse wieder die normale Drehzahl erreicht hat, wird die Entlüftung des Bremszylinders unterbrochen und die normale Bremsung setzt wieder ein.
+	
+
+
+16	Fahrzeuge mit Bremsrechner
+	
+	Die Steuerung der Bremssysteme ist in die Leittechnik des Triebfahrzeugs oder Steuerwagens integriert. Die Bedienungselemente im Führerraum steuern über den Datenbus und das Fahrzeugleitgerät einen Rechner und dieser die Pneumatikelemente.
+Eine Schnellbremsung kann in jedem Fall direkt durch Öffnen der Hauptleitung mit einem Nothahn oder einem Notbremsventil unter Umgehung des Rechners ausgeführt werden.
+	
+
+
+17	Sicherheitsbremse
+	
+	Die Sicherheitsbremse ist von der Reibung zwischen Rad und Schiene unabhängig. Als Sicherheitsbremsen gelten unter anderem Schienen- und Zahnradbremsen.
+Sicherheitsbremsen werden verwendet
+–	zum Befahren von Strecken, die mehr als 60 ‰ Neigung aufweisen
+–	im Strassenbahnbereich sofern die Geschwindigkeit nicht angemessen reduziert ist.
+	
+
+
+18	Federspeicherbremse
+	
+	Federspeicherbremsen werden verwendet
+–	als Feststellbremse 
+–	in bestimmten Fällen als Systemteil der automatischen Bremse.
+	
+18.1	Wirkungsweise
+	
+	Bei der Federspeicherbremse wirkt die Bremskraft durch eine im Bremszylinder angebrachte Feder direkt auf dessen Kolbenstange und weiter auf das Rad bzw. die Bremsscheibe. Zum Lösen wirkt eine pneumatisch, hydraulisch oder elektromagnetisch erzeugte und der Feder entgegengesetzte Kraft auf Bremskolben und Kolbenstange und bringt diese in die Lösestellung.
+	
+18.2	Notlösen
+	
+	Fehlt die zum Lösen nötige Kraft, kann die Federspeicherbremse nur mit einer speziellen Einrichtung gelöst werden. Nach dem Notlösen ist die Federspeicherbremse unwirksam.
+
+

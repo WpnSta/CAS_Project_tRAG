@@ -1,0 +1,749 @@
+﻿Schweizerische Eisenbahnen	R 300.1
+
+
+
+Grundlagen
+
+
+
+1	Vorbemerkungen
+	
+1.1	Erlass
+	
+	Das Bundesamt für Verkehr (BAV),
+gestützt auf Artikel 11a der Eisenbahnverordnung vom 23. November 1983 (EBV, SR 742.141.1),
+erlässt:
+die Schweizerischen Fahrdienstvorschriften (FDV). Diese Vorschriften, ihre Beilagen und Anlagen treten am 14. Dezember 2025 in Kraft.
+Aufhebung bisherigen Rechts
+Folgende Erlasse werden inklusive ihrer Änderungen, Beilagen, Anlagen und Merkblätter aufgehoben:
+	    • die Schweizerischen Fahrdienstvorschriften vom 31. Oktober 2023 (in Kraft getreten am 1. Juli 2024).
+	Die Bahnen heben ihre eigenen Erlasse mit der Inkraftsetzung der überarbeiteten Ausführungsbestimmungen auf.
+	Bundesamt für Verkehr
+	Die Direktorin: Christa Hostettler
+
+
+
+1.2	Geltungsbereich
+	
+	Diese Vorschriften gelten für alle Schweizerischen Eisenbahnen sowie für alle Bahnen, die schweizerische Eisenbahninfrastrukturen benützen. 
+Die Abgrenzung der Wirkung der FDV zur Durchführungsverordnung der EU über die technische Spezifikation für die Interoperabilität des Teilsystems Verkehrsbetrieb und Verkehrssteuerung (TSI OPE) ist bei den Auswirkungen des europäischen Rechts beschrieben.
+	
+1.2.1	Anwendbarkeit der Vorgaben nach Teil-Geltungsbereichen
+	
+	Die Vorgaben der FDV sind verschiedenen Teil-Geltungsbereichen zugeteilt.
+In den Betriebsvorschriften der Infrastrukturbetreiberinnen und der Eisenbahnverkehrsunternehmen muss für das Personal eindeutig festgelegt sein, wo, welcher Teil-Geltungsbereich oder welche Teil-Geltungsbereiche Anwendung finden. 
+Die Beschreibung der Teil-Geltungsbereiche sind in der Anlage 1 zum vorliegenden R 300.1 festgelegt. Die Zuteilungen der FDV-Vorgaben zu den Teil-Geltungsbereichen sind in Beilage 3 zur Richtlinie Erlass von Betriebs- und Fahrdienstvorschriften (RL BV-FDV) ersichtlich.
+	
+1.2.2	Anwendbarkeit der Vorgaben nach Funktionen
+	
+	Die einzelnen Vorgaben der FDV sind denjenigen Funktionen zugeteilt, welche diese Tätigkeiten ausüben und gleichzeitig denjenigen Funktionen, welche diese Vorgaben zur Erreichung eines Gesamtverständnisses benötigen. 
+Sofern sich die Funktion nicht eindeutig auf Grund der Tätigkeit ergibt, haben die Infrastrukturbetreiberinnen und Eisenbahnverkehrsunternehmen in den Betriebsvorschriften zu regeln, welche Funktionen durch wen wahrzunehmen sind. Dies mit dem Ziel das Bewusstsein des betroffenen Personals sicherzustellen.
+Die Funktionen nach FDV sind in den Erklärungen der Begriffe definiert und mit einer Abkürzung versehen. Die Zuteilungen der FDV-Vorgaben zu den Funktionen sind in Beilage 3 zur RL BV-FDV ersichtlich.
+	
+1.2.3	Auswirkungen des europäischen Rechts
+	
+	Aufgrund der Gültigkeit des europäischen Rechts (vgl. Anhang 6 AB-EBV) gelten nur gewisse Teile der FDV für Eisenbahnunternehmen des interoperablen (IOP) Hauptnetzes nach Anhang 6 EBV und des Ergänzungsnetzes nach Kapitel D der Richtlinie IOP-Anforderungen an Strecken des Ergänzungsnetzes (RL IOP). Weitere Bestimmungen der FDV können die entsprechenden ISB und EVU bei Bedarf in ihre Betriebsvorschriften übernehmen. 
+Die konkreten Zuteilungen der FDV-Bestimmungen sind in der Anlage 2 zum vorliegenden R 300.1 festgelegt.
+Das Vorgehen bei der Übernahme von Bestimmungen in die Betriebsvorschriften ist in der RL BV-FDV ersichtlich.
+
+1.2.4	Anwendung der FDV in Anschlussgleisen
+	
+	Die FDV sind in den Anschlussgleisen anzuwenden. Für Fahrten in den Anschlussgleisen sind die Bestimmungen für Bahnhöfe massgebend.
+	Für die Aspekte der Infrastrukturbetreiberin ist im Anschlussgleis die Anschlussgleisbetreiberin verantwortlich. 
+Für die verkehrsseitigen Aspekte ist in der Regel ein Eisenbahnverkehrsunternehmen verantwortlich. Führen Anschliesser Fahrten selbst durch, obliegt ihnen diese Verantwortung.
+	
+1.3	Anwendergerechte Aufbereitung der Vorschriften
+	
+	Die Eisenbahnunternehmen stellen dem Personal die zur Durchführung seiner Aufgaben erforderlichen Bestimmungen der FDV und der Betriebsvorschriften anwendergerecht zur Verfügung. Dies kann auf Papier oder in elektronischer Form erfolgen.
+	
+1.4	Zutrittsberechtigung für die Aufsichtsbehörde
+	
+	Den Mitarbeitenden des BAV sind im Rahmen der Aufsichtstätigkeit der ungehinderte Zutritt zu den Einrichtungen, Anlagen und Fahrzeugen (inkl. Führerstände) der Transportunternehmen sowie freie Fahrt zu gewähren. Die Mitarbeitenden des BAV haben sich entsprechend auszuweisen.
+	
+1.5	Personenbezeichnung
+	
+	Bezeichnungen in den FDV sind teilweise in einer geschlechterspezifischen Form gehalten und gelten für die die Funktion ausübende Person, ungeachtet ihrer Geschlechtsidentität. 
+Es werden für Funktionen die Abkürzungen verwendet, welche den entsprechenden Begriffsdefinitionen zugeordnet sind. Die Bedeutung der Abkürzung bezüglich Ein- und Mehrzahl ist auf Grund des Kontextes ersichtlich.
+
+
+2	Grundlegende Bestimmungen
+	
+2.1	Einhalten der Vorschriften
+	
+	Das Einhalten der FDV und deren Ausführungsbestimmungen sind durch die Vorgesetzten aller Führungsstufen laufend zu überprüfen. Die Infrastrukturbetreiberin überwacht im Rahmen ihrer Systemverantwortung das Einhalten der Vorschriften durch die Eisenbahnverkehrsunternehmen.
+	
+2.2	Vorgehen bei unvorhergesehenen, nicht geregelten 
+Situationen
+	
+	Ereignen sich Situationen, die nicht oder nur teilweise in diesen Vorschriften oder in den Ausführungsbestimmungen geregelt sind, haben sich alle Beteiligten über das weitere Vorgehen eindeutig abzusprechen.
+Die Sicherheit hat Priorität und ist zu gewährleisten.
+	
+
+2.3	Abkürzungsverzeichnis
+	
+	In den Fahrdienstvorschriften werden nachfolgende Abkürzungen verwendet. Diese sind bei der Erklärung der Begriffe enthalten und definiert.
+	
+	
+	
+
+2.4	Reglemente
+	
+	Die FDV umfassen die sicherheitsrelevanten Regeln für alle Fahrten auf Schienen. Die nachfolgend aufgeführten Vorschriftenteile bilden zusammen eine Einheit. Dies gilt auch, wenn ergänzende Bestimmungen innerhalb eines Vorschriftenteils aufgeführt sind. Zusätzlich können die Reglemente mit Anlagen (gehören formell zum Reglement und beinhalten materielle Präzisierungen) und Beilagen (erklärende Beispiele, Tabellen, Hilfsmittel) ergänzt sein. Auf Grund der jeweiligen betrieblichen Situation sind die entsprechenden Bestimmungen anzuwenden.
+	–	Grundlagen					R 300.1
+–	Signale				 		R 300.2
+	–	Kommunikation, Anordnungen und Übermittlung	R 300.3
+–	Rangierbewegungen					R 300.4
+	–	Zugvorbereitung					R 300.5
+	–	Zugfahrten						R 300.6
+–	Zugbeeinflussung					R 300.7
+–	Arbeitssicherheit					R 300.8
+–	Störungen						R 300.9
+–	Formulare						R 300.10
+–	Schalten und Erden von Fahrleitungen			R 300.11
+–	Arbeiten im Gleisbereich				R 300.12
+
+–	Lokführer / Lokführerin (LF)				R 300.13
+–	Bremsen						R 300.14
+–	Besondere Betriebsformen				R 300.15
+
+
+2.5	Begriffe
+2.5.2	Erklärung der Begriffe
+	
+
+	Ablauf
+die Rangierbewegung, bei der Fahrzeuge durch eigene Schwerkraft von einer Ablaufanlage oder von einer geneigten Fahrbahn ablaufen
+Absperrung
+Technische, baulich stabile Einrichtung, mit dem Ziel, bei Arbeiten im Gleisbereich das unbeabsichtigte Eindringen in den Gefahrenbereich zu verhindern
+Abstossen
+das Beschleunigen geschobener, nicht mit der Rangierfahrt gekuppelter Fahrzeuge auf die erforderliche Geschwindigkeit und anschliessendem Anhalten der Rangierfahrt, sodass die Fahrzeuge allein weiterrollen. Die weiterrollenden Fahrzeuge werden als Stoss bezeichnet
+Alarmmittel
+akustische oder optische Warnsignalgeber (z.B. Alarmhörner, Rufhörner, Einzelpersonenwarngeräte, Drehlichter) zur Abgabe der Alarmsignale
+Anhängelast
+das Gesamtgewicht der Wagen und der geschleppten Triebfahrzeuge, in Tonnen (t)
+Ankündigungsanlage
+kündigt die Annäherung einer Fahrt automatisch an
+Anrufton
+signalisiert einen Anruf
+Anschlussgleis
+Gleis, das an eine Eisenbahninfrastruktur anschliesst und in der Regel dem Gütertransport dient. Diese Gleise sind mit entsprechender Merktafel gekennzeichnet 
+Anschlussgleisbetreiberin
+Der Anschliesser, der für den infrastrukturseitigen Betrieb des Anschluss­gleises verantwortlich ist
+
+
+
+
+
+Arbeit im Gleisbereich
+Alle Tätigkeiten im Gleisbereich (z.B. zur Errichtung, Instandhaltung, Reinigung, Änderung und Beseitigung von Bahn- und anderen Anlagen, einschliesslich der damit zusammenhängenden Arbeiten wie Vermessungs- und Kontrolltätigkeit und Tätigkeit im Zusammenhang mit der Beseitigung von Störungen und Unfallfolgen). Ausgenommen sind Tätigkeiten im Zusammenhang mit Rangierdienst, Zugbildung/Zugfahrten sowie Gang zu oder von einem Arbeitsort
+Arbeitsgleis
+das Gleis, auch Weiche, in dessen/deren Bereich Arbeiten ausgeführt werden und Alarmmassnahmen notwendig sind
+Arbeitsmittel
+die zur Ausübung der Arbeit nötigen Mittel, z.B. Fahrzeuge, Maschinen, Geräte, Werkzeuge und Materialien
+Arbeitsstelle
+Gleisbereich oder daran angrenzende Stelle, in denen Arbeiten ausgeführt werden
+Arbeitsstellen-Koordinator / -Koordinatorin (AKO)
+Befinden sich in gesperrten Gleisen mehrere Arbeitsstellen, kann ein SC als AKO eingesetzt werden
+Arbeitsstellen-Verantwortlicher Tram / - Verantwortliche Tram (AVT)
+für die Durchführung der Sicherheitsmassnahmen auf der Arbeitsstelle im Trambetrieb verantwortliche Person vor Ort
+Ausfahrsignal
+letztes in Richtung Strecke führendes Hauptsignal im Bahnhof
+Ausfahrweiche
+letzte in Richtung Strecke von der Wurzel aus befahrene Weiche eines Bahnhofes
+Automatisches Warnsystem
+besteht aus Ankündigungs- und Warnanlage, welche die Aufgaben des Warnsystems automatisch ausführen
+
+
+
+
+
+
+Bahnhof
+Anlage zur Regelung des Zugverkehrs und der Rangierbewegungen meistens mit Publikumsverkehr 
+    • innerhalb der Einfahrsignale oder
+    • wo solche fehlen innerhalb der Einfahrweichen oder 
+    • wo vorhanden innerhalb der Bahnhofanfang- und Bahnhofendetafel
+Bahnhof besetzt
+Aufgaben für die Betriebsabwicklung können örtlich oder von einem Fernsteuerzentrum aus wahrgenommen werden
+Bahnbetrieb 
+Betrieb unter Anwendung der nachfolgenden Teil-Geltungsbereiche:
+    • «Ausschliesslich Rangierbewegungen»
+    • «Aussensignalisierung interoperables Netz»
+    • «Aussensignalisierung nicht interoperables Netz»
+    • «Fahrten ohne Signale mit Zustimmung».
+Bahnübergangsanlage
+Anlage zur Sicherung von einem oder mehreren Bahnübergängen. Die Anlagen werden unterteilt in überwachte und eigensichere Bahnübergangsanlagen.
+Eine überwachte Bahnübergangsanlage ist bahnseitig gesichert mit
+    • Hauptsignal 
+    • Kontrolllicht
+    • Sperr- oder Zwergsignal
+    • Streckengerät der Zugbeeinflussung
+Eine eigensichere Bahnübergangsanlage funktioniert autonom und ist bahnseitig nicht gesichert
+Balise
+im Gleisbett montierter Informationsträger zur Datenübertragung zwischen Strecke und Fahrzeug
+Bedienoberfläche 
+Bedien- und Anzeigeelement (Mensch-Maschine-Schnittstelle; MMI)
+Besetztes Gleis
+durch Fahrzeuge teilweise belegtes Gleis
+
+Betriebsgleis
+ein für Züge und für Rangierbewegungen benützbares Gleis
+Block
+Element des Stellwerks zur technischen Sicherung von Zügen gegen Folge- und Gegenzüge
+Blockabschnitt
+Abschnitt zwischen zwei aufeinander folgenden Hauptsignalen, die in Blockabhängigkeit stehen
+Blocksignal
+Hauptsignal zur Unterteilung der Gleisanlage der Strecke in mehrere Blockabschnitte 
+Bremsgewicht
+das Bremsgewicht in Tonnen (t) ist der Wert, um die Bremskraft eines Fahrzeuges auszudrücken
+Bremsrechnung
+das Bestimmen der Bremsreihe und der Zugreihe
+Bremsreihe
+ein festgelegtes Bremsverhältnis, für das auf Grund der vorhandenen Vorsignalentfernung und der Neigung der Strecke die zulässige Höchstgeschwindigkeit bestimmt und in der Streckentabelle bekannt gegeben wird
+Bremsverhältnis
+die Wirksamkeit der Bremsen eines Fahrzeuges oder eines Zuges, in Prozenten (%)
+Bremsweg
+die Distanz, welche sich je nach Höchstgeschwindigkeit, Bremsverhältnis und Neigung der Strecke zur Verminderung der Fahrgeschwindigkeit auf eine vorgegebene Geschwindigkeit oder bis zum Stillstand ergibt
+Checkliste Fahrdienst (CL-F)
+auf die Sicherungsanlage abgestimmte, verbindliche fahrdienstliche Anleitung zur Behandlung von Störungen und für das Sichern
+Decken
+das Aufstellen von Haltsignalen zum Schutz eines Hindernisses
+
+
+
+Deckungssignal
+Hauptsignal zur Deckung von Anschlussgleisen, überwachten Bahnübergängen oder gefährdeten Abschnitten auf der Strecke, nicht in Blockabhängigkeit
+Dienstgleis
+Gleis im Trambetrieb, welches in der Regel nicht im Linienbetrieb befahren wird
+Driver Machine Interface (DMI)
+Bedien- und Anzeigeelement im Führerstand 
+Eigengewicht
+das Gewicht eines Fahrzeuges ohne Ladung, in Tonnen (t)
+Einfahrsignal
+erstes zum Bahnhof gehörendes Hauptsignal. Es bezeichnet die Grenze zwischen Strecke und Bahnhof 
+Einfahrweiche
+Erste aus Richtung Strecke gegen die Spitze befahrene Weiche eines Bahnhofes
+Eisenbahnbetrieb
+Bahnbetrieb und Trambetrieb
+Eisenbahninfrastruktur
+Bauten und Anlagen, welche Fahrten in einem Bahnhof, auf der Strecke, im Trambetrieb oder auf Anlagen mit FSS erlauben, ausgenommen Anschlussgleise
+Eisenbahnunternehmen (EBU)
+der Eisenbahngesetzgebung unterstellte natürliche oder juristische Personen (exkl. Busse, Trolleybusse, Seilbahnen)
+Eisenbahnverkehrsunternehmen (EVU)
+EBU in der Funktion Verkehr zu betreiben, was insbesondere die Traktion beinhaltet
+Erden
+Kurzschliessen und Erden bzw. Verbinden mit der elektrischen Rückleitung
+Erste Weiche
+erste aus Richtung Strecke befahrene Weiche eines Bahnhofes
+
+Fahrbar melden (Gleis / Weiche)
+die Einzelmeldung einer Arbeitsstelle, dass ihr Bereich wieder befahrbar ist
+Fahrdienstleiter / Fahrdienstleiterin (FDL)
+die verantwortliche Person für die Sicherung und Regelung des Zugverkehrs und der Rangierbewegungen
+Fahrdienstliche Tätigkeiten
+die fahrdienstlichen Tätigkeiten umfassen die in den Schweizerischen Fahrdienstvorschriften geregelten Aufgaben und Funktionen
+Fahrordnung
+umfasst die für die Führung einer Fahrt erforderlichen fahrplantechnischen Angaben
+Fahrpersonal
+LF mit oder ohne ZBE oder LF und RA
+Fahrstrasse
+ein durch das Stellwerk gesicherter Fahrweg eines Zuges oder einer Rangierbewegung zwischen einem Start- und einem Zielpunkt
+Fahrt
+Sammelbegriff für Zugfahrt oder Rangierbewegung, diese werden eingeteilt in:
+    • Fahrplanmässige Fahrten
+        ◦ Regelmässige Fahrten, wenn sie täglich oder an bestimmten bezeichneten Tagen ohne besondere Anordnung verkehren
+        ◦ Fakultative Fahrten, wenn sie nur bei Bedarf und auf besondere Anordnung verkehren
+    • Extrafahrten
+Fahrten, die auf besondere Anordnung und nach einer besonders erstellten Fahrordnung verkehren
+Fahrt auf Sicht
+den Sichtverhältnissen angepasste Fahrgeschwindigkeit, höchstens 
+40 km/h, sodass rechtzeitig vor einem auf Sichtdistanz erkennbaren Hindernis angehalten werden kann. In Einzelfällen sehen die spezifischen hoheitlichen Vorschriften abweichende Höchstgeschwindigkeiten vor. Im Trambetrieb können die ISB abweichende Höchstgeschwindigkeiten signalisieren oder in den Betriebsvorschriften regeln
+
+Fahrweg
+der Weg eines Zuges oder einer Rangierbewegung
+Festhaltekraft
+die von der Wirkung der Luftbremse unabhängige Bremskraft der Feststellbremse eines Fahrzeuges in Kilo-Newton (kN)
+Feststellbremse
+die fahrzeugspezifische, von der Wirkung der Luftbremse unabhängige Bremse zur Sicherung gegen Entlaufen von abgestellten Fahrzeugen: Mit Kurbel oder Handrad von der Plattform oder vom Boden aus bedienbare manuelle Bremse, Federspeicherbremse oder Permanentmagnetschienenbremse (PMS)
+Fluchtraum
+im Voraus für den Rückzug gefährdeter Personen bestimmter Ort
+Formular
+Vordruck zur Übermittlung einer Nachricht, z.B. vom FDL an den LF oder an den SC
+Freihören
+Kontrolle, ob ein Kanal bereits mit einem Gespräch oder einer Verbindungsüberwachung belegt ist
+Funksystem
+auf einen Funkbereich begrenztes System mit gleichen technischen Merkmalen
+Führen direkt
+Der LF bedient das Triebfahrzeug und beobachtet die Signale sowie den Fahrweg
+Führen indirekt
+Die Bedienung des Triebfahrzeuges und die Beobachtung der Signale und des Fahrweges sind auf unterschiedliche Personen aufgeteilt. Der LF bedient das Triebfahrzeug und hat keine Sicht auf den Fahrweg und die Signale. Die Beobachtung der Signale und des Fahrweges erfolgt durch das indirekt führende Personal an der Spitze
+Führerstandsignalisierung (FSS)
+direkte Übermittlung von fahrdienstlichen Informationen in den Führerstand an Stelle der Beachtung von ortsfesten Signalen. Die Vorschriften können zeitweise dazu auffordern, zusätzlich ortsfeste Signale zu beachten
+Gefahrgutwagen
+ein Wagen mit Grosszettel (Placards) nach Muster 1 bis 9 gemäss RID
+Gehweg
+ein Weg im Gleisbereich ausserhalb von Tunnel, der durch Personal zum Aufenthalt oder Arbeiten genutzt werden darf. Er ist auf Grund seiner Beschaffenheit (feiner Kies bzw. Sand oder asphaltiert, d.h. ohne Schotter) eindeutig erkennbar
+Gesamtgewicht
+das Gewicht eines Fahrzeuges mit Ladung, in Tonnen (t)
+Geschwindigkeitsschwelle
+die Stelle, an der die vorgeschriebene Geschwindigkeit ändert
+Gestörter Abschnitt
+ein Fahrweg, welcher durch ein gestörtes Element der Sicherungsanlage beeinflusst wird oder in welchem sich ein mittels Notbedienung in Grundstellung verbrachtes Element der Sicherungsanlage befindet. Dieser entspricht der Fahrstrasse, welche im Regelbetrieb ohne Notbedienung eingestellt werden kann. Er ist durch den FDL für jede Fahrt erneut zu bestimmen
+Gleisabschnittsignal
+ein Hauptsignal zur Unterteilung der Gleisanlage eines Bahnhofes in mehrere Abschnitte
+Gleisbereich 
+der von fahrenden Schienenfahrzeugen benötigte Raum unter, neben oder über den Gleisen, in dem Personen durch diese Fahrten gefährdet werden können. Zum Gleisbereich gehört auch der Bereich von allfälligen Fahrleitungs- und Energieversorgungsanlagen mit den davon ausgehenden Gefahren des elektrischen Stromes. Der massgebende Gleisbereich ist jeweils mit Einbezug des geschwindigkeitsabhängigen Gefahrenbereichs in der seitlichen Ausdehnung festzulegen
+Gleisfreimeldeeinrichtung (GFM)
+technische Einrichtung zum Feststellen, ob Gleisabschnitte frei von Eisenbahnfahrzeugen sind
+Gleissignal
+Gleisabschnittsignal oder Ausfahrsignal, das für ein einzelnes Gleis gilt
+Gruppensignal
+Gleisabschnittsignal oder Ausfahrsignal, das für mehrere Gleise gilt
+
+
+
+Halt
+–	vorgeschriebener Halt	
+ordentlicher und ausserordentlicher Halt
+–	ordentlicher Halt	
+in der Fahrordnung vorgeschrieben, einschliesslich Bedarfshalt
+–	ausserordentlicher Halt	
+nicht mittels Fahrordnung angeordnet
+–	nicht vorgeschriebener Halt	
+durch den Betriebsablauf oder Störung erzwungen, z.B. durch ein Halt zeigendes Hauptsignal
+Haltestelle
+Anlage mit Publikumsverkehr auf der Strecke oder an Liniengleisen
+Handbremse
+die vom Fahrzeug aus, auch während der Fahrt mit Kurbel oder Handrad bedienbare Feststellbremse
+Hauptgleis
+Bahnhofgleis, in das signalmässig ein- und ausgefahren werden kann
+Infrastrukturbetreiberin (ISB)
+EBU, das eine Eisenbahninfrastruktur betreibt
+
+Instruierte Person für elektrische Anlagen (IPEA)
+Person mit Berechtigung, um begrenzte, genau umschriebene Tätigkeiten in Starkstromanlagen auszuführen, gemäss Instruktion durch eine sachverständige Person. Sie kennt die örtlichen Verhältnisse und die zu treffenden Schutzmassnahmen
+Kleinwagen
+Anhängefahrzeug ohne normale Zug- und Stossvorrichtung oder automatische Kupplung (Rollwagen, Rollleitern, Lorrys usw.)
+Kontrollton
+dient der Verbindungsüberwachung
+Kopfgleis
+an einem Gleisabschluss endigendes Hauptgleis
+Kreuzung
+das Ausweichen von zwei Fahrten, von denen eine oder beide auf dem von der Gegenfahrt benutzten und freigegebenen Streckengleis weiterfahren
+Letzte Weiche
+letzte in Richtung Strecke befahrene Weiche eines Bahnhofes
+Liniengleis
+Gleis im Trambetrieb, welches in der Regel im Linienbetrieb befahren wird
+Linkes Gleis
+das in der Fahrrichtung links liegende Gleis einer zweigleisigen Strecke
+Lokführer / Lokführerin (LF)
+Person, welche für die Bedienung von Triebfahrzeugen aller Art in fahrdienstlicher und technischer Hinsicht zuständig ist
+Lokpfeife
+die Einrichtung auf dem Triebfahrzeug und auf dem Steuerwagen zur Abgabe von akustischen Signalen, inkl. Signalglocke im Trambetrieb
+Lokzug
+Zug, bestehend aus einzelnen oder zusammengekuppelten Triebfahrzeugen, auch geschleppt
+Meterlast
+das Gesamtgewicht eines Fahrzeuges geteilt durch dessen Länge, in Tonnen pro Meter (t/m)
+Mindestfesthaltekraft
+Die minimal erforderliche Kraft zur Sicherung von stillstehenden Fahrzeugen in Kilo-Newton (kN). Es dürfen nur Feststellbremsen sowie Hemmschuhe angerechnet werden
+Nachbarbahnhof
+die beidseits eines Bahnhofs oder einer Arbeitsstelle nächstliegenden Bahnhöfe. Sofern ein solcher nicht besetzt und nicht ferngesteuert ist, gilt der nächste besetzte Bahnhof als Nachbarbahnhof. Sofern ein solcher ferngesteuert wird, gilt das Fernsteuerzentrum als Nachbarbahnhof
+Nachbargleis
+das vom betreffenden Gleis bzw. der Arbeitsstelle nächstgelegene Gleis links oder rechts
+Nebengleis
+Bahnhofgleis, in das signalmässig nicht ein- und ausgefahren oder nur ausgefahren werden kann
+
+
+Neigung
+das Gefälle oder die Steigung einer Strecke, in Promille (‰)
+Netzbenutzerin
+EVU, welches den Netzzugang auf einer Infrastruktur beansprucht
+Normallast
+die zulässige Anhängelast eines Triebfahrzeuges für eine bestimmte Strecke
+Notbedienung
+Einrichtung, mit der bei Störung oder im Notfall in die Sicherungsanlage eingegriffen oder ein Teilbereich der Sicherungsanlage umgangen werden kann
+Ortsfestes Signal 
+ortsfest montiertes Signal der Eisenbahninfrastruktur, z. B. Hauptsignal, Zwergsignal, Rangiersignal
+Pendelzug
+Zugskomposition, bestehend aus einem oder mehreren Triebfahrzeugen und Wagen, die an beiden Enden einen Führerstand besitzt und je nach Fahrrichtung vom einen oder anderen Führerstand aus geführt werden kann
+Personal 
+Personen, welche in der Sicherheitsverantwortung eines EBU eingesetzt sind
+Radsatzlast
+das Gesamtgewicht eines Fahrzeuges geteilt durch die Zahl der Achsen, in Tonnen (t)
+Rangierbewegung
+alle Fahrzeugbewegungen 
+    • im Bahnhof, in Werkstätten, Depotanlagen, Anschlussgleisen und auf der Strecke oder 
+    • im Trambetrieb, 
+die nicht als Zugfahrten ausgeführt werden können
+Rangierer / Rangiererin (RA)
+mit Rangierarbeiten betrautes Personal
+
+
+Rangierfahrt 
+die Rangierbewegung einzelner oder gekuppelter Triebfahrzeuge ohne oder mit gezogener oder geschobener Anhängelast
+Rangierkupplung
+die vom Führerstand eines Rangierfahrzeuges aus bedienbare Kupplung
+Rangierleiter / Rangierleiterin (RL)
+für das Leiten und die Durchführung der Rangierbewegung verantwortliche Person. Sie übernimmt das indirekte Führen
+Rangiersignal
+Rangierhalt-, Räumungs-, Rückstell- und Ablaufsignal
+Rechtes Gleis
+das in der Fahrrichtung rechts liegende Gleis einer zweigleisigen Strecke
+Rufname
+Bezeichnung der am Gespräch Beteiligten zur eindeutigen Erkennung
+Sachverständige Person für elektrische Anlagen (SPEA)
+Person mit Erfahrung im Umgang mit Starkstromanlagen, kennt die örtlichen Verhältnisse und die zu treffenden Schutzmassnahmen. Sie kann z.B. als Betriebsinhaber, Anlageverantwortlicher, Arbeitsverantwortlicher oder Schaltberechtigte Person eingesetzt werden und darf Personen instruieren und ausbilden
+Schaltberechtigte Person
+Person ist für Schalthandlungen an elektrischen Anlagen instruiert oder sachverständig. Sie führt Schalthandlungen immer im Auftrag aus, ausser in Notsituationen
+Schiebelast
+die, mit Rücksicht auf die durch die ISB vorgegebene Stosskraft, zulässige geschobene Anhängelast
+Schutzweiche
+die Weiche, die in der Schutz bietenden Stellung eine Flankenfahrt verhindert
+Sicherheitschef / Sicherheitschefin (SC)
+Verantwortliches Personal für die Durchführung der Sicherheitsmassnahmen auf der Arbeitsstelle
+
+
+Sicherheitsdispositiv (SIDI)
+Festlegung der für eine Arbeitsstelle notwendigen Sicherheitsmassnahmen, sowie der durch die ISB in ihren Ausführungsbestimmungen vorgeschriebenen Angaben
+Sicherheitsleitung (SL)
+Die Stelle, die unter Verantwortung der ISB das SIDI mit den Sicherheitsmassnahmen vorschreibt und überwacht. Dies beinhaltet auch die notwendigen Anpassungen an den Arbeitsfortschritt
+Sicherheitswärter / Sicherheitswärterin (SIWÄ)
+Für die rechtzeitige Warnung des Personals auf einer Arbeitsstelle verantwortliche Person, um das sichere Räumen des betroffenen Gleisbereichs zu ermöglichen 
+Sicherheits-Zwischenraum
+der vorhandene Raum zwischen Gleisen oder zwischen einem Gleis und einem festen Hindernis, der dort den Aufenthalt oder Arbeiten an Fahrzeugen ohne spezifische Sicherungsmassnahmen zulässt. Der Sicherheits-Zwischenraum ist vorhanden
+–	wenn ein Gehweg besteht oder
+–	wenn er in der Aussenanlage gekennzeichnet ist oder
+–	zwischen Nebengleisen oder
+–	wenn er in den Betriebsvorschriften der ISB bezeichnet ist oder
+–	wenn er in einem Sicherheitsdispositiv aufgeführt ist
+Sichern
+treffen von Massnahmen an der Sicherungsanlage zum Schutz von vorübergehend nicht oder nur beschränkt verfügbaren Anlageteilen gegen unbeabsichtigtes Befahren
+Sicherungsanlage
+Anlage zur Steuerung und Sicherung der Zugfahrten und Rangierbewegungen
+Sperren
+Sperrung von Gleisen/Weichen für Arbeiten im Gleisbereich. Die gesperrten Gleise/Weichen sind für Züge nicht benutzbar
+Spurwechselstelle
+Gleise und Weichen auf der Strecke für die Verbindung paralleler Gleise, mit Blocksignalen
+Starkes Gefälle
+der Streckenabschnitt, für welchen auf Grund seines Gefälles und seiner Länge besondere Vorschriften gelten
+Stellwerk
+Anlage zur technischen Sicherung der Fahrwege von Zügen und Rangierbewegungen
+Strassenbahnbereich
+Gemeinsame Benützung der Verkehrsfläche von Eisenbahn und Strasse
+    • im Trambetrieb und 
+    • im Bahnbetrieb die mit Signalen und/oder in der Streckentabelle 	bezeichneten Gleise
+Strecke
+Anlage zwischen zwei benachbarten Bahnhöfen
+Streckendaten
+Informationen über Länge, zulässige Geschwindigkeit und Neigung jedes Abschnitts, Lage und Länge ausgewählter Objekte (z.B. Bahnhof, Tunnel, Bahnübergang, Brücke, Fahrleitungsschutzstrecke) 
+Streckengleis
+der Gleisabschnitt zwischen den Einfahrsignalen zweier benachbarter Bahnhöfe
+Streckentabelle
+umfasst die für die Führung einer Fahrt erforderlichen streckenbezogenen Angaben
+Streckentrennung
+die Trennung der Bahnhoffahrleitung von der Streckenfahrleitung
+Stumpengleis
+an einem Gleisabschluss endigendes Nebengleis
+Teilbremsverhältnis
+das Teilbremsverhältnis garantiert eine minimale Bremswirkung, um bei einer Zugtrennung die einzelnen Zugteile sicher zum Stillstand zu bringen und während einer Zeit von mindestens einer halben Stunde gegen Entlaufen zu sichern
+Trambetrieb 
+Betrieb unter Anwendung des Teil-Geltungsbereichs «Tram»
+
+Triebfahrzeug
+Lokomotive, Triebwagen, Triebzug, Traktor, selbstfahrende Fahrzeuge wie Gleisbaumaschine, Fahrzeug Schiene/Strasse
+
+Triebzug
+Mit eigenem Antrieb versehene, im Regelbetrieb nicht trennbare, kurzgekuppelte Einheit
+Überholung
+das Verändern der Reihenfolge in Bahnhöfen von mindestens zwei Fahrten, die in gleicher Richtung verkehren und auf dem gleichen Streckengleis weiterfahren
+Umstellvorrichtung
+die Einrichtung am Fahrzeug zur Einstellung der erforderlichen Bremswirkung
+Verkehrsregelungsanlage
+die Anlage zur Regelung des Eisenbahnbetriebs und des Strassenverkehrs. Eisenbahnseitig wird der Verkehr mit Strassenbahnsignalen, strassenseitig mit Lichtsignalen geregelt
+Verschachtelung
+Zwischen der bahnseitigen Sicherung und den dazugehörenden überwachten Bahnübergängen befinden sich eigensichere Bahnübergangsanlagen oder eine bahnseitige Sicherung weiterer überwachter Bahnübergänge
+Vorwarner / Vorwarnerin (VW)
+Für das rechtzeitige Melden von herannahenden Fahrten verantwortliches    Personal bei einer Arbeitsstelle. Der VW übermittelt die Annäherung der Fahrten mit dem im SIDI vorgesehenen Kommunikationsmittel an den SIWÄ
+Wagen
+Anhängefahrzeug mit normaler Zug- und Stossvorrichtung oder mit automatischer Kupplung
+Warnanlage
+übernimmt die Funktion der Warnung und löst die Alarmmittel aus. Die Ansteuerung erfolgt automatisch durch die Ankündigungsanlage oder manuell
+Warnsystem
+technische und/oder organisatorische Einrichtung, die Personen (bei Arbeiten im Gleisbereich) vor der Gefahr sich nähernden Fahrten warnt
+Wechselbetrieb
+die Ausrüstung jedes Streckengleises auf mehrspurigen Strecken mit Hauptsignalen und dem Block, die ein freizügiges Befahren aller Gleise in beiden Fahrrichtungen erlaubt
+Weiche auffahren
+das Befahren einer dafür eingerichteten Weiche aus der nicht der Weichenstellung entsprechenden Richtung von der Wurzel her
+Weiche aufschneiden
+das unbeabsichtigte Befahren einer Weiche in falscher Stellung von der Wurzel her
+Zahnradfahrzeug
+Fahrzeug, das seine Zug- oder Bremskraft auf eine Zahnstange überträgt. Als Zahnradfahrzeuge gelten ebenfalls Fahrzeuge, bei denen Zug- oder Bremskräfte über Zahnstange und Adhäsion gleichzeitig übertragen werden, wenn die Kraftübertragung über Adhäsion alleine nicht genügt
+Zeitvergleichbahnhof
+der Bahnhof, in welchem das Fahrpersonal die in der Fahrordnung aufgeführte Abfahrzeit beachten muss
+Zug
+einzelne oder zusammengekuppelte Triebfahrzeuge mit oder ohne Wagen,
+    • die auf die Strecke übergehen oder
+    •  im Trambetrieb verkehren, 
+und zwar vom Zeitpunkt ihrer Übernahme durch das Fahrpersonal auf dem Abfahrgleis des Ausgangsortes bis zu ihrer Ankunft auf dem Ankunftsgleis des Bestimmungsortes, ausgenommen während Rangierbewegungen
+Zugbeeinflussung
+Überwachungseinrichtung zur Unterstützung der Beachtung von Signalen oder der Beachtung von Maximalgeschwindigkeiten oder zur Einwirkung auf die Fahrzeuge
+Zugbegegnung
+die Begegnung zweier in entgegengesetzter Richtung verkehrender Züge auf nebeneinander liegenden Streckengleisen
+Zugbegleiter / Zugbegleiterin (ZBE)
+Personal, welches die Züge aus Gründen der Betriebssicherheit begleitet 
+
+
+Zugdaten
+Informationen zum Zug, wie Länge, Höchstgeschwindigkeit und Bremsverhältnis, werden in der Regel durch den LF vor der Zugfahrt eingegeben
+Zugfahrt
+Fahrt 
+    • im Bahnhof und auf der Strecke, die durch Hauptsignale gesichert und geregelt ist oder 
+    • Züge im Trambetrieb
+Zugführendes bzw. führendes Fahrzeug
+Das Fahrzeug, von welchem aus der Zug bzw. die Rangierbewegung geführt wird
+Zuggattungen
+Züge werden mit Rücksicht auf ihre Benützung eingeteilt in:
+–	Reisezüge, die in erster Linie der Beförderung von Reisenden dienen
+–	Güterzüge, die in erster Linie der Beförderung von Gütern, Tieren und leeren Güterwagen dienen
+–	Dienstzüge, für dienstliche Zwecke
+Zuggewicht
+das Gesamtgewicht der arbeitenden Triebfahrzeuge und der Anhängelast, in Tonnen (t)
+Zughakenlast
+die mit Rücksicht auf die Festigkeit der Zugvorrichtung zulässige gezogene Anhängelast
+Zugreihe
+ein in Grossbuchstaben ausgedrücktes Kennzeichen für die Zusammensetzung bzw. die Höchst- und die Kurvengeschwindigkeit eines Zuges
+Zugvorbereiter / Zugvorbereiterin (ZVB)
+Vom EVU bezeichnetes, für die Durchführung der Zuguntersuchung verantwortliches Personal
+
+2.6	Betriebsvorschriften 
+	
+	Notwendige Ausführungsbestimmungen, Abweichungen, Ergänzungen und Erläuterungen zu diesen Vorschriften sind von den einzelnen EBU in Betriebsvorschriften aufzuführen, die sowohl im Normalfall, wie auch bei Störungen eine zuverlässige Abwicklung des Eisenbahnbetriebes sicherstellen. Der Erlass von Betriebsvorschriften richtet sich nach der RL BV-FDV.
+	
+2.6.1	Begleitung der Züge
+	
+	Züge, welche die technischen Bedingungen erfüllen, verkehren in der Regel ohne ZBE. Die EVU bezeichnen in den Ausführungsbestimmungen die Züge, die begleitet werden.
+	
+2.6.2	Verzeichnis über die kilometrische Lage der Bahnübergangsanlagen
+	
+	Die ISB haben ein aktuelles Verzeichnis über die kilometrische Lage der Bahnübergangsanlagen und deren Bahnübergänge zu erstellen. Mindestens den FDL ist dieses Verzeichnis in geeigneter Weise zugänglich zu machen.
+	
+2.6.3	Checklisten Fahrdienst (CL-F)
+	
+	Das Erstellen und Anwenden der CL-F ist im Bahnbetrieb verbindlich,
+–	wenn Rangierbewegungen auf die Strecke verkehren
+–	zur Behebung von Störungen 
+–	zum Einführen/Aufheben von betrieblichen Sicherheitsmassnahmen bei Arbeiten im Gleisbereich
+–	in den zusätzlichen vom EBU vorgeschriebenen Fällen.
+Die FDV bilden die Grundlage für die Erstellung der CL-F.
+	
+2.6.4	Energieeffizienz
+	
+	Die ISB und die EVU unterstützen den wirtschaftlichen Einsatz von Energie, soweit die Sicherheit nicht negativ beeinflusst wird. Sie erlassen die dazu notwendigen Betriebsvorschriften.
+	
+
+2.7	Einsatz und Verhalten des Personals
+	
+	Für fahrdienstliche Tätigkeiten darf nur dafür ausgebildetes und geprüftes Personal eingesetzt werden. Bei sicherheitsrelevanten Tätigkeiten dürfen sich die Mitarbeitenden keinesfalls durch andere Tätigkeiten ablenken lassen.
+Werden fahrdienstliche Aufgaben einer Funktion durch verschiedene Personen wahrgenommen, sprechen sich die Beteiligten über die Ausgangslage, den Stand der Arbeit und das konkrete Vorgehen ab. Dies gilt insbesondere
+–	bei geographischer oder funktionaler Trennung der Zuständigkeiten
+–	bei zeitlicher Staffelung.
+Werden mehrere Funktionen durch eine einzelne Person wahrgenommen, stellt diese Person die korrekte Ausführung aller betreffenden fahrdienstlichen Tätigkeiten sicher. 
+Werden grundsätzlich mehrere Funktionen durch die EBU einer einzelnen Person zugeteilt, darf durch das EBU eine alternative Bezeichnung für die Funktion in den Betriebsvorschriften festgelegt werden (z.B. im Trambetrieb die Funktionen LF und FDL als Tramführer oder Tramführerin). 
+Werden bei der Festlegung der Betriebsorganisation die fahrdienstlichen Funktionen aufgeteilt, regeln die EBU nötigenfalls die Verantwortlichkeiten, Kompetenzen und Abläufe.
+Bei Dienstübergabe übergibt die abtretende Person die erforderlichen Informationen an die nachfolgende. Erfolgt keine direkte Übergabe, sind Besonderheiten schriftlich zu vermitteln.
+	
+2.7.1	Beeinträchtigung der Leistungsfähigkeit
+	
+	Wer sich krank fühlt, wegen Übermüdung, Alkohol, Medikamenten, Betäubungsmitteln oder aus einem anderen Grund in der Ausübung seiner Funktionen beeinträchtigt ist, darf keine fahrdienstlichen Tätigkeiten ausführen.
+Personen, die fahrdienstliche Tätigkeiten ausüben, sind für die Einhaltung der gesetzlichen Vorgaben über die Arbeits- und Ruhezeit mitverantwortlich.
+	
+	
+
+2.8	Bezeichnung der Fahrten
+	
+2.8.1	Nummerierung der Züge und der Rangierbewegungen auf die Strecke im Bahnbetrieb
+
+Jeder Zug und jede Rangierbewegung auf die Strecke wird mit einer Nummer bezeichnet. Für Rangierbewegungen auf die Strecke wird zusätzlich der Buchstabe «R» hinzugefügt. Das Nummerierungsschema ist in den Ausführungsbestimmungen der ISB bekannt zu geben. Für die Nummernverwendung auf Gemeinschaftsstrecken und in Gemeinschaftsbahnhöfen haben sich die ISB abzusprechen.
+
+2.8.2	Bezeichnung der Züge und der Rangierbewegungen auf Liniengleisen im Trambetrieb
+
+	Im Trambetrieb legen die ISB die eindeutige Bezeichnung der Zugfahrten und der Rangierbewegungen auf Liniengleisen fest.
+	
+2.9	Signalmittel
+
+2.9.1	Signalmittel der Triebfahrzeuge und Steuerwagen im Bahnbetrieb
+	
+	Auf jedem Triebfahrzeug und Steuerwagen sind mitzuführen:
+	–	eine Laterne mit weissem und rotem Licht
+–	eine rote Signalflagge.
+	
+2.9.2	Signalmittel in Bahnhöfen im Bahnbetrieb
+	
+	In Bahnhöfen ist während der örtlichen Besetzung bereitzuhalten:
+	–	eine Laterne oder eine Taschenlampe mit weissem und rotem Licht
+–	eine rote Signalflagge
+–	eine rote Haltsignal-Scheibe.
+	
+2.9.3	Signalmittel des Personals im Bahnbetrieb
+	
+	Der RL, der RA und der FDL mit Aufsichtsfunktion benötigen eine Mundpfeife. Der ZBE benötigt eine Mundpfeife und eine Taschenlampe.
+Bei Nacht haben die RA, ausgenommen bei Ausrüstung mit einem zur Abgabe von Befehlen geeigneten mobilen Kommunikationsmittel, eine Handlaterne mit weissem und rotem Licht mitzutragen.
+	
+
+2.9.4	Signalmittel im Trambetrieb
+	
+	Die EBU regeln die mitzuführenden Signalmittel in den Betriebsvorschriften.
+	
+2.10	Abgrenzung Aussensignalisierung und FSS
+	
+	Eisenbahninfrastrukturen mit zentralisierten Sicherungsanlagen sind entweder mit einer Aussensignalisierung oder FSS ausgerüstet. 
+Die ISB regelt die Systemgrenze zwischen Aussensignalisierung und FSS in den Betriebsvorschriften.
+	
+2.11	Grundsätze Trambetrieb
+	
+	Im Trambetrieb wird der Fahrweg fortlaufend auf Sichtdistanz überprüft.
+Es ist mit Fahrt auf Sicht zu fahren, wobei die zulässige Höchstgeschwindigkeit durch die ISB mit Rücksicht auf die Fahrzeuge und auf die örtlichen Verhältnisse festgelegt wird. 
+Im Trambetrieb gelten zusätzlich die Vorschriften der Strassenverkehrsgesetzgebung.
+Die ISB schaffen Grundlagen für eindeutige Bezeichnungen von Gleis- und Ortsangaben.
+	
+2.11.1	Grenze Bahnbetrieb / Trambetrieb und deren Signalisierung
+	
+	Zu jedem Übergang zwischen Bahn- und Trambetrieb sowie umgekehrt, sind die Art und die Gültigkeit der Zustimmung zur Fahrt im Regel- und Störungsbetrieb in den Betriebsvorschriften der ISB zu regeln.
+Die Grenzen werden wie folgt signalisiert:
+-	Grenze vom Bahnbetrieb zum Trambetrieb 
+-	Grenze vom Trambetrieb zum Bahnbetrieb. 
+Auf die Signalisierung kann verzichtet werden, wenn die Grenze beim ersten Hauptsignal liegt.
+	
+2.11.2	Grenze zwischen verschiedenen ISB
+	
+	Die Grenze zwischen verschiedenen ISB wird signalisiert. Auf die Signalisierung kann verzichtet werden, wenn die Grenze in den Betriebsvorschriften definiert und für das betroffene Personal eindeutig erkennbar ist. 
+	
+
+2.11.3	Betriebliche Nutzung von Liniengleisen und Dienstgleisen
+	Der Trambetrieb findet auf Linien- und Dienstgleisen statt. Die Dienstgleise sind durch die ISB in den Betriebsvorschriften zu bezeichnen. 
+Als Zugfahrt verkehren grundsätzlich die Fahrten in Regelfahrrichtung auf den Liniengleisen. Die ISB regelt Zugfahrten, die über Dienstgleise führen oder in Dienstgleisen starten oder enden.
+Als Rangierbewegung werden ausgeführt:
+-	Fahrten in Dienstgleisen, die nicht als Zugfahrt ausgeführt wer-den, z.B. zum Formieren und zum Umstellen von Fahrzeugen
+-	Fahrten in gesperrten Gleisen
+-	Fahrten auf Liniengleisen entgegen der Regelfahrrichtung.
+	
+2.11.4	Fahrvorrecht
+	
+	Fahrten im Liniengleis haben das Fahrvorrecht gegenüber Fahrten aus dem Dienstgleis. 
+Zwischen gleichberechtigen Gleisen hat die von rechts kommende Fahrt das Fahrvorrecht, sofern nicht ortsspezifische Regeln zur Anwendung kommen.
+	
+2.11.5	Abschnitte mit Hauptsignalen
+	
+	Abschnitte, in denen die Zustimmung zur Fahrt mit Hauptsignalen erteilt wird, sind grundsätzlich gemäss den Vorgaben des Bahnbetriebes zu betreiben. 
+Solche Abschnitte dürfen alternativ im Trambetrieb betrieben werden, sofern dies dem Betriebskonzept der ISB entspricht. Die dazu notwendigen Betriebsvorschriften haben die ISB gemeinsam mit den EVU zu erstellen. Dabei ist die Konzeption des Bahnbetriebes soweit zweckmässig zu berücksichtigen. Dies bedeutet insbesondere, dass die grundlegende Bedeutung von Signalbildern am Hauptsignal denjenigen im Bahnbetrieb entspricht. 
+	
+2.11.6	Verschlussanzeige an Weichen
+	
+	Die ISB hat in den Betriebsvorschriften festzulegen, welche Fahrten bei welchen Weichen eine Verschlussanzeige zu beachten haben.
+Die Regelung ist möglichst generisch zu formulieren, so dass dem LF und dem RL anlässlich des Fahrbetriebs jederzeit eindeutig klar ist, bei welchen Weichen eine Verschlussanzeige vorliegen muss und bei welchen nicht.
+	
+2.11.7	Anwendung der FDV im Trambetrieb
+	
+	Im Trambetrieb sind die nachstehenden Reglemente nicht anzuwenden:
+-	Zugbeeinflussung			R 300.7
+-	Formulare				R 300.10
+-	Lokführer / Lokführerin (LF)		R 300.13
+-	Bremsen				R 300.14
+-	Besondere Betriebsformen		R 300.15.
+Innerhalb der nachstehenden Reglemente sind die für den Trambetrieb relevanten Bestimmungen in spezifischen Ziffern am Schluss aufgeführt:
+-	Rangierbewegungen			R 300.4 Ziffer 8
+-	Zugvorbereitung			R 300.5 Ziffer 5
+-	Zugfahrten				R 300.6 Ziffer 7
+-	Störungen				R 300.9 Ziffer 15
+-	Arbeiten im Gleisbereich		R 300.12 Ziffer 5.
+Die übrigen Ziffern sind für den Trambetrieb nicht anzuwenden.
+Wo die Detailregelung von Sachverhalten an die EBU delegiert ist, orientieren sich diese an den Regelungen für den Bahnbetrieb.
+	
+
+	
+
+
+
+
+
+Anlage 1
+
+	
+	
+Teil-Geltungsbereiche und Funktionen FDV
+
+
+
+Teil-Geltungsbereiche und Funktionen FDV
+
+In der Anlage 1 sind die Teil-Geltungsbereiche kurz beschrieben. Die sich aus den FDV ergebende Zuteilung der einzelnen FDV-Ziffern zu den Teil-Geltungsbereichen findet sich zugleich in Beilage 3 der RL BV-FDV mit informativem Charakter. Die Festlegung der Anwendbarkeit der Teil-Geltungsbereiche liegt in der Verantwortung der ISB und EVU.
+Die Funktionen nach FDV sind in den Erklärungen der Begriffe definiert und mit einer Abkürzung versehen. Die sich aus den FDV ergebende Zuteilung der einzelnen FDV Ziffern zu den Funktionen nach FDV (Abkürzung) findet sich zugleich in Beilage 3 der RL BV-FDV mit informativem Charakter. Die Zuweisung der Funktionen nach FDV an das betreffende Personal liegt in der Verantwortung der ISB und EVU.
+
+Teil-Geltungsbereich «Ausschliesslich Rangierbewegungen»
+
+Dieser Teil-Geltungsbereich berücksichtigt Infrastrukturen, welche ausschliesslich durch Rangierbewegungen befahren werden. Es kann sich dabei auch um klar abgrenzbare Teile einer Infrastruktur handeln, welche durch die zuständige ISB (bzw. Anschlussgleisbetreiberin) explizit dem Teil-Geltungsbereich ausschliesslich Rangierbewegungen zugeteilt werden. Anschlussgleise mit möglichen Zugfahrten fallen nicht unter diesen Teil-Geltungsbereich.
+
+Teil-Geltungsbereich «Aussensignalisierung interoperables Netz»
+
+Hierbei handelt es sich um das interoperable Haupt- und Ergänzungsnetz gemäss Anhang 6 EBV resp. der Übersichtskarte (dunkel- und hellgrüne Strecken) im Kapitel F der Richtlinie BAV zu Artikel 15a EBV (RL IOP).
+In diesem Teil-Geltungsbereich finden Rangierbewegungen und Zugfahrten statt. Die Zustimmung für Zugfahrten erfolgt mittels Fahrtstellung der Hauptsignale.
+
+Teil-Geltungsbereich «Aussensignalisierung nicht interoperables Netz»
+
+Hierbei handelt es sich um das nicht interoperable Netz gemäss Anhang 5 EBV sowie gemäss der Übersichtskarte (rote Strecken) im Kapitel F der Richtlinie BAV zu Artikel 15a EBV (RL IOP). In diesem Teil-Geltungsbereich finden Rangierbewegungen und Zugfahrten statt. Die Zustimmung für Zugfahrten erfolgt mittels Fahrtstellung der Hauptsignale.
+Dieser Teil-Geltungsbereich ist ebenfalls anwendbar für Strecken mit Hauptsignalen ohne Block oder Fahrstrassensicherung.
+
+
+Teil-Geltungsbereich «Fahrten ohne Signale mit Zustimmung»
+
+Dieser Teil-Geltungsbereich ist anwendbar für Infrastrukturen ohne Hauptsignale. Es finden Rangierbewegungen und Zugfahrten statt.
+Die Zustimmung für eine Zugfahrt erfolgt mittels: 
+–	Fahrplan oder
+–	Fahrordnung oder
+–	Befehl für Kreuzung und Überholung oder
+–	quittungspflichtiger (mündlich oder fernmündlich) Verständigung durch den FDL.
+
+Teil-Geltungsbereich «Tram» 
+
+Dieser Teil-Geltungsbereich ist auf Infrastrukturen anwendbar, welche grundsätzlich keine Hauptsignale haben und generell mit Fahrt auf Sicht befahren werden. 
+Es finden Rangierbewegungen und Zugfahrten auf Linien- und Dienstgleisen statt. Das Einstellen des Fahrwegs und die Zustimmung zur Fahrt erfolgen fortlaufend durch die EVU (Trambetrieb). 
+
+Option «Zahnrad»
+
+Diese Option umfasst zusätzlich die Bestimmungen, welche für einen Betrieb mit Zahnrad anwendbar sind. Sie ist für die Teil-Geltungsbereiche «Aussensignalisierung nicht interoperables Netz» sowie «Fahrten ohne Signale mit Zustimmung» zulässig.
+
+Option «Zugverband»
+
+Diese Option umfasst zusätzlich die Bestimmungen, welche für einen Betrieb mit Zugverband anwendbar sind. Sie ist für die Teil-Geltungsbereiche «Aussensignalisierung nicht interoperables Netz» sowie «Fahrten ohne Signale mit Zustimmung» zulässig.
+
+
+
+Anlage 2
+
+	
+	
+Auswirkungen des europäischen Rechts
+
+Die rechtliche Wirkung der europäischen Vorgaben, namentlich der «Technischen Spezifikation für die Interoperabilität des Teilsystems Verkehrsbetrieb und Verkehrssteuerung» (TSI OPE), auf die FDV wird in vier Kategorien eingeteilt (Ziffer 1).
+In einer Tabelle ist die Zuteilung der relevanten FDV-Ziffern zu diesen Kategorien aufgelistet (Ziffer 2). 
+
+
+
+1	Kategorien der rechtlichen Wirkung
+	
+Kategorie	Bedeutung / Wirkung	Weiterführende Bemerkungen
+NIOP	Regelungen gelten für die Eisenbahnen des Nicht-IOP-Netzes. (Inhaltlich entsprechen diese Regelungen der TSI OPE oder sind ausserhalb des Wirkungsbereichs der TSI OPE.)	Die rechtliche Wirkung der Regelungen, welche der TSI OPE entsprechen, entsteht für Eisenbahnen des IOP-Haupt- und Ergänzungsnetzes direkt aus der TSI OPE (Anhang 6 AB-EBV).
+Die Eisenbahnen des IOP-Haupt- und Ergänzungsnetzes können diejenigen NIOP-Regelungen, welche nicht in der TSI OPE enthalten sind, im Rahmen der Erstellung ihrer Betriebsvorschriften als Stand der Technik mitberücksichtigen.
+Dabei sind Konsequenzen auf den Nahtstellen zwischen den ISB, den EVU oder zwischen ISB und EVU frühzeitig gegenseitig abzusprechen.
+NIOP*	Regelungen gelten für die Eisenbahnen des Nicht-IOP-Netzes. (Inhaltlich widersprechen diese Regelungen der TSI OPE oder sind zwecks Harmonisierung auf dem IOP-Haupt- und Ergänzungsnetz nicht anzuwenden.)	Benötigt eine Eisenbahn des IOP-Haupt- oder Ergänzungsnetzes eine dieser Regelungen, ist vorgängig ein Verfahren als Abweichung zu den FDV vorzusehen.
+
+NNTV -
+Notifizierte Nationale Technische Vorschriften	Regelungen gelten für alle Eisenbahnen.	NNTV sind zur TSI OPE ergänzende oder abweichende Regelungen in den FDV, welche durch die Instanzen der EU als nationale Regelungen notifiziert sind.	
+ALLE	Regelungen gelten für alle Eisenbahnen.	Diese Bestimmungen haben beschreibenden Charakter und enthalten keine Regelungen mit Einfluss auf den operativen Eisenbahnbetrieb. Deren Wirkung ergibt sich auf Grund des FDV-Textes selbst.
+Die Bestimmungen zur Arbeitssicherheit 
+(R 300.8) sind ausserhalb des Geltungsbereiches der TSI OPE und betreffen die Interoperabilität nicht.	
+	
+	
+
+
+

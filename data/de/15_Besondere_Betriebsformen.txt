@@ -1,0 +1,197 @@
+﻿Schweizerische Eisenbahnen	R 300.15
+
+
+
+Besondere Betriebsformen
+
+
+
+
+1	Strecke ohne Block
+1.1	Geltungsbereich
+	
+	Diese Vorschriften gelten für Strecken ohne technische Einrichtung, welche Züge vor Folge- oder Gegenfahrten schützt, und im Übergang zu solchen Strecken.
+Die Grundsätze der FDV sind, wo nachstehend nichts Besonderes geregelt ist, ebenfalls gültig.
+	
+1.2	Anordnungen, Befehle und Meldungen
+1.2.1	Streckentabelle
+	
+	Die Streckenausrüstung auf Strecken ohne Block ist wie folgt gekennzeichnet:
+		
+			einspurige Strecke ohne Block
+	
+1.2.2	Fahrordnung
+	
+	Die vereinfachte Fahrordnung darf auf Strecken ohne Block nicht angewendet werden.
+	
+1.2.3	Annahme und Verteilung von Befehlen und Meldungen
+	
+	Sofern die Züge begleitet sind, ist durch das EVU festzulegen, wer in diesen Zügen für die Annahme und Verteilung von Befehlen und Meldungen sowie für die Kommunikation zwischen dem Fahrpersonal und dem FDL verantwortlich ist.
+Diejenige Person, welche die Befehle oder die Meldungen entgegennimmt, hat das weitere Fahrpersonal im Zug quittungspflichtig zu verständigen.
+	
+
+1.3	Kreuzungszeichen	
+1.3.1	Das Kreuzungszeichen X in der Fahrordnung	
+		
+	Kreuzungen auf Strecken ohne Block oder Kreuzungen im Übergang von einem Streckenabschnitt mit Block auf einen Streckenabschnitt ohne Block werden in der Fahrordnung mit dem Zeichen X gekennzeichnet.
+Das Zeichen X wird ergänzt mit der Bezeichnung der zu kreuzenden Fahrten und zusätzlich
+–	mit deren Verkehrsperiode, wenn die Fahrten nicht täglich verkehren und
+–	mit dem Buchstaben F, wenn es sich um Fahrten handelt, die fakultativ verkehren.
+			
+	X 2215	22	Kreuzung bei Strecken ohne Block	
+	
+
+	Beispiele:
+	
+	Strecke ohne Block
+
+	
+	Strecke mit und ohne Block
+
+	
+	Zugausgangsbahnhof
+
+
+1.3.2	Beachten des Kreuzungszeichens X
+	
+	Das Kreuzungszeichen X muss vom Fahrpersonal und vom FDL beachtet werden. Das Kreuzungszeichen X gilt für Zugfahrten und für Rangierbewegungen auf die Strecke. Eine Fahrt, die das Kreuzungszeichen X in der Fahrordnung hat, muss im Kreuzungsbahnhof die Gegenfahrt abwarten, auch wenn kein Halt vorgeschrieben ist.
+Die Fahrt darf erst fortgesetzt werden, wenn die Gegenfahrt vollständig eingetroffen oder das Fahrpersonal über den Ausfall oder die Verlegung der Kreuzung protokollpflichtig verständigt worden ist.
+Ist es dem Fahrpersonal nicht möglich, die vollständige Ankunft einer Gegenfahrt einwandfrei festzustellen, hat sich dieses vor der Weiterfahrt beim FDL zu erkundigen, ob die Gegenfahrt vollständig eingetroffen ist.
+Wenn ein Bahnhof örtlich nicht besetzt ist, ist das Fahrpersonal alleine für den Kreuzungsvollzug verantwortlich. Das EBU legt fest, um welche Bahnhöfe es sich dabei handelt und wie der Kreuzungsprozess zu vollziehen ist.
+	
+1.4	Ausserordentliche oder fakultative Kreuzung sowie Ausfall einer Kreuzung
+1.4.1	Grundsatz
+	
+	Der Befehl für Kreuzung und Überholung ist zu verwenden bei:
+–	ausserordentlichen Kreuzungen Befehl 41 oder 
+–	fakultativen Kreuzungen Befehl 41 oder
+–	Ausfällen von Kreuzungen Befehl 43 oder
+–	Kreuzungsverlegungen. Befehl 44
+	
+1.4.2	Ausserordentliche oder fakultative Kreuzung
+	
+	Der LF, der eine ausserordentliche oder fakultative Kreuzung zu vollziehen und dies in der Fahrordnung nicht vorgeschrieben hat, ist durch die Anordnungsstelle mit dem Befehl für Kreuzung und Überholung protokollpflichtig zu verständigen. 
+Die Stelle, die fakultative Fahrten oder Extrafahrten anordnet, ist verantwortlich für die protokollpflichtige Verständigung der Bahnhöfe und der betroffenen Fahrten. Sie kann, wenn der Bahnhof besetzt ist, die Verständigung dem FDL delegieren.
+	
+
+1.4.3	Ausfall einer Kreuzung
+	
+	Für die protokollpflichtige Abgabe des Befehls für Kreuzung und Überholung einer ausfallenden Kreuzung an das Fahrpersonal ist der FDL des planmässigen Kreuzungsbahnhofs verantwortlich. Dieser kann einen geeigneten Bahnhof zur Abgabe des Befehls beauftragen. 
+	
+1.4.4	Kreuzungsverlegung
+	
+	Der FDL im planmässigen Kreuzungsbahnhof hat bei einer Kreuzungsverlegung den FDL des neuen Kreuzungsbahnhofs zu verständigen und dessen Zustimmung für die Kreuzungsverlegung einzuholen.
+Der FDL im neuen Kreuzungsbahnhof ordnet protokollpflichtig mit dem Befehl für Kreuzung und Überholung die Kreuzungsverlegung an.
+Mit der protokollpflichtigen Quittung des planmässigen Kreuzungsbahnhofes gilt die Kreuzung als verlegt, auch wenn Zwischenbahnhöfe noch nicht verständigt worden sind. Die protokollpflichtige Verständigung der Zwischenbahnhöfe ist Sache des FDL des neuen Kreuzungsbahnhofs. 
+Mit dem Befehl für Kreuzung und Überholung werden protokollpflichtig verständigt:
+–	das Fahrpersonal der Fahrt, die vor dem planmässigen Kreuzungsbahnhof zu kreuzen hat, durch den FDL des neuen Kreuzungsbahnhofs und
+–	das Fahrpersonal der vorrückenden Fahrt durch den FDL des planmässigen Kreuzungsbahnhofs.
+Wird eine Kreuzung:
+–	von einer Strecke mit Block auf eine Strecke ohne Block oder
+–	auf einen Übergangsbahnhof zwischen Strecken mit und ohne Block 
+verlegt, ist der Befehl für Kreuzung und Überholung zu verwenden.
+Ist ein Kreuzungsbahnhof nicht besetzt, ist der FDL, der die Kreuzungsverlegung anordnet, für die Verständigung des Fahrpersonals verantwortlich. 
+Die vorrückende Fahrt darf erst verständigt werden, wenn der Gegenzug über die Kreuzungsverlegung protokollpflichtig verständigt wurde.
+Wenn eine vereinbarte Kreuzungsverlegung nicht eingehalten werden kann, oder die Kreuzung auf einen anderen Bahnhof neu verlegt werden muss, ist das oben vorgeschriebene Verfahren erneut durchzuführen. 
+
+1.5	Überholungen
+	
+	Lässt die ISB Überholungen zu, hat sie diese in ihren Ausführungsbestimmungen zu regeln.
+Es gelten folgende Zeichen in der Fahrordnung:
+–	I: 	die Fahrt ist von der beim Zeichen vorgemerkten Fahrt 	zu überholen
+–	II: 	die Fahrt hat die beim Zeichen vorgemerkte Fahrt zu 		überholen.
+Diese Zeichen sind durch den FDL und durch das Fahrpersonal zu beachten.
+Der protokollpflichtige Befehl für Kreuzung und Überholung ist zu verwenden bei:
+–	ausserordentlichen Überholungen Befehl 42 oder
+–	fakultativen Überholungen Befehl 42 oder
+–	Ausfällen von Überholungen. Befehl 43
+	
+1.6	Rückmelden der Züge
+1.6.1	Grundsatz
+	
+	Züge dürfen sich nicht näher als auf Rückmeldedistanz folgen. Ein Zug ist protokollpflichtig rückzumelden.
+	
+1.6.2	Verzicht auf die Rückmeldung
+	
+	Auf die Rückmeldung kann verzichtet werden, wenn
+–	auf einspuriger Strecke die nächste Fahrt in entgegengesetzter Richtung verkehrt, sofern eine Kreuzung angeordnet worden ist,  oder 
+–	die Strecke nur mit einer Komposition (Pendelbetrieb) befahren wird oder
+–	generell mit Fahrt auf Sicht gefahren wird.
+	
+1.6.3	Rückmelden des letzten Zuges
+	
+	Der letzte Zug des Tages ist in jedem Fall protokollpflichtig rückzumelden.
+Die ISB regelt die Art der Rückmeldung in ihren Ausführungsbestimmungen.
+
+1.7	Fehlende Hauptsignale
+1.7.1	Bahnhof ohne Einfahrsignale
+	
+	Vorzeitige Fahrten und Verspätungen von mehr als fünf Minuten sind dem FDL des Nachbarbahnhofs protokollpflichtig anzuzeigen. 
+	
+1.7.2	Rangierbewegung auf die Strecke
+	
+	Der FDL darf einer Rangierbewegung, die über die Einfahrweiche, oder, wo vorhanden, über die Bahnhofendetafel fährt, nur zustimmen, wenn:
+–	das Streckengleis gesperrt bzw. gedeckt ist und allfällige weitere Rangierbewegungen verständigt worden sind oder 
+–	alle Fahrten generell mit Fahrt auf Sicht erfolgen und
+–	innerhalb der nächsten zehn Minuten keine Gegenfahrt erwartet wird oder
+–	wenn innerhalb der nächsten zehn Minuten eine Gegenfahrt erwartet wird und sowohl für die Rangierbewegung selbst als auch für die Gegenfahrt Fahrt auf halbe Sichtdistanz protokollpflichtig angeordnet wurde.
+	
+1.7.3	Bahnhof ohne Ausfahrsignale
+	
+	In einem Bahnhof ohne Ausfahrsignale hat ein Zug mit vorgeschriebenem Halt oder bei einer Kreuzung spätestens vor dem Sicherheitszeichen der Ausfahrweiche anzuhalten.
+Auf besetzten Bahnhöfen ist in jedem Fall, auch wenn kein Halt vorgeschrieben ist, eine Abfahrerlaubnis durch den FDL zu erteilen.
+Muss auf örtlich nicht besetzten Bahnhöfen eine ausserordentliche Abfahrerlaubnis durch den FDL erteilt werden, ist das Vorgehen in den Ausführungsbestimmungen der ISB zu regeln.
+	
+1.7.4	Weiterfahrt in Teilen nach einer Zugstrennung, wenn die Einfahrsignale fehlen
+	
+	Kann vom Standort aus keine Verbindung aufgenommen werden, darf mit dem ersten Zugteil bis zum nächsten Telefon, jedoch höchstens bis zur nächsten Einfahrweiche, oder, wo vorhanden, höchstens bis zur Bahnhofanfangtafel gefahren werden.
+	
+
+
+
+2	Zugverband
+2.1	Geltungsbereich
+	
+	Diese Vorschriften gelten für Züge, die im Zugverband verkehren. 
+Die Grundsätze der FDV sind, wo nachstehend nichts Besonderes geregelt ist, ebenfalls gültig.
+	
+2.2	Definition
+	
+	Der Zugverband besteht aus Teilzügen. Diese können Vor-, Stamm-, oder Nachzug sein, wobei Vor- und Nachzüge als Supplementzüge bezeichnet werden.
+	
+	
+	
+2.3	Geschwindigkeiten und Minimalabstände
+	
+	Innerhalb des Zugverbands müssen die dem ersten Teilzug nachfolgenden Teilzüge mit Fahrt auf Sicht verkehren. 
+Mit Rücksicht auf die höchstzulässige Streckengeschwindigkeit gelten folgende Minimalabstände zwischen den Teilzügen auf der Strecke:
+–	Höchstgeschwindigkeit bis und mit 12 km/h:	=   50 Meter
+–	Höchstgeschwindigkeit bis und mit 28 km/h:	= 100 Meter
+–	Höchstgeschwindigkeit bis und mit 40 km/h:	= 200 Meter
+	
+2.4	Zugnummer und Fahrordnung
+	
+	Alle Teilzüge des Zugverbands müssen die gleiche Zugnummer tragen. Mit zusätzlichen Angaben zur Zugnummer der Supplementzüge muss die Identifikation jedes einzelnen Supplementzugs sichergestellt sein. 
+Supplementzüge haben die gleiche Fahrordnung wie der Stammzug. Es gelten die gleichen Verkehrszeiten, Kreuzungen und Überholungen wie für den Stammzug.
+
+2.5	Kreuzungsverlegungen, Ausfall von Kreuzungen und 
+Überholungen, ausserordentliche Kreuzungen sowie 
+ausserordentliche und fakultative Überholungen
+	
+	Auf Strecken ohne Block muss bei einem Zugverband der erste Teilzug über Kreuzungsverlegungen, Ausfall von Kreuzungen und Überholungen, ausserordentlichen Kreuzungen sowie ausserordentliche und fakultative Überholungen protokollpflichtig durch den FDL verständigt werden. Alle weiteren Teilzüge sind durch den FDL quittungspflichtig zu verständigen.
+Auf Strecken mit Block sind alle Teilzüge durch den FDL quittungspflichtig zu verständigen.
+	
+2.6	Kennzeichnung von Teilzügen
+	
+	Auf Strecken ohne Block verkehrende Teilzüge eines Zugverbands müssen die ihnen nachfolgenden Teilzüge mit einer grün/weissen Scheibe oder grünem Licht, bei Nacht mit einem grünen Licht generell vorne oder generell hinten signalisieren. Folglich hat der letzte Teilzug keine der vorgenannten Signalisierungen. 
+	
+2.7	Kreuzungen mit Teilzügen
+	
+	Signalisiert bei einer Kreuzung der Gegenzug nachfolgende Teilzüge, ist das Fahrpersonal verantwortlich, dass der letzte Teilzug abgewartet wird.
+	
+2.8	Ausserordentlicher Halt auf der Strecke
+	
+	Bei ausserordentlichem Halt eines Teilzugs auf der Strecke müssen die LF der nachfolgenden Teilzüge des Zugverbands sofort verständigt werden. Das Fahrpersonal hat das Signal Halt-Gefahr zu geben.
+	
+
+

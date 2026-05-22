@@ -1,0 +1,102 @@
+﻿Schweizerische Eisenbahnen	R 300.7
+
+
+
+Zugbeeinflussung
+
+
+
+1	Geltungsbereich
+	
+	Diese Vorschriften gelten für alle Eisenbahnen, die mit einem Zugbeeinflussungssystem ausgerüstet sind.
+Standardisierte Systeme sind in den Anlagen zu diesem Reglement beschrieben. Dies gilt auch für Signalisierungssysteme mit integrierten Zugbeeinflussungsfunktionen.
+Für Systeme, die in den Anlagen dieses Reglements nicht beschrieben sind, regeln die ISB in ihren Betriebsvorschriften die Funktionen des Systems und deren Wirkung auf die EVU sowie die allfälligen betrieblichen Einschränkungen im Störungsfall. 
+	
+
+
+2	Grundlagen
+2.1	Zweck
+	
+	Die Zugbeeinflussung funktioniert hauptsächlich im Hintergrund und unterstützt den LF mit dem Ziel, den Endpunkt der Zustimmung zur Fahrt nicht zu überfahren und die zulässigen Höchstgeschwindigkeiten nicht zu überschreiten. Die Zugbeeinflussung gewährleistet überdies, dass der LF die sicherheitsrelevanten Informationen von Signalen berücksichtigt. 
+	
+2.2	Arten der Überwachung 
+	
+	Die Zugbeeinflussung gewährleistet die punktuelle oder kontinuierliche Überwachung in Abhängigkeit des eingesetzten Systems, abgestimmt auf die Infrastruktur sowie Dichte und Art des Verkehrs.
+	
+2.3	Funktionskontrolle
+	
+	Die Funktionstüchtigkeit der Ausrüstung auf den Triebfahrzeugen und Steuerwagen ist mindestens einmal pro Tag nach den Vorgaben der EVU zu prüfen. Das Ergebnis ist zu protokollieren.
+	
+2.4	Funktionsweise
+	
+	Die Zugbeeinflussung wirkt auf das Bremssystem und das Fahrzeugleitgerät der betroffenen Fahrzeuge. 
+Die Informationen der Infrastruktur werden über Streckengeräte (Balisen, Gleismagnete, strahlendes Kabel) übertragen. Auf dem Fahrzeug wird die Information über einen Empfänger entgegengenommen. 
+
+
+
+3	Funktion
+3.1	Allgemeines
+	
+	Die Zugbeeinflussung wirkt mit genormten Funktionen auf das Fahrzeug, das den Zug direkt oder indirekt führt. 
+	
+3.2	Erforderliche Daten
+	
+	Gewisse Funktionen setzen Bremskurven ein. Diese werden aufgrund der Streckendaten (Funktion aktiv, Distanz, Zielgeschwindigkeit, Neigung usw.) und der Fahrzeugdaten ermittelt (Zuggattung, Bremsverhältnis, Zuglänge usw.). 
+Die Streckendaten werden nach gewünschter Funktion programmiert. Sie können fest oder variabel (nach Signalbegriff, Stellung der Schutzelemente usw.) sein. Der LF erfasst die Fahrzeugdaten über eine Bedienoberfläche. 
+	
+3.3	Beschreibung der Funktionen
+	
+	Grundsätzlich werden folgende Funktionen unterschieden:
+–	Halt
+–	Rangierhalt
+–	Warnung
+–	Überwachung
+–	der Höchstgeschwindigkeit
+–	des Zugs
+–	der Betriebsart 
+–	der Strecke
+–	der Rangierbewegung
+–	der Bremskurve
+–	der Zielgeschwindigkeit 
+–	Abfahrverhinderung
+–	Überwachung bei Umschaltung Adhäsions-/Zahnradbetrieb
+
+
+3.3.1	Halt
+	
+	Die Funktion «Halt» löst bei Erhalt des entsprechenden Telegramms eine Zwangsbremsung aus. Diese Funktion kommt bei den Hauptsignalen und zum Schutz von Bahnübergangsanlagen zum Einsatz. Dabei handelt es sich um eine punktuelle Überwachung. 
+Die Funktion «Rangierhalt» stellt eine Variante der Funktion «Halt» dar. Sie löst bei Erhalt des entsprechenden Telegramms eine Zwangsbremsung aus, sofern sich das Fahrzeug im Rangiermodus befindet. 
+	
+3.3.2	Warnung
+	
+	Die Funktion «Warnung» wird bei Empfang des entsprechenden Telegramms oder bei Erreichen einer Überwachungskurve ausgelöst. Sie macht den LF mit einem optischen und/oder akustischen Signal auf eine Verminderung der Geschwindigkeit aufmerksam. Bleibt eine Reaktion des LF aus, so wird die Geschwindigkeit des Zugs mit einer Zwangsbremsung oder einer Systembremsung gedrosselt, um ein Überfahren des Endpunktes der Zustimmung zur Fahrt oder das zu schnelle Einfahren in einen Gleisabschnitt mit verminderter Geschwindigkeit zu vermeiden. Es handelt sich hierbei um eine punktuelle oder kontinuierliche Überwachung. 
+	
+3.3.3	Überwachungen
+	
+	Für die Überwachung der Geschwindigkeiten werden die Daten des Zuges und der befahrenen Strecke miteinander abgeglichen.
+Bei Überschreiten der zugelassenen Höchstgeschwindigkeit wird eine Zwangsbremsung respektive eine Systembremsung ausgelöst, der ein optisches und/oder akustisches Signal vorausgehen kann. Unterlässt es der LF, darauf zu reagieren, wird die entsprechende Bremsung ausgelöst. 
+–	Überwachung der Höchstgeschwindigkeit
+Es handelt sich fallweise um die zulässige Höchstgeschwindigkeit des Zugs, des Streckenabschnitts, der Betriebsart oder der Rangierbewegung. 
+–	Bremskurvenüberwachung
+Bei verminderter Geschwindigkeit oder Halt zeigendem Signal wird die Bremskurve kontinuierlich anhand der Zug- und Streckendaten überwacht. 
+–	Überwachung der Zielgeschwindigkeit 
+Eine bestimmte Geschwindigkeit kann unabhängig von einer Bremskurve überwacht werden. 
+	
+
+3.3.4	Abfahrverhinderung
+	
+	Mit der Abfahrverhinderung kann vermieden werden, dass ein Zug bei der Abfahrt trotz Halt zeigendem Signal den Gefahrenpunkt erreicht. Die Zugbeeinflussung erfolgt mittels einer Balisengruppe oder einer Schleife. Je nach Methode wird der Zug bereits beim Anfahren oder erst beim Überfahren der Balisen abgebremst. Ein optisches und/oder akustisches Signal kann vorausgehen, dem eine Zwangsbremsung folgt. 
+	
+3.3.5	Überwachung bei Umschaltung Adhäsions-/Zahnradbetrieb
+	
+	Das System überwacht, ob sich der Adhäsions-/Zahnradschalter in der richtigen Stellung befindet. Das Fahrzeuggerät löst eine Zwangsbremsung aus, wenn der Schalter nicht innert vorgeschriebener Frist in die richtige Stellung gebracht wird. 
+	
+4	Störungen
+4.1	Allgemeines
+	
+	Bei Störungen der Zugbeeinflussung ist gemäss den Bestimmungen «Störungen an Sicherheitseinrichtungen» vorzugehen.
+	
+4.1.1	Störung am Zugbeeinflussungssystem auf dem zugführenden Fahrzeug
+	
+	Ist ein Zugbeeinflussungssystem gestört, darf ohne Einschränkungen verkehrt werden, wenn die für die Infrastruktur vorgesehenen Funktionen durch ein anderes Zugbeeinflussungsystem gewährleistet sind.
+

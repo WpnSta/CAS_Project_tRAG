@@ -1,0 +1,846 @@
+﻿Chemins de fer suisses	R 300.5
+
+
+
+Préparations des trains
+
+
+
+1	Formation des trains
+1.1	Signalisation des trains 
+	
+	Avant le départ, la tête et la queue du train doivent être signalées conformément aux prescriptions des signaux. Il doit être possible de présenter le signal d’alerte. Sur des tronçons nécessitant un déblocage manuel ou sur des lignes sans block, le dernier véhicule d’un train doit être signalé de nuit par un feu rouge, un feu rouge clignotant ou deux feux rouges.
+	
+1.2	Conduite de trains
+	Pour les trains conduits de manière directe et indirecte, le premier véhicule doit être équipé d’un récepteur actif du système de contrôle de la marche des trains. 
+Exception : :
+Les GI peuvent définir, dans les prescriptions d’exploitation ou dans les conditions d’accès au réseau, une distance maximale entre la tête du train (tampon, attelage) et le récepteur du système de contrôle de la marche des trains. Les ETF doivent inscrire ladite exigence dans leurs prescriptions d’exploitation. S’il n’est pas possible de répondre à cette exigence, le système de contrôle de la marche des trains doit être considéré comme insuffisant.
+	
+1.2.1	Conduite directe des trains
+	
+	Les trains peuvent être conduits de manière directe lorsque
+–	le MEC dispose en permanence d’une vue bien dégagée sur le parcours et les signaux et
+–	le MEC dessert le frein automatique et
+–	le MEC a la possibilité de donner des signaux d’avertissement et
+–	les moyens de signalisation prescrits sont à proximité immédiate du MEC.
+Les trains ne sont conduits de manière directe que d’un endroit.
+	
+1.2.2	Conduite indirecte des trains
+	
+	Les trains sont conduits de manière indirecte lorsque le MEC ne dispose pas d’une vue bien dégagée sur le parcours et les signaux.
+La conduite indirecte des trains n’est admise qu’avec l’autorisation du GI ou en cas de dérangement.
+Le personnel roulant doit être avisé. La conduite indirecte peut aussi être prescrite dans la marche du train.
+
+La personne assurant la conduite indirecte doit se positionner de façon à pouvoir parfaitement observer le parcours et les signaux.
+
+1.3	Classement des véhicules moteurs
+1.3.1	Généralité
+	
+	En règle générale, les véhicules moteurs sont placés en tête des trains, sauf lorsqu’ils sont télécommandés.
+Les véhicules moteurs directement attelés les uns aux autres et circulant en commande multiple sont considérés comme un seul véhicule moteur.
+Les ETF doivent définir les directives relatives au classement de véhicules moteurs à crémaillère en tenant compte des conditions d’utilisation des homologations de véhicules.
+	
+1.3.2	Véhicules moteurs de renfort en queue
+	
+	Les efforts de pousse autorisés sont mentionnés dans les dispositions d’exécution des GI. Les ETF règlent dans les prescriptions d’exploitation l’application des efforts de pousse ou l’utilisation des véhicules moteurs de renfort en queue.
+Il est permis d’ajouter des véhicules derrière un véhicule moteur de renfort en queue.
+	
+1.3.3	Renfort en queue 
+	
+	La présence d’autres véhicules moteurs de renfort en queue, desservis individuellement et placés en queue d’un train conduit de manière directe, est considérée comme un renfort en queue.
+Le véhicule moteur de renfort en queue doit être attelé au train.
+Exception :
+Si le véhicule moteur abandonne le convoi sur un tronçon ou s’il pousse le train jusqu’à un tronçon contigu sous la ligne de contact enclenchée, le GI peut régler la procédure à suivre dans les dispositions d’exécution.
+	
+1.3.4	Renfort en tête 
+	
+	La présence, en tête d’un train, de plusieurs véhicules moteurs de renfort, desservis individuellement, est considérée comme un renfort en tête. C’est le véhicule moteur de tête qui mène le train.
+
+1.3.5	Renfort intercalé	
+		
+	La présence, entre les différents véhicules d’un convoi, de véhicules moteurs en service, desservis individuellement, est considérée comme un renfort intercalé. Le classement d’un véhicule moteur de renfort intercalé (locomotive intercalée) doit être effectué de manière à éviter une transmission de l’effort de pousse.	
+		
+1.3.6	Acheminement de véhicules moteurs	
+		
+	Il est permis d’acheminer des véhicules moteurs en service entre les différents véhicules d’un convoi ou en queue des trains. Ceux-ci ne doivent mouvoir que leur propre poids.
+Si, en raison de la charge, ceux-ci doivent mouvoir plus que leur propre poids, il faut appliquer les dispositions concernant le renfort en queue ou le renfort intercalé.	
+		
+1.4	Classement de la charge remorquée	
+1.4.1	Généralités	
+		
+	Un train ne doit se composer que de véhicules dont la construction et le chargement remplissent les conditions voulues pour en faire partie. Les wagonnets ne doivent pas être incorporés dans un train. Les véhicules endommagés ou déraillés ne peuvent être introduits dans un train qu’après la visite et leur libération par le service technique.
+Il faut observer les dispositions suivantes pour l’admission des véhicules dans un train :
+–	les restrictions de circulation sur divers tronçons, en fonction du poids par essieu et par mètre courant ainsi que du gabarit
+–	la vitesse maximale des véhicules en fonction de leur construction, de leur empattement et de leur poids
+–	la vitesse maximale des véhicules en fonction de leurs inscriptions ou d’étiquettes d’avarie
+–	les dispositions spécifiques d’un transport exceptionnel
+–	les dispositions d’exécution des ETF pour le classement des véhicules en queue des trains ainsi que le transfert de véhicules moteurs remorqués ou avariés.	
+		
+1.4.2	Classement des voitures occupées par des voyageurs dans les trains de marchandises	
+		
+	Dans les trains de marchandises, les voitures occupées par des voyageurs doivent être classées directement derrière le véhicule moteur.	
+		
+1.4.3	Acheminement des wagons de marchandises dangereuses
+	
+	Les ETF s’assurent que les prescriptions d’exploitation sont conformes aux dispositions de l’ordonnance sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles (RSD) et du règlement concernant le transport international ferroviaire des marchandises dangereuses (RID).
+Les wagons portant des plaques-étiquettes selon modèles 1 à 9 du RID, de même que les wagons ouverts dont le chargement est ainsi étiqueté ne peuvent être acheminés que par des trains de marchandises. Dans les trains de marchandises, il doit y avoir une distance de protection entre des wagons de marchandises dangereuses et des voitures occupées par des voyageurs.
+Les wagons portant des plaques-étiquettes selon modèles 1, 1.5 ou 1.6 du RID ou les wagons ouverts dont le chargement est ainsi étiqueté, doivent être séparés par une distance de protection conformément aux 
+dispositions du RID.
+Après la préparation du train et après chaque modification de la composition du train, le MEC doit être avisé avant le départ si le train circule avec des wagons de marchandises dangereuses. Les ETF règlent le mode d’information au MEC dans les dispositions d’exécution.
+	
+1.4.4	Transports exceptionnels
+	
+	Sont considérés comme transport exceptionnel les véhicules circulant avec ou sans charge devant être acheminés seulement selon certaines conditions techniques ou d’exploitation particulières en fonction de leur dimension extérieure (par ex. dépassement de gabarit), de leur poids ou de leur constitution. 
+Le GI et l’ETF règlent dans leurs prescriptions d’exploitation le traitement de tels transports.
+Le personnel concerné doit être avisé chaque fois par un ordre à protocoler sur les conditions à respecter. 
+	
+1.4.5	Restrictions pour certains véhicules
+	
+	Les wagons lourds, les wagons légers, les véhicules à placer en queue des trains, les véhicules pour lesquels le passage sur la bosse de débranchement est interdit, sont des véhicules dont la construction ou l’état ne permet pas d’être classés n’importe où dans les trains. Ils doivent être signalés en conséquence.
+	
+
+1.4.6	Préannonces
+	
+	Le PRT doit aviser le CC de la gare de départ avant le départ 
+–	lorsqu’un train conduit les véhicules suivants :
+–	véhicules ayant une grande distance entre essieux voisins. Les GI règlent dans leurs prescriptions d’exploitation la distance autorisée entre essieux voisins
+–	véhicules circulant comme transport exceptionnel
+–	véhicules à placer en queue des trains
+–	si des marchandises dangereuses se trouvent dans un train. Les GI règlent les informations nécessaires
+–	si des voyageurs ou animaux sont transportés de manière non programmée.
+Le CC de la gare de départ avise les CC des gares intermédiaires et de la gare terminale.
+	
+1.5	Charge remorquée 	
+		
+	La charge remorquée ne doit pas être supérieure à la somme des charges normales admises pour le tronçon considéré de tous les véhicules moteurs en service dans le train. Il faut tenir compte
+–	de la charge autorisée des attelages
+–	de la charge de pousse autorisée. 
+La charge maximale des attelages, la charge de pousse autorisée et la charge normale des différents véhicules moteurs sont indiquées pour chaque tronçon dans les dispositions d’exécution des ETF. 
+
+	
+
+
+	
+
+2	Assurer les trains immobilisés
+2.1	Assurer contre la dérive
+	
+	Les trains ou parties de train immobilisés doivent être assurés contre la dérive.
+Pour les tronçons à adhérence, les règles relatives à l’effort de retenue sont déterminantes. Sur les lignes ou tronçons à crémaillère, les prescriptions d’exploitation correspondantes des ETF s’appliquent.
+	
+2.2	Effort de retenue minimal
+	
+	La somme des efforts de retenue des moyens de freinage indépendants du frein à air ne doit pas être inférieure à l’effort de retenue minimal du train pour la déclivité considérée.
+Pour les tronçons à adhérence avec une déclivité jusqu’à 75 ‰, les valeurs relatives à l’effort de retenue minimal peuvent être reprises du complément 1.
+Les GI règlent dans leurs prescriptions d’exploitation l’effort de retenue minimal pour des déclivités de plus de 75 ‰.
+	
+2.3	Effort de retenue minimal au départ
+	
+	Au départ d’un train, il faut disposer le plus possible de moyens de freinage indépendants du frein à air afin que l’effort de retenue minimal puisse être atteint. L’effort de retenue minimal doit suffire à tout moment pour la déclivité réelle. 
+	
+2.4	Efficacité du frein automatique
+	
+	Lorsque la réserve d’air ou le vide ne peut pas être maintenu, le frein automatique suffit pour assurer un train ou une partie de train jusqu’à une demi-heure. Par conséquent, les véhicules doivent être freinés à fond.
+Une voiture ou un wagon en stationnement doit être systématiquement assuré à l’aide de moyens de freinage indépendants du frein à air. 
+	
+2.5	Assurer avec des moyens de freinage indépendants du frein à air
+	
+	Si un train ou une partie de train s’arrête en pleine voie probablement plus d’une demi-heure, il doit être assuré avec des moyens de freinage indépendants de l’efficacité du frein à air de façon à ce que l’effort de retenue minimal soit garanti.
+	
+
+2.6	Efforts de freinage à compter pour l’effort de retenue
+	
+	L’effort de retenue est exprimé en kilonewtons (kN).
+Les inscriptions en tonnes sont à appliquer selon la règle suivante : 
+1 tonne (poids-frein) compte comme 1 kN (effort de retenue).
+Si l’effort de retenue est à la fois exprimé en kN et en tonnes, la valeur en kN doit être prise en compte.
+	
+	Les freins suivants peuvent être comptés dans le calcul de l’effort de retenue :
+	–	freins d’immobilisation
+–	la valeur du poids total en tonnes, mais au plus l’effort de retenue inscrit
+	Exemples :
+		–	22 kN peuvent être comptés pour un wagon vide
+–	36 kN peuvent être comptés pour un poids total d’au moins 36 t 
+
+		–	16 kN peuvent être comptés pour un wagon vide
+–	24 kN peuvent être comptés pour un poids total d’au moins 24 t 
+
+	
+
+	–	28 kN peuvent être comptés pour un wagon vide
+–	37 kN peuvent être comptés pour un poids total d’au moins 37 t 
+	l’indication « 21 t » n’a donc plus aucune importance 
+	
+
+	–	si l’inscription de l’effort de retenue fait défaut, il faut prendre en compte le poids total (en tonnes), mais au maximum 20 kN
+–	lorsque le véhicule porte l’inscription suivante, il faut prendre en compte le facteur de réduction :
+	
+		
+par ex. ¼ du poids total
+	
+	–	sabots d’arrêt
+pour le calcul de l’effort de retenue en cas de déclivité jusqu’à 50 ‰, il faut compter pour chaque sabot d’arrêt la charge par essieu sous lequel il est placé, en appliquant la formule suivante :
+charge par essieu (en tonnes) x 2 = kN, mais au maximum 40 kN.
+Les sabots d’arrêt doivent être placés sous les roues des wagons dont la charge par essieu est la plus grande. Un seul sabot d’arrêt doit être utilisé par wagon. Les freins d’immobilisation des wagons sous lesquels un sabot d’arrêt est placé, ne doivent pas être pris en compte dans le calcul de l’effort de retenue.
+Les ETF peuvent régler dans les prescriptions d’exploitation la pose des sabots d’arrêt et la manière dont ils sont pris en compte pour les véhicules moteurs et les sabots d’arrêt supplémentaires pour les wagons. Il convient de veiller à ne pas prendre en compte, pour chaque essieu, plus que la part de l’effort de retenue correspondant du frein d’immobilisation ou plus que celle d’un sabot d’arrêt.
+Les GI règlent dans leurs prescriptions d’exploitation la manière exacte dont les sabots d’arrêt doivent être pris en compte dans le calcul de l’effort de retenue pour des déclivités de plus de 50 ‰.
+
+
+3	Prescriptions de freinage
+	
+	Les prescriptions de freinage des ETF s’appliquent également aux véhicules à crémaillère. Il faut les définir en tenant compte des conditions d’utilisation fixées dans les homologations de véhicules.
+	
+3.1	Tableau de freinage
+	
+	Les GI mentionnent dans les prescriptions d’exploitation les données du tableau de freinage qui sont nécessaires au calcul du rapport de freinage partiel et en cas de dérangement.
+	
+3.2	Calcul de freinage
+	
+	Le rapport de freinage servant à déterminer la catégorie de freinage se calcule comme suit :
+
+Arrondis :
+Dans le calcul de freinage, les fractions de tonnes (t) et de pour-cent (%) de 0,5 et plus sont arrondies à la valeur supérieure, celles qui sont inférieures à 0,5 sont arrondies à la valeur inférieure.
+Un calcul de freinage doit être effectué pour chaque train. Les ETF peuvent régler dans leurs prescriptions d’exploitation la détermination du rapport de freinage au moyen de calculs de freinage standard ou permanents.
+
+3.3	Dispositifs d’inversion
+3.3.1	Inversion des freins
+			
+	Dispositif d’inversion MVR	Position	Si cette position manque
+			
+	Véhicules moteurs	R	V
+			
+	Dérogations pour les trains de marchandises avec une charge remorquée de plus de 600 t :
+–	véhicules moteurs en tête du train	
+
+
+
+M	
+
+
+
+V
+			
+			
+	Voitures et wagons	R	V / RIC ou M
+			
+	avec freins magnétiques sur rails	R + Mg	
+	Dérogations pour les trains de marchandises :		
+	–	trains avec une charge remorquée de plus de 600 t	V / RIC ou M
+
+	Au cas où la position prévue n’existe pas, le frein correspondant doit être paralysé et vidé.
+Le rapport de freinage partiel doit cependant être atteint dans tous les cas. Si nécessaire, des véhicules non freinés doivent être différés.
+	–	trains avec une charge remorquée de plus de 1200 t	M sur les cinq premières unités de frein de la charge remorquée, le reste sur V / RIC ou M
+	
+			
+	–	trains composés de matériel non uniforme et charge remorquée supérieure à 1600 t	M	
+	–	Trains surbaissés du trafic Huckepack	M	
+			
+
+	Sont désignés comme trains de marchandises composés de matériel uniforme les trains entièrement chargés. Les conditions suivantes doivent 
+être prises en compte :
+–	des wagons à bogies uniquement et
+–	pas de wagon articulé et
+–	uniquement des wagons dont le poids total équivaut au minimum aux indications du tableau ci-dessous :
+	
+			Trains avec une charge remorquée comprise entre 1601 t et 2500 t	Trains avec une charge remorquée de plus de 2500 t
+		Wagon à 4 essieux	64 t	80 t
+		Wagon à 6 essieux	96 t	120 t
+		Wagon à 8 essieux	128 t	160 t
+	Les dispositions concernant le rapport de freinage partiel doivent être respectées.
+Si des voitures sans frein M circulent en tête d’un train marchandises dont la charge remorquée dépasse 1200 t, les freins sont réglés comme suit :
+	
+	
+	
+3.3.2	Dispositif vide / chargé
+	
+	Dispositif vide / chargé	Position
+	Lorsque le poids total est
+–	inférieur au poids d’inversion inscrit
+–	égal ou supérieur au poids d’inversion inscrit	
+vide
+chargé
+		
+	Si l’inscription du poids d’inversion fait défaut et que le poids total d’un wagon à 2 essieux atteint ou dépasse 25 t ou 50 t pour un wagon à 4 essieux	chargé
+		
+		
+	Si un dispositif vide / chargé manuel qui devrait être placé en position « vide » se trouve bloqué en position « chargé », il faut paralyser le frein.
+	
+
+3.4	Poids-frein à compter	
+3.4.1	Principes
+	
+	Doit être compté :
+–	le poids-frein R des véhicules dont le dispositif d’inversion est en position R
+–	le poids-frein V des véhicules dont le dispositif d’inversion est en position V
+–	le poids-frein M des véhicules dont le dispositif d’inversion est en position M, mais seulement à raison des 8/10 des valeurs inscrites, à cause du temps de remplissage plus long des cylindres de frein
+–	pour chaque véhicule d’un train de marchandises dont le dispositif d’inversion est en position R ou V, il convient de respecter les facteurs de réduction du poids-frein indiqués ci-dessous, et ce pour des raisons de longueur :
+
+Longueur de la charge remorquée	Facteur par lequel le poids-frein doit être multiplié	0–500 m
+1	501–600 m
+0,95	601–700 m
+0,90	701–800 m
+0,85	plus de 800 m
+0,8		Si le calcul de freinage est effectué par un système de traitement de données, il est possible de calculer des facteurs intermédiaires.
+Les poids-frein suivants doivent uniquement être pris en compte si les ETF le prévoient dans leurs prescriptions d’exploitation :
+–	le plus élevé des deux poids-frein inscrits en position 
+–	le poids-frein en tenant compte des freins électromagnétiques sur rails
+–	les freins EP
+–	le poids-frein E des unités automotrices et unités de trains-navettes spécialement désignées et qui sont équipées également de freins magnétiques sur rails.
+Pour des véhicules équipés du frein à vide, il faut également tenir compte des dispositions de l’annexe 1.
+	
+3.4.2	Véhicules moteurs en service	
+	
+Le poids-frein est déterminé en fonction de la position du commutateur MVR. Les poids-frein correspondants figurent dans le tableau des véhicules moteurs et sont également inscrits sur ceux-ci.
+Les véhicules moteurs dont le poids-frein V est inscrit entre parenthèses ne possèdent pas de position « V » au dispositif d’inversion.
+Les véhicules moteurs équipés d’un frein électrique ou hydrodynamique portent la lettre « E » à côté des inscriptions concernant le frein.	
+		Exemple d’inscription pour une locomotive :
+	
+	
+	Selon ces inscriptions, il faut par ex. compter :
+–	dispositif d’inversion sur « R » ...........................................	100 t
+–	dans un train de marchandises dont la charge 
+remorquée dépasse 600 t, dispositif d’inversion 
+sur « M » (0.8 • 72 t)............................................................	58 t
+	
+	Lorsqu’un train est mené par un petit véhicule moteur sans frein à air comprimé, le poids en service est à compter comme poids-frein pour le frein de manœuvre desservi.
+Si d’autres petits véhicules moteurs sans frein à air comprimé sont desservis dans le train, aucun poids-frein ne peut être compté pour eux, même s’ils sont raccordés à la conduite générale.
+	
+	Exemple d’inscription pour un tracteur :
+	
+	
+	
+	
+	Pour des véhicules équipés du frein à vide, il faut également tenir compte des dispositions de l’annexe 1.
+	
+	
+3.4.3	Véhicules moteurs remorqués	
+		
+Les poids-frein des véhicules moteurs remorqués figurent dans le tableau des véhicules moteurs.
+Lorsque le classement de véhicules moteurs remorqués dans des trains, dont la charge remorquée dépasse 1200 t, impose l’emploi du frein M et que cette position ne peut pas être utilisée, le frein de ce véhicule doit être paralysé, respectivement rendu inactif.
+Dans le calcul du rapport de freinage d’un train, il ne faut compter aucun poids-frein pour les véhicules moteurs munis du frein complémentaire (N).		
+	Exemple d’inscription pour une locomotive :	
+	
+	
+Selon ces inscriptions, il faut par ex. compter :
+–	poids-frein à compter ...................................................  0 t
+–	poids-frein à compter uniquement pour 
+le rapport de freinage partiel ........................................ 57 t	
+	
+Pour des véhicules équipés de freins à vide, il faut également tenir compte des dispositions de l’annexe 1.	
+	
+3.4.4	Voiture ou wagon sans dispositifs d’inversion
+	
+	Il faut prendre en compte le poids-frein inscrit ou, si cette inscription fait défaut, la tare de la voiture ou du wagon.
+	
+	Exemple d’inscription pour une voiture :
+	
+	
+	
+3.4.5	Voiture ou wagon avec dispositif d’inversion
+	
+	Exemple d’inscription pour un wagon :
+	
+	
+	
+	Selon ces inscriptions et dans cette position, il faut compter  
+69, 74 ou 84 tonnes selon les prescriptions d’exploitation correspondantes.
+	
+3.4.6	Voiture ou wagon avec freinage automatique de la charge et portant l’inscription A	
+	
+Exemple d’inscriptions figurant sur un wagon de marchandises :	
+	
+	
+	
+Selon ces inscriptions, il faut par ex. compter :	
+	
+Position	V
+M (= 0,8 • V)	
+	
+pour un wagon vide
+pour un poids total de 26 t (chargement 10 t)
+pour un poids total de 40 t (chargement 24 t)	16 t
+26 t
+29 t	13 t
+21 t
+23 t			
+			Lorsqu’en plus du poids-frein figure l’inscription du rapport de freinage, celui-ci se rapporte toujours au wagon complètement chargé, respectivement à la voiture entièrement occupée. Pour les véhicules partiellement chargés ou occupés, le rapport de freinage peut se calculer comme suit :		
+		
+			    rapport de freinage [%]
+poids-frein = 				•  poids total [t]
+			100 [%]	
+			
+Exemple d’inscriptions figurant sur une voiture :			
+	
+	
+	
+Selon ces inscriptions et dans cette position, il faut par ex. compter :	
+	
+	pour un wagon vide
+	65 t
+		
+pour une voiture occupée		92 t			
+			3.4.7	Voiture ou wagon avec freinage automatique de la charge et tableau des poids-frein	
+			
+Il faut compter le poids-frein correspondant au poids total.		
+Exemple pour un wagon avec frein Bozic :		
+		
+		
+		
+Selon ces inscriptions, les poids-frein suivants peuvent par ex. être comptés en position « V » :
+–	poids-frein pour un poids total de 10–13 t ......	 9 t
+–	poids-frein pour un poids total de 14–18 t .....	11 t
+–	poids-frein pour un poids total de 19–23 t ......	14 t		
+		3.4.8
+Voiture ou wagon avec dispositif vide / chargé automatique 		
+		
+Il faut compter le poids-frein le plus élevé lorsque le poids total atteint ou dépasse le poids d’inversion. Dans le cas contraire, le poids-frein le plus faible doit être pris en compte.
+Exemple d’inscriptions figurant sur un wagon :		
+		
+		
+		
+Selon ces inscriptions, les poids-frein suivants peuvent par ex. être comptés en position « V » :
+–	pour un poids total inférieur à 22 t  ........................................	13 t
+–	pour un poids total de 22 t ou plus  .....................................	26 t		
+		3.4.9
+Voiture ou wagon avec dispositif vide / chargé manuel		
+		
+Il faut prendre en compte le poids-frein correspondant à la position du levier du dispositif d’inversion.
+Exemple d’inscriptions figurant sur un wagon :		
+		
+		
+		
+Selon ces inscriptions, les poids-frein suivants peuvent par ex. être comptés en position « V » :
+–	avec un poids total de 18 t / position 14 t : ............. 14 t
+–	avec un poids total de 20 t / position 18 t :  ............ 18 t
+–	avec un poids total de 21 t / position 18 t : ............. 18 t		
+		
+Pour des véhicules équipés de freins à vide, il faut également tenir compte des dispositions de l’annexe 1.		
+		
+3.5	Véhicules non freinés	
+3.5.1	Généralité
+		
+Le premier véhicule du train et le dernier (véhicules moteurs inclus) doivent impérativement être équipés d’un frein automatique fonctionnant correctement ou d’un frein complémentaire.	
+3.5.2	Signalisation des freins à air paralysés	
+	
+Les véhicules qui ont le frein automatique paralysé doivent être signalés.	
+3.5.3	Frein automatique paralysé sans raison apparente	
+	
+Le robinet d’isolement des wagons qui ont le frein automatique paralysé sans raison apparente doit être ouvert. Ensuite, avant de continuer la marche, un essai du frein doit être effectué à ces wagons ou voitures.	
+	
+3.5.4	Rapport de freinage partiel
+	
+	Les freins doivent être répartis uniformément dans le train. En outre, les conditions du rapport de freinage partiel doivent être remplies.
+Le rapport de freinage partiel doit être calculé :
+–	depuis la queue du train jusqu’à chaque point de coupure possible du train 
+–	depuis la tête du train à chaque point de coupure possible jusqu’après le 5ème véhicule de la charge remorquée.
+Le plus petit rapport de freinage partiel calculé doit être au moins égal au rapport de freinage nécessaire, selon le tableau de freinage applicable, pour parcourir la déclivité considérée à la vitesse de 25 km/h.
+Pour déterminer le rapport de freinage partiel, il sera calculé :
+–	le poids-frein des freins en service entrant dans le calcul pour déterminer la catégorie de freinage
+–	pour les véhicules moteurs remorqués équipés du frein complémentaire, le poids-frein du frein complémentaire figurant dans le tableau des véhicules moteurs ou inscrit sur le véhicule.
+Le rapport de freinage partiel est atteint et il n’est pas nécessaire de le calculer si tous les véhicules sont freinés. 
+Les ECF, circulant de manière générale à une vitesse inférieure à 25 km/h en raison du tableau de freinage applicable et de la déclivité déterminante, édictent les prescriptions nécessaires dans les dispositions d’exécution.
+Exemple :
+–	locomotive (tare 120 t, poids-frein M pris en compte 72 t)
+–	charge remorquée 1600 t
+–	les 5 premiers wagons n’ont pas de frein M (freins paralysés).
+	
+	
+	
+	Le plus petit rapport de freinage partiel calculé depuis la queue du train s’élève à 61 %. Le rapport de freinage partiel calculé depuis la tête du train jusqu’au 5ème véhicule de la charge remorquée est de 18 %.
+
+Il n’est pas permis de circuler avec le plus petit rapport de freinage partiel calculé dans notre exemple (en l’occurrence 18 %), si le tableau de freinage applicable est le G2016. Sur des déclivités jusqu’à 14 ‰, le rapport de freinage partiel doit être d’au moins 20 %. Si ce train doit parcourir une déclivité déterminante de 20 ‰, le rapport de freinage partiel doit atteindre 31 %. Dans ce cas, les quatrième et cinquième wagons doivent être retirés ou placés à un autre endroit du train.
+	
+3.5.5	Véhicules comprenant plusieurs unités de frein
+	
+	Si une unité de frein doit être paralysée sur un véhicule articulé ou des wagons multiples à attelage permanent comprenant plusieurs distributeurs de frein, l’autre distributeur de frein peut rester en service. Toutefois, cette règle ne s’applique pas aux véhicules dont l’inscription précise que tous les distributeurs doivent être hors service. La prise en compte d’un poids-frein dans le calcul de freinage et pour le rapport de freinage partiel est permise, à condition de disposer d’indications précises pour l’unité considérée. En l’absence de telles indications, une valeur maximale de 7 tonnes peut être comptée pour l’unité de frein en service.
+	
+3.5.6	Véhicule non freiné en queue d’un train
+	
+	L’acheminement d’un véhicule non freiné en queue d’un train n’est autorisé que si ce véhicule, par suite d’un dommage, ne dispose d’un appareil de traction ou de choc en état de fonctionner que d’un seul côté. Les conditions émanant des prescriptions « Dérangement aux freins et rupture d’attelage » doivent être respectées.
+	
+3.6	Fortes pentes, grandes ou longues rampes
+	
+	Les ETF qui circulent sur de fortes pentes et sur de grandes ou longues rampes doivent édicter les prescriptions d’exploitation nécessaires.
+	
+3.7	Catégorie de train et vitesse maximale
+3.7.1	Utilisation des catégories de train et de freinage	
+		
+	Une catégorie de train et de freinage appropriée tirée des tableaux des parcours sera prescrite dans la marche de chaque train.
+Catégorie de train et de freinage vont de pair et doivent toujours être indiquées ensemble en cas de modifications.
+La catégorie de train et de freinage figurant dans la marche est désignée comme catégorie normale. Toutes les autres catégories de train et de freinage disponibles sont des catégories de remplacement.
+
+Lorsque le rapport de freinage, le genre de frein à utiliser et la formation du train le permettent ou l’exigent, la catégorie de remplacement la plus élevée possible selon le calcul de freinage doit être prescrite au MEC. Des catégories de freinage inférieures peuvent être prescrites si cela présente des avantages pour l’exploitation. Le MEC se réfère aux vitesses admissibles des tableaux des parcours.
+Il n’est permis de circuler avec un rapport de freinage inférieur à celui figurant dans les tableaux des parcours pour le tronçon considéré qu’en cas d’événement exceptionnel, par ex. après une rupture d’attelage ou suite à un dérangement.
+Le rapport de freinage minimal nécessaire doit, en tenant compte des prescriptions sur le rapport de freinage partiel, suffire au moins pour la déclivité déterminante et pour la vitesse la plus basse selon le tableau de freinage applicable.
+Pour les trains de locomotives, la catégorie de train et de freinage est déterminée en fonction de l’homologation des véhicules moteurs et de leur rapport de freinage.	
+		
+3.7.2	Vitesses maximales et longueur de train admissible (UIC)	
+		
+	En cas de d’application de l’évaluation des freins selon la fiche UIC 544-1, les vitesses maximales autorisées et les longueurs de train admissibles pour chaque catégorie de train et de freinage sont les suivantes :	
+		
+	Catégorie de train	Catégorie de freinage (%)
+v max
+(km/h)	Remarques / longueur maximale admissible du train	
+					
+	N	180 - 150	250	pour les trains avec dispositif d’inclinaison, jusqu’à 500 mètres	
+	W	180 - 150	250	pour les trains avec compensation du roulis, jusqu’à 500 mètres	
+	R	180 - 135
+
+125 - 105 	250
+
+160	pour les trains avec vitesse de courbe élevée, jusqu’à 500 mètres	
+	A	115 - 50	120	jusqu’à 750 m	
+	D	115 - 50	100	pour une charge par essieu supérieure à 20 tonnes jusqu’au maximum 22,5 tonnes, jusqu’à 750 m	
+					
+				Les ETF règlent dans leurs prescriptions d’exploitation : 
+–	la charge remorquée minimale pour les vitesses supérieures à 160 km/h
+–	les catégories de train correspondant aux véhicules mis en circulation par leurs soins, conformément aux instructions du GI.
+Pour les trains de plus de 750 mètres de long, les GI peuvent édicter des prescriptions d’exploitation conformes aux STI.	
+		
+3.7.3	Vitesses maximales et longueurs de trains maximales (DE-OCF)	
+		
+	Les GI fixent les vitesses maximales et les longueurs de trains maximales pour chaque catégorie de train et de freinage en cas d’application de l’évaluation des freins selon les Dispositions d’exécution de l’Ordonnance sur les chemins de fer (DE-OCF, RS 742.141.11), ad art. 52. 
+Les ETF règlent dans leurs prescriptions d’exploitation les catégories de train correspondant aux véhicules mis en circulation par leurs soins, conformément aux instructions du GI.	
+		
+3.7.4	Restrictions supplémentaires	
+		
+	Des réductions de vitesses sont en outre à observer, en particulier pour les transports exceptionnels, selon les conditions du plan de transport.
+La vitesse maximale pour les trains en conduite indirecte est de 30 km/h. Lorsque la personne qui conduit indirectement le véhicule en tête du train et le MEC sont en liaison en phonie, la vitesse maximale est de 60 km/h.	
+		
+3.8	Données pour la conduite du train	
+3.8.1	Principe	
+		
+	Avant le départ du train, le MEC doit disposer au moins des données suivantes :
+–	la catégorie de train et de freinage prescrite
+–	le poids de la charge remorquée
+–	la longueur du train (en mètres)
+–	la vitesse maximale de la charge remorquée
+–	l’accompagnement du train
+–	l’existence de marchandises dangereuses et leur position dans le train
+–	pour les trains de marchandises : la part de wagons équipés de freins à disques (D) ou de semelles de frein LL et K (en prenant soin d’indiquer le nombre total de véhicules)
+–	pour les trains de marchandises : la part que représente le frein M (quelques véhicules uniquement ou train complet)
+–	pour les trains de marchandises : l’effort de retenue appliqué.
+Le mode d’information au MEC est fixé dans les dispositions d’exécution de l’ETF.
+Chaque modification des données pour la conduite du train doit être annoncée au MEC par le PRT, en particulier si 
+–	le train ne peut pas circuler d’après les catégories de train et de freinage prescrites
+–	les indications diffèrent des tableaux de charge permanents figurant dans les prescriptions d’exploitation 
+–	les indications se modifient en cours de route.
+Toute réduction de vitesse doit être communiquée au MEC par un ordre à protocoler et le CC doit en être informé.	
+		
+3.8.2	Aucune donnée requise	
+		
+	Le MEC réduit la vitesse de lui-même lorsque
+–	la vitesse maximale des véhicules moteurs en service est inférieure à celle prescrite pour le train
+–	le classement des véhicules moteurs en service dans le train ou des dommages éventuels à ceux-ci l’exigent.
+Le MEC augmente la vitesse de lui-même lorsque les conditions requises sont remplies.	
+		
+4	Visite du train	
+4.1	Principe
+	
+	Les ETF règlent dans leurs prescriptions d’exploitation les conditions d’exécution de la visite du train. Le PRT coordonne les tâches à effectuer dans le cadre de la visite technique et de la visite opérationnelle du train.
+Une zone intermédiaire de sécurité doit être disponible pour s’y tenir ou pour effectuer des travaux entre des voies ou entre une voie et un obstacle fixe. Dans le cas contraire, il faut procéder selon les dispositions « Absence de zone intermédiaire de sécurité ». En présence de chantiers, il faut procéder selon les dispositions « Travaux sur et aux abords des voies ».
+Pendant la visite du train, la composition ne peut être déplacée ou être modifiée que si l’ensemble du personnel concerné a été informé au préalable.
+	
+4.2	Etendue de la visite
+	
+	Visite technique du train :
+Le PRT doit s’assurer que
+–	la capacité au roulement et la sécurité de l’exploitation sont garanties
+–	les portes latérales et autres dispositifs de verrouillage des véhicules et des conteneurs sont bien fermés et assurés
+–	les wagons de marchandises sont chargés conformément aux prescriptions, le chargement et les conteneurs sont assurés.
+La visite technique du train doit être effectuée pour chaque véhicule au moins une fois par jour; pour les wagons marchandises, une visite technique est de plus requise en cas de modification du chargement.
+Visite opérationnelle du train :
+Le PRT doit s’assurer que
+–	la formation du train a été effectuée dans le respect des prescriptions
+–	les véhicules sont correctement attelés
+–	les freins en service sont correctement répartis en nombre suffisant et les dispositifs d’inversion sont en bonne position
+–	les moyens de freinage indépendants du frein automatique permettent de disposer de l’effort de retenue minimal requis
+    • pour les véhicules à crémaillère, les moyens de freinage non épuisables sont suffisants pour assurer les véhicules immobilisés
+
+–	où cela est possible, la fermeture automatique des portes fonctionne correctement
+–	le train est muni des objets d’équipement et de signalisation réglementaires
+–	l’essai du frein a été effectué.
+La visite opérationnelle du train doit être effectuée au moins une fois par jour, ainsi que pour tout train nouvellement formé et en cas de modification en cours de route.
+	
+4.3	Essai du frein
+	
+	Un essai du frein doit être exécuté à la gare de formation avant le départ, en cas de modification de la composition, suite à un changement de direction ou après la mise en service d’un train qui était garé. Cet essai du frein doit être effectué depuis la même cabine de conduite d’où le frein sera desservi en cours de route.
+L’essai du frein consiste à s’assurer du bon fonctionnement des systèmes de freinage, dont les poids-frein seront pris en compte lors du calcul de la catégorie de freinage et du rapport de freinage partiel.
+Pour les véhicules à crémaillère, il faut s’assurer du bon fonctionnement des systèmes de freinage selon les directives des ETF.
+	
+4.3.1	Exécution de l’essai du frein
+	
+	Avant le début de l’essai du frein
+–	les appareils de freins doivent être prêts à fonctionner
+–	le frein à air doit être lâché. Cela doit être vérifié sur un véhicule quelconque
+    • les freins d’immobilisation doivent être lâchés. Font exception les freins d’immobilisation qui sont nécessaires pour assurer les véhicules contre la dérive
+    • l’étanchéité des appareils de frein doit être vérifiée.
+L’essai du frein doit être exécuté pour tous les véhicules où cela est prescrit dans l’ordre suivant :
+–	effectuer un serrage ordinaire
+–	vérifier que tous les véhicules à contrôler soient freinés
+–	lâcher les freins
+–	vérifier que les freins de tous les véhicules à contrôler soient desserrés.
+
+Le contrôle doit être effectué
+–	aux véhicules mêmes (semelles de frein de tous les essieux, indicateur de l’état du frein) ou
+–	au manomètre du cylindre de frein des véhicules moteurs et voitures de commande desservis (par ex. lors de l’attelage d’une locomotive de renfort ou du jumelage de trains-navettes).
+Si la valve de décharge doit être actionnée pour lâcher pendant l’essai du frein, l’essai du frein doit être répété sur le véhicule en question.
+Si, pendant l’essai du frein, des incidents qui pourraient amener à des irrégularités sont constatés, il faut répéter l’essai du frein.
+Sur le matériel roulant mentionné dans les dispositions d’exécution de l’ETF, l’essai du frein peut être effectué depuis la cabine de conduite. Dans ce cas, tous les véhicules doivent être équipés des dispositifs d’annonce adéquats.
+Pour des véhicules équipés du frein à vide, il faut également tenir compte des dispositions de l’annexe 1.
+	
+4.3.2	Essai du frein complet
+	
+	Les freins de tous les véhicules du train doivent être contrôlés, à l’exception des véhicules moteurs se trouvant en tête
+–	quand le train est nouvellement formé
+–	quand le train est formé de parties de train ne provenant pas de trains directement en correspondance dans les 2 heures
+–	quand la composition a été garée plus de 12 heures
+–	quotidiennement pour les compositions qui circulent plusieurs jours sans être modifiées
+–	quand une inattendue et mauvaise efficacité des freins est constatée lors de l’essai d’efficacité du frein
+–	quand une confusion ou des doutes subsistent sur l’exécution de l’essai du frein.
+Lorsque plusieurs véhicules moteurs sont attelés ensemble, il faut procéder à l’essai du frein complet dès leur mise en service.
+On peut également procéder à l’essai du frein complet à l’aide d’un poste fixe à air comprimé ou avec un autre véhicule moteur. Dans ce cas, un essai du frein partiel devra être effectué après avoir attelé le véhicule moteur menant.
+Pour des véhicules équipés du frein à vide, il faut également tenir compte des dispositions de l’annexe 1.
+	
+4.3.3	Essai du frein partiel	
+	
+Les freins du dernier véhicule freiné à l’air doivent être vérifiés ainsi que ceux des véhicules ajoutés
+–	lorsque le train change de direction pour autant que le véhicule moteur en tête du train ait été attelé à nouveau
+–	quand le train a été garé entre 2 et 12 heures.
+Les freins doivent être vérifiés à un véhicule quelconque qui se trouve derrière le dernier point de coupure de la conduite générale ainsi qu’à tous les véhicules nouvellement ajoutés
+–	lorsque, sans changement de direction, des véhicules moteurs ou des wagons ont été changés ou ajoutés
+–	lorsqu’un accouplement de frein a été séparé et accouplé à nouveau
+–	lorsque l’essai du frein complet a été effectué depuis un poste fixe à air comprimé ou au moyen d’un autre véhicule moteur, après avoir attelé le véhicule moteur menant. Si l’essai du frein complet a été effectué depuis un poste fixe à air comprimé et que celui-ci a été raccordé entre les véhicules du train, un essai du frein partiel est nécessaire derrière le point de raccordement. 
+Un essai du frein partiel doit être effectué dans les 2 heures aux parties de train qui sont venues directement de trains en correspondance. Il faut au moins vérifier les freins à un véhicule correspondant pour chaque partie de train selon les dispositions ci-dessus.
+Pour des véhicules équipés du frein à vide, il faut également tenir compte des dispositions de l’annexe 1.	
+4.3.4	Essai du frein simplifié	
+	
+Le MEC exécute seul l’essai du frein en contrôlant son fonctionnement au manomètre des cylindres de freins dans la cabine de conduite desservie
+–	lorsque le MEC change de cabine de conduite sans modification de composition
+–	lorsque le MEC met en service la cabine de conduite, après le retrait d’une locomotive de renfort en tête ou d’un élément de train-navette
+–	quand le train a été garé jusqu’à 2 heures
+–	quand la cabine de conduite desservie a été mise hors service momentanément ou quand la locomotive a été complètement mise hors service.	
+	
+4.3.5	Essai du frein des véhicules moteurs remorqués équipés du frein complémentaire
+	
+	Serrer
+Après avoir effectué un serrage ordinaire au moyen d’une diminution de pression de 1 bar dans la conduite générale, les freins des véhicules équipés du frein complémentaire doivent être encore lâchés.
+Ensuite, au plus tôt après 20 secondes, il convient d’entreprendre un serrage rapide ou d’ouvrir le robinet d’arrêt de la conduite générale en queue du train jusqu’à ce que le frein complémentaire fonctionne et que les semelles de frein ou les garnitures de frein s’appliquent. 
+Lâcher
+Les freins des véhicules doivent être lâchés au moyen du frein complémentaire après avoir produit la pression normale dans la conduite générale.
+	
+4.3.6	Pas d’essai du frein
+	
+	Un essai du frein n’est pas nécessaire
+–	lorsque des véhicules sont dételés en queue du train
+–	après avoir manipulé des dispositifs d’inversion (pour les véhicules équipés de freins à air comprimé)
+–	après avoir rappelé un frein d’urgence qui a été actionné.
+Pour des véhicules équipés du frein à vide, il faut également tenir compte des dispositions de l’annexe 1.
+	
+4.3.7	Fin de l’essai du frein
+	
+	L’annonce de la fin de l’essai du frein incombe au PRT compétent. Elle doit être annoncée au MEC, pour l’ensemble du train, selon les prescriptions « Signaux » ou au moyen de l’annonce à quittancer « Train ... frein bon ».
+	
+4.4	Fin de la préparation du train	
+4.4.1	Conditions pour la fin de la préparation du train	
+	
+La préparation du train est terminée lorsque
+–	la formation du train est terminée
+–	le MEC est en possession des données nécessaires pour la conduite du train
+–	les parties nécessaires de la visite du train ont été effectuées
+–	la queue du train est signalée au moyen d’un signal de queue.
+Le PRT annonce la fin de la préparation du train au MEC.	
+	
+4.4.2	Annonce de l’état de la préparation du train	
+	
+Le PRT avise le CC et le MEC sur l’état de la préparation du train lorsque
+–	la préparation du train ne peut pas être terminée dans les temps du départ prévu à l’horaire ou
+–	la préparation du train est terminée à l’avance et qu’il est possible de circuler à l’avance.
+L’avis doit être transmis aussi vite que possible.
+Le GI peut mentionner les gares ou parties de gare dans les dispositions d’exécution pour lesquelles la fin de la préparation du train doit être annoncée dans tous les cas au CC.	
+	
+5	Préparation des trains en exploitation des tramways
+5.1	Formation des trains
+5.1.1	Signalisation des trains
+	
+	Avant le départ, la tête et la queue du train doivent être signalées conformément aux prescriptions des signaux.
+	
+5.1.2	Conduite directe des trains
+	
+	Les trains peuvent être conduits de manière directe lorsque
+–	le MEC dispose en permanence d’une vue bien dégagée sur le parcours et les signaux et
+–	le MEC dessert le frein automatique et
+–	le MEC a la possibilité de donner des signaux d’avertissement et
+–	les moyens de signalisation prescrits sont à proximité immédiate du mécanicien de locomotive.
+Les trains ne sont conduits de manière directe que d’un endroit.
+	
+5.1.3	Conduite indirecte des trains
+	
+	Les trains sont conduits de manière indirecte lorsque le MEC ne dispose pas d’une vue bien dégagée sur le parcours et les signaux. 
+La conduite indirecte des trains n’est admise qu’avec l’autorisation du GI ou en cas de dérangement. 
+Le collaborateur assurant la conduite indirecte doit se positionner de façon à pouvoir parfaitement observer le parcours et les signaux. 
+Les ETF règlent dans leurs prescriptions d’exploitation la procédure et la vitesse maximale autorisée pour les trains conduits de manière indirecte, le cas échéant sur la base des consignes édictées par les GI.
+	
+5.1.4	Classement des véhicules dans les trains
+	
+	Les véhicules moteurs sont placés en tête des trains. Les véhicules moteurs directement attelés les uns aux autres et circulant en commande multiple sont considérés comme un seul véhicule moteur. 
+Un train ne doit se composer que de véhicules dont la construction remplit les conditions voulues pour en faire partie. Les véhicules endommagés ou déraillés ne peuvent être introduits dans un train qu’après la visite et leur libération par le service technique. 
+
+
+Il faut observer les dispositions suivantes pour l’admission des véhicules dans un train :
+–	les restrictions de circulation sur divers tronçons
+–	la vitesse maximale des véhicules en fonction de leur construction
+–	les prescriptions d’exploitation des ETF pour le classement des véhicules ainsi que le transfert de véhicules remorqués, poussés ou avariés. 
+	
+5.1.5	Restrictions pour certains véhicules et certaines compositions
+	
+	Les ETF tiennent des index des véhicules et des combinaisons ainsi que des caractéristiques des véhicules qui induisent des restrictions.
+	
+5.1.6	Charge remorquée
+	
+	Les ETF règlent dans les prescriptions d’exploitation les charges remorquées autorisées et la longueur des trains, le cas échéant sur la base des consignes édictées par les GI.
+	
+5.1.7	Véhicule non freiné en queue d’un train
+	
+	L’acheminement d’un véhicule non freiné en queue d’un train n’est autorisé que si ce véhicule dispose d’un appareil de traction ou de choc en état de fonctionner. Les conditions émanant des prescriptions « Dérangement aux freins » doivent être respectées. 
+Les ETF règlent dans les prescriptions d’exploitation l’accompagnement.
+	
+5.2	Assurer les trains immobilisés
+	
+	Les trains ou parties de train immobilisés doivent être assurés contre la dérive. 
+Les ETF définissent dans les prescriptions d’exploitation les moyens de freinage et la procédure applicable.
+	
+5.3	Prescriptions de freinage et vitesse maximale
+	
+	Les ETF s’assurent que le MEC dispose des informations nécessaires relatives à la composition du train et aux caractéristiques des freins.
+	
+5.3.1	Vitesse maximale
+	
+	Les ETF règlent dans les prescriptions d’exploitation les vitesses maximales autorisées.
+5.3.2	Données pour la conduite du train
+	
+	Les ETF définit dans les prescriptions d’exploitation les données dont le MEC a besoin pour la conduite du train et le mode d’information.
+	
+5.4	Visite du train
+5.4.1	Principe
+	
+	La visite du train permet de garantir la capacité au roulement et la sécurité de l’exploitation. 
+Les ETF règlent dans leurs prescriptions d’exploitation les conditions d’exécution de la visite du train. Le PRT coordonne les tâches à effectuer dans le cadre de la visite technique et de la visite opérationnelle du train.
+Pendant la visite du train, la composition ne peut être déplacée ou être modifiée que si l’ensemble du personnel concerné a été informé au préalable.
+	
+5.4.2	Etendue de la visite
+	
+	La visite technique et opérationnelle du train doit être effectuée au moins une fois par jour pour les véhicules, conformément aux consignes édictées par les ETF.
+	
+5.4.3	Essai du frein
+	
+	Un essai du frein doit être exécuté à l’endroit de départ avant le départ, en cas de modification de la composition, suite à un changement de direction ou après la mise en service d’un train qui était garé. Cet essai du frein doit être effectué depuis la même cabine de conduite d’où le frein sera desservi en cours de route. 
+Avant le début de l’essai du frein : 
+–	la formation de train doit être terminée
+–	les appareils de freins doivent être prêts à fonctionner. 
+Si, pendant l’essai du frein, des incidents qui pourraient amener à des irrégularités sont constatés, il faut répéter l’essai du frein. 
+	
+5.4.4	Fin de la préparation du train
+	
+	Les ETF règlent dans les prescriptions d’exploitation les conditions d’exécution et la procédure à suivre pour la fin de la préparation du train.
+
+	
+
+
+
+Complément 1
+
+
+
+
+Tableau de l’effort de retenue minimal
+
+
+
+
+
+
+
+Annexe 1
+
+
+
+
+Dispositions complémentaires pour le frein à vide
+
+
+
+
+
+
+
+
+1	Prescriptions de freinage
+1.1	Poids-frein à compter
+1.1.1	Principe
+	
+	Il est permis de prendre en compte tous les freins à vide et tous les freins à air comprimé commandés par le vide.
+	
+1.1.2	Véhicules moteurs en service
+	
+	Les poids-frein correspondants sont inscrits sur les véhicules moteurs. Pour les véhicules moteurs à deux seuils de freinage, on portera en compte le poids-frein R.
+Les freins magnétiques sur rails alimentés par batterie peuvent être pris en compte si leur effet est contrôlé au moins une fois par jour et si tous les véhicules du train sont freinés au frein à air.	
+	
+1.1.3	Véhicules moteurs remorqués
+	
+	En principe, les véhicules moteurs remorqués, y compris les tracteurs et les machines de chantier automotrices, sont considérés comme non freinés.
+Exception : lorsque la conduite d’alimentation est reliée depuis la locomotive du train et que le véhicule moteur remorqué est équipé en conséquence, le poids-frein inscrit peut être pris en compte. Pour les véhicules moteurs à deux seuils de freinage, on portera en compte le poids-frein V.
+Pour les tracteurs et les machines de chantier, on peut porter en compte le poids-frein inscrit pour autant qu’une réserve suffisante d’air comprimé puisse être assurée. 
+	
+
+1.1.4	Voitures et wagons avec dispositif vide / chargé à trois positions	
+		
+	Il faut prendre en compte le poids-frein correspondant à la position du levier du dispositif d’inversion.
+Exemple :
+	
+	Ces inscriptions permettent de compter par exemple :
+–	avec un poids total de 20 t / position L16 : .............. 16 t
+–	avec un poids total de 21 t / position B22 : .............. 22 t
+–	avec un poids total de 38 t / position B22 : .............. 22 t
+–	avec un poids total de 45 t / position B42 : .............. 42 t
+	
+1.1.5	Voitures et wagons dotés d’un frein à air comprimé commandé par le vide	
+		
+	Les véhicules dotés d’un frein à air comprimé commandé par le vide portent l’inscription
+
+
+A ces véhicules, outre la conduite générale, il faut aussi raccorder absolument la conduite d’alimentation.
+			
+1.2	Mise en action des clapets de desserrage	
+		
+	Après une longue circulation sur des pentes, il faut actionner les clapets de desserrage à la gare terminus du train ou aux endroits désignés par l’ETF. 
+Cette opération n’est pas nécessaire aux véhicules dotés d’une valve de compensation automatique.	
+2	Essai du frein	
+2.1	Essai du frein complet	
+		
+	Il faut respecter l’ordre suivant pour procéder à l’essai du frein complet à tous les véhicules à contrôler :
+    • pompe arrêtée, laisser lentement descendre le vide à 0 cm hg
+    • après une minute, remonter le vide à 25 cm hg
+    • contrôler que tous les véhicules soient freinés
+    • ouvrir brièvement un boyau de frein en queue du train; la diminution du vide ainsi occasionnée sert à demander de desserrer les freins
+    • contrôler si les freins sont desserrés à tous les véhicules.	
+		
+2.2	Essai du frein partiel	
+		
+	Après avoir déplacé le dispositif vide / chargé, le frein doit être vérifié auprès du véhicule concerné. 
+Il faut respecter la chronologie suivante pour procéder à l’essai du frein partiel :
+    • effectuer un serrage rapide
+    • vérifier que tous les véhicules à contrôler soient freinés
+    • desserrer les freins
+    • s’il faut vérifier le dernier véhicule, on ouvrira brièvement un boyau de frein et on contrôlera si de l’air est aspiré
+    • vérifier si les freins sont desserrés à tous les véhicules à contrôler.	
+		
+2.3	Pas d’essai du frein	
+		
+	Un essai du frein n’est pas nécessaire lorsqu’on a actionné les clapets de desserrage après avoir circulé longuement sur des pentes.
+On contrôlera dans tous les cas l’étanchéité des appareils de frein.	
+		
+		
+
+
+

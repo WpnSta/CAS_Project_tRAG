@@ -1,0 +1,288 @@
+﻿Chemins de fer suisses	R 300.13
+
+
+
+Mécanicien / mécanicienne de locomotive (MEC)
+
+
+ 
+1	Champ d’application
+	
+	Les présentes prescriptions sont applicables : 
+–	aux MEC (conduite directe et indirecte)
+–	aux MEC en formation
+–	aux aides-mécaniciens.
+
+2	Directives et conditions
+2.1	Responsabilité
+2.1.1	Principe
+	
+	Le MEC est responsable d’effectuer ses tâches de manière appropriée et conformément aux prescriptions.
+Le MEC est coresponsable de l’exécution du travail par le MEC en formation qui lui est attribué, en fonction du niveau de formation.
+Le MEC en formation est coresponsable en fonction de son niveau de formation.
+Le MEC est coresponsable de l’exécution du travail par l’aide mécanicien qui lui est attribué.
+	
+2.1.2	Remise de service	
+		
+	Lors de la remise de service, le MEC qui quitte son service doit remettre au MEC qui prend son service les éventuels ordres à quittancer pas encore exécutés. De même, le MEC qui quitte son service signalera au MEC qui prend son service les ordres à protocoler pas encore exécutés ainsi que les particularités éventuelles des véhicules et des installations.
+Après la transmission ou l’annonce de ces ordres, le MEC qui prend son service en assume la responsabilité.	
+		
+2.1.3	Plusieurs véhicules moteurs desservis	
+		
+	Lors de double traction, de service de pousse, de traction intercalée et de jumelage de trains, le MEC se trouvant à l’avant du convoi est en principe responsable de la conduite du train. Les MEC des véhicules moteurs suivants sont coresponsables dans la mesure de leurs possibilités, en particulier du respect de la vitesse.	
+		
+2.2	Compétences	
+2.2.1	Habilité à donner des instructions	
+		
+	Ont autorité sur les MEC en matière de processus de circulation des trains :
+–	le CC compétent
+–	le CMAN voire l’EMAN
+–	l’AT.
+Le MEC a autorité sur le MEC en formation et sur l’aide-mécanicien.	
+		
+
+2.2.2	Compétence lors de dérangements aux véhicules
+	
+	En l’absence d’une autre personne qualifiée, le MEC est seul responsable des dispositions d’ordre technique à prendre lors de dérangements ou de dommages aux véhicules moteurs.
+	
+2.3	Inaptitude au service en cours de route ou après une
+irrégularité
+	
+	Si le MEC ne se sent plus en état de continuer à assumer ses tâches, le MEC doit s’arrêter et soit demander à être remplacé soit demander une personne apte d’une ECF à poursuivre la marche. Cette personne doit être instruite sur la manière d’arrêter le train en cas d’urgence.
+	
+2.4	Equipement
+	
+	Le MEC doit prendre avec lui les documents et le matériel nécessaires pour accomplir son travail en toute sécurité.
+	
+2.5	Connaissances
+2.5.1	Pratique minimale de conduite
+	
+	Le MEC doit satisfaire à un minimum de pratique de conduite, conformément à l’ordonnance du DETEC sur l’admission des conducteurs de véhicules moteurs des chemins de fer (OCVM).
+	
+2.5.2	Connaissances de lignes et des gares
+	
+	Le MEC est autorisé à circuler sur les lignes et dans les gares pour lesquelles le MEC a acquis les connaissances nécessaires. L’acquisition de ces connaissances consiste à parcourir quatre fois les tronçons concernés, dans les deux sens et si possible une fois de nuit. Lorsqu’un MEC n’a plus parcouru une ligne ou une gare pendant trois ans consécutivement, ses connaissances sont à considérer comme insuffisantes et doivent être rafraîchies. Le MEC est coresponsable de la garantie du niveau de connaissance. Pour rafraîchir ses connaissances, il doit parcourir la ligne concernée au moins une fois dans chaque sens. 
+Des méthodes de formation alternatives sont autorisées pour acquérir et rafraîchir les connaissances de lignes et des gares. Par exemple des vidéos montrant la ligne ou la gare avec la perspective du MEC peuvent être utilisées.
+Le MEC est autorisé à parcourir les lignes et les gares qui ne sont pas familières sans disposer des connaissances requises lorsque le MEC est piloté par un MEC connaissant les lignes en question.
+
+Lors de perturbation d’exploitation, le MEC a le droit de parcourir sous sa propre responsabilité des lignes et des gares qui ne lui sont pas familières. Le MEC doit toutefois disposer des tableaux des parcours nécessaires et connaître les dispositions d’exécution relatives aux lignes et gares parcourues et être en mesure de les appliquer. La manière de conduire doit être adaptée à la situation. Les ETF communiquent les lignes et les gares où il n’est pas permis de circuler sans disposer des connaissances suffisantes.
+	
+2.5.3	Connaissances des véhicules
+	
+	Si le MEC n’a plus conduit un type de locomotive pendant cinq ans consécutivement ou s’il n’a jamais conduit un véhicule moteur de type similaire, ses connaissances sont considérées comme insuffisantes et doivent être rafraîchies.
+
+3	Avant et pendant la marche
+3.1	Contrôles
+3.1.1	Contrôle des équipements de sécurité
+	
+	Le MEC est tenu de contrôler au moins une fois par jour le bon fonctionnement des équipements de sécurité se trouvant sur les véhicules moteurs et les voitures de commande, conformément aux consignes édictées par l’ETF. Le résultat de ces contrôles doit être protocolé.
+	
+3.1.2	Contrôle de l’enregistrement des installations de mesure de la vitesse	
+		
+	Au moment de prendre son service et, dans la mesure du possible aussi en cours de route, le MEC doit contrôler le bon fonctionnement de l’enregistrement des installations de mesure de la vitesse et du contrôle de la marche des trains, conformément aux consignes édictées par l’ETF.	
+		
+3.2	Cabine de conduite	
+3.2.1	Occupation de la cabine de conduite	
+		
+	Sur les véhicules moteurs à deux cabines de conduite, il faut occuper la cabine de conduite avant dans le sens de marche, hormis lors de dérangements. Les courses de manœuvre conduites de manière indirecte peuvent être effectuées depuis la cabine de conduite arrière. Les courses de manœuvre conduites de manière directe ne peuvent être effectuées que si on dispose d’une bonne vue d’ensemble du parcours concerné.	
+		
+3.2.2	Documents d’horaire et de parcours, ordres	
+		
+	Les documents nécessaires en cours de route tels que la marche du train, les tableaux des parcours et les ordres, doivent être placés d’une manière bien visible dans la cabine de conduite.	
+		
+3.2.3	Autorisation d’accès	
+		
+	Outre le MEC attribué à la conduite du train, seules les personnes disposant d’une autorisation peuvent se tenir dans le véhicule moteur pendant la marche. Font exception à cette règle les compartiments accessibles aux voyageurs dans les automotrices, voitures de commande et trains automoteurs.
+L’ETF définit le nombre maximum de personnes autorisées à se tenir dans une cabine de conduite desservie pendant la marche. Les experts d’examens et les instructeurs peuvent en décider autrement, compte tenu toutefois du chemin de fuite nécessaire.
+L’ETF peut édicter d’autres prescriptions si elle dispose d’automotrices ou de voitures de commande aménagées pour le transport de voyageurs dans la cabine de conduite.	
+		
+3.2.4	Annonce des signaux	
+		
+	Si, en plus du MEC titulaire, un supérieur, un MEC en formation, un aide-mécanicien ou un autre MEC se trouve dans la cabine de conduite, ils doivent s’annoncer mutuellement la position des signaux.
+Les annonces de signaux sont en principe les suivantes :	
+		
+	Image du signal pour les trains	Annonce	
+	avertissement ou arrêt	« fermé »	
+	annonce de voie libre ou voie libre	« ouvert »	
+	annonce de vitesse ou exécution de vitesse	« ouvert » + la vitesse signalée ou la vitesse qui diffère à celle prescrite dans les tableaux des parcours	
+	itinéraire court	« itinéraire court »	
+	Au signal d’entrée, annoncer aussi le nom de la gare.	
+		
+	Image du signal nain	Annonce	
+	arrêt	« fermé »	
+	avancer	« ouvert droit »	
+	avancer prudemment	« ouvert oblique »	
+		
+	Image du signal de manœuvre	Annonce	
+	arrêt pour le mouvement de manœuvre ou manœuvre interdite	« fermé »	
+	assentiment pour le mouvement de manœuvre ou manœuvre autorisée	« ouvert »	
+	Les signaux nains et de manœuvre ne seront annoncés que pour les mouvements de manœuvre.	
+		
+	Feu de contrôle de passage à niveau	Annonce	
+	installation de passage à niveau enclenchée clignote	« feu de contrôle clignote »	
+	ne clignote pas	« arrêter ! Feu de contrôle éteint »	
+		
+		
+		
+3.2.5	Ordres	
+	Si, en plus du MEC titulaire, un supérieur, un MEC en formation, un aide-mécanicien ou un autre MEC se tient dans la cabine de conduite, le MEC titulaire doit aviser cette personne des ordres éventuels.
+Si un supérieur, un MEC en formation, un aide-mécanicien ou un autre MEC reçoit un ordre, il doit le transmettre au MEC titulaire.	
+		
+3.2.6	Transport de marchandises dans la cabine de conduite	
+		
+	Il n’est permis de transporter des marchandises de tous genres dans une cabine de conduite desservie que si elles ne gênent pas le MEC dans l’exercice de ses fonctions et si elles n’encombrent pas le chemin de fuite. Au besoin, on les déposera dans la cabine de conduite non desservie. L’ETF précise quelles marchandises peuvent être transportées en service ou en privé dans les cabines de conduite.	
+		
+3.2.7	Abandon du véhicule moteur	
+		
+	Si le MEC quitte son véhicule (véhicule moteur ou voiture de commande), le frein d’immobilisation doit être serré.
+Le MEC avise le CC lorsque le MEC quitte le véhicule moteur en dehors des pauses et des interruptions de travail prévues.	
+		
+3.3	Manière de conduire	
+3.3.1	Principe	
+		
+	Le MEC doit conduire le train en respectant la sécurité, l’horaire et le confort des voyageurs. Si possible, il conduira de manière économique.	
+		
+3.3.2	Attention sur le parcours et en pleine voie	
+		
+	Pendant la marche, le MEC doit concentrer son attention sur le parcours ou sur la pleine voie. Le MEC observera aussi les instruments et dispositifs d’annonce servant à la conduite du train. Si, pendant la marche, il doit accomplir des activités susceptibles de le distraire, le MEC doit réduire sa vitesse, voire arrêter son convoi. L’exécution de travaux et les conversations n’ayant pas trait à la circulation des trains ou à la conduite du véhicule sont interdites.
+Avant de mettre un véhicule moteur en mouvement, le MEC doit s’assurer dans la mesure du possible qu’il ne met personne en danger et ne risque pas de causer des dégâts. Immédiatement après le départ, le MEC contrôlera que le train ou le mouvement de manœuvre ne présente aucune irrégularité. Autant que possible, le MEC veillera à ce que personne ne soit mis en danger.
+Le MEC doit contrôler régulièrement et avant d’entrer dans un tunnel, que son train ainsi que les autres trains et les mouvements de manœuvre ne présentent pas d’irrégularités mettant en danger l’exploitation.	
+		
+3.3.3	Absence d’assentiment ou d’ordre de rouler	
+		
+	Un train ou un mouvement de manœuvre ne peut rouler sans assentiment ou ordre de rouler que si un danger menace.	
+		
+3.3.4	Protection de l’infrastructure et de l’environnement	
+		
+	Si les feux de signalisation de la tête du train sont complétés par des projecteurs, il convient d’éviter d’éblouir des personnes inutilement.
+Dans la mesure du possible, il faut éviter de sabler
+–	au passage des aiguilles et des croisements
+–	avec des vitesses inférieures à 20 km/h et à l’arrêt, sauf pour 
+partir.
+L’utilisation abusive du sifflet de la locomotive est à éviter.	
+		
+3.3.5	Renfort en tête, renfort en queue, renfort intercalé et 
+jumelage de trains	
+		
+	Il faut avertir le MEC du véhicule de tête si la vitesse autorisée est dépassée de 10 %. Au besoin, il faut arrêter le convoi.	
+
+4	Dommages et irrégularités
+4.1	Généralités
+	
+	Si le MEC constate des dégâts ou des irrégularités à des installations ou des véhicules, il doit prendre les mesures qui s’imposent. Les dégâts ou irrégularités doivent être signalés par écrit au service compétent.
+Si les dégâts ou les irrégularités ont une influence directe sur la poursuite de la marche, il faut les annoncer en plus au CC.
+	
+4.2	Mesures dictées par les conditions météorologiques
+	
+	Lorsqu’il y a lieu de craindre des problèmes d’adhérence, le MEC abaissera la vitesse de lui-même, surtout sur les pentes.
+Si un risque de déraillement est à craindre en cas d’importantes chutes de neige, de risque d’avalanche ou si les ornières sont pleines de glace, le MEC peut demander une locomotive de renfort en tête ou, pour un train-navette, la mise en tête du véhicule moteur.
+	
+
+
+Annexe 1
+
+
+
+
+Dispositions complémentaires pour la traction à vapeur
+
+
+1	Généralités
+1.1	Personnel
+	
+	On désigne comme chauffeur la personne qui s’occupe du foyer et de certaines tâches techniques sur la locomotive à vapeur. Il ne doit pas être examiné sur la circulation des trains.
+Si les fonctions de l’aide-mécanicien et du chauffeur sont assumées par une seule et même personne, les tâches de l’aide-mécanicien ont la priorité.
+	
+1.2	Véhicules
+	
+	Si rien d’autre n’est spécifié, les automotrices à vapeur sont assimilées aux locomotives à vapeur dans les présentes prescriptions.
+	
+
+
+2	Directives et conditions
+2.1	Occupation de la locomotive à vapeur
+	
+	Le MEC n’est autorisé à mettre en mouvement une locomotive à vapeur que lorsqu’un aide-mécanicien se trouve aussi dans la cabine de conduite. Pour des mouvements de manœuvre sur de courtes distances, l’ETF peut prendre des dispositions particulières.
+Les locomotives à vapeur pouvant être en principe conduites par une seule personne doivent être désignées dans les dispositions d’exécution de l’ETF.
+	
+2.2	Responsabilité
+	
+	Le MEC est coresponsable du travail du chauffeur.
+	
+2.3	Compétences
+	
+	Le MEC a autorité sur le chauffeur.
+
+
+3	Avant et pendant la marche
+3.1	Dangers du courant électrique
+	
+	Il est interdit de monter sur la chaudière et sur le tender, ainsi que d’arroser le charbon, sur une voie équipée d’une ligne de contact, si celle-ci n’est pas déclenchée, mise à la terre et assurée contre un réenclenchement involontaire.
+Sous une ligne de contact enclenchée, le charbon ne peut être humidifié qu’au stoker, depuis la cabine de conduite.
+Sous une ligne de contact enclenchée, on sera particulièrement prudent en manipulant les outils d’entretien du feu.
+	
+3.2	Réserves
+	
+	Le tender ne peut être rempli que jusqu’à la limite indiquée, et ceci de manière à ce qu’aucun combustible ne puisse s’en échapper en cours de route.
+		
+3.3	Contrôles	
+3.3.1	Niveau d’eau	
+		
+	Pour assurer l’exactitude de l’indicateur de niveau d’eau, il faut le purger lors de l’allumage puis régulièrement pendant la marche.
+Le personnel responsable doit s’assurer préventivement que la chaudière contienne toujours suffisamment d’eau. Le niveau d’eau doit régulièrement être vérifié à l’aide des deux indicateurs prévus à cet effet.	
+	
+3.3.2	Soupapes de sûreté
+		
+	Le MEC doit contrôler au moins une fois par jour le bon fonctionnement des soupapes de sûreté de la chaudière, si possible pendant la marche.
+		
+3.3.3	Injecteurs, pompes d’alimentation	
+		
+	Le bon fonctionnement de toutes les installations d’alimentation doit être contrôlé avant la mise en mouvement de la locomotive.	
+		
+3.4	Chauffage à vapeur	
+		
+	Avant d’atteler et de dételer des véhicules équipés d’une conduite de chauffage à vapeur, il faut fermer le robinet d’isolement dudit chauffage dans la cabine de conduite.	
+		
+3.5	Marche	
+3.5.1	Outils d’entretien du feu	
+		
+	Il est interdit de manipuler les outils d’entretien du feu pendant la marche si, ce faisant, ils dépassent le gabarit du véhicule.	
+		
+3.5.2	Jets d’étincelles	
+		
+	Il faut éviter les jets d’étincelles.
+Lorsque des dispositifs de protection contre les étincelles sont prescrits pour les locomotives à vapeur, ils doivent en tout temps être fonctionnels et dans un état impeccable.	
+		
+3.5.3	Incommodités	
+		
+	Le feu sera entretenu de manière à minimiser l’émanation de fumée.
+On évitera si possible d’ouvrir les purgeurs aux abords des quais de même qu’à proximité d’une route, de bâtiments ou d’animaux. On évitera aussi de déclencher inutilement les soupapes de sûreté.
+En remplissant le tender et en arrosant le charbon, on veillera à ce que personne ne soit incommodé ou sali par les éclaboussures.	
+		
+3.5.4	Purger	
+		
+	On évitera de purger sur des dispositifs de sécurité.	
+		
+3.5.5	Lignes de contact	
+		
+	Autant que possible, il faut s’arrêter de sorte qu’aucun joug et isolateur ne se trouvent au-dessus de la cheminée ou des soupapes de sûreté. Il convient aussi d’éviter que l’eau entraînée par les souffleurs, la purge des cylindres et les pompes à air ne cause un arc électrique.	
+		
+
+3.6	Garage de la locomotive à vapeur
+3.6.1	Quitter la locomotive à vapeur (pause de service)
+	
+	En principe, une locomotive à vapeur doit rester occupée pendant toute la pause de service. Si, exceptionnellement, cela n’est pas possible, on procédera comme suit :
+–	contrôler que
+–	le régulateur est fermé
+–	la commande est en position centrale
+–	les purgeurs sont ouverts
+–	couper l’arrivée d’eau
+–	fermer la trappe à cendres
+–	fermer les portes de la cabine de conduite.
+	
+3.6.2	Lieu de garage
+	
+	Les locomotives à vapeur sous pression et non occupées ne peuvent être garées que sur les voies précisées par l’ECF.
+	
+
+

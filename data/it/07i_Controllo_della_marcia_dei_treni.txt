@@ -1,0 +1,135 @@
+﻿Ferrovie svizzere	R 300.7
+
+
+
+Controllo della marcia dei treni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	Ambito di validità
+	
+	Le presenti prescrizioni valgono per tutte le ferrovie che sono dotate di un sistema di controllo della marcia dei treni.
+I sistemi standardizzati sono spiegati negli Allegati al presente regolamento. Questo vale anche per i sistemi di segnalazione con funzioni integrate di controllo della marcia dei treni.
+Per i sistemi non illustrati agli Allegati di questo regolamento, i GI disciplinano nelle loro prescrizioni d’esercizio le funzioni del sistema e i relativi effetti sull’ITF come pure le eventuali restrizioni d’esercizio in caso di perturbazione. 
+	
+
+
+2	Basi
+2.1	Scopo
+	
+	Il controllo della marcia dei treni funziona principalmente in background e funge da supporto per il MAC affinché non venga oltrepassato il punto finale del consenso per la corsa né superate le velocità massime ammesse. Il controllo della marcia dei treni assicura inoltre che il MAC tenga conto delle informazioni rilevanti per la sicurezza trasmesse dai segnali. 
+	
+2.2	Tipi di sorveglianza 
+	
+	Il controllo della marcia dei treni assicura la sorveglianza puntuale o continua in funzione del sistema utilizzato, con riferimento all’infrastruttura come pure alla densità e al tipo di traffico.
+	
+2.3	Controllo del funzionamento
+	
+	L’efficienza dell’equipaggiamento imbarcato sui veicoli motore e i veicoli di comando va controllata almeno una volta al giorno secondo le norme dell’ITF. Il risultato dei controlli va messo a protocollo.
+	
+2.4	Funzionamento
+	
+	Il controllo della marcia dei treni agisce sul sistema di frenatura e sull’apparecchio di guida dei corrispondenti veicoli. 
+Le informazioni dell’infrastruttura sono trasmesse per il tramite degli apparecchi della tratta (balise, magneti di binario, cavo radiante). L’informazione perviene al veicolo per mezzo di un ricevitore. 
+
+
+3	Funzione
+3.1	In generale
+	
+	Il controllo della marcia dei treni agisce mediante funzioni normalizzate sul veicolo che conduce il treno in modo diretto o indiretto. 
+	
+3.2	Dati necessari 
+	
+	Talune funzioni utilizzano curve di frenatura. Queste sono calcolate sulla scorta dei dati della tratta (funzione attiva, distanza, velocità finale, pendenza ecc.) e dei dati del veicolo (categoria di treno, rapporto di frenatura, lunghezza del treno ecc.). 
+I dati della tratta sono programmati in base alla funzione richiesta e possono essere di tipo fisso o variabile (secondo l’immagine del segnale, la posizione degli elementi di protezione ecc.). Il MAC rileva i dati del veicolo per mezzo di un’interfaccia utente. 
+	
+3.3	Descrizione delle funzioni 
+	
+	Di principio, si fa distinzione fra le seguenti funzioni:
+    • Arresto
+    • 	Fermata di manovra 
+    • Avvertimento
+    • Sorveglianza
+    • 	della velocità massima
+    • del treno 
+    • del regime d’esercizio
+    • della tratta
+    • del movimento di manovra
+    • 	della curva di frenatura
+    • 	della velocità finale 
+    • Impedimento della partenza
+    • Sorveglianza alla commutazione fra esercizio ad aderenza e cremagliera 
+
+3.3.1	Arresto
+	
+	Al ricevimento del corrispondente telegramma, la funzione «Arresto» attiva una frenatura imposta. Questa funzione è utilizzata ai segnali principali e a salvaguardia degli impianti di passaggio a livello. Si tratta di una sorveglianza puntuale. 
+La funzione «Fermata di manovra» costituisce una variante della funzione «Arresto». Essa attiva una frenatura imposta al ricevimento del corrispondente telegramma, a condizione che il veicolo si trovi in regime manovra. 
+	
+3.3.2	Avvertimento
+	
+	La funzione «Avvertimento» viene attivata al ricevimento del corrispondente telegramma o al raggiungimento di una curva di sorveglianza. Essa richiama l’attenzione del MAC a una riduzione di velocità, mediante un segnale ottico e/o acustico. Se il MAC non reagisce, la velocità del treno viene diminuita per mezzo di una frenatura imposta o di una frenatura di sistema, allo scopo di evitare il superamento del punto finale del consenso per la corsa o l’entrata troppo veloce in una sezione di binario sulla quale è prevista una velocità ridotta. In questo caso si tratta di una sorveglianza puntuale o continua. 
+	
+3.3.3	Sorveglianze
+	
+	Per la sorveglianza delle velocità, il sistema confronta fra loro i dati del treno e quelli della tratta percorsa.  
+Se viene oltrepassata la velocità massima ammessa vi è una frenatura imposta o una frenatura di sistema, preceduta dall’emissione di un segnale ottico e/o acustico. Alla mancata reazione del MAC a questo segnale viene attivata la corrispondente frenata. 
+–	Sorveglianza della velocità massima
+Si tratta, secondo il caso, della velocità massima ammessa del treno, della sezione di tratta, del regime d’esercizio o del movimento di manovra. 
+    • Sorveglianza della curva di frenatura
+In caso di velocità ridotta o di un segnale che mostra fermata, la curva di frenatura viene sorvegliata costantemente in base ai dati del treno e della tratta. 
+    • Sorveglianza della velocità finale 
+Una determinata velocità può essere sorvegliata senza riguardo a una curva di frenatura. 
+	
+
+3.3.4	Impedimento della partenza
+	
+	Con l’impedimento della partenza è possibile evitare che un treno in partenza raggiunga un punto pericoloso nonostante il segnale su posizione di fermata. Il controllo della marcia del treno avviene tramite un gruppo di balise o di un circuito anulare. In funzione del metodo adottato, il treno viene frenato già alla partenza o solo quando supera le balise. Può essere emesso un segnale ottico e/o acustico, che precede la frenatura imposta. 
+	
+3.3.5	Sorveglianza alla commutazione fra esercizio ad aderenza e cremagliera 
+	
+	Il sistema controlla se l’interruttore aderenza / cremagliera si trova nella posizione corretta. Se questo non viene messo nella posizione giusta entro un tempo predefinito, l’apparecchio del veicolo attiva una frenatura imposta. 
+
+
+4	Perturbazioni
+4.1	In generale
+	
+	In caso di anomalie al controllo della marcia dei treni, occorre procedere secondo le disposizioni per le «Perturbazioni ai dispositivi di sicurezza».
+	
+4.1.1	Guasto al sistema di controllo della marcia dei treni sul veicolo di testa
+	
+	Se un sistema di controllo della marcia dei treni è perturbato, è ammesso circolare senza restrizioni se le funzioni previste lato infrastruttura sono garantite da un altro sistema di controllo dei treni. 
+	
+		
+
+
+
+

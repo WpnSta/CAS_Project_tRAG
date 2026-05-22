@@ -1,0 +1,1600 @@
+﻿Schweizerische Eisenbahnen	R 300.4
+
+
+
+Rangierbewegungen 
+
+
+1	Vorbereitung und Abschluss 
+1.1	Dienstübergabe
+	
+	Bei Dienstende übergibt der RL den Dienst an seine Nachfolge mit den erforderlichen Informationen. Erfolgt keine direkte Übergabe, ist diese schriftlich zu vermitteln.
+	
+1.2	Leitung
+	
+	Jede Rangierbewegung wird von einem RL geleitet. 
+Die Funktion des RL wird in der Regel durch einen RA wahrgenommen. Nach Absprache kann die Leitung auch vom LF übernommen werden. Ist der LF alleine, übernimmt der LF generell die Funktion des RL.
+Der RL verständigt alle beteiligten RA und den LF über die auszuführenden Arbeiten und teilt die Aufgaben zu.
+Wechselt die Leitung der Rangierbewegung, haben sich die RL gegenseitig zu orientieren.
+	
+1.3	Bewegungsarten
+	
+	Es wird zwischen folgenden Rangierbewegungen unterschieden:
+–	Rangierfahrten direkt und indirekt geführt
+–	ablaufen lassen
+–	abstossen
+–	Rangierbewegungen mit Rangierseil oder Spill
+–	Rangierbewegungen mit Strassenfahrzeugen
+–	Rangierbewegungen von Hand oder mit mechanischen Hilfsmitteln
+	
+1.3.1	Direktes Führen der Rangierfahrten
+	
+	Rangierfahrten dürfen direkt geführt werden, wenn
+–	der LF dauernd eine freie Sicht auf den Fahrweg und die Signale hat und
+–	der LF die Bremsen bedient und
+–	der LF die Möglichkeit hat, Achtungssignale zu geben.
+Rangierfahrten werden nur von einer Stelle aus direkt geführt.
+Befindet sich der bediente Führerstand nicht an der Spitze der Rangierfahrt, sind die Bestimmungen über unbegleitetes Schieben anzuwenden.
+	
+
+1.3.2	Indirektes Führen der Rangierfahrten	
+		
+	Rangierfahrten werden indirekt geführt, wenn der LF keine freie Sicht auf den Fahrweg und die Signale hat.
+Der RL hat sich beim indirekten Führen so aufzustellen, dass der RL den Fahrweg überblicken und die Signale einwandfrei beobachten kann.	
+		
+1.4	Rangierseite
+	
+	Werden die Befehle nach den Signalvorschriften optisch und akustisch erteilt, hat der RL vor Beginn einer Rangierbewegung den LF zu orientieren, auf welcher Seite die Befehle erteilt werden. Die Rangierseite kann auch örtlich festgelegt werden.
+Bei Triebfahrzeugen mit zwei getrennten Führerständen muss die Rangierseite mit der Bedienseite im Führerstand übereinstimmen.
+	
+1.5	Rangiergrenze
+	
+	Rangierbewegungen im Bahnhof dürfen nur bis zu den Einfahrsignalen bzw. bis zu den Bahnhofendetafeln durchgeführt werden. Auf zweigleisiger Strecke ohne Einrichtung für Wechselbetrieb gilt diese Grenze für beide Gleise. Fehlen Einfahrsignale, darf nur bis zu den Sicherheitszeichen der Einfahrweichen rangiert werden. Sind bei fehlenden Einfahrsignalen Bahnhofanfang- und Bahnhofendetafeln aufgestellt, darf bis zum Standort der Bahnhofendetafel rangiert werden.
+	
+1.6	Kennzeichnung
+1.6.1	Triebfahrzeuge 
+	
+	Nach den Signalvorschriften sind zu kennzeichnen:
+–	als Rangierlok diejenigen Triebfahrzeuge, welche dauernd im Bahnhof eingesetzt sind
+–	als Zug bzw. als Rangierbewegung auf die Strecke diejenigen Triebfahrzeuge, welche unmittelbar vor oder nach ihrem Einsatz Rangierbewegungen im Bahnhof ausführen.
+	
+
+1.6.2	Fahrrichtung der Rangierbewegung
+	
+	Werden die Befehle nach den Signalvorschriften optisch und akustisch erteilt, ist zum Bestimmen der Fahrrichtung vorwärts oder rückwärts die Kennzeichnung am Triebfahrzeug massgebend. Bei Dampflokomotiven gilt als Vorwärtsrichtung in jedem Fall die Seite des Kamins.
+Innerhalb eines Bahnhofes ist für alle Rangierloks die gleiche Fahrrichtung vorwärts festzulegen.
+Die Kennzeichnung der Vorderseite der Rangierloks hat mit der im Führerstand bezeichneten Fahrrichtung vorwärts übereinzustimmen. Stimmt dies mit der festgelegten Fahrrichtung vorwärts des Bahnhofes nicht überein, ist das Triebfahrzeug nach Möglichkeit abzudrehen. Wird von dieser Regel abgewichen, haben sich RL und LF zu verständigen.
+Sind mehrere bediente Triebfahrzeuge an einer Rangierbewegung beteiligt, ist für alle die gleiche Fahrrichtung vorwärts festzulegen. Ist dies nicht möglich, ist die Kennzeichnung des Spitzentriebfahrzeuges massgebend.
+	
+1.6.3	Fahrzeuge, an die nicht oder nur vorsichtig angefahren 
+werden darf
+	
+	Fahrzeuge, an denen Reparaturarbeiten durchgeführt werden oder die an Abfüll- oder Warenumschlaganlagen angeschlossen sind, sind nach den Signalvorschriften zu kennzeichnen.
+Das Signal ist vor Beginn der Arbeit am Fahrzeug selbst anzubringen. In Perrongleisen ist das Signal auf der Einstiegseite, in den übrigen Gleisen auf der Rangierseite und nötigenfalls an beiden Enden der Komposition anzubringen.
+Fahrzeuge, die mit ortsfesten Anlagen oder mit unbesetzten Triebfahrzeugen vorgeheizt werden oder zu anderen Zwecken über Kabel mit ortsfesten Anlagen verbunden sind, sind nach den Signalvorschriften zu kennzeichnen.
+Die Vorheiztafeln sind vor dem Kuppeln der Zugsammelschiene an den Enden, an die angefahren werden kann, bei Pendelzügen an beiden Enden, aufzustecken. In Perrongleisen ist die Vorheiztafel auf der Einstiegseite, in den übrigen Gleisen auf der Rangierseite aufzustecken.
+Werden Pendelzüge, auch mit Zusatzwagen, über das Triebfahrzeug vorgeheizt, entfällt die Kennzeichnung mit der Vorheiztafel.
+	
+
+1.6.4	Mit Hemmschuhen gesicherte Fahrzeuge
+	
+	Fahrzeuge, die mit Hemmschuhen gegen Entlaufen gesichert sind, sind nach den Signalvorschriften zu kennzeichnen.
+	
+1.7	Sichern und Kuppeln der Fahrzeuge
+1.7.1	Allgemeines
+	
+	Abgestellte Fahrzeuge sind gegen Entlaufen zu sichern. Grundsätzlich sind von der Luftbremse unabhängige Bremsmittel zu benützen.
+Dabei ist gleich vorzugehen wie beim «Sichern stillstehender Züge».
+	
+1.7.2	Sichern von Fahrzeugen
+	
+	Die folgenden Mittel dürfen zur Sicherung abgestellter Fahrzeuge verwendet werden:
+–	Hemmschuhe
+–	Feststellbremse
+Abgestellte Fahrzeuge im oder unmittelbar gegen ein Gefälle von mehr als 20 ‰ sind in jedem Fall zusätzlich zur erforderlichen Mindestfesthaltekraft mit einem Hemmschuh zu sichern.
+Die Luftbremse darf zum Sichern abgestellter Fahrzeuge nur verwendet werden, wenn innerhalb der nächsten halben Stunde wieder an diese Fahrzeuge angefahren wird und wenn sich die Fahrzeuge nicht im oder unmittelbar vor einem Gefälle von mehr als 2 ‰ befinden. Dabei sind die Fahrzeuge voll zu bremsen.
+Ein einzelnes abgestelltes Fahrzeug ist immer sofort mit von der Luftbremse unabhängigen Mitteln zu sichern.
+Für das Sichern in Wannengleisen sowie in Gefällen gegen den Prellbock, bei daran anliegenden Fahrzeugen, können die ISB abweichende Betriebsvorschriften erlassen.
+Werden Triebfahrzeuge oder Fahrzeuge der Unterhaltsdienste mit Hemmschuhen gesichert, sind diese so zu legen, dass sie nicht durch Schienenräumer, Sandrohre, Messradsätze usw. weggeschoben werden können.
+	
+
+1.7.3	Sichern von Zügen
+	
+	Der RA, welcher das Triebfahrzeug kuppelt oder entkuppelt, ist verantwortlich für 
+–	das Entfernen der zum Sichern verwendeten Hemmschuhe oder das Lösen der Feststellbremsen bei einem abgehenden Zug
+–	das Sichern gegen Entlaufen bei einem ankommenden Zug.
+	
+1.7.4	Kuppeln von Fahrzeugen
+	
+	Zum Kuppeln darf der RA grundsätzlich erst zwischen die Fahrzeuge treten, wenn diese stillstehen und sich die Puffer bzw. Kupplungen gegenseitig berühren. Während einem Sicherheitshalt mit einem Abstand von 5 bis 10 Meter zwischen den Fahrzeugen darf in aufrechter Haltung zwischen die stillstehenden Fahrzeuge getreten werden. Anschliessend wird mit dem Befehl Bewegen vorsichtig an die Fahrzeuge angefahren. Bei kleinerem Abstand hat sich der RA bei stillstehenden Fahrzeugen gebückt unter dem Puffer hindurch zwischen die Fahrzeuge zu begeben.
+Muss leicht bewegt werden, hat sich der RA so aufzustellen, dass der RA der Bewegung folgen kann.
+Zwischen Fahrzeuge mit eingeschränktem Sicherheitsraum zwischen Puffern bzw. Kupplungen darf in jedem Fall erst getreten werden, wenn sie stillstehen und sich die Puffer bzw. Kupplungen gegenseitig berühren. Zu beachten ist dies insbesondere bei
+–	Reisezugwagen
+–	Niederflurgüterwagen
+–	Fahrzeugen mit abgeklappten Stirnwänden oder Übergangsbrücken
+–	beladenen Wagen ohne Stirnwände oder Stirnrungen
+–	Fahrzeugen mit automatischen Kupplungen
+–	Fahrzeugen mit Mittelpufferkupplung
+–	Fahrzeugen mit beschädigten Puffern oder Kupplungen
+–	Triebfahrzeugen und Steuerwagen mit vorgeneigtem Führerstand.
+Liegt die Kuppelstelle auf einer Weiche oder in einem engen Gleisbogen, darf erst zwischen die Fahrzeuge getreten werden, wenn die Fahrzeuge stillstehen und sich die Puffer bzw. Kupplungen gegenseitig berühren.
+In Alleinarbeit mit Funkfernsteuerung darf erst zwischen die Fahrzeuge getreten werden, wenn diese stillstehen und die Puffer bzw. Kupplungen sich gegenseitig berühren.
+	
+
+1.7.5	Kuppeln und Entkuppeln während der Fahrt
+	
+	Das Kuppeln von Fahrzeugen während der Fahrt ist verboten.
+Das Entkuppeln von Fahrzeugen während der Fahrt ist zulässig, sofern die Kupplung mit Geräten ausgehängt werden kann und dabei nicht auf Puffer, Zughaken oder andere Kupplungseinrichtungen gestanden werden muss.
+	
+
+1.8	Luftbremse
+1.8.1	Anwendung der Luftbremse
+	
+	Rangierfahrten müssen mit der Luftbremse gebremst werden können. Dabei müssen auf Neigungen bis 10 ‰ mindestens die Hälfte der Fahrzeuge und auf Neigungen über 10 ‰ alle Fahrzeuge der Rangierfahrt mit der Luft gebremst werden.
+Ist keine automatische Luftbremse vorhanden oder deren Anwendung auf Grund spezieller Betriebsabläufe nicht zweckmässig, beträgt die Höchst­geschwindigkeit 10 km/h. Dabei darf das Gewicht der ungebremsten Anhängelast gegen und in Neigungen von
+	–	0 – 15 ‰
+    • 16 – 30 ‰
+    • 31 – 50 ‰	höchstens das 5fache
+höchstens das 2fache
+höchstens das 1fache	
+	des Gewichts des Triebfahrzeuges betragen. Für Schienen-/Strassen-Fahrzeuge bei Kraftübertragung über gummibereifte Räder können die EVU in den Betriebsvorschriften höhere Werte festlegen.
+Auf Neigungen über 30 ‰ muss das talseitig letzte Fahrzeug mit der Luft gebremst werden.
+Auf Neigungen über 50 ‰ muss das ganze Gewicht der Rangierfahrt mit der Luft gebremst werden.
+Kann mit der Luftbremse nicht genügend Bremswirkung erzielt werden, sind zusätzlich Handbremsen zu bedienen.
+In Ablaufanlagen gelten die Vorschriften über den Verzicht auf die Luft­bremse in Ablaufanlagen.
+Für Triebzüge gelten die entsprechenden Betriebsvorschriften des EVU.	
+		
+1.8.2	Bremsprobe	
+		
+	Wenn die Anhängelast grösser ist als das 5fache des Gewichts des Triebfahrzeugs, ist am letzten luftgebremsten Wagen eine Bremsprobe durchzuführen. Die Meldung über die erfolgreiche Bremsprobe lautet: «Rangierbremsprobe gut».	
+		
+1.8.3	Benützung der Notbremse	
+		
+	Der RA hat sich beim Besteigen eines Fahrzeuges zu vergewissern, wo sich der Notbremshahn befindet. 
+Kupplungs- oder Notbremshahn dürfen nur bei Gefahr zum Anhalten be­nutzt werden.	
+
+
+1.8.4	Entleeren der Bremsapparate
+	
+	Bevor die Wagen zum Ablaufen gebracht oder abgestossen werden, sind  in Ablaufanlagen oder in Rangierbahnhöfen mit umfangreichem Stossmanöver die Bremsapparate der Wagen soweit zu entleeren, dass die Luftbremse gelöst ist.
+Die zum Entleeren der Bremsapparate vorhandenen Auslösevorrichtungen dürfen nicht blockiert werden.
+	
+1.9	Handbremse 
+1.9.1	Allgemeines 
+	
+	Bei Rangierbewegungen, die nicht oder nicht genügend mit der Luftbremse gebremst werden können, sind Handbremsen zu bedienen. Die Anzahl Handbremsen richtet sich nach dem Gewicht der Wagen, der Wirkung der Handbremse, der Geschwindigkeit, der Neigung des Gleises, dem Schienenzustand und den örtlichen Verhältnissen. Unter Berücksichtigung der Fahrwegbeobachtung sind nach Möglichkeit die Handbremsen der schwersten Wagen zu bedienen.
+	
+1.9.2	Prüfen der Handbremse beim Ablauf und beim Stoss
+	
+	Müssen beim Ablaufenlassen oder Abstossen von Wagen Handbremsen bedient werden, hat der RA deren Wirksamkeit zu prüfen.
+Die Wirksamkeitsprobe ist während der dem Ablaufenlassen oder dem Abstossen vorangehenden Rangierbewegung vorzunehmen. Ist dies nicht möglich, sind die Wagen zur Probe der Handbremse zu bewegen oder es ist vom Boden aus zu prüfen, ob die Bremseinrichtungen fest anliegen.
+Die erfolgreiche Wirksamkeitsprobe der Bremse ist dem RL mit der Meldung «Bremse gut» zu melden. Diese Meldung gilt gleichzeitig als Bestätigung, dass der Ablauf oder der Stoss besetzt ist.
+	
+
+1.10	Aufhalten mit Hemmschuhen
+1.10.1	Allgemeines
+	
+	Wagen, die ohne bediente Handbremse ablaufen oder abgestossen werden, müssen mit Hemmschuhen aufgehalten werden.
+Mit Hemmschuhen dürfen Wagen oder Wagengruppen von höchstens 40 Meter Länge aufgehalten werden, wobei leichte Wagen nicht vor schweren Wagen laufen dürfen. Allenfalls sind die leichten Wagen für sich ablaufen zu lassen oder abzustossen. Als leichte Wagen gelten solche mit einer Achslast von weniger als 12 t.
+Für jedes Schienenprofil ist der richtige Hemmschuhtyp zu verwenden.
+Vor Weichenzungen, Herzstücken, Kreuzungen und einbetonierten Schienen dürfen nur Federhemmschuhe verwendet werden.
+Zum Aufhalten von Triebfahrzeugen dürfen Hemmschuhe nicht verwendet werden.
+	
+1.10.2	Hemmschuhkontrolle
+	
+	Hemmschuhe bzw. die entsprechenden Gleise sind angemessen zu schmieren. Der Hemmschuhleger hat den Hemmschuh vor dem Gebrauch auf Schmierung und allgemeinen Zustand zu kontrollieren.
+Hat ein Hemmschuh aus unbekannten Gründen versagt, darf er erst wieder benützt werden, wenn er und das betreffende Gleisstück untersucht und als in Ordnung befunden wurden.
+	
+1.10.3	Bremsweg
+	
+	Die Hemmschuhe sind unter Berücksichtigung des Bremsweges so weit vor den im Gleis stehenden Fahrzeugen oder Hindernissen zu legen, dass anrollende Wagen ohne anzuprallen sicher zum Stillstand kommen.
+Für die Bemessung des Bremsweges ist folgendes zu beachten:
+–	das Gewicht der anrollenden Wagen
+–	das Verhältnis der Last der auf den Hemmschuh auflaufenden Achse zum Gesamtgewicht der anrollenden Fahrzeuge
+–	die Geschwindigkeit der Wagen
+–	die Windrichtung und die Windstärke
+–	der Schienenzustand
+–	die Neigung des Gleises
+–	die Bremswirkung der Hemmschuhe
+–	Anzahl der Hemmschuhe. 
+	
+
+1.10.4	Auflegen	
+		
+	In Kurven ist der Hemmschuh auf den inneren Schienenstrang zu legen.
+Müssen 2 Hemmschuhe verwendet werden, sind diese auf gleicher Höhe zu legen. 2 Hemmschuhe sind insbesondere zu legen, wenn Gefahr besteht, dass ein einzelner ausgeworfen wird oder Bandagen verschliffen werden.
+Achtung: beim Anhalten von Fahrzeugen mit 2 Hemmschuhen ist der Bremsweg länger als nur mit 1 Hemmschuh.	
+		
+1.10.5	Entfernen der Hemmschuhe	
+		
+	Beim Überschreiten der Gleise gelten grundsätzlich die gleichen Sicherheitsabstände wie zum Kuppeln und Entkuppeln von Fahrzeugen. Solange ein stillstehendes Fahrzeug mit mindestens 1 Hemmschuh gesichert ist, darf der Hemmschuhleger jedoch das Gleis queren, ohne den Mindestabstand von 5 Metern einzuhalten.	
+		
+1.11	Spezialfälle
+1.11.1	Probefahrten und Schneeräumungsfahrten
+
+	Für Probefahrten und Schneeräumungsfahrten sind die Bestimmungen für Probefahrten und Schneeräumungsfahrten bei Zugfahrten sinngemäss anzuwenden.
+	
+1.11.2	Aussergewöhnliche Sendungen
+
+	Die ISB und die EVU regeln die Behandlung aussergewöhnlicher Sendungen in den Betriebsvorschriften.
+	
+1.11.3	Nicht freizügig einsetzbare Wagen
+
+	Die ISB und die EVU regeln die Behandlung nicht freizügig einsetzbarer Wagen in den Betriebsvorschriften.
+
+1.12	Bremssysteme von Zahnradfahrzeugen
+
+	Zusätzlich notwendige Vorgaben für das Bremsen von Rangierfahrten sind durch die EVU unter Berücksichtigung der Einsatzbedingungen aus den Fahrzeugzulassungen festzulegen. Die vorgegebenen Bremsmittel sind vor Beginn der Rangierfahrt zu prüfen.
+
+
+2	Ausführung
+2.1	Grundsatz
+	
+	Zustimmungen und Befehle sind klar und deutlich zu erteilen. Jede Meldung und jeder Befehl ist vom Empfänger zu quittieren.
+Bei unklaren Zustimmungen darf der RL keinen Fahrbefehl erteilen. Bei unklaren Befehlen darf der LF das Triebfahrzeug nicht in Bewegung setzen bzw. die fahrende Rangierbewegung ist anzuhalten. Es ist die Wiederholung der Zustimmung oder des Befehles zu verlangen.
+Beim Aufenthalt und Arbeiten zwischen Gleisen oder zwischen einem Gleis und einem festen Hindernis muss ein Sicherheits-Zwischenraum vorhanden sein. Andernfalls ist nach den Bestimmungen «Fehlender Sicherheits-Zwischenraum» vorzugehen. Bei Arbeitsstellen ist nach den Bestimmungen über «Arbeiten im Gleisbereich» vorzugehen.
+	
+2.2	Verlangen des Fahrwegs
+2.2.1	Grundsatz
+	
+	In Anlagen mit zentralisierten Weichen verlangt der RL den Fahrweg beim FDL.
+Vor dem Verlangen des Fahrwegs prüft der RL, ob
+–	sich keine Signale für Kennzeichnung von Fahrzeugen, an die nicht angefahren werden darf, Vorheiz- oder Hemmschuhwarn-tafel an den Fahrzeugen befinden
+–	die Ladearbeiten eingestellt, die Ladehilfen entfernt und die Ladung von Wagen, die sich im Be- oder Entlad befinden, entsprechend gesichert ist
+–	die Türen, Schiebewände, Schiebedächer, Entleerungsklappen usw. soweit vorgeschrieben geschlossen oder verriegelt sind und keine Teile der Fahrzeuge oder der Ladung die zulässigen Abmessungen überragen. 
+–	alle Fahrzeuge ordnungsgemäss gekuppelt sind.
+Ein Fahrweg ist unmittelbar vor der Ausführung und bis zum Zielgleis der Rangierbewegung zu verlangen. Das Zielgleis einer Rangierbewegung ist das verlangte Gleis, in welchem
+–	eine Tätigkeit auszuführen ist (z.B. Fahrzeuge abstellen oder holen) oder
+–	aus betrieblichen Gründen die Weiterfahrt abgewartet wird oder 
+–	die Fahrrichtung ändert.
+
+2.2.2	Verlangen
+	
+	Der Text zum Verlangen eines Fahrwegs lautet: «von (Gleis) ... nach (Gleis) ...».
+Über besetzte Gleise ist der Fahrweg zuerst nach dem besetzten Gleis und anschliessend vom besetzten Gleis ins Zielgleis zu verlangen.
+Der RL hat den FDL zu verständigen, wenn
+–	ein Ablauf
+–	ein Stoss
+–	unbegleitetes Schieben
+–	eine Rangierbewegung mit besonderen Fahrzeugen
+ausgeführt werden soll.
+Das Verlangen eines Fahrwegs für Fahrzeuge, welche das Profil in einzelnen Gleisen oder auf dem ganzen Netz überschreiten, regelt die ISB in ihren Betriebsvorschriften.
+	
+2.2.3	Einstellen des Fahrwegs ohne Verlangen
+	
+	Der FDL darf für direkt geführte Rangierfahrten den Fahrweg ohne vorgängiges Verlangen einstellen, sofern Start- und Zielgleis bekannt sind.
+	
+
+2.2.4	Besondere Fahrzeuge
+	
+	Beim Eingleisen und Verkehren von besonderen Fahrzeugen wie Kleinwagen, gummibereifte oder leichte Fahrzeuge, bei welchen die GFM nicht einwandfrei funktionieren, ist wie folgt vorzugehen:
+–	Der RL meldet dem FDL besondere Fahrzeuge beim Verlangen des Fahrwegs
+–	besondere Fahrzeuge dürfen nur mit Bewilligung des FDL eingegleist werden
+–	der FDL trifft vor dem Erteilen der Zustimmung Massnahmen, um das Umstellen von Weichen unter der Rangierbewegung zu verhindern
+–	der RL meldet dem FDL die Ankunft der besonderen Fahrzeuge im Zielgleis
+–	solange sich besondere Fahrzeuge in einem Gleis mit GFM befinden, ist dies durch den FDL am Stellwerk zu sichern.
+Das Ausgleisen besonderer Fahrzeuge ist dem FDL zu melden.
+	
+2.3	Einstellen des Fahrweges
+2.3.1	Betriebliche Voraussetzungen
+	
+	Vor dem Einstellen des Fahrweges hat der FDL sicher zu stellen, dass keine Zugfahrstrassen oder andere Rangierbewegungen gefährdet werden. Schutzweichen und Entgleisungsvorrichtungen genügen als Sicherheitsmassnahme. 
+	
+
+2.3.2	Rangierbewegung gegen Zugfahrstrasse
+	
+	Als Rangierbewegung gegen eine eingestellte Zugfahrstrasse gelten alle Rangierbewegungen, die infolge einer zu späten Bremsung die Zugfahrt durch eine Flankenfahrt gefährden könnten.
+Rangierfahrten gegen eingestellte Zugfahrstrassen sind nur erlaubt, wenn folgende Bedingungen erfüllt sind:
+–	beim Fahren gegen bzw. Anfahren an gebremste Fahrzeuge, die sich vor der eingestellten Zugfahrstrasse befinden oder
+–	wenn in Anlagen mit Zwergsignalen das Zielgleis der Rangierfahrt vor der eingestellten Zugfahrstrasse liegt sowie 1 Zwergsignal Halt zeigt und
+–	der Fahrweg vom RL verlangt wird und kein unbegleitetes Schieben ausgeführt wird oder
+–	sofern die Bedingungen für das Einstellen des Fahrweges ohne Verlangen erfüllt sind, zum direkten Aufstellen von Zügen an das Perron des Zielgleises.
+Alle übrigen Rangierbewegungen gegen eingestellte Zugfahrstrassen sind verboten.
+	
+2.3.3	Ziffer entfällt.
+	
+	
+2.3.4	Ziffer entfällt.	
+		
+		
+2.3.5	Anlagen mit Zwergsignalen 	
+		
+	Der FDL hat den Startpunkt so zu wählen, dass alle zu be­fahrenden Weichen verschlossen werden und die Zwergsignale im Bereich der zu verschiebenden Fahrzeuge Fahrt oder Fahrt mit Vorsicht zeigen. Über Gleise, die bereits durch Fahrzeuge besetzt sind, muss die Rangierfahrstrasse so eingestellt werden, dass das letzte Zwergsignal vor dem Hindernis Fahrt mit Vorsicht zeigt.	
+		
+2.3.6	Anlagen mit zentralisierten Weichen ohne Zwergsignale	
+		
+	Der FDL hat den Rangierfahrweg vom Ziel her einzustellen. Der FDL hat sicherzustellen, dass die Gleise mit Ausnahme des Zielgleises frei sind. Weichen dürfen nur umgestellt werden, wenn sie und die dazugehörigen Sperrschuhe, Entgleisungsvorrichtungen und Schutzweichen frei sind. Es dürfen sich keine Fahrzeuge gegen diese Weichen bewegen und deren GFM müssen den freien Zustand anzeigen.	
+		
+
+2.3.7	Speichern von Fahrstrassen
+	
+	Das Speichern von Fahrstrassen ist in den folgenden Fällen verboten:
+–	für die Folgefahrt nach einem Stoss
+–	wenn die zu speichernde Fahrstrasse den Fahrweg besonderer Fahrzeuge berührt.
+	
+2.4	Zustimmung zur Rangierbewegung
+2.4.1	Grundsatz
+	
+	Der FDL hat für jede Rangierbewegung eine Zustimmung zu erteilen. Die Zustimmung richtet sich an den RL.
+Die Zustimmung gilt höchstens bis zum Halt im Zielgleis. Wenn im Zielgleis an weitere Fahrzeuge angefahren werden muss, ist keine neue Zustimmung erforderlich.
+Zum Abstossen, Ablaufen und beim unbegleiteten Schieben darf die Zustimmung nur erteilt werden, wenn der Fahrweg bis zum verlangten Zielgleis eingestellt ist.
+Kann der RL nicht eindeutig feststellen, ob es sich um Anlagen mit zentralisierten oder nicht zentralisierten Weichen handelt, hat der RL mit dem FDL Kontakt aufzunehmen.
+	
+2.4.2	Massnahmen vor der Zustimmung
+	
+	Vor dem Erteilen der Zustimmung prüft der FDL, ob
+–	die überwachten Bahnübergangsanlagen eingeschaltet sind
+–	die Weichen richtig stehen und die Endlage erreicht haben sowie Entgleisungsvorrichtungen und Sperrschuhe abgelegt sind
+–	die Signale im Fahrweg die Rangierbewegung erlauben
+–	der RL über Langsamfahrstellen sowie ausgeschaltete bzw. geerdete Gleisabschnitte im Fahrweg verständigt ist. Sind die ausgeschalteten bzw. geerdeten Abschnitte mit einem ortsfesten oder drehbaren Senksignal signalisiert, gilt der RL als verständigt
+–	der RL über die im Bereich einer Arbeitsstelle zu beachtenden betrieblichen Einschränkungen verständigt ist.
+	
+
+2.4.3	Verständigung vor der Zustimmung	
+		
+	Stellt der FDL den Fahrweg in ein anderes als das verlangte Zielgleis, hat der FDL den RL vor dem Erteilen der Zustimmung zu verständigen.
+Kann die Zustimmung nicht bis zum vorgängig durch den RL verlangten Zielgleis erteilt werden, ist dieser zu verständigen, sofern keine ortsfesten Signale Halt zeigen. 	
+	
+2.4.4	Anlagen mit Zwergsignalen
+	
+	Die Zustimmung wird am Zwergsignal erteilt. 
+Liegen zwischen den zu verschiebenden Fahrzeugen und dem nächsten Zwergsignal unbelegte Weichen oder Gleisdurchschneidungen, darf der RL den Fahrbefehl nur erteilen, wenn auch das rückliegende Zwergsignal Fahrt oder Fahrt mit Vorsicht zeigt. Kann dieses nicht erkannt werden oder leuchtet dessen Rücklicht nicht, hat der RL die Zustimmung des FDL einzuholen.
+	
+2.4.5	Anlagen mit zentralisierten Weichen ohne Zwergsignale
+	
+	Die Zustimmung wird am Rangierhaltsignal mit dem Begriff Zustimmung zur Rangierbewegung erteilt. Ist kein Rangierhaltsignal vorhanden, wird die Zustimmung mündlich oder durch Winken erteilt.
+Fällt ein Zustimmung zur Rangierbewegung zeigendes Rangierhaltsignal vorzeitig auf Halt zurück, darf die Rangierbewegung fortgesetzt werden, sofern mindestens eine Achse der Bewegung am betreffenden Signal vorbei gefahren ist.
+	
+
+2.4.6	Anlagen mit nicht zentralisierten Weichen
+	
+	Sind Nebengleise betroffen übernimmt in nicht zentralisierten Bereichen der RL gleichzeitig die Aufgaben des FDL.
+Zum Befahren von Hauptgleisen ist zusätzlich eine Erlaubnis des FDL erforderlich.
+Weichen, Sperrschuhe und Entgleisungsvorrichtungen dürfen nur bedient werden, wenn sie frei sind und wenn sie vor allenfalls heranrollenden Fahrzeugen sicher in die gewünschte Lage umgestellt werden können. Nach dem Umstellen einer Handweiche ist zu prüfen, ob die Weichen-zunge gut an die Stockschiene anschliesst.
+Beim Befahren einer auffahrbaren Weiche muss immer so weit gefahren werden, dass alle Fahrzeuge die Weiche vollständig freigelegt haben. Vor der Rückfahrt muss kontrolliert werden, ob nach dem hydraulisch verzögerten Stellvorgang die Weichenzungen die Endlage erreicht haben.
+Für Rangierbewegungen vom zentralisierten in den nicht zentralisierten Bereich oder umgekehrt ist die Zustimmung des FDL erforderlich. Die Zustimmung gilt bis zum bzw. ab dem Übergangspunkt.
+In nicht zentralisierten Bereichen ist jederzeit mit anderen Rangier-bewegungen zu rechnen. Die RL haben sich gegenseitig über die auszuführenden Rangierbewegungen zu verständigen.
+	
+2.4.7	Rangierhaltsignal
+	
+	Befinden sich mehrere Rangierbewegungen vor einem Rangierhaltsignal, gilt die Zustimmung nur für die Erste.
+Ist an einem Rangierhaltsignal vorbeizufahren, das keine Zustimmung zur Rangierbewegung zeigen kann, hat der FDL den Fahrweg zu sichern und so weit als möglich zu verschliessen. Der FDL erteilt dem RL quittungspflichtig den Befehl, am Rangierhaltsignal vorbei zu fahren. Der Befehl ist für jede Fahrt einzeln zu erteilen.
+	
+
+2.5	Befehle zur Rangierbewegung
+2.5.1	Überprüfung vor dem Fahrbefehl
+	
+	Vor dem Erteilen des Fahrbefehls prüft der RL, soweit der RL dies erkennen kann, ob
+–	Personen, die gefährdet werden könnten, rechtzeitig gewarnt sind
+–	die Bremsen gelöst und allfällige Bremsmittel entfernt sind
+–	der LF über die Nichtanwendung der automatischen Luftbremse verständigt ist
+–	der LF über Langsamfahrstellen sowie ausgeschaltete bzw. geerdete Gleisabschnitte im Fahrweg verständigt ist
+–	der LF über die im Bereich einer Arbeitsstelle zu beachtenden besonderen Massnahmen und allenfalls über die Aufhebung der Fahrt auf Sicht verständigt ist
+–	die überwachten Bahnübergangsanlagen der zu befahrenden Bahnübergänge eingeschaltet sind
+–	bei den durch die ISB bezeichneten Bahnübergängen ohne strassenseitige Signalisierung der Strassenverkehr durch Personal geregelt wird
+–	die Signale die richtigen Begriffe zeigen
+–	die Weichen richtig stehen und, sofern überprüfbar, die Endlage erreicht haben sowie Entgleisungsvorrichtungen und Sperrschuhe abgelegt sind. 
+Kann eine Rangierbewegung nicht unmittelbar ausgeführt werden, ist der FDL zu verständigen. Nötigenfalls hat der RL den Fahrweg neu zu verlangen.
+	
+
+2.5.2	Erteilen der Befehle
+	
+	Der RL hat dem LF die Befehle für jede Rangierbewegung einzeln wie folgt zu erteilen:
+–	mündlich oder fernmündlich mit Text: «Lok / R ...» bzw.
+–	optisch und akustisch nach den Signalvorschriften
+	Die Texte der Befehle lauten wie folgt:		
+			
+	deutsch	französisch	italienisch	
+				
+	abgehängt	coupé	sganciato	
+				
+	vorwärts	en avant	avanti	
+				
+	rückwärts	en arrière	indietro	
+				
+	anfahren
+(vorwärts / rückwärts)	garer
+(en avant / en arrière)	accostare
+(avanti / indietro)	
+				
+		wagenlang
+	halbe
+	vier
+	zwo (statt zwei)
+	einen		un wagon
+	demi
+	quatre mètres
+	deux mètres
+	un mètre		un vagone
+	mezzo
+	quattro
+	due
+	uno	
+				
+	anhalten	arrêter	fermare	
+				
+	Stoss	lancer (tampon)	colpo 	
+				
+	langsamer	ralentir	rallentare	
+				
+	bewegen	appuyer	appoggiare	
+				
+	schieben
+	(Fahrbefehl für 
+langsames Schieben)	pousser
+	(ordre de pousser 
+lentement)	spingere lentamente
+	(ordine di manovra 
+per spinte lente)	
+				
+	schneller schieben	pousser plus fort	spingere più in fretta 	
+				
+	langsamer schieben	pousser plus lentement	spingere più adagio	
+				
+	zurückziehen	retirer	retrocedere	
+				
+				
+2.5.3	Entfernungsangaben	
+		
+	Beim Anfahren an stillstehende Fahrzeuge oder wenn an einer bestimmten Stelle angehalten werden muss, hat der RL dem LF Entfernungsangaben anzugeben. Die Entfernungsangaben sind entsprechend der Fahrgeschwindigkeit, dem Gewicht der Rangierfahrt, der Wirkung der Bremsen, den örtlichen Verhältnissen, dem Zustand und der Neigung des Gleises zu bemessen.
+Bei direkt geführter Rangierfahrt können die Entfernungsangaben und der Befehl anhalten entfallen.	
+
+	
+2.5.4	Quittieren und Ausführen der Befehle
+	
+	Der LF hat die Befehle zu quittieren und unmittelbar danach auszuführen.
+Die Entfernungsangaben sind durch entsprechende Verminderung der Geschwindigkeit zu bestätigen. Die erste Entfernungsangabe ist nach der Geschwindigkeitsreduktion zu quittieren. Wird die erste Entfernungsangabe zusammen mit dem Fahrbefehl gegeben, gilt mit der entsprechenden Quittung die erste Entfernungsangabe auch als quittiert.
+Wird die Geschwindigkeit nach einer Entfernungsangabe nicht entsprechend vermindert, sind Haltsignale zu geben.
+Der Haltebefehl ist sofort zu befolgen und nicht zu quittieren.
+Befehle, welche nach den Signalvorschriften optisch und akustisch erteilt werden, sind nicht zu quittieren.
+	
+2.5.5	Weiterfahrt nach Halt vor Signal
+	
+	Bei direkt geführter Rangierfahrt kann der RL mit dem LF vereinbaren, dass der LF nach einem Halt vor einem ortsfesten Signal für Rangierbewegungen von sich aus weiterfährt, wenn am betreffenden Signal die Zustimmung erteilt wird.
+	
+2.5.6	Wegbewegen nach Abhängen des Triebfahrzeugs
+	
+	Der RA meldet dem LF das Abhängen des Triebfahrzeugs mit dem Zuruf: «abgehängt». Danach hat der LF das Triebfahrzeug so weit vom Zug wegzubewegen, dass der RA ohne Gefahr zwischen den Fahrzeugen heraustreten kann.
+	
+
+2.6	Beobachten des Fahrweges
+2.6.1	Grundsatz
+	
+	Das Beobachten des Fahrweges während der Fahrt obliegt dem RL. Der RL hat den Standort so zu wählen, dass der RL den Fahrweg überblicken und die Signale einwandfrei beobachten kann.
+Damit der RL die unbeleuchteten, reflektierenden Signale einwandfrei beobachten kann, muss bei Nacht, in Tunnels oder bei schlechten Sichtverhältnissen die Spitze der Rangierbewegung über eine ausreichende Beleuchtung verfügen, wie z.B.:
+–	Stirnbeleuchtung des Triebfahrzeuges
+–	Beleuchtung für RL (z.B. Handlampe oder Stirn- / Helmlampe)
+Nach einem Fahrt mit Vorsicht zeigenden Zwergsignal oder in Anlagen ohne Zwergsignale muss vor einem Schienenfahrzeug angehalten werden können.
+	
+2.6.2	Direkt geführte Rangierfahrt
+	
+	Bei direkt geführter Rangierfahrt ist der LF für die Beobachtung des Fahrweges verantwortlich. Die auf dem Triebfahrzeug mitfahrenden RA unterstützen den LF bei der Beobachtung, soweit sie den Fahrweg überblicken können.
+	
+2.6.3	Sichtverbindung 
+	
+	Verliert der LF bei einer indirekt geführten Rangierfahrt, die nach den Signalvorschriften mit optischen und akustischen Befehlen geleitet wird, die Sichtverbindung zum RL, hat der LF unverzüglich auf Schrittgeschwindigkeit zu reduzieren. Nötigenfalls ist anzuhalten.
+	
+2.6.4	Streckentrennung und Gleistrenner
+	
+	Streckentrennung und Gleistrenner dürfen mit gehobenen Stromabnehmern befahren werden, wenn die Fahrleitung beidseitig eingeschaltet ist.
+	
+
+2.7	Strassenbahnbereich und Bahnübergänge ohne strassenseitige Signalisierung
+2.7.1	Rangierbewegungen im Strassenbahnbereich
+	
+	Im Strassenbahnbereich ist mit Fahrt auf Sicht zu fahren, wobei die zulässige Höchstgeschwindigkeit durch die ISB mit Rücksicht auf die Fahrzeuge und auf die örtlichen Verhältnisse festgelegt wird.
+Im Strassenbahnbereich gelten ausserdem die Vorschriften der Strassenverkehrsgesetzgebung.
+Der Strassenverkehr ist bei Bedarf durch Mitarbeitende zu regeln.
+	
+2.7.2	Bahnübergänge ohne strassenseitige Signalisierung
+	
+	Die ISB bezeichnet in den Betriebsvorschriften die Bahnübergänge, an denen der Strassenverkehr durch Mitarbeitende geregelt werden muss.
+	
+2.7.3	Verkehrsregelung durch Mitarbeitende
+	
+	Der Strassenverkehr wird durch Mitarbeitende mit roter Flagge oder mit rotem Licht geregelt.
+	
+
+2.8	Anhalten der Rangierbewegung
+2.8.1	Spätester Halteort
+	
+	Eine Rangierbewegung hat spätestens anzuhalten
+–	vor einem für Rangierbewegungen gültigen und Halt zeigenden Signal
+–	im Zielgleis gemäss mündlicher oder fernmündlicher Zustimmung
+–	vor dem Sicherheitszeichen einer von der Wurzel aus befahrenen und falsch stehenden Weiche
+–	vor der Rangiergrenze.
+	
+2.8.2	Anfahren an Fahrzeuge
+	
+	Wird an Fahrzeuge angefahren, müssen diese gegen Entlaufen gesichert sein.
+Beim Andrücken ist darauf zu achten, dass Fahrzeuge möglichst nicht verschoben werden. In jedem Fall darf durch eine allfällige Verschiebung von Fahrzeugen keine Gefährdung entstehen. 
+Es ist verboten, an Wagen anzufahren, an denen Reparaturarbeiten durchgeführt werden oder die mit Schlauch- oder Rohrleitungen an Abfüllanlagen angeschlossen sind. Alle Rangierbewegungen haben mindestens 5 Meter vor solchen Wagen anzuhalten.
+An Fahrzeuge, die an ortsfeste Vorheizanlagen angeschlossen sind oder mit unbesetzten Triebfahrzeugen vorgeheizt werden, darf vorsichtig angefahren werden, ohne die Wagen zu bewegen. Das Einhängen bzw. Verbinden der Schrauben- und Bremskupplungen ist gestattet.
+	
+2.8.3	Profilfreies Abstellen
+	
+	Die Fahrzeuge sind so abzustellen, dass keine ihrer Teile über die durch das Sicherheitszeichen bzw. Zwergsignal gegebenen Grenzlinien hinausragen.
+	
+
+2.9	Abfahren, Rücknahme und Auflösen
+2.9.1	Abfahren der Rangierfahrstrasse
+	
+	Rangierfahrten haben die Fahrstrasse wie folgt abzufahren:
+–	bis zum nächsten Halt zeigenden Zwergsignal oder
+–	bei Fahrrichtungswechsel bis hinter das Zwergsignal der Gegenrichtung im Wendegleis. Dabei ist nach Möglichkeit im weichenfreien Abschnitt anzuhalten.
+	
+2.9.2	Rücknahme von Fahrt zeigenden Signalen
+	
+	Der FDL darf Fahrt zeigende Rangiersignale und Zwergsignale nur nach Verständigung aller an der Rangierbewegung beteiligten Personen und nach dem Anhalten der Rangierbewegung auf Halt zurückstellen.
+	
+2.9.3	Auflösen von Verschlüssen und Fahrstrassen
+	
+	Der FDL darf Verschlüsse bzw. Fahrstrassen erst auflösen, wenn die Rangierbewegung angehalten oder das verschlossene Element befahren hat.
+	
+
+3	Bestimmungen zu Bewegungsarten
+3.1	Unbegleitetes Schieben
+	
+	Befindet sich der bediente Führerstand einer direkt geführten Rangierfahrt nicht an der Spitze, ist dies ein unbegleitetes Schieben und unter folgenden Voraussetzungen zulässig:
+–	Die Rangierfahrt befährt keine ungesicherten oder nur mit Andreaskreuz signalisierten Bahnübergänge 
+–	Die Rangierfahrt befährt keinen Strassenbahnbereich
+–	Es werden keine Personen gefährdet
+Vor der Fahrt sind
+–	der Fahrweg bis zum Zielgleis einzustellen und
+–	der Fahrweg durch den LF soweit möglich zu prüfen.
+Während des Schiebens muss der LF freie Sicht auf den Fahrweg und auf die Signale haben. Ist die Beobachtung über eine kurze Distanz nicht möglich, muss auf Schrittgeschwindigkeit vermindert werden.
+In Bahnhöfen darf sich der bediente Führerstand maximal 40 Meter hinter der Spitze der Rangierfahrt befinden. Die ISB bezeichnet die Bahnhöfe, in denen bis 100 Meter zulässig sind. Bei Rangierbewegungen auf die Strecke sind bis 100 Meter zulässig. Dies gilt auch im Bahnhof ab dem Abgangsgleis bzw. bis zum Ankunftsgleis.
+	
+3.2	Ablaufen und Abstossen
+3.2.1	Hemmschuhleger
+	
+	Im Ablauf- oder Abstossbetrieb sind die Hemmschuhleger im Voraus über die Reihenfolge der Abläufe bzw. Stösse und, sofern nötig, jeweils mit der Meldung «schwer» über schwere Wagen zu informieren. Als schwere Wagen gelten Wagen mit einem Bruttogewicht von mehr als 120 Tonnen.
+Mit dem Ablaufenlassen oder Abstossen darf erst begonnen werden, wenn die Hemmschuhleger die Bereitschaft gemeldet haben. Kann ein Hemmschuhleger die Hemmschuhe nicht für jeden Ablauf oder Stoss rechtzeitig legen, hat er Haltsignale zu geben.
+	
+3.2.2	Abstossen
+	
+	Beim Abstossen hat der RL die Geschwindigkeit des Stosses nach dem Gewicht der abzustossenden Fahrzeuge, der Entfernung bis zum gewollten Halteort, dem Zustand und der Neigung des Gleises und den einsatzbereiten Bremsmitteln zu bemessen.
+	
+
+3.2.3	Anlagebedingte Einschränkungen	
+		
+		Art der Anlagen	Ablaufen oder 
+abstossen		
+		Nach oder in Gleise, während diese von Reisenden von und zu den Zügen überschritten werden müssen	verboten		
+		Über ungesicherte oder nur mit Andreaskreuz signalisierte Bahnübergänge, im Strassenbahnbereich sowie über in den Strassenbereich integrierte Geleise	verboten		
+		Anlagen ohne Gleisbeleuchtung bei Dunkelheit	verboten		
+		Gegen Schiebebühnen und Drehscheiben	verboten		
+		Zum Verlad auf Rollschemel	verboten		
+		Nach Gleisen, die in eingestellte Zugfahrstrassen münden	verboten		
+		Gegen Gefällestrecken über 20 ‰	verboten		
+		Gegen Gefällestrecken bis 20 ‰	nur mit bedienter Handbremse		
+		Gegen Tore (Remisen, Depots usw.) sowie vor und auf Brückenwaagen	nur mit bedienter Handbremse		
+	
+	
+
+3.2.4	Fahrzeugbedingte Einschränkungen
+	
+		verboten	
+	2 Hemmschuhe
+		nur mit bedienter Handbremse 		örtliche Ausnahmen
+
+		Art der Fahrzeuge und Ladungen	Ablaufen lassen	Ablaufen lassen in Anlagen ohne Aufhalten mit Hemmschuh	Befahren des 
+Ablaufbergs	Abstossen	Ablauf / Stoss 
+gegen diese Fahrzeuge	
+		Streckenlok, Triebzüge, 
+Trieb- und Steuerwagen			 	 	
+
+oder
+	
+		Rangierlok				 	
+
+oder
+	
+		Traktoren, selbst fahrende Fahrzeuge wie Baumaschinen usw.
+1)	Abstossen in einer handgebremsten Wagengruppe gestattet				 1)	
+
+oder
+	
+		Mit Reisenden besetzte Wagen und Gepäckwagen sowie Wagen, auf denen sich Ladepersonal oder Transportbegleiter aufhalten
+Schlaf- und Speisewagen						
+		Leere Personenwagen mit Magnet- oder Scheibenbremsen						
+		Leere Personenwagen						
+		Fahrzeuge mit Zeichen  oder mit der Anschrift «Darf nicht über den Ablaufberg verkehren»		 	 			
+		Wagen mit verschobener oder ungenügend gesicherter Ladung oder mit ungleich belasteten Achsen (Wagen im Be- oder Entlad)					
+
+oder
+	
+		Art der Fahrzeuge und Ladungen	Ablaufen lassen	Ablaufen lassen in Anlagen ohne Aufhalten mit Hemmschuh	Befahren des 
+Ablaufbergs	Abstossen	Ablauf / Stoss 
+gegen diese Fahrzeuge	
+		Vorsichtswagen mit dem Zeichen 
+Wagen mit der Anschrift «Abstossen / Ablaufen verboten»
+Beladene Fahrzeuge, die nur durch die Ladung oder eine Kupplungsstange verbunden sind
+Rollschemelwagen oder Rollböcke (beladen oder leer)					
+
+oder
+	
+		Übrige Vorsichtswagen
+Gruppen von zwei und mehr Wagen mit durchgehender Ladung	
+
+oder
+			
+
+oder
+	
+
+oder
+	
+		Wagen und Wagengruppen von mehr als 40 Meter Länge	 					
+		Wagen für Druckgas, beladen oder leer (oranger Längsstreifen am Kessel)					
+
+oder
+	
+		Wenn der Wagen an der Spitze des Ablaufs oder Stosses rollt und mit Hemmschuhen aufgehalten wird:
+–	beladene Drehgestellwagen
+–	Güterwagen mit Trommel oder Scheibenbremsen	
+			
+		
+		Wagen, die mit Schlauch- oder Rohrleitungen an Abfüllanlagen angeschlossen sind
+Wagen, die ein Signal für Reparaturarbeiten tragen					
+Anfahren verboten	
+		
+	3.2.5	Lok, Triebzüge und Triebwagen
+		
+		Sofern die lokalen Vorschriften das Abstossen von Lok, Triebzügen und Triebwagen erlauben, sind sie mit einem LF zu besetzen und mit der Luftbremse anzuhalten.
+		
+3.2.6	Nachfahren im Bereich von zentralisierten Weichen		
+			
+	Im Bereich von zentralisierten Weichen darf einem Stoss nicht nachgefahren werden.		
+			
+3.2.7	Folge- bzw. Querfahrten		
+			
+	Der Fahrweg für Folge- bzw. Querfahrten nach einem Stoss darf erst eingestellt bzw. gespeichert werden, wenn der abstossende Teil angehalten hat.		
+			
+3.3	Rangierbewegung mit Rangierseil oder Spill			
+3.3.1	Rangierseil			
+				
+	Das Rangierseil muss mindestens 10 Meter lang und mit einem Haken mit Handgriff ausgerüstet sein. Es darf zum Ziehen von Fahrzeugen mit Triebfahrzeugen oder Strassenfahrzeugen verwendet werden. Das Gewicht der gezogenen Fahrzeuge darf 100 Tonnen nicht überschreiten.
+Die Verwendung von Ketten oder verknoteten Rangierseilen ist verboten. Strassenfahrzeuge müssen ausserhalb des Gleises fahren, auf dem die Wagen laufen.
+Das Rangierseil ist durch vorsichtiges Anziehen zuerst zu strecken, an­schliessend können die Fahrzeuge langsam gezogen werden.
+Der RA hat sich in genügendem Abstand zum Seil aufzuhalten, dass der RA im Falle eines Seilrisses nicht vom Seil erfasst oder getroffen wird. 			
+				
+3.3.2	Spill, Seilwinden			
+				
+	Wenn der Seilzug am Zughaken des vordersten Fahrzeuges eingehängt wird, darf das Gewicht der mit Spillvorrichtungen oder Seilwinden gezogenen Fahrzeuge höchstens die für den Spill oder die Seilwinde zulässige Last betragen.
+Ist der Seilzug an Seilhaken oder Seilösen eingehängt, darf das Gewicht 100 Tonnen nicht überschreiten.
+Die ISB, bzw. das EVU können einen höheren Wert festlegen. Diese Werte werden mittels einer Risikobewertung unter Berücksichtigung der örtlichen Verhältnisse, der Seilinstallationsart und des am Seilhaken oder der Seilöse zu ziehenden Maximalgewichtes festgelegt.
+Die Bestimmungen über das Rangierseil und die Befestigung gelten auch für Rangierbewegungen mit Spillvorrichtungen und Seilwinden.			
+				
+
+3.3.3	Befestigung	
+		
+	Das Rangierseil ist mit einem Ende am Zughaken des Trieb- oder Motorfahrzeuges und mit dem andern Ende am Seilhaken an der Längsseite eines Wagens einzuhängen.
+Werden Nylonseile verwendet, ist deren ovaler Ring in den Zughaken des Triebfahrzeuges einzulegen.	
+		
+3.3.4	Ziehen mit Triebfahrzeugen	
+		
+	Mit Triebfahrzeugen dürfen nur Wagen im gleichen oder im unmittelbar neben dem vom Triebfahrzeug befahrenen Gleis gezogen werden. Müssen Wagen von dem vom Triebfahrzeug benützten Gleis in das nebenan liegende Gleis gezogen werden, darf das Rangierseil erst einge­hängt werden, wenn das Triebfahrzeug über die zu befahrende Weiche hinausgefahren und diese umgestellt worden ist.	
+		
+3.3.5	Ziehen mit Strassenfahrzeugen
+	
+	Ausser dem Führer des Strassenfahrzeuges muss mindestens noch ein RA zugegen sein, der den Fahrweg beobachtet, die Wagen anhält und allenfalls das Rangierseil während der Fahrt ausklinken kann.
+	
+3.3.6	Anhalten
+	
+	Die Rangierbewegung muss jederzeit mit Handbremsen oder mit Hemm­schuhen angehalten werden können.
+	
+3.4	Rangierbewegung von Hand, mit mechanischen 
+Hilfsmitteln oder mit Strassenfahrzeugen
+3.4.1	Rangierbewegung von Hand oder mit mechanischen Hilfsmitteln
+	
+	Bei jeder Rangierbewegung von Hand oder mit mechanischen Hilfsmitteln z. B. Wagenschieber hat sich der RA so aufzustellen, dass der RA das zu befahrene Gleis überblicken und die Fahrzeuge mit der Handbremse oder Hemmschuhen jederzeit anhalten kann.
+Das Ziehen oder Schieben von Fahrzeugen ist nur auf deren Längsseite gestattet.
+	
+
+3.4.2	Rangierbewegungen mit Strassenfahrzeugen
+	
+	Strassenfahrzeuge dürfen nur verwendet werden, wenn diese Anwendung in der Betriebsanleitung vorgesehen ist. Es müssen besondere Zug- oder Stossvorrichtungen vorhanden sein, welche die Beschädigung der Fahrzeuge ausschliessen. Die Fahrzeuge müssen ohne Ruck unmittelbar am Stossbalken oder an den Puffern und in Gleisrichtung angeschoben oder an der Zugvorrichtung gezogen werden.
+	
+3.4.3	Mithilfe Dritter
+	
+	Auf Anschlussgleisen usw. dürfen Wagen auch durch das dort beschäftigte Personal verschoben werden. Drittpersonen dürfen ausnahmsweise mit Zustimmung und unter Anleitung des RL beigezogen werden.
+	
+3.5	Besonderheiten
+3.5.1	Rangierbewegung auf Drehscheiben und Schiebebühnen
+	
+	Fahrzeuge dürfen Drehscheiben und Schiebebühnen nur befahren, wenn diese verriegelt sind bzw. das Haltsignal nicht sichtbar ist. Drehscheiben und Schiebebühnen dürfen erst in Bewegung gesetzt werden, wenn die darauf stehenden Fahrzeuge gegen Entlaufen gesichert sind. Bei Fahrzeugen mit Stromabnehmer müssen diese gesenkt und deren Tieflage kontrolliert werden.
+	
+3.5.2	Vorsichtswagen 
+	
+	Die RA haben sich gegenseitig auf die Vorsichtswagen aufmerksam zu machen.
+Als Vorsichtswagen gelten:
+–	Wagen mit Zettel «Vorsichtig rangieren» oder mit dem Zeichen
+	,     oder  
+–	Gefahrgutwagen
+–	Wagen mit lebenden Tieren
+–	Früchtewagen
+–	Wagen mit Strassenfahrzeugen, Baumaschinen, Panzern usw.
+	
+
+3.5.3	Mit Kupplungsstange verbundene Fahrzeuge
+	
+	Mit einer Kupplungsstange verbundene Fahrzeuge oder solche mit fehlenden oder beschädigten Stossvorrichtungen dürfen nicht zwischen anderen Fahrzeugen verschoben werden.
+Für Rangierbewegungen mit Kupplungsstange oder Seilstrippe in Anschlussgleisen mit kleinen Kurvenradien gelten die Ausführungsbestimmungen des zuständigen EBU.
+	
+3.5.4	Ladungsverschiebung oder ungenügend gesicherte Ladung
+	
+	Wagen mit verschobener oder ungenügend gesicherter Ladung oder mit ungleich belasteten Achsen sind ohne Ruck zu verschieben und dürfen keinen Anprällen ausgesetzt werden. Die Kupplungen sind entsprechend anzuziehen und der LF ist anzuweisen, vorsichtig zu fahren.
+	
+	
+3.5.5	Mehrere Triebfahrzeuge
+	
+	Bei Zügen mit Vorspann-, Zwischen- oder Schiebelok ist das Rangieren zu beschränken auf
+–	das Trennen bei Kreuzungen und Überholungen oder das Freilegen eines Bahnübergangs
+–	das Vorziehen und Zurückschieben
+–	das Wegstellen oder das Beistellen von Fahrzeugen.
+In allen anderen Fällen darf nur mit einem Triebfahrzeug rangiert werden. In Mehrfachtraktion mit Fernsteuerung gekuppelte Triebfahrzeuge gelten in diesem Sinn als ein Triebfahrzeug.
+	
+3.6	Fahrgeschwindigkeiten
+3.6.1	Grundsatz
+	
+	Beim Rangieren ist die Fahrgeschwindigkeit der Sicht, den örtlichen Verhältnissen und den vorhandenen Bremsmitteln anzupassen. Es darf nur so schnell gefahren werden, dass an der vorgesehenen Stelle sicher angehalten werden kann.
+	
+
+3.6.2	Höchstgeschwindigkeiten im Bahnhof
+	
+	30 km/h	–	allgemeine Höchstgeschwindigkeit
+	15 km/h	–	für Triebfahrzeuge beim Befahren der Kuppe von Ablaufbergen 
+	10 km/h	–	beim unbegleiteten Schieben, wenn sich der bediente Führerstand maximal 40 Meter hinter der Spitze der Rangierfahrt befindet
+–	wenn bei direkt geführter Rangierfahrt der hintere Führerstand besetzt ist
+–	wenn die Anzahl der ungebremsten Fahrzeuge die Anzahl der mit der Luftbremse gebremsten Fahrzeuge übersteigt, ausgenommen in Ablaufanlagen
+–	bei Ladegleisen im Bereich der im Boden eingelassenen Gleise
+–	bei Rangierfahrten in Gleisen, welche von Reisenden überquert werden dürfen
+–	für Strassenfahrzeuge mit Anwendung der Luftbremse der zu rangierenden Eisenbahnfahrzeuge
+	6 km/h	–	beim Schieben über den Ablaufberg. Bei rechnergesteuer-ten Ablaufanlagen richtet sich die Höchstgeschwindigkeit nach den Vorgaben des Rechners
+	5 km/h	–	beim Befahren von Depots, Remisen, Unterhaltsanlagen und Umschlagshallen
+–	auf Drehscheiben und Schiebebühnen
+–	in Auflauf- und Schienenleitkurven
+–	beim Ziehen mit Seil
+–	beim Rangieren von Hand oder mit mechanischen Hilfsmitteln
+–	beim unbegleiteten Schieben, wenn sich der bediente Führerstand mehr als 40 Meter und maximal 100 Meter hinter der Spitze der Rangierfahrt befindet
+–	für Strassenfahrzeuge ohne Anwendung der Luftbremse der zu rangierenden Eisenbahnfahrzeuge.
+	Örtlich können tiefere Höchstgeschwindigkeiten vorgeschrieben sein.
+Vor der Ein- und Ausfahrt in und aus Depots, Remisen, Unterhaltsanlagen und Umschlagshallen ist ein Sicherheitshalt einzulegen.
+	
+
+3.6.3	Ausnahme im Bahnhof	
+		
+	Sofern die beiden Nachbargleise frei sind, darf im Bahnhof mit einer Höchstgeschwindigkeit von 40 km/h gefahren werden 
+–	bei Rangierfahrten, wenn
+–	der Fahrweg übersichtlich und der vom LF besetzte Führerstand an der Spitze ist und
+–	über weichenfreie Zonen gefahren wird und
+–	sämtliche Fahrzeuge mit der Luftbremse gebremst werden können und
+–	die Rangierfahrt nicht funkferngesteuert wird
+–	beim Abstossen.
+Örtlich können tiefere Höchstgeschwindigkeiten vorgeschrieben sein.	
+		
+3.6.4	Höchstgeschwindigkeiten auf der Strecke		
+			
+	Die Geschwindigkeitsschwelle für Rangierbewegungen nach und von der Strecke befindet sich beim Einfahrsignal, oder wenn dieses fehlt, bei der Einfahrweiche.
+Grundsätzlich gelten die Geschwindigkeiten nach Bremsrechnung und Streckentabelle, höchstens aber:		
+			
+	60 km/h	–	allgemeine Höchstgeschwindigkeit		
+	40 km/h	–	wenn Wagen ohne normale Zug- und Stossvorrichtungen mitgeführt werden
+–	über Weichen		
+	30 km/h	–	bei indirekt geführter Rangierfahrt, wenn zwischen dem LF und dem RL keine fernmündliche Verbindung besteht
+–	beim unbegleiteten Schieben.		
+	
+3.6.5	Höchstgeschwindigkeiten in Anschlussgleisen
+	
+	Die Höchstgeschwindigkeit in Anschlussgleisen beträgt 10 km/h. Gelten höhere Geschwindigkeiten oder werden Strassenbahnbereiche befahren, sind diese in den Betriebsvorschriften der ISB aufzuführen.
+	
+
+3.7	Aufenthalt auf der Rangierbewegung
+	
+	Grundsätzlich ist der Aufenthalt auf einer Plattform oder einem seitlichen Trittbrett bzw. Rangiertritt so zu wählen, dass der RA nicht über das seitliche Profil der Fahrzeuge ragt.
+Ist dies nicht möglich, ist der Aufenthalt auf einem seitlichen Trittbrett bzw. Rangiertritt nur auf der gleisabgewandten Seite oder in Bereichen erlaubt, wo ein Sicherheits-Zwischenraum besteht. Dabei ist auf allfällige Hindernisse zu achten.
+Das seitliche Profil des Fahrzeuges darf in Bereichen ohne Sicherheits-Zwischenraum zum Auf- bzw. Absteigen kurzzeitig tangiert werden, sofern sicher festgestellt werden kann, dass sich auf dem angrenzenden Gleis keine Fahrt nähert. Kann dies nicht festgestellt werden, darf das seitliche Profil des Fahrzeuges nicht überragt werden. Nötigenfalls ist nach den Bestimmungen «Fehlender Sicherheits-Zwischenraum» vorzugehen.
+
+	
+
+4	Ergänzende Bestimmungen für Rangierbewegungen auf die Strecke	
+4.1	Allgemeines	
+4.1.1	Grundsatz	
+		
+	Fahrten auf die Strecke sind, soweit möglich, als Zugfahrt durchzuführen.
+In folgenden Fällen ist eine Fahrt auf die Strecke ohne Bedienung der Hauptsignale als Rangierbewegung auf die Strecke durchzuführen:
+–	wenn die Zugfahrt die Sicherungsanlage aus technischen Gründen so beeinflusst, dass sie nach der Fahrt die Grundstellung nicht erreicht
+–	wenn Fahrzeuge nicht in Züge eingestellt werden dürfen
+–	zum Abholen eines steckengebliebenen Zuges oder zurückgelassener Zugteile.
+Die Vorschriften «Ergänzende Bestimmungen für Rangierbewegungen auf die Strecke» sind bei in Betrieb stehenden Gleisen anzuwenden. Fahrten innerhalb gesperrter Streckengleise werden nach den Vorschriften «Ergänzende Bestimmungen für Rangierbewegungen in gesperrte Gleise» ausgeführt. 
+Eine Rangierbewegung auf die Strecke beginnt bzw. endet:
+–	im Bahnhof 
+–	innerhalb eines Streckenabschnitts
+–	in einem Anschlussgleis auf der Strecke.
+Eine Rangierbewegung auf die Strecke kann über ein oder mehrere Gleis- bzw. Streckenabschnitte verkehren.	
+		
+4.1.2	Abgrenzung Streckenabschnitt	
+		
+	Ein Streckengleis kann aus einem oder mehreren Streckenabschnitten bestehen. Ein Streckenabschnitt ist wie folgt begrenzt:
+–	an einen Bahnhof angrenzend durch die Rangiergrenze
+–	auf der Strecke durch die Hauptsignale des befahrenen Gleises, sowohl in der eigenen wie in der Gegenrichtung.	
+		
+4.2	Anordnung, Vorbereitung und Fahrbereitschaft
+4.2.1	Anordnung
+	
+	Rangierbewegungen auf die Strecke sind anzuordnen und benötigen eine Fahrordnung.
+
+4.2.2	Bremsvorschriften für Rangierbewegungen auf die Strecke
+	
+	Es gelten dieselben Bremsprobe- und Bremsvorschriften wie für Züge.
+	
+4.2.3	Folgefahrten
+	
+	Auf den in den Betriebsvorschriften der ISB aufgeführten Strecken bzw. Netzbereichen darf eine Rangierbewegung auf die Strecke einem vorausfahrenden Zug mit Fahrt auf Sicht folgen, wenn dieser den Strecken- bzw. Blockabschnitt noch nicht verlassen hat. Das Ausfahrsignal muss vor dem Erteilen der Zustimmung Halt zeigen.
+	
+4.2.4	Melden der Fahrbereitschaft
+	
+	Der RL meldet nach abgeschlossener Vorbereitung die Fahrbereitschaft dem FDL.
+	
+4.3	Fahrweg
+4.3.1	Fahrweg einstellen und sichern
+	
+	Der Fahrweg ist durch den FDL einzustellen und bis zum Ziel der Fahrt zu sichern. Die Unterteilung in mehrere Teilfahrwege ist unter Berücksichtigung der betrieblichen Möglichkeiten mit entsprechender Sicherung zulässig.
+Abhängig vom gesicherten Fahrweg legt der FDL den zugehörigen Zielpunkt fest.
+	
+4.3.2	Zielpunkte im Fahrweg
+	
+	Als Zielpunkt gilt:
+–	ein Hauptsignal
+–	ein Hauptsignal in der Gegenrichtung
+–	ein Sperr- oder Zwergsignal
+–	ein Anschlussgleis
+–	das Zielgleis im Bahnhof
+–	bei Bahnhöfen ohne Einfahrsignal die Einfahrweiche, oder, wo vorhanden, die Bahnhofanfangtafel.
+Auf zweigleisiger Strecke ohne Wechselbetrieb gilt für Fahrten von der Strecke in Richtung Bahnhof das Einfahrsignal für beide Gleise als Zielpunkt.
+	
+
+4.4	Massnahmen vor der Zustimmung
+4.4.1	Mehrere Rangierbewegungen
+	
+	Sind mehrere Rangierbewegungen auf der Strecke, ist mit Fahrt auf Sicht zu verkehren.
+Vor dem Erteilen der Zustimmung prüft der FDL, ob sich bereits weitere Rangierbewegungen auf die Strecke im Fahrweg befinden oder dorthin angeordnet sind.
+Einer weiteren Rangierbewegung darf die Zustimmung erst erteilt werden, wenn diese und alle anderen Rangierbewegungen über das Verkehren der anderen Rangierbewegung protokollpflichtig verständigt sind.
+	
+4.4.2	Meldungen
+	
+	Vor dem Erteilen der Zustimmung prüft der FDL, ob alle notwendigen Meldungen wie z.B. vereinbarte Meldungen an eine Arbeitsstelle übermittelt wurden.
+	
+4.5	Zustimmung zur Rangierbewegung auf die Strecke
+4.5.1	Gültigkeit der Zustimmung
+	
+	Jede Rangierbewegung auf die Strecke benötigt eine Zustimmung des FDL.
+Die Zustimmung gilt für die Fahrt bis zum Zielpunkt. Innerhalb des zugehörigen Streckenabschnitts dürfen weitere Vor- und Rückwärtsfahrten ausgeführt werden, ausgenommen über Weichen.
+Wenn der RL für die Weiter- oder Rückfahrt erneut eine Zustimmung benötigt, meldet der RL dem FDL wiederum die Fahrbereitschaft.
+	
+4.5.2	Erteilen der Zustimmung
+	
+	Die Zustimmung ist dem RL quittungspflichtig mit folgendem Text zu erteilen: «für (Nummer) R von (Startpunkt) bis (Zielpunkt) gesichert».
+Start- und Zielpunkt sind eindeutig zu bezeichnen und wenn nötig mit dem Bahnhofnamen zu ergänzen.
+Kann die Zustimmung nicht bis zu dem in der Fahrordnung aufgeführten nächsten Ziel erteilt werden, ist die Zustimmung mit folgendem Text zu ergänzen: «Achtung, ich wiederhole, nur bis (Zielpunkt) gesichert». Der RL und der LF haben diesen Zielpunkt schriftlich festzuhalten.
+	
+
+4.5.3	Weiteres Befahren der Weichen auf der Strecke
+	
+	Für jedes weitere Befahren der Weichen auf der Strecke ist eine erneute Zustimmung des FDL erforderlich. Innerhalb des gesicherten Streckenabschnitts kann anstelle der quittungspflichtigen Zustimmung eine Zustimmung mit dem Zwergsignal erteilt werden.
+Weichen auf der Strecke, die durch den RL bedient werden, dürfen ohne erneute Zustimmung des FDL befahren werden.
+	
+4.5.4	Zustimmung zur Einfahrt in den Bahnhof
+	
+	Nach vorheriger Vereinbarung kann anstelle der quittungspflichtigen Zustimmung die Zustimmung zur Einfahrt in den Bahnhof durch Zwergsignale erteilt werden.
+Die ISB kann Bahnhöfe bezeichnen, für welche die Zustimmung zur Einfahrt mit dem Fahrt zeigenden Einfahrsignal erteilt wird. Die ISB bezeichnet in diesem Fall den spätesten Halteort.
+	
+4.6	Fahrt
+4.6.1	Fahrbefehl
+	
+	Bei Rangierbewegungen auf die Strecke erteilt der RL dem LF den Fahrbefehl mündlich oder fernmündlich mit folgendem Text: «(Nummer) R vorwärts/rückwärts bis (Zielpunkt)».
+	
+4.6.2	Beachten von Zwerg-, Sperr- und Rangiersignalen
+	
+	Zwerg- und Sperrsignale sind zu beachten. Wenn aus technischen Gründen Zwergsignale nicht auf Fahrt gestellt werden können, ist gemäss den Bestimmungen «Kernprozess Störungen» vorzugehen.
+Rangiersignale sind durch Rangierbewegungen auf die Strecke nicht zu beachten.
+	
+
+4.6.3	Befahren von Bahnübergangs- und Verkehrsregelungs-anlagen
+	
+	Die Bahnübergangs- und Verkehrsregelungsanlagen auf der Strecke und in den Zwischenbahnhöfen sind grundsätzlich als ausgeschaltet zu betrachten. Sie sollen jedoch, sofern dies technisch möglich ist, durch den FDL oder vor Ort durch den RL eingeschaltet werden.
+Für das Befahren ausgeschalteter Anlagen gelten die Vorschriften «Ergänzende Bestimmungen bei Störungen an überwachten Bahnübergangsanlagen sowie Verkehrsregelungsanlagen».
+Wenn sichergestellt ist, dass eine Bahnübergangs- oder Verkehrsregelungsanlage eingeschaltet ist, darf diese ohne Einschränkung befahren werden. Die Bedingungen sind durch die ISB festzulegen.
+	
+4.7	Ankunft
+4.7.1	Ankunftsmeldung
+	
+	In folgenden Fällen ist eine Ankunftsmeldung erforderlich: 
+–	bei Ankunft im Zielbahnhof
+–	nach der Ankunft im gesperrten Gleis
+–	nach dem Ausgleisen besonderer Fahrzeuge, wenn sich keine weiteren Fahrzeuge dieser Rangierbewegung mehr im Streckenabschnitt befinden.
+Die Ankunftsmeldung wird übermittelt, wenn die Rangierbewegung vollständig eingetroffen ist. Der RL meldet dem FDL quittungspflichtig: «(Nummer)R in (Ort/Gleis)».
+Der FDL kann nach vorheriger Vereinbarung eine Ankunftsmeldung an einem weiteren geeigneten Ort verlangen, insbesondere:
+–	bei Ankunft im Anschlussgleis
+–	bei Ankunft in einem Zwischenbahnhof
+–	bei Ankunft in einem bestimmten Streckenabschnitt.
+	
+4.7.2	Aufheben der Sicherung
+	
+	Nach der Ankunftsmeldung darf der FDL die entsprechende Sicherung aufheben.
+	
+
+4.8	Abholen eines steckengebliebenen Zuges
+4.8.1	Zurückgelassener Zugteil
+	
+	Die Bestimmungen für das Abholen eines steckengebliebenen Zuges gelten sinngemäss auch für das Abholen eines zurückgelassenen Zugteils.
+	
+4.8.2	Hinfahrt
+	
+	Muss ein steckengebliebener Zug auf der Strecke abgeholt werden, ist auf der Hinfahrt mit Fahrt auf Sicht zu verkehren. 
+Der Rangierbewegung darf die Zustimmung nur erteilt werden, wenn sichergestellt ist, dass sich der steckengebliebene Zug nicht mehr bewegt.
+4.8.3	Rück- oder Weiterfahrt
+	
+	Der FDL entscheidet ob die Rück- oder Weiterfahrt als Zug oder als Rangierbewegung auf die Strecke erfolgen soll und gibt dies dem Fahrpersonal bekannt. 
+Der RL meldet dem FDL die Fahrbereitschaft. Sofern die Weiterfahrt als Zug erfolgt, beinhaltet diese Meldung ebenfalls die Ankunftsmeldung der Rangierbewegung. Der FDL darf demzufolge die entsprechende Sicherung aufheben.
+	
+4.9	Rangierbewegung, die den Bahnhof nicht vollständig verlässt
+	
+	Rangierfahrten, die den Bahnhof nicht vollständig verlassen, verkehren nach den Vorschriften über Rangierbewegungen im Bahnhof. Auf die Zuteilung einer Nummer und die Erstellung einer Fahrordnung wird verzichtet. Zusätzlich gilt:
+–	beim Verlangen des Fahrwegs verlangt der RL zusätzlich die Zustimmung zum Überfahren der Rangiergrenze
+–	der FDL sichert nach den Vorschriften «Ergänzende Bestimmung für Rangierbewegungen auf die Strecke»
+–	der FDL erteilt dem RL quittungspflichtig die Zustimmung für das Überfahren der Rangiergrenze
+–	der RL gibt dem FDL eine Ankunftsmeldung, wenn die Fahrt wieder vollständig im Bahnhof angekommen ist
+–	danach hebt der FDL die Sicherung auf.
+	
+
+
+5	Ergänzende Bestimmungen für Rangierbewegungen in gesperrte Gleise
+5.1	Allgemeines
+5.1.1	Grundsatz
+	
+	Diese Vorschriften gelten in gesperrten Gleisen auf der Strecke und im Bahnhof.
+Für Rangierbewegungen auf der Strecke ausserhalb gesperrter Gleise sind die Vorschriften «Ergänzende Bestimmungen für Rangierbewegungen auf die Strecke» anzuwenden.
+	
+5.1.2	Umfang der Gleissperrung
+	
+	Gesperrte Gleise umfassen die zugehörigen Gleis- und Streckenabschnitte sowie Weichen, welche nach den Bestimmungen «Arbeiten im Gleisbereich» gesperrt wurden.
+	
+5.1.3	Sicherung der Rangierbewegung in gesperrten Gleisen
+	
+	In gesperrten Gleisen wird die einzelne Rangierbewegung nicht gesondert gesichert, sondern der Gleissperrung untergeordnet.
+	
+5.1.4	Fahrt auf Sicht 
+	
+	Auf gesperrten Gleisen ist grundsätzlich mit Fahrt auf Sicht zu verkehren.
+	
+5.2	Zuständigkeit des SC
+5.2.1	Koordination Rangierbewegungen
+	
+	Der SC koordiniert und verständigt in gesperrten Gleisen das Personal der Rangierbewegungen in Bezug auf:
+–	weitere Rangierbewegungen
+–	bauliche Aspekte
+–	Arbeitsstellensicherheit.
+Kann der SC die Fahrt auf Sicht auf einem Gleisabschnitt aufheben bzw. muss das Fahrpersonal der Rangierbewegung im Bereich der Arbeitsstelle besondere Massnahmen beachten, stellt er die Verständigung des RL gemäss den Bestimmungen «Arbeiten im Gleisbereich» sicher.
+Der SC bewilligt Rangierbewegungen in gesperrte Gleise. Der SC führt eine schriftliche Kontrolle über die auf den gesperrten Gleisen befindlichen Rangierbewegungen und Fahrzeuge.
+
+5.3	Vorbereitung
+5.3.1	Planung
+	
+	Die Planung der Rangierbewegungen in gesperrte Gleise ist mit der Planung der Arbeitsstelle abzustimmen. 
+Rangierbewegungen, die in gesperrten Gleisen verkehren, werden nicht angeordnet.
+	
+5.3.2	Grenzen der gesperrten Gleise
+	
+	Der SC informiert den RL über die Grenzen der gesperrten Gleise und stellt diese Information laufend sicher. 
+Die Information des RL über die Grenzen der gesperrten Gleise erfolgt:
+–	durch Decken mit Haltsignalen oder
+–	wenn die Grenzen eindeutig bezeichnet und erkennbar sind durch
+–	protokollpflichtige Verständigung oder
+–	Abgabe einer Kopie 
+–	der betrieblichen Bekanntgabe der Gleissperrung oder 
+–	des SIDI.
+
+5.3.3	Bezeichnung und Vorbereitung der Rangierbewegung
+	
+	Der SC hat in Absprache mit dem RL die verschiedenen Rangierbewegungen eindeutig zu bezeichnen.
+Für die Vorbereitung einer Rangierbewegung in gesperrte Gleise ist der RL im Einvernehmen mit dem LF zuständig.
+	
+5.3.4	Bremsvorschriften für Rangierbewegungen in gesperrten Gleisen
+	
+	Im Bahnhof gelten die Bremsprobe- und Bremsvorschriften für Rangierbewegungen.
+Auf der Strecke gelten die Bremsprobe- und Bremsvorschriften für Züge.
+Für Fahrzeuge mit anderen Bremssystemen als der Luftbremse legen die EVU das Vorgehen fest.
+
+5.4	Rangierbewegung in ein gesperrtes Gleis
+5.4.1	Bewilligung für Rangierbewegung
+	
+	Bevor der FDL dem RL die Zustimmung in ein gesperrtes Gleis erteilt, holt der FDL beim SC die Bewilligung ein.
+	
+5.4.2	Zustimmung
+	
+	Der FDL erteilt dem RL quittungspflichtig die Zustimmung in ein gesperrtes Gleis. 
+Die Zustimmung lautet: «von (Gleis) nach gesperrtem (Gleis) eingestellt».
+Nach vorheriger Vereinbarung und der quittungspflichtigen Verständigung, dass das Zielgleis gesperrt ist, kann diese Zustimmung mit einem Zwergsignal erteilt werden.
+	
+5.5	Fahrt innerhalb der gesperrten Gleise
+5.5.1	Fahrt ohne Zustimmung
+	
+	Sofern keine Weichen befahren werden, kann innerhalb gesperrter Gleise auf eine Zustimmung verzichtet werden. Dabei müssen Hauptsignale, Rangiersignale und die Rangiergrenze nicht beachtet werden.
+Bei mehreren Rangierbewegungen verständigen sich die RL in Absprache mit dem SC über die Art und Reihenfolge der auszuführenden Rangierbewegungen.
+	
+5.5.2	Änderung der Zusammensetzung einer Rangierbewegung
+	
+	Wird die Zusammensetzung einer Rangierbewegung verändert, verständigt der RL den SC quittungspflichtig.
+	
+
+5.5.3	Befahren von Weichen
+	
+	Weichen befinden sich in gesperrten Gleisen ohne gegenseitige Abmachung nicht in einer bestimmten Stellung.
+Ist innerhalb der gesperrten Gleise das Umstellen einzelner Weichen nötig, sprechen sich der RL und der SC ab. Sofern nötig, verlangt der RL beim FDL das Umstellen der Weichen.
+Für das Befahren von zentralisierten Weichen ist eine Zustimmung des FDL notwendig. Diese kann, je nach Art der Sicherung, einmalig oder generell für mehrere Fahrten erteilt werden. Wenn Zwergsignale vorhanden sind, kann die Zustimmung mit diesen erteilt werden.
+Diese Bestimmungen für Weichen gelten sinngemäss auch für Entgleisungsvorrichtungen, Kreuzungen und Gleisdurchschneidungen.
+	
+5.5.4	Befahren von Bahnübergangs- und Verkehrsregelungs-anlagen
+	
+	Die Bahnübergangs- und Verkehrsregelungsanlagen sind grundsätzlich als ausgeschaltet zu betrachten. Sie sollen jedoch, sofern dies technisch möglich ist, vor Ort durch den RL oder auf dessen Verlangen durch den FDL eingeschaltet werden.
+Für das Befahren ausgeschalteter Anlagen gelten die Vorschriften «Ergänzende Bestimmungen bei Störungen an überwachten Bahnübergangsanlagen sowie Verkehrsregelungsanlagen»
+Wenn sichergestellt ist, dass eine Bahnübergangs- oder Verkehrsregelungsanlage eingeschaltet ist, darf diese ohne Einschränkung befahren werden. Die Bedingungen sind durch die ISB festzulegen.
+	
+5.6	Rangierbewegung aus gesperrten Gleisen
+5.6.1	Bereitschaft
+	
+	Der RL verlangt die Zustimmung für die Fahrt aus den gesperrten Gleisen beim FDL.
+	
+
+5.6.2	Zustimmung des FDL
+	
+	Der FDL erteilt dem RL die Zustimmung vom gesperrten in den nicht gesperrten Bereich.
+Die Zustimmung kann wie folgt erteilt werden:
+–	quittungspflichtige Übermittlung
+–	nach vorheriger Vereinbarung 
+–	mit einem Zwergsignal
+–	für die von der ISB bezeichneten Bahnhöfe mit dem Fahrt zeigenden Einfahrsignal, wenn das gesperrte Streckengleis unmittelbar an einen Bahnhof angrenzt
+–	mit einem Hauptsignal, wenn die Weiterfahrt als Zugfahrt erfolgt.
+	
+5.7	Ankunftsmeldung
+	
+	Nachdem die vollständige Rangierbewegung die gesperrten Gleise verlassen hat, übermittelt der RL dem SC quittungspflichtig die Ankunftsmeldung.
+	
+5.8	Fahrbarmeldung
+5.8.1	Feststellen des Belegungszustandes vor der Fahrbarmeldung
+	
+	Der SC stellt den Belegungszustand der Gleise aufgrund der Ankunftsmeldungen und der schriftlichen Kontrolle fest. Ist dies nicht zweifelsfrei möglich, sind die gesperrten Gleise örtlich zu kontrollieren.
+Auf der Strecke müssen die Gleise vor der Fahrbarmeldung frei von Fahrzeugen sein.
+	
+5.8.2	Fahrbarmeldung bei freien Gleisen
+	
+	Stellt der SC den freien Zustand der gesperrten Gleise fest, meldet der SC dem FDL die Gleise nach den Bestimmungen «Arbeiten im Gleisbereich» fahrbar.
+	
+
+5.8.3	Fahrbarmeldung bei mit Fahrzeugen belegten Gleisen
+	
+	Wenn im Bahnhof Gleise durch Fahrzeuge belegt bleiben, meldet der SC dies anlässlich der Fahrbarmeldung dem FDL nach den Bestimmungen «Arbeiten im Gleisbereich».
+Wo nötig sichert der FDL die belegten Gleise an der Sicherungsanlage.
+	
+
+
+6	Ergänzende Bestimmungen für den Ablaufbetrieb
+6.1	Gleisbremsen, Förderanlagen
+	
+	Die ISB erlässt die nötigen Vorschriften für Anlagen, wo der Ablauf
+–	mit Gleisbremsen und Förderanlagen betrieben wird
+–	mit Gleisbremsen kombiniert mit Hemmschuhen angehalten wird.
+	
+6.2	Langmachen und lösen
+	
+	Bevor die Schraubenkupplungen zwischen den einzelnen Abläufen gelockert und die Bremsen gelöst werden, sind die Wagen gegen Entlaufen zu sichern.
+Wenn das Risiko besteht, dass beim Ablauf die Bremsschläuche beschädigt oder abgerissen werden können, sind diese in die dafür vorgesehenen Blindhaken zu legen.
+	
+6.3	Verzicht auf die Luftbremse in Ablaufanlagen
+	
+	Muss die Last in das Ablaufgleis umgestellt werden, darf dies bei Rangierfahrten
+–	aus den Sammel- und Richtungsgleisen für den unmittelbar nachfolgenden Ablauf (auch über den Ablaufberg) oder
+–	zum Abstellen vor der späteren Zerlegung
+mit ungebremster Anhängelast erfolgen.
+Dabei darf das Gewicht der ungebremsten Anhängelast gegen und in Neigungen
+	–	  0 –   6 ‰	das 10fache
+	–	  7 – 15 ‰	das   5fache
+	–	16 – 30 ‰	das   2fache
+	des Gewichtes des Triebfahrzeuges nicht übersteigen.
+	
+6.4	Verlangen des Ablaufbetriebs und Erteilen der Zustimmung
+	
+	Der RL verlangt den Ablaufbetrieb beim FDL. Dieser prüft soweit möglich ob die Ablaufzone frei ist, schaltet das Stellwerk auf Ablaufbetrieb um und erteilt die Zustimmung für den Ablaufbetrieb.
+Der RL kontrolliert, ob der Ablaufbetrieb eingeschaltet ist.
+
+6.5	Melden der Abläufe und beobachten der Ablaufzone	
+		
+	In nicht bzw. nur teilweise automatisierten Anlagen nennt der RL vor jedem Ablauf den Weichenstellern und den Hemmschuhlegern das Zielgleis und die Wagen welche mit 2 Hemmschuhen aufgehalten werden müssen.
+Die Beobachtung der Ablaufzone hat durch alle am Ablauf Beteiligten soweit als möglich zu erfolgen. 
+Die Weichen dürfen auch vor herannahenden Fahrzeugen umgestellt werden, sofern sichergestellt ist, dass sie vor dem Befahren die Endlage erreichen.	
+		
+6.6	Entkuppeln	
+		
+	Am Ablaufberg werden die gelockerten Kupplungen während des Schiebens mit der Entkupplungsstange ausgeworfen. Muss von Hand ent­kuppelt werden, ist die Rangierbewegung anzuhalten. Der Kuppler darf sich erst nach dem Halt der Rangierbewegung zwischen die Wagen begeben.
+Nach dem Entkuppeln der Wagen darf auf das Einhängen der Kupplungen in die dafür vorgesehenen Blindhaken verzichtet werden.	
+		
+6.7	Sichern 	
+		
+	Gleise, in welche Abläufe stattfinden, sind am Gleisende mit einem Stangenhemmschuh bzw. 2 Hemmschuhen zu sichern. 
+Werden die abgelaufenen Wagen mit Hemmschuhen gesichert, darf in den Richtungsgleisen auf das Anbringen einer Hemmschuhwarntafel verzichtet werden. Der RL hat davon auszugehen, dass die Wagen mit Hemmschuhen gesichert sind und sich dementsprechend zu verhalten.	
+		
+6.8	Ablauf bleibt vorzeitig stehen	
+		
+	Bleiben im Ablaufbetrieb Fahrzeuge vorzeitig stehen, darf an diese angefahren werden ohne dass sie gegen Entlaufen gesichert sind. Voraussetzung dazu ist, dass der Fahrweg in das betreffende Gleis eingestellt ist und bei einem allfälligen Wegrollen der Fahrzeuge
+–	ein Anprall ausgeschlossen ist
+–	diese den gesicherten Fahrweg nicht verlassen
+–	keine Personen gefährdet werden.	
+		
+7	Rangierbewegungen im Trambetrieb	
+7.1	Vorbereitung und Abschluss	
+7.1.1	Leitung	
+		
+	Jede Rangierbewegung wird von einem RL geleitet.
+Wechselt die Leitung der Rangierbewegung haben sich die RL gegenseitig zu orientieren.	
+		
+7.1.2	Bewegungsarten	
+		
+	Es wird zwischen folgenden Rangierbewegungen unterschieden:
+-	Rangierfahrten direkt und indirekt geführt
+-	Rangierbewegungen mit Strassenfahrzeugen 
+-	Rangierbewegungen von Hand oder mit mechanischen Hilfsmitteln.	
+		
+7.1.3	Direktes Führen der Rangierfahrten	
+		
+	Rangierfahrten dürfen direkt geführt werden, wenn
+-	der LF dauernd eine freie Sicht auf den Fahrweg und die Signale hat und 
+-	der LF die Bremsen bedient und 
+-	der LF die Möglichkeit hat, Achtungssignale zu geben. 	
+		
+7.1.4	Indirektes Führen der Rangierfahrten 	
+		
+	Rangierfahrten werden indirekt geführt, wenn der LF keine freie Sicht auf den Fahrweg und die Signale hat.
+Der RL hat sich beim indirekten Führen so aufzustellen, dass der RL den Fahrweg überblicken und die Signale einwandfrei beobachten kann.	
+		
+
+7.1.5	Rangiergrenze und Anwendung der ergänzenden Bestimmungen	
+		
+	Rangierbewegungen dürfen innerhalb der Rangiergrenzen durchgeführt werden. Die ISB legen die Rangiergrenzen fest. Sie befinden sich in der Regel an der Grenze von Linien- und Dienstgleis.
+Ausserhalb der Rangiergrenze sind die «Ergänzenden Bestimmungen für Rangierbewegungen auf Liniengleisen» anzuwenden.
+In gesperrten Gleisen sind die «Ergänzenden Bestimmungen für Rangierbewegungen in gesperrten Gleisen» anzuwenden.
+Bei Rangierbewegungen innerhalb des gesperrten Gleises sind ausschliesslich die Grenzen der Sperrung massgebend.	
+		
+7.1.6	Kennzeichnung Triebfahrzeuge	
+		
+	Die Signalisierung der Triebfahrzeuge richtet sich nach den Signalvorschriften.	
+		
+7.1.7	Fahrrichtung der Rangierbewegung	
+		
+	Bei indirekt geführten Rangierbewegungen legt der RL die Vorwärtsrichtung fest.	
+		
+7.1.8	Fahrzeuge, an die nicht oder nur vorsichtig angefahren werden darf	
+		
+	Fahrzeuge, an denen Reparaturarbeiten ausgeführt werden oder die nicht bewegt werden dürfen, sind gegen Entlaufen zu sichern und nach den Signalvorschriften zu kennzeichnen.
+Fahrzeuge, die über Kabel mit ortsfesten Anlagen verbunden sind, sind nach den Signalvorschriften zu kennzeichnen.
+Die EVU können an Stelle der Signalisierung alternative Sicherheitsmassnahmen vorschreiben.
+Vor Beginn der Arbeit am Fahrzeug ist die Signalisierung, nötigenfalls an beiden Enden, anzubringen oder die Sicherheitsmassnahmen sind umzusetzen.	
+		
+7.1.9	Sichern der Fahrzeuge	
+		
+	Abgestellte Fahrzeuge sind gegen Entlaufen zu sichern. Die EVU regeln die Bremsmittel und das Vorgehen in den Betriebsvorschriften.	
+		
+		
+7.1.10	Bremsen	
+		
+	Rangierbewegungen müssen sicher gebremst und angehalten werden können. Die EVU erlassen die nötigen Betriebsvorschriften.
+Der RA hat sich beim Besteigen eines Fahrzeuges zu vergewissern, wo die Notbremse ausgelöst werden kann.
+Die EVU regeln das Vorgehen, wenn Bremsen ganz oder teilweise ausgeschaltet werden müssen. 	
+		
+7.2	Ausführung	
+7.2.1	Grundsatz	
+		
+	In nicht zentralisierten Bereichen übernimmt die Person mit der Funktion RL die Aufgaben der Funktion FDL. Für Anlagen mit Fahrstrassen oder mit zentralisierter Fahrwegsteuerung erlassen die ISB die notwendigen Betriebsvorschriften.
+Zustimmungen und Befehle sind klar und deutlich zu erteilen. Sind mehrere Personen beteiligt, ist jede Meldung und jeder Befehl vom Empfänger zu quittieren.
+Es ist jederzeit mit anderen Rangierbewegungen zu rechnen. Die RL haben sich gegenseitig über die auszuführenden Rangierbewegungen zu verständigen.
+Bei unklarer Zustimmung darf der RL keinen Fahrbefehl erteilen. Bei unklarem Befehl darf der LF das Triebfahrzeug nicht in Bewegung setzen oder die fahrende Rangierbewegung ist anzuhalten. Es ist die Wiederholung der Zustimmung oder des Befehles zu verlangen.	
+		
+7.2.2	Besondere Fahrzeuge	
+		
+	Die EVU regeln unter Einbezug der ISB das Vorgehen für das Ein- und Ausgleisen von Zweiwegfahrzeugen sowie das Vorgehen bei Fahrzeugen, bei welchen Anlageteile der Infrastruktur nicht einwandfrei funktionieren.	
+		
+7.2.3	Einstellen des Fahrweges, betriebliche Voraussetzungen	
+		
+	Weichen dürfen nur bedient werden, wenn sie frei sind und vor allenfalls heranrollenden Fahrzeugen sicher in die gewünschte Lage umgestellt werden können. Nach dem Umstellen von Handweichen ist zu prüfen, ob die entsprechende Weichenzunge gut anschliesst.
+Beim Befahren einer auffahrbaren Weiche muss immer so weit gefahren werden, dass alle Fahrzeuge die Weiche vollständig freigelegt haben. 
+	
+		
+7.2.4	Zustimmung zur Rangierbewegung, Grundsatz	
+		
+	Der RL legt das Zielgleis fest. Der RL erteilt sich für jede Rangierbewegung die Zustimmung.	
+		
+7.2.5	Massnahmen vor der Zustimmung	
+		
+	Vor dem Erteilen der Zustimmung prüft der RL, ob
+-	die Weichen richtig stehen und die Endlage erreicht haben und
+-	wo nötig die Verschlussanzeigen der Weichen vorhanden sind und
+-	die Signale im Fahrweg die Rangierbewegung erlauben.	
+		
+7.2.6	Überprüfung vor dem Fahrbefehl	
+		
+	Vor dem Erteilen des Fahrbefehls prüft der RL, soweit er dies erkennen kann, ob
+-	die Fahrzeuge für die Rangierbewegung bereit sind
+-	Personen, die gefährdet werden könnten, rechtzeitig gewarnt sind
+-	der LF über ausgeschaltete oder geerdete Gleisabschnitte im Fahrweg verständigt ist.	
+
+7.2.7	Erteilen der Befehle zur Rangierbewegung	
+		
+	Der RL hat dem LF die Befehle für jede Rangierbewegung einzeln wie folgt zu erteilen:
+-	mündlich oder fernmündlich mit Text: «R ...» oder
+-	optisch und akustisch nach den Signalvorschriften.
+Die Texte der Befehle lauten wie folgt:		deutsch
+französisch	italienisch	
+		abgehängt
+coupé	sganciato	
+		vorwärts
+en avant	avanti	
+		rückwärts
+en arrière	indietro	
+		anfahren
+(vorwärts / rückwärts)
+garer
+(en avant / en arrière)	accostare
+(avanti / indietro)	
+			wagenlang
+	halbe
+	vier
+	zwo (statt zwei)
+	einen
+	un wagon
+	demi
+	quatre mètres
+	deux mètres
+	un mètre		un vagone
+	mezzo
+	quattro
+	due
+	uno	
+		anhalten
+arrêter	fermare	
+		langsamer
+ralentir	rallentare	
+		bewegen
+appuyer	appoggiare	
+		
+		
+		
+	7.2.8	Entfernungsangaben
+		
+		Beim Anfahren an stillstehende Fahrzeuge oder wenn an einer bestimmten Stelle angehalten werden muss, hat der RL dem LF Entfernungsangaben anzugeben. Die Entfernungsangaben sind entsprechend der Fahrgeschwindigkeit, dem Gewicht der Rangierfahrt, der Wirkung der Bremsen, den örtlichen Verhältnissen, dem Zustand und der Neigung des Gleises zu bemessen.
+Bei direkt geführter Rangierfahrt können die Entfernungsangaben und der Befehl anhalten entfallen.
+		
+		7.2.9
+Quittieren und Ausführen der Befehle		
+		
+Der LF hat die Befehle zu quittieren und unmittelbar danach auszuführen. 
+Die Entfernungsangaben sind durch entsprechende Verminderung der Geschwindigkeit zu bestätigen. Die erste Entfernungsangabe ist nach der Geschwindigkeitsreduktion zu quittieren. Wird die erste Entfernungsangabe zusammen mit dem Fahrbefehl gegeben, gilt mit der entsprechenden Quittung die erste Entfernungsangabe auch als quittiert. Die erste Entfernungsangabe kann auch akustisch bestätigt werden.
+Wird die Geschwindigkeit nach einer Entfernungsangabe nicht entsprechend vermindert, hat der RL Haltsignale zu geben.
+Der LF hat den Haltebefehl sofort zu befolgen und nicht zu quittieren.
+Befehle, welche nach den Signalvorschriften optisch und akustisch erteilt werden, sind nicht zu quittieren.		
+		7.2.10
+Beobachten des Fahrweges		
+		
+Das Beobachten des Fahrweges während der Fahrt obliegt dem RL. Er hat seinen Standort so zu wählen, dass er den Fahrweg überblicken und die Signale einwandfrei beobachten kann.
+Bei direkt geführter Rangierfahrt ist der LF für die Beobachtung des Fahrweges verantwortlich.
+Verliert der LF bei einer indirekt geführten Rangierfahrt, die nach den Signalvorschriften mit optischen und akustischen Befehlen geleitet wird, die Sichtverbindung zum RL, hat er anzuhalten.		
+		7.2.11
+Elektrische Trennstellen		
+		
+Die ISB regeln das Befahren von elektrischen Trennstellen in den Betriebsvorschriften.		
+		7.2.12
+Anhalten der Rangierbewegung, spätester Halteort		
+		
+Eine Rangierbewegung hat spätestens anzuhalten
+-	vor einem für Rangierbewegungen gültigen und Halt zeigenden Signal
+-	im Zielgleis gemäss Zustimmung
+-	vor dem Sicherheitszeichen einer von der Wurzel aus befahrenen, nicht auffahrbaren und falsch 	stehenden Weiche
+-	vor der Rangiergrenze.		
+		
+		7.2.13
+Anfahren an Fahrzeuge		
+		
+Wird an Fahrzeuge angefahren, müssen diese gegen Entlaufen gesichert sein.
+Beim Andrücken ist darauf zu achten, dass Fahrzeuge möglichst nicht verschoben werden. In jedem Fall darf durch eine allfällige Verschiebung von Fahrzeugen keine Gefährdung entstehen. 
+Es ist verboten, an Fahrzeuge anzufahren, an denen Reparaturarbeiten durchgeführt werden. Alle Rangierbewegungen haben mindestens 1 Meter vor solchen Wagen anzuhalten.
+An Fahrzeuge, die an ortsfeste Anlagen angeschlossen sind oder mit unbesetzten Triebfahrzeugen vorgeheizt werden, darf vorsichtig angefahren werden, ohne die Fahrzeuge zu bewegen.		
+		7.2.14
+Profilfreies Abstellen		
+		
+Die Fahrzeuge sind so abzustellen, dass keine ihrer Teile über die durch das Sicherheitszeichen gegebenen Grenzlinien hinausragen. Die ISB können Ausnahmen in ihren Betriebsvorschriften regeln.		
+		7.3
+Bestimmungen zu Bewegungsarten		7.3.1
+Rangierbewegung von Hand, mit mechanischen Hilfsmitteln oder mit Strassenfahrzeugen		
+		
+Die EVU legen das Vorgehen für Rangierbewegungen fest, welche von Hand, mit mechanischen Hilfsmitteln oder mit Strassenfahrzeugen erfolgen. 		
+		7.3.2
+Mit Hilfskupplung und Kupplungsstange verbundene Fahrzeuge		
+		
+Die EVU regeln die Verwendung von Hilfskupplungen und Kupplungsstangen in den Betriebsvorschriften.		
+7.3.3	Fahrgeschwindigkeiten	
+		
+		
+Die ISB regeln die Höchstgeschwindigkeit in ihren Betriebsvorschriften. 
+Mit Geschwindigkeitssignalen signalisierte Höchstgeschwindigkeiten sind zu beachten.
+Für Fahrwegelemente können generelle Höchstgeschwindigkeiten definiert werden. Diese Elemente und die dazu entsprechenden Höchstgeschwindigkeiten sind durch die ISB in den Betriebsvorschriften zu regeln.
+Die Fahrgeschwindigkeit ist den örtlichen Verhältnissen und den vorhandenen Bremsmitteln anzupassen.		
+		
+	7.4	Ergänzende Bestimmungen für Rangierbewegungen auf Liniengleisen 
+		7.4.1
+Grundsatz			
+			
+Die Vorschriften «Ergänzende Bestimmungen für Rangierbewegungen auf Liniengleisen» sind bei in Betrieb stehenden Liniengleisen anzuwenden. Fahrten innerhalb gesperrter Gleise werden nach den Vorschriften «Ergänzende Bestimmungen für Rangierbewegungen in gesperrten Gleisen» ausgeführt. 			
+			7.4.2
+Verständigung und Fahrweg			
+			
+Die ISB regeln die Verständigung, allenfalls die Notwendigkeit einer Zustimmung der Leitstelle für Rangierbewegungen auf dem Liniengleis.
+Der Fahrweg wird durch den RL eingestellt. Die ISB regeln die Verkehrsregelung sowie die Bedienung und Kontrolle der Weichen und Verkehrsregelungsanlagen.
+Bei Fahrten entgegen der Fahrrichtung des Liniengleises werden die nachfolgenden in der Regelfahrrichtung verkehrenden Fahrten nach den Vorgaben der ISB verständigt.
+Die ISB regeln die Verständigung nach dem Beenden der Rangierbewegung.			
+			7.4.3
+Abholen eines steckengebliebenen Zuges			
+			
+Die ISB regeln das Vorgehen für das Abholen eines steckengebliebenen Zuges.			
+			
+			7.5
+Ergänzende Bestimmungen für Rangierbewegungen in gesperrten Gleisen			7.5.1
+Grundsatz			
+			
+Diese Vorschriften gelten in gesperrten Linien- und Dienstgleisen.			
+			7.5.2
+Umfang der Gleissperrung 			
+			
+Gesperrte Gleise umfassen die zugehörigen Gleisabschnitte sowie Weichen, welche nach den Bestimmungen «Arbeiten im Gleisbereich» gesperrt wurden.			
+			7.5.3
+Zuständigkeit des AVT			
+			
+Der AVT koordiniert und verständigt in gesperrten Gleisen das Personal der Rangierbewegungen in Bezug auf:
+-	weitere Rangierbewegungen
+-	bauliche Aspekte
+-	Arbeitsstellensicherheit
+-	Verkehrsregelung.
+Der AVT bewilligt Rangierbewegungen in gesperrte Gleise.			
+			7.5.4
+Planung			
+			
+Die Planung der Rangierbewegungen in gesperrte Gleise ist mit der Planung der Arbeitsstelle abzustimmen. 			
+			7.5.5
+Grenzen der gesperrten Gleise			
+			
+Die Grenzen der gesperrten Gleise sind mit Haltsignalen zu decken.
+Der AVT informiert den RL über die Grenzen der Sperrung.			
+			7.5.6
+Bezeichnung und Vorbereitung der Rangierbewegung			
+			
+Der AVT hat in Absprache mit dem RL die verschiedenen Rangierbewegungen eindeutig zu bezeichnen.
+Für die Vorbereitung einer Rangierbewegung in gesperrte Gleise ist der RL im Einvernehmen mit dem LF zuständig.			
+			
+7.5.7	Fahrt		
+			
+	Für Fahrten innerhalb des gesperrten Gleises ist keine Zustimmung notwendig. Die ISB regeln das Befahren des gesperrten Abschnittes im Einzelfall im SIDI, insbesondere die Verkehrsregelung, die Bedienung von Weichen, Verkehrsregelungsanlagen, elektrischen Anlagen und Fahrleitungen.
+Ist innerhalb der gesperrten Gleise das Umstellen einzelner Weichen nötig, sprechen sich der RL und der AVT ab.		
+			
+7.5.8	Rangierbewegung zwischen gesperrten und in Betrieb stehenden Gleisen		
+			
+	Die ISB regeln generell oder im Einzelfall im SIDI unter welchen Bedingungen Fahrten in und aus dem gesperrten Bereich zulässig sind.		
+			
+7.5.9	Orientierung verbleibender Rangierbewegungen		
+			
+	Bevor der AVT das Gleis nach den Bestimmungen "Arbeiten im Gleisbereich" fahrbar erklärt und die Arbeitsstelle beendet, orientiert er verbleibende Rangierbewegungen über das Ende der Gleissperrung.		
+			
+			Anlage 1
+			Kupplungseinrichtungen mit Schraubenkupplung UIC
+			
+		1	Allgemeines
+1.1	Kupplungsreihenfolge	1.1.1	Grundsatz
+	
+	Beim Kuppeln ist folgende Reihenfolge einzuhalten:
+1.	mechanische Kupplung
+2.	pneumatische Verbindungen
+3.	elektrische Verbindungen
+4.	Personenübergänge.
+Beim Entkuppeln ist in umgekehrter Reihenfolge vorzugehen.
+Alle nicht benützten Kupplungseinrichtungen sind in die vorgesehenen Halterungen zu verbringen.
+Das richtige Kuppeln ist anschliessend mit einer Sichtkontrolle zu prüfen.
+	
+1.1.2	Ausnahmeregelung
+	
+	Von der vorgeschriebenen Kupplungsreihenfolge darf abgewichen werden, wenn 
+–	die Wagen mit Hemmschuhen oder Feststellbremsen gegen Entlaufen gesichert sind und die Hauptleitung entleert ist oder
+–	beide Zugteile an besetzte Triebfahrzeuge gekuppelt sind.
+	
+1.2	Gleisbögen und Gegenbögen mit kleinen Radien
+	
+	Die ISB bezeichnen in ihren Betriebsvorschriften die Gleisbögen mit Radien < 150 m und Gegenbögen mit kleinen Radien.
+Die EVU regeln in ihren Betriebsvorschriften, bei welchen Fahrzeugen in welchen Radien die Kupplungen ausgedreht werden müssen oder mit Rangierseil bzw. Kupplungsstange gekuppelt werden müssen.
+	
+	
+2	Schraubenkupplung Bauart UIC
+2.1	Aufbau
+	
+	
+	
+2.2 	Bedienung der Kupplung 
+	
+	Beim Kuppeln von 2 Fahrzeugen ist eine Schraubenkupplung in den Zughaken des anderen Fahrzeugs einzuhängen. Schwer bewegliche Kupplungsbügel sind gut in die Haken zu drücken, damit sie während der Fahrt nicht ausgeworfen werden. Der Kupplungsschwengel ist in die Schwengelsicherung zu legen; fehlt diese, muss er senkrecht herabhängen. Bei Zügen sind die Schraubenkupplungen so anzuziehen, dass sich die Puffer auf geradem, horizontalem Gleis berühren.
+	
+	3
+Pneumatische Verbindungen	3.1
+Hauptleitung	
+	
+Die Hauptleitung der Luftbremse ist bei Zügen immer zu kuppeln, bei Rangierbewegungen, wenn die Luftbremse verwendet wird.
+Wenn immer möglich sind die auf der gleichen Seite sich befindenden Hauptleitungsschläuche zu verbinden und die Kupplungshahnen zu öffnen. Die Hauptleitungsschläuche dürfen nur dann schräg gekuppelt werden, wenn sie dabei weder geknickt noch angespannt werden.	
+	3.2 
+Speiseleitung	
+	
+Die Speiseleitung ist zwischen den Wagen unter sich und zu Triebfahrzeugen immer zu kuppeln.	
+	3.3 
+Rangierbremsleitung	
+	
+Sind bei Mehrfachtraktion mit Fernsteuerung benachbarte Triebfahrzeuge mit Kupplungsschläuchen für die Rangierbremse ausgerüstet, sind diese zu verbinden. Zum Kuppeln und Entkuppeln der Schläuche muss die Rangierbremse gelöst sein.	
+
+
+4	Elektrische Verbindungen 
+4.1	Zugsammelschiene
+4.1.1	Kuppeln
+	
+	Die Zugsammelschiene ist bei Zügen immer zu kuppeln.
+Grundsätzlich ist die Zugsammelschiene immer als unter Spannung zu betrachten, bis man sich vom Gegenteil überzeugt hat.
+Die Zugsammelschiene darf nur bei gesenktem Stromabnehmer bzw. ausgeschalteter ortsfester Heizanlage bzw. abgestelltem Dieselmotor gekuppelt oder entkuppelt werden. Der RA hat sich das Ausschalten der Zugsammelschiene vom LF bestätigen zu lassen.
+Bei beendigter Zugbildung ist der LF zu beauftragen, die Zugsammelschiene einzuschalten.
+	
+4.1.2	Einschalten
+	
+	Bei lokbespannten Zügen ist die Zugsammelschiene einzuschalten
+–	nach erhaltenem Auftrag
+–	wenn kein Auftrag gegeben wurde, unmittelbar vor der Abfahrt.
+Bei Pendelzügen, auch mit Zusatzwagen, muss die Zugsammelschiene mit Inbetriebnahme des Führerstandes eingeschaltet werden. Darf die Zugsammelschiene nicht eingeschaltet werden oder muss das Vorheizen (Vorlüften / Vorklimatisieren) unterbrochen werden, ist der LF zu verständigen.
+Stehen in einem Wendebahnhof Zusatzwagen zum Anhängen bereit, darf die Zugsammelschiene erst nach erhaltenem Auftrag eingeschaltet werden. Wird kein Auftrag erteilt, ist die Zugsammelschiene unmittelbar vor der Abfahrt einzuschalten.
+	
+4.1.3	Ausschalten
+	
+	Der LF hat die Zugsammelschiene auszuschalten
+–	nach erhaltenem Auftrag
+–	zwischen Einfahrsignal und Perronanfang von Bahnhöfen, bei denen die Zusammensetzung des Zuges ändert, ausgenommen wenn bei Triebzügen die automatische Kupplung verwendet wird
+–	bei einer Beschädigung der Zugsammelschiene am Triebfahrzeug oder an den Wagen
+–	nach ungewolltem Druckabfall in der Hauptleitung.
+
+4.2	UIC-Steuerleitung
+	
+	Es kommen UIC-Steuerleitungen mit 13 oder 18 Adern (Polen) zur Anwendung. Die 18-poligen Kupplungsstecker und Kupplungsdosen sind mit einer roten Markierung gekennzeichnet. Die Stecker der UIC-Steuerleitung sind in die dafür bestimmten Dosen zu stecken. Das Kuppeln von 18-poligen Kupplungssteckern in 13-polige Kupplungsdosen ist nicht möglich. Die 13-poligen Kupplungsstecker können jedoch ohne weiteres in eine 18-polige Kupplungsdose gesteckt werden.
+Die Kabel sind bei den Stirntüren unter die Haltefedern zu klemmen, damit sie die Reisenden beim Durchschreiten nicht behindern.
+Die UIC-Leitung kann bei eingeschaltetem Triebfahrzeug gekuppelt oder entkuppelt werden.
+
+
+5	Personenübergänge
+5.1	Übergangsbrücken
+	
+	Bei Zügen mit Personenbeförderung und bei Zügen mit bedienten Gepäck- oder Postwagen sind die Übergangsbrücken abzuklappen, sofern beide Fahrzeuge solche besitzen. Fehlt am Nachbarfahrzeug der Stirnübergang, ist die Übergangsbrücke in aufgeklappter Stellung zu verriegeln. Beim Entkuppeln sind die Übergangsbrücken aufzuklappen und zu verriegeln. Die Stirnwandtüren gegen das Triebfahrzeug und am Schluss des Zuges sind abzuschliessen.
+	
+5.2	Faltenbälge, Gummiwülste
+	
+	Die Faltenbälge sind in den Reisezügen unter sich oder mit den Gummiwülsten zu verbinden.
+Beim Entkuppeln sind die Faltenbälge in die Halter zu legen und mit sämtlichen Verschlussriegeln zu sichern, wenn sie nicht sofort wieder verwendet werden.
+
+
+
+Anlage 2
+
+
+
+Kupplungseinrichtungen mit Mittelpufferkupplung
+
+
+1	Allgemeines
+1.1	Kupplungsreihenfolge
+1.1.1	Grundsatz
+	
+	Beim Kuppeln ist folgende Reihenfolge einzuhalten:
+1.	mechanische Kupplung
+2.	pneumatische Verbindungen
+3.	elektrische Verbindungen
+4.	Personenübergänge.
+Beim Entkuppeln ist in umgekehrter Reihenfolge vorzugehen.
+Alle nicht benützten Kupplungseinrichtungen sind in die vorgesehenen Halterungen zu verbringen.
+Das richtige Kuppeln ist anschliessend mit einer Sichtkontrolle zu prüfen.
+
+
+2	Mittelpufferkupplung
+2.1	Aufbau
+2.1.1	Mittelpufferkupplung mit seitlichen Kupplungshaken
+	
+	
+	
+2.1.2	Mittelpufferkupplung mit zentralem Kupplungshaken
+	
+	
+		                Pufferhub  ↓
+
+2.2 	Bedienung der Kupplung 
+2.2.1	Grundsatz
+	
+	Schwer bewegliche Kupplungsbügel sind gut in die Haken zu drücken, damit sie während der Fahrt nicht ausgeworfen werden. Der Kupplungsschwengel ist in die Schwengelsicherung zu legen; fehlt diese, muss er senkrecht herabhängen.
+Nicht verwendete Schraubenkupplungen sind in die Sicherheitshaken einzuhängen; sind keine vorhanden, sind sie abzunehmen und am dafür vorgesehenen Ort zu deponieren.
+	
+
+2.2.2	Kupplung mit seitlichen Kupplungshaken
+	
+	Beim Kuppeln von 2 Fahrzeugen sind beide Kupplungen in die Zughaken des anderen Fahrzeuges einzuhängen. Das Fahren mit einseitig gekuppelten Fahrzeugen ist verboten. Bei Zügen sind die Schraubenkupplungen so anzuziehen, dass die Puffer sich berühren. Sie dürfen aber nicht gespannt werden. Es soll auf beiden Seiten gleich viel freies Ge­winde verbleiben.
+	
+2.2.3	Kupplung mit zentralem Kupplungshaken
+	
+	Nachdem bei Zügen die Schraubenkupplung eingehängt wurde, muss die Position der Puffer beobachtet werden, bevor die Schraubenkupplung angezogen wird. Ist der verbleibende Pufferhub kleiner als 50 mm, ist die Schraubenkupplung nicht ganz anzuziehen.
+
+
+
+3	Pneumatische Verbindungen
+3.1	Hauptleitung
+	
+	Die Hauptleitung der Luftbremse ist bei Zügen immer zu kuppeln, bei mit Vakuum gebremsten Zügen beidseitig.
+Rangierfahrten in Bahnhöfen dürfen mit einseitig verbundener Hauptleitung ausgeführt werden.
+Nach dem Entkuppeln sind die Kupplungsköpfe mit den Blinddeckeln zu schliessen.
+	
+3.2	Speiseleitung
+	
+	Die Speiseleitung zwischen den Wagen unter sich und zu den Triebfahrzeugen ist einseitig zu kuppeln.
+	
+3.3	Rangierbremsleitung
+	
+	Sind bei Mehrfachtraktion mit Fernsteuerung benachbarte Triebfahrzeuge mit Kupplungsschläuchen für die Rangierbremse ausgerüstet, sind diese zu verbinden. Zum Kuppeln und Entkuppeln der Schläuche muss die Rangierbremse gelöst sein.
+
+
+
+4	Elektrische Verbindungen  
+4.1	Zugsammelschiene
+4.1.1	Kuppeln
+	
+	Die Zugsammelschiene ist bei Reisezügen immer zu kuppeln. Bei Güterzügen wird sie gekuppelt, wenn Wagen mit Energie versorgt werden müssen.
+Grundsätzlich ist die Zugsammelschiene immer als unter Spannung zu betrachten, bis man sich vom Gegenteil überzeugt hat.
+Die Zugsammelschiene darf nur bei gesenktem Stromabnehmer bzw. ausgeschalteter ortsfester Heizanlage bzw. abgestelltem Dieselmotor gekuppelt oder entkuppelt werden. Der RA hat sich das Ausschalten der Zugsammelschiene vom LF bestätigen zu lassen.
+Bei beendigter Zugbildung ist der LF zu beauftragen, die Zugsammelschiene einzuschalten.
+	
+4.1.2	Einschalten
+	
+	Bei lokbespannten Zügen ist die Zugsammelschiene einzuschalten
+–	nach erhaltenem Auftrag
+–	wenn kein Auftrag gegeben wurde, unmittelbar vor der Abfahrt.
+Bei Pendelzügen, auch mit Zusatzwagen, muss die Zugsammelschiene mit Inbetriebnahme des Führerstandes eingeschaltet werden. Darf die Zugsammelschiene nicht eingeschaltet werden oder muss das Vorheizen (Vorlüften / Vorklimatisieren) unterbrochen werden, ist der LF zu verständigen.
+Stehen in einem Wendebahnhof Zusatzwagen zum Anhängen bereit, darf die Zugsammelschiene erst nach erhaltenem Auftrag eingeschaltet werden. Wird kein Auftrag erteilt, ist die Zugsammelschiene unmittelbar vor der Abfahrt einzuschalten.
+	
+
+4.1.3	Ausschalten
+	
+	Der LF hat die Zugsammelschiene auszuschalten
+–	nach erhaltenem Auftrag
+–	zwischen Einfahrsignal und Perronanfang von Bahnhöfen, bei denen die Zusammensetzung des Zuges ändert, ausgenommen wenn bei Triebzügen die automatische Kupplung verwendet wird
+–	bei einer Beschädigung der Zugsammelschiene am Triebfahrzeug oder an den Wagen.
+Bei vom Steuerwagen aus geführten vakuumgebremsten Pendelzügen ist die Zugsammelschiene erst unmittelbar nach dem Halt auszuschalten.
+	
+4.2	LBT-Steuerleitung
+	
+	Die Lautsprecher-Beleuchtung-Tür-Steuerleitung (LBT) ist in Zügen mit Personenbeförderung, wenn vorhanden, zu stecken. Fehlt diese, sind die einzelnen Leitungen separat zu stecken.
+Die LBT-Leitung kann bei eingeschaltetem Triebfahrzeug gekuppelt oder entkuppelt werden.
+Ausnahme: Werden zwei Triebfahrzeuge für die Mehrfachtraktion gekuppelt bzw. wieder getrennt, ist bei eingeschalteten Triebfahrzeugen die Zustimmung des LF erforderlich.
+
+
+5	Personenübergänge
+5.1	Übergangsbrücken
+	
+	Bei Zügen mit Personenbeförderung und bei Zügen mit bedienten Gepäck- oder Postwagen sind die Übergangsbrücken abzuklappen, sofern beide Fahrzeuge solche besitzen. Fehlt am Nachbarfahrzeug der Stirnübergang, ist die Übergangsbrücke in aufgeklappter Stellung zu verriegeln. Beim Entkuppeln sind die Übergangsbrücken aufzuklappen und zu verriegeln. Die Stirnwandtüren gegen das Triebfahrzeug und am Schluss des Zuges sind abzuschliessen.
+	
+5.2	Faltenbälge
+	
+	Die Faltenbälge sind in den Reisezügen zu verbinden.
+Beim Entkuppeln sind die Faltenbälge in die Halter zu legen und mit sämtlichen Verschlussriegeln zu sichern, wenn sie nicht sofort wieder verwendet werden.
+
+

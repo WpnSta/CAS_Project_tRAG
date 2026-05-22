@@ -1,0 +1,2590 @@
+﻿Schweizerische Eisenbahnen	R 300.2
+
+
+
+Signale
+
+ 
+1	Allgemeines
+1.1	Allgemeine Bestimmungen
+1.1.1	Gültigkeit der Signale
+	
+	Es sind ausschliesslich die in diesen Vorschriften beschriebenen und dargestellten Signale und Signalbilder anzuwenden. Vorbehalten bleiben besondere Betriebsvorschriften für Versuche und besondere örtliche Verhältnisse. Sofern nichts anderes vermerkt ist, sind die ortsfesten Signale so dargestellt, wie sie in der Fahrrichtung gesehen werden.
+Signale, die entgegen den Vorschriften nicht beleuchtet sind oder sich in zweifelhafter Stellung befinden, sind als Halt zeigende Signale zu betrachten; sinngemäss sind Vorsignale als Warnung zeigend zu betrachten.
+Die Signale gelten tagsüber und nachts. Die speziell aufgeführten Signale bei Nacht sind von der Abenddämmerung bis zur vollen Tageshelle, bei schlechten Sichtverhältnissen sowie in Tunnels anzuwenden. Die Signale des Personals bei Nacht sind auch zu geben, wenn sie bei schlechter Sicht besser erkennbar sind als die Signale bei Tag.
+	
+1.1.2	Fehlende oder nicht eindeutig erkennbare ortsfeste Signaltafeln
+	
+	Wird durch das Personal ein fehlendes oder nicht eindeutig erkennbares ortsfestes Signal festgestellt, ist der zuständige FDL zu verständigen. 
+	
+1.1.3	Aufstellung der Signale
+	
+	Ortsfeste Signale befinden sich links vom Gleis. Auf einspurigen Strecken können sie zur besseren Sichtbarkeit auch rechts aufgestellt sein. Auf mehrspurigen Strecken und in Bahnhöfen können die Signale des rechten äussersten Gleises auf dessen rechter Seite aufgestellt sein. Die Bezeichnungen links und rechts gelten im Sinne der Fahrrichtung.
+In zweigleisigen Tunnels können die Signale beider Gleise zusammen zwischen den Gleisen angeordnet werden.
+Im Trambetrieb kann die Aufstellung von diesen Grundsätzen abweichend sein, wenn die Zuordnung eindeutig ist. Ortsfeste Signale können auch über den Gleisen, z.B. in der Fahrleitung angebracht sein. Bodenmarkierungen sind zulässig als zusätzliche Information zu einem bestehenden ortsfesten Signal. Als Alternative zu einem ortsfesten Signal sind Bodenmarkierungen ausschliesslich zulässig, wenn diese in den FDV definiert sind. 
+
+
+
+1.1.4	Abgabe von Signalen des Personals
+	
+	Bei der Abgabe von Signalen ist mit Ruhe und Überlegung zu handeln. Die Signale müssen deutlich sein und genau beachtet werden. Sind Missverständnisse zu befürchten, sind Mitarbeitende, welche das Signal zu beachten haben, zusätzlich zu verständigen. Ist ein Signal nicht eindeutig oder wird es nicht deutlich wahrgenommen, ist anzuhalten, seine Wiederholung abzuwarten oder zu erwirken.
+Akustische Signale sind auf das Notwendige zu beschränken.
+	
+1.1.5	Mit dem Zeichen # gekennzeichnete Signale bzw. Signalbilder 
+	
+	Die mit dem Zeichen # gekennzeichneten Signale bzw. Signalbilder sind beim Neubau bzw. bei der Erneuerung von Anlagen und Fahrzeugen nicht mehr zu verwenden.
+	
+1.1.6	Anwendung der Signalvorschriften im Trambetrieb
+	
+	Die Signalvorschriften gelten im Trambetrieb.
+Die für den Trambetrieb gültigen Bestimmungen zu Geschwindigkeits- und Weichensignalen sind in spezifischen Unterziffern am Schluss der nachstehenden Ziffern aufgeführt:
+    • Geschwindigkeitssignale	Ziffer 2.3 in Ziffer 2.3.7
+    • Weichensignale		Ziffer 2.5 in Ziffern 2.5.9 und 				2.5.10 
+Die Beilagen 1 und 2 zum R 300.2 sind nicht anwendbar.
+
+
+1.2	Darstellung
+1.2.1	Signalfarben
+	
+	In der Regel werden für die optischen Signale folgende Farben verwendet:
+	rot	Halt, Gefahr
+	orange	Vorsicht, Warnung, langsam
+	grün	Fahrt
+	gelb	elektrischer Betrieb
+	violett	Signal für Huckepackzüge
+	weiss
+	Zwergsignale, Weichensignale, Merkzeichen usw. sowie Lichtsignal als Bestätigung oder Ersatz akustischer Signale
+		
+1.2.2	Darstellung von blinkenden Signalen	
+		
+	Blinkende Signale werden wie folgt bildlich dargestellt:	
+		blinkendes Signal
+
+
+		
+1.2.3	Darstellung von akustischen Signalen	
+		
+	Akustische Signale werden wie folgt bildlich dargestellt:	
+		langer Ton
+
+
+kurzer Ton
+
+
+auf- und absteigender Ton
+		
+1.2.4	Darstellung von Signalen des Personals	
+		
+	In den Bildern bedeuten:	
+	punktierte Linie	. . . . . . . . . .	rasche Bewegung
+gestrichelte Linie	 - - - - - - - -	langsame Bewegung	
+		
+
+2	Signale für Zugfahrten und Rangierbewegungen
+2.1	Sperrsignale
+2.1.1	Sperrsignal
+	
+		Begriff
+Bedeutung	Halt
+Halt vor dem Signal 
+		Beziehung zu anderen Signalen
+Endet eine Zugfahrstrasse vor einem Sperrsignal, zeigt das vorausgehende Signal
+–  Warnung
+–  Kurze Fahrt
+	
+2.1.2	Kennzeichnung der Stellung von Entgleisungsvorrichtungen, Sperrschuhen oder Weichen von Schutzstumpen
+	
+	Die Kennzeichnung von Entgleisungsvorrichtungen oder Sperrschuhen sowie Weichen von Schutzstumpen ohne nutzbare Länge kann in der Bauart drehbarer Weichenlaternen oder mittels Lichtsignalen erfolgen.
+Drehbare Weichenlaternen
+		Begriff
+Bedeutung	Halt
+Halt vor dem Signal
+		
+		
+	Das Signal zeigt kein Bild, wenn die Entgleisungsvorrichtung oder der Sperrschuh abgeklappt sind.
+Das Signal zeigt das der Weichenstellung entsprechende Bild, wenn die Weiche nicht in den Schutzstumpen führt.
+	Lichtsignal
+		Begriff	Halt
+		Bedeutung	Halt vor dem Signal
+	
+	
+	
+	
+
+
+		Begriff	Entgleisungsvorrichtung
+oder Sperrschuh 
+nicht auf Gleis
+
+		Bedeutung	Zugehörige
+Entgleisungsvorrichtung
+oder zugehöriger Sperrschuh
+abgeklappt
+
+	Das Signal zeigt das der Weichenstellung entsprechende Bild, wenn die Weiche nicht in den Schutzstumpen führt.
+	
+2.2	Halt-, Kontroll- und Achtungssignale	
+2.2.1	Haltsignal für das Decken eines Hindernisses	
+	
+	
+Bei Tag rote Scheibe 
+ 
+
+Bei Nacht rotes Licht	Begriff
+Bedeutung	Halt
+Halt vor dem Signal bzw. vor dem entsprechenden Objekt
+		 Beziehung zu anderen Signalen
+Endet eine Zugfahrstrasse vor einem Haltsignal, kann das vorausgehende Signal
+–  Warnung
+–  Kurze Fahrt
+–  Besetztes Gleis
+–  bei Kopfgleisen
+    Geschwindigkeits-
+    Ausführung 40 km/h
+zeigen
+	
+	Haltsignale werden verwendet
+–	zum Decken gesperrter Gleise, insbesondere solcher die nicht am Stellwerk gesichert werden können. Steht in dringenden Fällen keine rote Scheibe zur Verfügung, kann das rote Licht allein oder eine ruhende rote Flagge verwendet werden
+–	zur Kennzeichnung von Gleisabschlüssen, wobei Abschlüsse von Kopfgleisen durch rote Scheiben bzw. rotes Licht und solche von Stumpengleisen nur durch rote Scheiben gekennzeichnet sind
+    • zum Decken von Drehscheiben und Schiebebühnen in nicht verriegelter Stellung (Fahrverbot). Sie zeigen ein rotes Licht, in Einzelfällen nur die rote Scheibe.
+	In verriegelter Stellung (Fahrerlaubnis) zeigen sie ein weisses Licht oder die schmale Seite der Scheibe
+–	zum Decken von Brückenwaagen, beweglichen Ladeprofilen usw. Sie zeigen die rote Scheibe, wenn die Durchfahrt gesperrt ist. Bei genügender Gleisbeleuchtung ist kein Nachtsignal vorhanden.
+Im Drei- und Vierschienengleis wird das Ende der Normal- bzw. Schmalspur mit dem Haltsignal, ergänzt durch ein N (Normalspur) bzw. S (Schmalspur) gekennzeichnet. Das Haltsignal gilt in diesem Fall nur für Fahrzeuge der entsprechenden Spurweite. Dieses Signal wird allein oder kombiniert mit einer Weichenlaterne verwendet.
+Die ISB kann in den Betriebsvorschriften das direkte Abstellen von Fahrzeugen an Prellböcken erlauben.
+
+
+2.2.2	Kontrolllicht zur Bahnübergangsanlage 	
+		
+		Begriff
+
+Bedeutung	Vorsignal zum Kontrolllicht Bahnübergangsanlage
+Es folgt eine Bahnübergangs-anlage mit Kontrolllicht
+		
+	
+	
+oder
+	Begriff
+
+Bedeutung	Bahnübergangsanlage eingeschaltet
+Blinkt das Kontrolllicht orange oder weiss, ist die Bahnübergangsanlage eingeschaltet bzw. sind die Schranken geschlossen
+		Beziehung zu anderen Signalen
+			Es kann ein Vorsignal vorausgehen
+	
+	Ältere Signale können auch eine dreieckige Form analog dem Vorsignal zum Kontrolllicht Bahnübergangsanlage aufweisen und sind streckenweise einheitlich aufgestellt.
+
+
+Überwacht das Kontrolllicht mehr als einen überwachten Bahnübergang, wird es mit einer Zusatztafel ausgerüstet auf der die Anzahl der überwachten Bahnübergänge vermerkt ist. In einer Zone mit Verschachtelung von Bahnübergangsanlagen ist auf die Zusatztafel zu verzichten.
+Das Kontrolllicht kann auch ohne schwarz/weissen Balken aufgestellt sein.
+	
+2.2.3	Achtungssignal
+	
+	Das Achtungssignal weckt Aufmerksamkeit oder warnt Personen.
+	
+1 Pfiff	Begriff
+Bedeutung	Achtung
+Vorsicht, es nähert sich ein Zug oder eine Rangierbewegung 
+		
+	
+	Der LF gibt das Signal mit der Lokpfeife, das übrige Personal mit der Mundpfeife oder dem Rufhorn. Je nach Entfernung, auf die das Signal gehört werden muss, ist es kürzer, länger, schwächer oder stärker zu geben. Nötigenfalls ist das Achtungssignal mehrmals kurz nacheinander zu wiederholen.
+Im Trambetrieb ist bei mehreren verfügbaren Mitteln zur Abgabe des Achtungssignals deren Verwendung durch die EVU zu präzisieren.
+	
+2.2.4	Pfeiftafel
+	
+		Begriff
+Bedeutung	Pfeifen
+Abgabe des Achtungssignals
+		
+	
+	Ist das Achtungssignal nur während gewissen Tageszeiten oder nur bei bestimmten Zügen zu geben, ist das auf einer besonderen Tafel zusätzlich vermerkt.
+	
+
+2.3	Geschwindigkeitssignale
+2.3.1	Geschwindigkeitstafeln für Gleisabschnitte mit verminderter Geschwindigkeit
+	
+	Die dauernd mit verminderter Geschwindigkeit zu befahrenden Streckenabschnitte werden mit Geschwindigkeitstafeln gekennzeichnet. Innerhalb der ersten und der letzten Weiche eines Bahnhofes fallen die Tafeln weg.
+Die Aufstellung der Geschwindigkeitstafeln, auch für unmittelbar sich folgende Geschwindigkeitsänderungen, entspricht der Beilage 1 sinngemäss.
+	
+		Begriff
+
+Bedeutung	Vorsignal verminderte 
+Geschwindigkeit
+Ab dem Anfangssignal gilt die signalisierte Höchstgeschwin-digkeit.
+Trägt das Vorsignal zwei Geschwindigkeitsangaben, gilt die obere (kleinere) Geschwindigkeit für Züge der tieferen Zugreihe sowie für Rangierbewegungen und die untere (grössere) Geschwindigkeit für Züge der höheren Zugreihe
+		Beziehung zu anderen Signalen
+Es folgt ein Anfangssignal
+	
+		Begriff
+
+Bedeutung	Anfangssignal verminderte Geschwindigkeit
+Ab diesem Signal gilt die verminderte Höchstgeschwindigkeit
+		Beziehung zu anderen Signalen
+			Dem Anfangssignal geht ein Vorsignal voraus und es kann ein Endsignal folgen
+	
+
+		Begriff
+
+Bedeutung	Endsignal verminderte 
+Geschwindigkeit
+Die verminderte Geschwindigkeit gilt, bis das letzte Fahrzeug an diesem Signal vorbeigefahren ist
+		Beziehung zu anderen Signalen
+			Es kann ein Anfangssignal vorausgehen
+	
+	Geschwindigkeitstafeln für Neigezüge mit entsprechender Zugreihe
+	
+		Begriff
+
+
+Bedeutung	Vorsignal verminderte Geschwindigkeit für Neigezüge mit entsprechender Zugreihe
+Ab dem Anfangssignal gilt die signalisierte Höchstgeschwindigkeit
+		Beziehung zu anderen Signalen
+			Es folgt ein Anfangssignal 
+	
+		Begriff
+
+
+Bedeutung	Anfangssignal verminderte Geschwindigkeit für Neigezüge mit entsprechender Zugreihe
+Ab diesem Signal gilt die verminderte Höchstgeschwindigkeit
+		Beziehung zu anderen Signalen
+			Dem Anfangssignal geht ein Vorsignal voraus und es kann ein Endsignal folgen 
+			
+		Begriff
+
+
+Bedeutung	Endsignal verminderte Geschwindigkeit für Neigezüge mit entsprechender Zugreihe
+Die verminderte Geschwindigkeit gilt, bis das letzte Fahrzeug an diesem Signal vorbeigefahren ist
+		Beziehung zu anderen Signalen
+			Es kann ein Anfangssignal 
+vorausgehen
+2.3.2	Geschwindigkeitstafeln für durchgehende Geschwindigkeitssignalisierung
+	
+	Bei durchgehender Geschwindigkeitssignalisierung entfallen Anfangs- und Endsignale. Die signalisierte Höchstgeschwindigkeit gilt ab dem Standort der Tafel Vorsignal verminderte Geschwindigkeit bis zur nächsten entsprechenden Geschwindigkeitstafel oder bis zum nächsten Bahnhof. Die ISB gibt die Strecken mit durchgehender Geschwindig­keitssignalisierung in den Betriebsvorschriften bekannt.
+Die Aufstellung der Tafeln für durchgehende Geschwindigkeitssignali­sierung entspricht der Beilage 3 Ziffer 1.
+	
+2.3.3	Merktafel für Änderung der Höchstgeschwindigkeit 
+	
+		Begriff
+
+Bedeutung	Änderung der Höchstgeschwindigkeit 
+Strecke
+Eine in der Streckentabelle mit kilometrischer Lage angegebene Änderung der Höchstgeschwindigkeit gilt ab diesem Signal 
+Bahnhof
+Eine in den Betriebsvorschriften der ISB mit kilometrischer Lage angegebene und signalisierte Änderung der Höchstgeschwindigkeit gilt ab diesem Signal
+	
+	
+
+2.3.4	Langsamfahrsignale
+	
+	Die Lampen blinken bei Nacht. Die Aufstellung entspricht der Beilage 1.
+	
+		Begriff
+Bedeutung	Vorsignal Langsamfahrstelle
+Die angegebene Zahl 10 zeigt die ab dem Anfangssignal höchstzulässige Geschwindigkeit an
+		Beziehung zu anderen Signalen
+			Es folgt ein Anfangssignal.
+Es kann ein Aufhebungssignal folgen
+	
+		Begriff
+
+Bedeutung	Anfangssignal Langsamfahrstelle
+Ab diesem Signal gilt die am Vorsignal signalisierte Höchstgeschwindigkeit
+		Beziehung zu anderen Signalen
+			Dem Anfangssignal geht ein Vorsignal voraus und es folgt ein Endsignal oder ein weiteres Vorsignal
+	
+		Begriff
+Bedeutung	Endsignal Langsamfahrstelle
+Die verminderte Geschwindigkeit gilt, bis das letzte Fahrzeug an diesem Signal vorbeigefahren ist
+		Beziehung zu anderen Signalen
+			Es geht ein Anfangssignal voraus
+	
+	Liegen zwischen Vor- und Anfangssignal einer Langsamfahrstelle gegen die Spitze zu befahrende Weichen und gilt die Verminderung nur für einzelne der möglichen Fahrwege, wird mit einem Aufhebungssignal die Verminderung aufgehoben.
+	
+		Begriff
+
+Bedeutung	Aufhebungssignal Langsamfahrstelle
+Ab dieser Stelle wird die vorsignalisierte Langsamfahrstelle nicht mehr befahren.
+Hat das erste Fahrzeug dieses Signal erreicht, gilt wieder die höchstzulässige Geschwindigkeit
+		Beziehung zu anderen Signalen
+			In der Regel geht ein Vorsignal voraus.
+	
+	Allgemeines
+Werden in einem Gleis verschiedene Langsamfahrstellen hintereinander signalisiert, ist für das Vorsignal, welches eine höhere Geschwindigkeit signalisiert, folgendes zu beachten:
+–	dieses Vorsignal gilt als Endsignal für die vorangehende mit einer tieferen Geschwindigkeit zu befahrende Langsamfahrstelle
+–	dieses Vorsignal ist nur mit einem orangen blinkenden Licht ausgestattet und gilt als Anfangssignal für die zweite mit höherer Geschwindigkeit zu befahrende Langsamfahrstelle
+–	dieses Vorsignal ist nicht mit einer Warnung ausgebenden Zugbeeinflussung ausgerüstet.
+Liegt der normale Halteort der Züge in Bahnhöfen und Haltestellen nach dem Vor- bzw. Anfangssignal und ist das Anfangs- bzw. das Endsignal vom normalen Halteort aus nicht sichtbar, ist ein Wiederholungssignal aufgestellt. Als Wiederholungssignal wird verwendet:
+–	ein zweites Vorsignal, jedoch ohne Warnung ausgebende Zugbeeinflussung, wenn dieses vor der Langsamfahrstelle steht
+–	ein zweites Anfangssignal, wenn dieses im Bereich der Langsamfahrstelle steht.
+	
+		Begriff
+Bedeutung	Zusatztafel
+Die verminderte Geschwindigkeit gilt nur für die auf der Zusatztafel vermerkten Gleise 
+	
+			 
+	
+	Bedeutung	Die Zusatztafel mit einfachem oder doppeltem Pfeil über den Langsamfahrsignalen, die zwischen zwei Gleisen stehen, zeigt an, für welches Gleis das Signal gilt.
+	
+2.3.5	Geschwindigkeit über Gleisbrückenwaagen, Gleisbremsen, Depotanlagen, Anschlussgleise usw.
+	
+		Bedeutung	Die am Signal vorgeschriebene Geschwindigkeit gilt über Gleisbrückenwaagen und Gleisbremsen. In Depotanlagen und Anschlussgleisen gilt diese Geschwindigkeit ab dem Signal
+	
+2.3.6	Signale für Zahnstange
+	
+	Streckenabschnitte mit Zahnstange werden mit Signalen für Zahnstange gekennzeichnet.
+Die Aufstellung entspricht der Beilage 1 sinngemäss.
+	
+		Begriff
+
+Bedeutung	Vorsignal für Zahnstangen-
+abschnitt
+Ab dem Anfangssignal gilt die signalisierte Höchstgeschwindigkeit
+		Beziehung zu anderen Signalen
+			Das Vorsignal steht etwa
+150 m vor dem Anfangssignal
+	
+		Begriff
+
+Bedeutung	Anfangssignal für Zahn-stangenabschnitt
+Bei diesem Signal befindet sich die Einfahrt in die Zahnstange.
+Bei der Einfahrt in die Zahn-stange gilt die signalisierte Höchstgeschwindigkeit
+		Beziehung zu anderen Signalen
+			Es kann ein Vorsignal vorausgehen und es folgt ein Endsignal
+	
+		Begriff
+
+Bedeutung	Endsignal für Zahnstangen-abschnitt
+Bei diesem Signal befindet sich das Ende der Zahnstange
+		Beziehung zu anderen Signalen
+			Es geht ein Anfangssignal 
+voraus
+	
+	Im französischen sowie im italienischen Sprachgebiet steht an Stelle eines «A» ein «C» bzw. an Stelle eines «E» ein «F».
+	
+
+2.3.7	Geschwindigkeitssignale im Trambetrieb
+	Geschwindigkeitstafeln
+	
+	Die maximale Geschwindigkeit der Gleisabschnitte wird mit Geschwindigkeitstafeln signalisiert. In Dienstgleisen kann auf die Signalisierung verzichtet werden, wenn die Geschwindigkeit in den Betriebsvorschriften geregelt ist.
+	
+		Begriff
+
+Bedeutung	Signalisierte Höchstgeschwindigkeit 
+Ab dem Anfangssignal gilt die signalisierte Höchstgeschwindigkeit in km/h
+			
+	Die ISB können die Hintergrund- und Schriftfarben der Geschwindigkeitstafeln in den Betriebsvorschriften festlegen.
+Bei Weichen kann die Geschwindigkeitstafel mit Richtungspfeilen ergänzt werden. Die Aufstellung entspricht der Ziffer 2 der Beilage 3. 
+Für Geschwindigkeitserhöhung ab der Zugspitze können ergänzende Zusatzsignalisierungen nach Betriebsvorschriften der ISB angebracht werden.
+	
+	Kurvengeschwindigkeitstafeln
+	
+	Die maximale Geschwindigkeit der Kurven wird mit runden Kurvengeschwindigkeitstafeln signalisiert. 
+	
+	
+Begriff
+
+Bedeutung	Kurvenhöchstgeschwindigkeit
+
+Ab Beginn der Kurve gilt die signalisierte Kurvenhöchstgeschwindigkeit
+	
+	
+Die ISB können die Hintergrund- und Schriftfarben der Kurvengeschwindigkeitstafeln in den Betriebsvorschriften festlegen.
+Die Kurvenenden sind in der Regel nicht signalisiert. Die ISB können Signale oder Bodenmarkierungen für das Ende der Kurvengeschwindigkeit festlegen.
+Bei Weichen kann die Kurvengeschwindigkeitstafel mit Richtungspfeilen ergänzt werden, analog der Anwendung bei Geschwindigkeitstafeln.	
+	
+Durchgehende Geschwindigkeitssignalisierung	
+	
+Bei durchgehender Geschwindigkeitssignalisierung entfallen Kurvengeschwindigkeitstafeln und die Signalisierung der Kurvenenden. Die signalisierte Höchstgeschwindigkeit gilt von Standort zu Standort der Tafeln Signalisierte Höchstgeschwindigkeit. 
+Die Aufstellung der Tafeln für durchgehende Geschwindigkeitssignalisierung entspricht der Beilage 3 Ziffer 2.	
+	
+Nicht durchgehende Geschwindigkeitssignalisierung	
+	
+Die ISB gibt die Liniengleise ohne durchgehende Geschwindigkeitssignalisierung in den Betriebsvorschriften bekannt.	
+2.3.8	Langsamfahrsignale im Trambetrieb	
+	
+Zur Verbesserung der Sichtbarkeit können die Langsamfahrsignale beleuchtet werden.	
+	
+	Begriff
+
+Bedeutung
+Vorsignal Langsamfahrstelle 
+
+Die angegebene Zahl zeigt die ab dem Anfangssignal höchstzulässige Geschwindigkeit in km/h an	
+Beziehung zu anderen Signalen	
+	Es folgt ein Anfangssignal
+	
+	
+Das Vorsignal muss in der Regel in Gleisabschnitten mit einer Höchstgeschwindigkeit über 50 km/h aufgestellt sein. Bei tieferen Geschwindigkeiten kann die ISB das Vorsignal bei Bedarf aufstellen.	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Begriff
+
+Bedeutung	Anfangssignal Langsamfahrstelle
+Ab diesem Signal gilt die auf der Zusatztafel signalisierte Höchstgeschwindigkeit in km/h
+	Beziehung zu anderen Signalen
+		Dem Anfangssignal kann ein Vorsignal vorausgehen. 
+Es folgt ein Endsignal oder ein weiteres Anfangssignal
+	
+	
+Anfangssignale von Langsamfahrstellen sind mit einer rechteckigen Zusatztafel analog der Geschwindigkeitstafel mit der erlaubten Geschwindigkeit ergänzt. Die Zusatztafel kann unter, neben oder über dem Anfangssignal angebracht werden. 	
+	
+	Begriff
+
+Bedeutung
+Endsignal Langsamfahrstelle
+
+Die verminderte Geschwindigkeit gilt bis das letzte Fahrzeug an diesem Signal vorbeigefahren ist		Beziehung zu anderen Signalen	
+	Es geht ein Anfangssignal voraus		
+	
+2.4	Zwergsignale
+2.4.1	Allgemeines
+	
+	Zwergsignale dienen der Regelung von Rangierbewegungen sowie dem gegenseitigen Schutz von Rangierbewegungen unter sich oder gegen Zugfahrten.
+Zwergsignale sind mit einer Zahl und einem Buchstaben gekennzeichnet.
+	
+2.4.2	Gültigkeit und Aufstellung der Zwergsignale
+	
+	Die Zwergsignale stehen bei den GFM. Im Bereich einer Weiche sind die Signale so aufgestellt, dass die Gleis­zugehörigkeit eindeutig ersichtlich ist.
+Unabhängig von Weichen sind Zwergsignale zur Deckung von Bahn­übergangsanlagen und zur Unterteilung langer Gleise aufgestellt.
+Zwergsignale befinden sich in Bodennähe. Sie können ausnahmsweise erhöht, z.B. an einem Mast, angebracht werden oder seitenverkehrt aufgestellt sein.
+	
+	Rechtsaufstellung der Zwergsignale
+	
+	
+Bei Rechtsaufstellung weist auf der Vorderseite ein leuchtender Pfeil auf das zugehörige Gleis	
+	
+Rückseite der Zwergsignale	
+	
+	Auf der Rückseite der Zwergsignale weist ein aufgemalter weisser Pfeil auf das zugehörige Gleis.
+Zeigt das Zwergsignal Fahrt oder Fahrt mit Vorsicht, ist dies an einem weissen schrägen Lichtstreifen (Rücklicht) erkennbar.
+	
+	Im Drei- und Vierschienengleis kann das Zwergsignal mit einem leuchtenden N (Normalspur) bzw. S (Schmalspur) ergänzt sein. Die Zustimmung gilt in diesem Fall nur für Fahrzeuge der entsprechenden Spurweite.
+	
+	
+	
+	
+2.4.3	Zwergsignale in Zugfahrstrassen
+	
+	Zwergsignale zeigen bei eingestellter Zugfahrstrasse Fahrt. Signalisiert ein Haupt- oder Sperrsignal Halt, zeigt das vorausgehende Zwergsignal Fahrt mit Vorsicht.
+	
+2.4.4	Letztes Zwergsignal gegen die Strecke
+	
+	Bei einer Zugfahrt zeigt das letzte Zwergsignal Fahrt, bei einer Rangierbewegung Fahrt mit Vorsicht.
+	
+	
+2.4.5	Signalisierung an Zwergsignalen
+	
+	
+Begriff
+Bedeutung	Halt
+Halt vor dem Signal
+	
+Beziehung zu anderen Signalen	
+	
+Ein vorausgehendes Zwergsignal zeigt Fahrt mit Vorsicht	
+	
+	Begriff
+Bedeutung
+Fahrt mit Vorsicht
+Beginn oder Fortsetzung der Fahrt. Unmittelbar nach dem Zwergsignal muss mit einem Hindernis gerechnet werden	
+	Beziehung zu anderen Signalen
+	
+	Das nächste Zwergsignal zeigt Halt, Fahrt mit Vorsicht oder es folgt kein weiteres Zwergsignal
+	
+	
+Begriff
+Bedeutung	Fahrt
+Beginn oder Fortsetzung der Fahrt
+	
+Beziehung zu anderen Signalen	
+	
+Das nächste Zwergsignal zeigt Fahrt oder Fahrt mit Vorsicht	
+	
+2.4.6	Zwergsignale im Bereich von Weichen	
+	
+Steht das Zwergsignal in der Mitte einer Kreuzungsweiche, gilt es für beide Zweige. Bei Halt zeigendem Zwergsignal ist der Halteort vor den Weichenzungen.	
+	
+		
+	Steht das Zwergsignal im Bereich der Weichenzungen einer einfachen Weiche, gilt es für beide Zweige. Bei Fahrt gegen die Weichenspitze ist der Halteort bei Halt zeigendem Zwergsignal vor den Weichenzungen. Bei der Fahrt von der Wurzel aus ist der Halteort vor dem Halt zeigenden Zwergsignal.
+	
+	
+	
+	
+Steht das Zwergsignal zwischen dem Herzstück und dem Sicherheitszeichen einer einfachen Weiche, gilt es nur für einen Zweig. Bei Halt zeigendem Zwergsignal ist der Halteort vor diesem Zwergsignal.	
+	
+	
+2.5	Weichensignale
+2.5.1	Allgemeines
+	
+	Weichensignale zeigen mit den gleichen Signalbildern nach beiden Fahr-richtungen an, für welchen Fahrweg die Weiche gestellt ist. Das Weichensignal zeigt:
+–	die gerade Stellung, wenn die Weiche nach dem geraden Zweig oder bei Krümmung beider Zweige (Bogenweiche) nach dem äusseren Strang gestellt ist
+–	die ablenkende Stellung, wenn die Weiche nach dem gekrümmten Zweig oder bei Krümmung beider Zweige (Bogenweiche) nach dem inneren Strang gestellt ist.
+	Als Weichensignale werden verwendet:
+–	drehbare Laternen für einfache Weichen und einfache Kreuzungsweichen
+–	Weichen-Lichtsignale für einfache Weichen und Kreuzungs-
+weichen
+–	feste Laternen mit beweglichen Blenden für Kreuzungsweichen
+    • Weichensignaltafeln.
+Weichensignale können links oder rechts der zugehörigen Weiche aufgestellt sein.
+	
+2.5.2	Kennzeichnung der Stellung einfacher Weichen
+	Drehbare Laterne
+	
+		Begriff
+Bedeutung 	Weiche in gerader Stellung
+Fahrt über den geraden Zweig 
+		
+	Begriff
+Bedeutung 	Weiche in ablenkender Stellung
+Fahrt über den ablenkenden Zweig	
+	Bei einer symmetrischen oder annähernd symmetrischen Weiche wird die Stellung mit Pfeilen dargestellt.
+			
+Begriff
+Bedeutung 	Weiche in Stellung links
+Fahrt über den linken Zweig	
+			Begriff
+Bedeutung 
+Weiche in Stellung rechts
+Fahrt über den rechten Zweig	
+		Weichen-Lichtsignal	
+		
+Begriff
+Bedeutung 	Weiche in gerader Stellung
+Fahrt über den geraden Zweig 		
+	
+Begriff
+
+Bedeutung 	Weiche in ablenkender 
+Stellung
+Fahrt über den ablenkenden Zweig
+	
+	Ist das Weichen-Lichtsignal dunkel oder blinkend, befindet sich die Weiche nicht in der Endlage.	2.5.3	Ziffer entfällt
+	
+		2.5.4	Kennzeichnung der Stellung einfacher Kreuzungsweichen 
+	
+	
+oder
+
+Begriff
+Bedeutung 	Weiche in gerader Stellung
+Fahrt über das Gleis der Hauptrichtung
+
+			
+oder
+
+Begriff
+Bedeutung 	Weiche in gerader Stellung
+Fahrt über das Durchquerungsgleis
+
+			
+oder
+
+Begriff
+Bedeutung 	Weiche in ablenkender Stellung
+Fahrt aus dem Gleis der Hauptrichtung in das Durchquerungsgleis oder umgekehrt
+	
+2.5.5	Kennzeichnung der Stellung doppelter Kreuzungsweichen 
+	Feste Laterne mit beweglichen Blenden
+	
+	
+Begriff
+Bedeutung 	Weiche in gerader Stellung
+Fahrt über das Gleis der Hauptrichtung
+
+			
+Begriff
+Bedeutung 	Weiche in gerader Stellung
+Fahrt über das Durchquerungsgleis
+			
+	
+Begriff
+Bedeutung 	Weiche in ablenkender Stellung
+Fahrt aus dem Gleis der Hauptrichtung in das Durchquerungsgleis oder umgekehrt		
+	
+Begriff
+Bedeutung 	Weiche in ablenkender Stellung
+Fahrt aus dem Durchquerungsgleis in das Gleis der Hauptrichtung oder umgekehrt
+	
+	Weichen-Lichtsignal
+			
+	Begriff 
+Bedeutung
+Weiche in gerader Stellung
+Fahrt über das Gleis der Hauptrichtung			
+			
+Begriff 
+Bedeutung	Weiche in gerader Stellung 
+Fahrt über das Durchquerungsgleis		
+	oder
+			
+Darf nicht auf Normalspurnetz verwendet werden	
+	
+Begriff 
+
+Bedeutung	Weiche in ablenkender Stellung
+Fahrt aus dem Gleis der Hauptrichtung in das Durchquerungsgleis oder umgekehrt
+				
+Begriff 
+
+Bedeutung	Weiche in ablenkender Stellung
+Fahrt aus dem Durchquerungsgleis in das Gleis der Hauptrichtung oder umgekehrt		
+				Ist das Weichen-Lichtsignal dunkel oder blinkend, befindet sich die Weiche nicht in der Endlage.
+	
+2.5.6	Kennzeichnung der Stellung von auffahrbaren Weichen
+			Fahrt gegen die Weichenspitze	
+			Begriff
+Bedeutung 	Weiche in Endlage
+Weiche befahrbar
+	Ist das Kontrolllicht dunkel oder blinkend, befindet sich die Weiche nicht in der Endlage.
+		Fahrt von der Wurzel aus		
+		Begriff
+Bedeutung 	Weiche in Grundstellung
+Auffahren gestattet	
+	
+Es werden drehbare Laternen oder Weichen-Lichtsignale mit weiss/ grünem bzw. nur grünem Bild verwendet.	
+	
+2.5.7	Sicherheitszeichen für Weichen und Kreuzungen
+	
+	Das Signal steht zwischen den zusammenlaufenden Gleisen.
+			
+Begriff
+Bedeutung 	Sicherheitszeichen
+Das Zeichen zeigt an, bis zu welchem Punkt sich Fahrzeuge den Weichen und Kreuzungen nähern dürfen, ohne sich selbst und andere Fahrzeuge zu gefährden
+	
+	Bei Schmalspurbahnen mit Drei- und Vierschienengleis oder Roll­schemel- / Rollbockbetrieb können unterschiedliche Sicherheits­zeichen für normal- bzw. schmalspurige Fahrzeuge stehen.
+	
+2.5.8	Kennzeichnung von Abschnitten mit GFM
+			Anfang und Ende einer GFM können durch einen gelben Pflock oder einen gelb gestrichenen Kabelendverschluss gekenn­zeichnet sein.
+	
+	
+Begriff
+
+Bedeutung 	Kennzeichnung der GFM
+Das Zeichen zeigt an, bis zu welchem Punkt sich Fahrzeuge den GFM nähern dürfen, ohne das Umstellen der zugehörigen Weichen, Entgleisungsvorrich­tungen oder Sperrschuhe zu verhindern
+	
+2.5.9	Weichensignale im Trambetrieb
+	
+	Im Trambetrieb wird die Weichenlage in der Regel nur für Fahrten gegen die Spitze mit Weichensignalen signalisiert. 
+Das Weichensignal zeigt:
+    • Die gerade Stellung, wenn die Weiche nach dem geraden Zweig oder bei Krümmung beider Zweige (Bogenweiche) nach dem äusseren Strang gestellt ist.
+    • Die ablenkende Stellung, wenn Weichen nach dem gekrümmten Zweig oder bei Krümmung beider Zweige (Bogenweiche) nach dem inneren Strang gestellt ist.
+
+
+
+Als Weichensignale werden verwendet:
+    • Weichen-Lichtsignale 
+    • Weichensignaltafeln.
+			Kennzeichnung der Stellung einfacher Weichen mit Weichen-Lichtsignalen
+	
+	
+Begriff
+
+Bedeutung 	Weiche in gerader Stellung
+
+Fahrt über den geraden Zweig
+	
+	
+oder	
+	
+	
+	
+	oder
+	
+	
+	
+
+	Begriff
+
+Bedeutung 
+Weiche in ablenkender Stellung
+Fahrt über den ablenkenden Zweig	
+	
+	oder
+	
+	
+	
+	
+	
+	Begriff
+
+Bedeutung 
+Verschlussanzeige
+
+Weiche ist gegen elektrisches Umstellen gesichert	
+	
+	oder
+	
+	
+	
+	
+	
+Die Bezeichnung der Weichen ist auf dem Rahmen oder einem zusätzlichen Schild angebracht.
+Die Weichensignale können mit weissem, gelbem oder orangem Licht ausgeführt sein.
+Ist das Weichen-Lichtsignal dunkel oder blinkend, befindet sich die Weiche nicht in der Endlage.
+Zusatzinformationen zur Weichensignalisierung, welche durch die ISB in den Betriebsvorschriften geregelt werden können:
+    • Die Art der Weiche (z.B. Handweiche, automatisch angesteuerte Weiche, auffahrbare Weiche) kann mit einer Zusatzinformation mit verschieden farbigen Rahmen oder verschieden farbigen Bezeichnungsschildern signalisiert sein.
+    • Der Standort der Empfänger für die Weichensteuerung kann mit einer Signaltafel oder einer Bodenmarkierung gekennzeichnet sein. Die vorgesehene Geschwindigkeit für das Befahren der entsprechenden Empfänger kann abweichend zur Strecken-geschwindigkeit als generelle Höchstgeschwindigkeit festgelegt oder ortsspezifisch unter Berücksichtigung der Distanzen und des Bremsvermögens auf der Signaltafel signalisiert werden.	
+	
+Kennzeichnung der Stellung einfacher Weichen mit Weichen-signaltafel	
+	
+Die Stellung einfacher Weichen kann anstelle eines Weichenlichtsignals mit Weichensignaltafel signalisiert werden. In diesem Fall zeigt die Weichensignaltafel das entsprechende Bild wie beim Weichen-Lichtsignal.	
+	
+Zusatzsignal zu Weichensignal, Gleisnummernsignal	
+	
+	Begriff
+
+Bedeutung 
+Gleisnummernsignal
+
+Der Fahrweg ist aus oder nach dem am Gleisnummernsignal angezeigten Gleis vorgesehen
+	
+	
+	Zusätzlich zum Gleisnummernsignal sind die Weichen-Lichtsignale oder die Weichenlagen zu kontrollieren.
+Das Gleisnummernsignal kann mit weissem, gelbem oder orangem Licht ausgeführt sein.
+	
+2.5.10	Sicherheitszeichen für Weichen und Kreuzungen im Trambetrieb
+	
+	Das Signal steht zwischen den zusammenlaufenden Gleisen.
+	
+	
+Begriff
+
+Bedeutung 	Sicherheitszeichen
+
+Das Zeichen zeigt an, bis zu welchem Punkt sich Fahrzeuge den Weichen und Kreuzungen nähern dürfen, ohne sich selbst und andere Fahrzeuge zu gefährden
+	
+	
+	Die Signale 299.15 und 299.16 können auf gemeinsamer Verkehrsfläche aufgemalt sein.
+
+2.6	Hinweissignale	
+2.6.1	Merktafel für Streckengeräte der Zugbeeinflussung	
+	
+Die Lage der Streckengeräte der Zugbeeinflussung wird, ausgenommen in den folgenden Fällen, nicht gekennzeichnet.	
+	
+	Bedeutung
+Die Zugbeeinflussung dient der Funktionskontrolle von Bahnübergangsanlagen ohne Kontrolllicht	
+	
+	
+	Bedeutung
+Das Streckengerät befindet sich nicht beim zugehörigen Hauptsignal, bei der zugehörigen Gruppensignal-Halttafel 
+oder es ist kein Signal vorhanden	
+	
+	Bedeutung	Die Zugbeeinflussung dient der Geschwindigkeitsüberwachung	
+		Aus Profilgründen können diese Hinweissignale auch senkrecht aufge­stellt sein.	
+2.6.2	Merktafel für Impulsempfänger im Bahnbetrieb	
+	
+	Bedeutung	Anfang Gleisschlaufe für
+Impulsempfänger	
+	
+	Bedeutung
+Ende Gleisschlaufe für
+Impulsempfänger	
+	
+2.6.3	Merktafel für Impulsempfänger im Trambetrieb
+			
+Bedeutung
+	Standort Empfänger Signal-bzw. Weichensteuerung
+Bedienung gemäss Betriebsvorschriften der ISB.
+Das Hinweissignal kann mit Richtungspfeilen ergänzt sein, welche anzeigen, für welche Fahrrichtung das Signal zu betätigen ist.
+			
+	
+	
+2.6.4	Bahnhofanfang- und Bahnhofendetafel	
+	
+Die Bahnhofanfangtafel ist beim Signalsystem N immer, beim Signal­system L nach Bedarf aufgestellt.
+Die Bahnhofendetafel ist bei beiden Signalsystemen nach Bedarf aufgestellt. Wenn sie direkt am Rücken des Einfahrsignals angebracht ist, kann sie sich auch rechts befinden.
+Bei Bahnhöfen ohne Einfahrsignale sind die Bahnhofanfang- und Bahn-hofendetafeln nach Bedarf aufgestellt. Sind solche vorhanden, sind sie je Standort immer gemeinsam aufgestellt. 
+Bahnhofanfang- bzw. Bahnhofendetafel sind mit dem abgekürzten Namen des betreffenden Bahnhofs versehen.	
+	
+	Begriff
+Bedeutung
+Bahnhofanfang
+Rangiergrenze 
+Strecke – Bahnhof	
+	
+	Begriff
+Bedeutung
+Bahnhofende
+Rangiergrenze
+Bahnhof – Strecke			
+2.6.5	Neigungszeiger 	
+		Änderung der Neigung von 2 ‰ und mehr kann als Traktionshilfe mit Neigungszeiger signalisiert werden. Bei mehrspuriger Strecke sind sie nur auf einer Seite des Bahnkörpers aufgestellt.	
+	
+	Begriff
+
+Bedeutung
+Beginn oder Änderung der Steigung
+Die gross geschriebene Zahl gibt die Steigung in Promille an.
+Die klein geschriebene Zahl gibt die Länge der betreffen­den Steigung in Metern an	
+	
+	
+	Begriff
+
+Bedeutung	Beginn oder Änderung des Gefälles
+Die gross geschriebene Zahl gibt das Gefälle in Promille an.
+Die klein geschriebene Zahl gibt die Länge des betreffenden Gefälles in Metern an	
+	Begriff
+Bedeutung	Beginn der Horizontalen
+Die Zahl gibt die Länge der Horizontalen in Metern an	
+2.6.6	Kilometer-, Hektometer- und Metertafeln	
+		Die Kilometrierung der Bahn wird mit Kilometer-, Hektometer- und allenfalls Metertafeln gekennzeichnet.	
+	
+	Begriff
+Bedeutung
+Kilometertafel
+Die Zahl gibt den Kilometer an	
+	
+	Begriff
+Bedeutung
+Hektometertafel
+Die obere Zahl gibt den Kilometer, die untere den Hektometer an			
+	Begriff
+Bedeutung
+Metertafel
+Die obere Zahl gibt den Kilometer, die untere den Meter an			
+2.6.7	Kommunikationskanal-Tafel 
+			Die Kommunikationskanal-Tafel informiert den LF über den einzustellenden Funkkanal bzw. das anzuwendende Mobilkommunikationsmittel.
+	
+	
+Begriff
+Bedeutung	Kommunikationskanal
+Ab dieser Tafel gilt das angegebene Mobilkommunikationsmittel ggf. mit dem entsprechenden Kanal
+	
+	
+			
+2.6.8	Kennzeichnung der Telefonstandorte
+			
+Begriff
+Bedeutung	Telefonstandort
+Hier befindet sich ein Telefon
+	
+	
+	In Tunnels können Telefonstandorte durch Laternen gekennzeichnet sein.
+Bei besonderen örtlichen Verhältnissen weisen Pfeile in Richtung des nächsten Telefons.		
+	
+	
+2.6.9	Merktafel für Sicherheits-Zwischenraum	
+	
+	Begriff
+Bedeutung
+Sicherheits-Zwischenraum
+Der Aufenthalt und das Arbeiten zwischen Gleisen oder zwischen einem Gleis und einem festen Hindernis sind mit der gebotenen Vorsicht erlaubt	
+	
+	Bedeutung	Der Aufenthalt und das Arbeiten sind mit der gebotenen Vorsicht nur zwischen den beiden mittleren Gleisen erlaubt	
+	
+	Bedeutung	Der Aufenthalt und das Arbeiten sind mit der gebotenen Vorsicht nur zwischen dem festen Hindernis und dem angrenzenden Gleis erlaubt	
+	
+Die Tafeln können entsprechend der vorhandenen Situation angepasst werden.			
+2.6.10	Kennzeichnung Bahnübergangsanlage	
+	
+	Begriff
+
+Bedeutung
+Überwachte Bahnübergangsanlage
+Bahnübergang ist mittels einer überwachten Bahnübergangsanlage gesichert.
+Die Kennzeichnung ist nummerisch, in der Regel kilometrisch aufzuführen	
+	
+	Begriff
+
+Bedeutung	Eigensichere Bahnübergangsanlage
+Bahnübergang ist mittels einer eigensicheren Bahnübergangsanlage gesichert.
+Die Kennzeichnung ist nummerisch in der Regel kilometrisch aufzuführen	
+2.6.11	Kennzeichnung Zone mit Verschachtelung von Bahnübergangsanlagen			
+Zonen mit Verschachtelung können mittels Kennzeichnung Zone mit Verschachtelung von Bahnübergangsanlagen signalisiert werden. Die Kennzeichnung wird an jedem Fahrleitungsmast in der Zone mit Verschachtelung angebracht.	
+	
+	Begriff
+
+Bedeutung
+Zone mit Verschachtelung von Bahnübergangsanlagen
+Innerhalb der signalisierten Zone mit Verschachtelung sind bei 
+–	Zustimmung zur Fahrt mittels Hauptsignal gestörte Bahnübergangsanlage
+–	dunklem Kontrolllicht
+–	Ansprechen der Zugbeeinflussung bei der Merktafel für Streckengeräte der Zugbeeinflussung
+alle folgenden Bahnübergangsanlagen gemäss den Bestimmungen für das «Befahren einer gestörten überwachten Bahnübergangsanlage» zu befahren.	
+2.6.12	Merktafel Anschlussgleis			
+	Begriff
+
+Bedeutung
+Anfang Anschlussgleis
+
+Grenze Eisenbahninfrastruktur – Anschlussgleis	
+	
+	Begriff
+
+Bedeutung	Ende Anschlussgleis
+
+Grenze Anschlussgleis – 
+Eisenbahninfrastruktur	
+2.6.13	Infrastrukturgrenzen im Trambetrieb			
+	Begriff
+
+Bedeutung
+Infrastrukturgrenze
+
+Wechsel zu entsprechender
+ISB	
+	
+2.7	Signale des Personals
+2.7.1	Winken
+	
+	Das Winken erfolgt durch eine senkrechte, kreisförmige Bewegung in der Fahrrichtung:
+–	bei Tag je nach Sichtverhältnissen mit dem Arm, mit der zusammengerollten Flagge oder einem gut sichtbaren Gegenstand
+–	bei Nacht mit der Laterne mit weissem Licht.
+	
+	
+Begriff
+Bedeutung	Winken
+–	Für Rangierbewegungen:
+Zustimmung zur Rangierbewegung
+–	Für Zugfahrten:
+Vorrücken über den 
+normalen Halteort
+2.7.2	Handsignal	
+	
+
+Bei Tag	Bei Tag	
+Ausgestreckter Arm quer zum Gleis
+Bei Nacht	
+Ausgestreckter Arm mit weissem Licht quer zum Gleis
+		Begriff
+Bedeutung
+Handsignal
+Halt bei der signalgebenden Person			
+
+Bei Nacht	
+			
+2.8	Signale für Strassenbahnbereich
+2.8.1	Anfang und Ende Strassenbahnbereich
+	
+	Strassenbahnbereiche im Bahnbetrieb werden auf der Strecke und in Bahnhöfen mit Signalen für Strassenbahnbereich gekennzeichnet. Bei durchgehender Geschwindigkeitssignalisierung entspricht die Aufstellung der Beilage 3.
+	
+	
+Begriff
+
+Bedeutung	Vorsignal für Strassenbahnbereich
+Ab dem Anfangssignal gelten die Vorschriften für das Befahren von Strassenbahnbereichen		
+Beziehung zu anderen Signalen		
+	Es folgt ein Anfangssignal		
+	
+Begriff
+
+Bedeutung	Anfangssignal für Strassenbahnbereich
+Ab diesem Signal gelten die Vorschriften für das Befahren von Strassenbahnbereichen		
+Beziehung zu anderen Signalen		
+	Es kann ein Vorsignal voraus gehen und ein Endsignal folgen		
+	
+Begriff
+
+Bedeutung	Endsignal für Strassenbahnbereich
+Die Vorschriften für das Befahren von Strassenbahnbereichen gelten, bis das letzte Fahrzeug an diesem Signal vorbeigefahren ist		
+Beziehung zu anderen Signalen		
+	Es kann ein Anfangssignal voraus gehen		
+2.8.2	Strassenbahnsignale	
+	
+Strassenbahnsignale befinden sich in unmittelbarer Nähe der Verkehrsregelungsanlage und stehen mit dieser in Abhängigkeit.
+Die Kennzeichnung von Signalen, die in Abhängigkeit mit dem Stellwerk stehen, ist in den Betriebsvorschriften der ISB zu regeln.
+Das Signalbild kann eine Lichterreihe oder einen leuchtenden Balken zeigen.	
+	
+	Begriff
+Bedeutung	Halt
+Halt vor dem Signal	
+		
+			
+			
+	Begriff
+Bedeutung	Fahrt
+Fahrt	
+		
+			
+Mit dem Fahrt zeigenden Signal kann auch die entsprechende Richtung nach rechts oder nach links gezeigt werden.	
+	
+	Begriff
+Bedeutung	Ausser Betrieb
+Fahrt mit Vorsicht
+Die Verkehrsregelungsanlage ist ausser Betrieb	
+		
+			
+	Der Begriff Ausser Betrieb kann alternativ mit einem oder mehreren, blinkenden Lichtpunkten gemäss Betriebsvorschriften signalisiert werden. 
+Zusatzinformationen zu Strassenbahnsignalen im Trambetrieb, welche durch die ISB in den Betriebsvorschriften geregelt werden können:
+-	Zusatzsignalisierung zur Gültigkeit des Signals nach
+- Verkehrsträger (z.B. Tram, Bus)
+- Richtung (z.B. Pfeil) oder
+- Linie
+-	Anmeldung an der Verkehrsregelungsanlage
+-	bevorstehender Phasenwechsel.	
+Im Trambetrieb können die ISB festlegen, in welchen Fällen gelb blinkende Lichtsignale der Lichtsignalanlage der Bedeutung Ausser Betrieb von Strassenbahnsignalen entspricht.
+	
+2.9	Grenze zwischen Bahn- und Trambetrieb
+	
+	
+Begriff
+
+Bedeutung	Anfang Trambetrieb /
+Ende Bahnbetrieb
+Grenze Bahnbetrieb – 
+Trambetrieb
+	
+	
+	
+	Begriff
+
+Bedeutung
+Anfang Bahnbetrieb / 
+Ende Trambetrieb
+Grenze Trambetrieb – 
+Bahnbetrieb	
+	
+	
+	
+
+3	Signale für Rangierbewegungen
+3.1	Ortsfeste Rangiersignale
+	
+	Die Bestimmungen über die ortsfesten Rangiersignale gelten für den Bahnbetrieb. 
+Im Trambetrieb legen die ISB die ortsfesten Rangiersignale in den Betriebsvorschriften fest. Dabei orientieren sie sich an den Rangiersignalen im Bahnbetrieb.
+	
+3.1.1	Allgemeines
+	
+	Rangiersignale dienen der Regelung von Rangierbewegungen sowie dem gegenseitigen Schutz von Rangierbewegungen unter sich oder gegen Zugfahrten.
+Rangiersignale sind mit einem Buchstaben und einer Zahl gekenn­zeichnet.
+	
+3.1.2	Gültigkeit und Aufstellung der Rangiersignale
+	
+	Rangiersignale werden als Lichtsignal oder als Kombination Lichtsignal-Signaltafel verwendet. Rangiersignale in der Ausführung als Lichtsignal können am gleichen Signal Bilder des Rangier-Haltsignals wie auch Bilder des Räumungssignals zeigen. Am Lichtsignal kann auch das Sperrsignal gezeigt werden.
+	
+	Rechtsaufstellung der Rangiersignale
+	
+		Bei Rechtsaufstellung weist eine Zusatztafel mit Hinweispfeil auf das zugehörige Gleis hin
+	
+	Rückseite der Rangiersignale
+	
+		Zeigt das Rangiersignal Zustimmung zur Rangier-bewegung oder Rangieren gestattet, ist dies an einem weissen Licht (Rücklicht) erkennbar.
+	
+
+3.1.3	Signalisierung an Rangiersignalen
+	
+	Rangierhaltsignal
+	
+		Begriff
+Bedeutung	Halt für Rangierbewegung
+Halt für Rangierbewegungen vor dem Signal. Gilt das Signal für mehrere Gleise, ist der Halteort beim Sicherheits­zeichen der betreffenden Weiche
+	
+		Begriff
+
+Bedeutung	Zustimmung zur Rangier-
+bewegung
+Beginn oder Fortsetzung der Rangierbewegung	
+	
+
+	Räumungssignal
+	
+	Der Geltungsbereich der Räumungssignale ist in den örtlichen Betriebs-vorschriften geregelt.
+	
+		Begriff
+Bedeutung	Rangieren verboten
+Räumung und Freihaltung der durch dieses Signal zu schützenden Zugfahrstrasse
+	
+	Mit der Zustimmung des FDL dürfen Rangierbewegungen auch bei Verbotstellung des Räumungssignals ausgeführt werden.
+	
+		Begriff
+Bedeutung	Rangieren gestattet
+Im Gültigkeitsbereich des Signals ist keine Zugfahrstrasse eingestellt
+	
+
+3.2	Signale an Fahrzeugen bei Rangierbewegungen
+3.2.1	Kennzeichnung des arbeitenden Triebfahrzeugs bei Rangierbewegungen im Bahnhof
+	
+	Rangierlok
+	
+		Bei Tag
+–	vorne (vorwärts) in der Mitte oben ein unbeleuchtetes «V»
+–	hinten (rückwärts) kein Signal
+Bei Nacht
+–	vorne (vorwärts) in der Mitte oben ein beleuchtetes weisses «V» und zwei weisse Lichter
+–	hinten (rückwärts) zwei weisse Lichter
+	
+	In Anlagen, in denen mehrere Rangierloks eingeteilt sind, werden diese vorne und hinten mit Dienstnummern gekennzeichnet.
+	
+3.2.2	Kennzeichnung bei Rangierbewegungen auf der Strecke
+	
+	Triebfahrzeug
+	
+		Vorne zwei weisse Lichter
+	
+	An Triebfahrzeugen, die nicht an der Spitze der Rangierbewegungen  verkehren, sind die Lichter der Vorwärtsrichtung gelöscht.
+	
+		Hinten dunkel oder unten ein weisses Licht 
+Bei Nacht am Schluss der Rangierbewegung, unten ein weisses oder rotes Licht
+	
+	Wagen
+	
+		Bei Tag zeigen die Wagen kein Signal
+Bei Nacht
+–	an der Spitze der Rangierbewegung ein weisses Licht
+–	am Schluss der Rangierbewegung ein weisses oder rotes Licht
+	Rangierbewegungen, bestehend aus einem Triebfahrzeug und Kleinwagen (Rollleitern, Lorrys, usw.) tragen die Signale nur am Triebfahrzeug, wenn sie an den Kleinwagen nicht angebracht werden können.
+Fahrzeuge Schiene / Strasse, die nicht wie Triebfahrzeuge signalisieren können, zeigen in Vor- und Rückwärtsfahrt die Signalisierung gemäss Strassenverkehrsgesetz.
+	
+3.2.3	Kennzeichnung des Triebfahrzeugs bei Rangierbewegungen im Trambetrieb
+	
+	Bei Rangierbewegungen wird die Kennzeichnung wie bei Zügen im Trambetrieb verwendet.
+	
+3.2.4	Kennzeichnung von Fahrzeugen, an die nicht angefahren werden darf
+	
+	
+Bei Tag
+
+
+Bei Nacht rotes Licht	Begriff
+Bedeutung	Halt
+Halt vor diesen Fahrzeugen
+	Anstelle dieses Signals können vor und hinter den Fahrzeugen Haltsignale aufgestellt sein.
+	
+
+3.2.5	Vorheiztafel
+	
+	Fahrzeuge, die mit ortsfesten Anlagen oder mit unbesetzten Triebfah­rzeugen vorgeheizt werden, sind mit Vorheiztafeln gekennzeichnet, aus­genommen Pendelzüge, auch mit Zusatzwagen, die über das Trieb­fahrzeug vorgeheizt werden.
+	
+		Bedeutung	Die Zugsammelschiene ist 
+unter Spannung
+	
+	Fahrzeuge, die zu anderen Zwecken über Kabel aus ortsfesten Anlagen mit Strom versorgt werden, sind ebenso gekennzeichnet.
+	
+3.2.6	Hemmschuhwarntafel 
+	
+		Bedeutung	Die Fahrzeuge sind mit Hemmschuhen gegen Entlaufen gesichert
+	
+
+3.3	Signale des Personals bei Rangierbewegungen
+3.3.1	Allgemeines
+	
+	Die akustischen Signale sind mit der Mundpfeife zu geben und durch Armbewegungen bzw. nachts, wo nichts anderes erwähnt ist, mit einem weissen Licht zu bestätigen. Die optischen und akustischen Signale fallen weg, wenn ein Befehl mit Funk oder mündlich erteilt wird.
+	
+3.3.2	Vorwärts
+	
+		Ein langer Pfiff und einmaliges Bewegen des erhobenen Arms in senkrechtem Halbkreis in der Fahrrichtung.
+		Begriff
+Bedeutung	Vorwärts
+Vorwärts fahren
+		Beziehung zu anderen Signalen
+			Es kann das Signal Sichtverbindung folgen
+	
+3.3.3	Rückwärts
+	
+		Zwei lange Pfiffe und zweimaliges Bewegen des erhobenen Arms in senkrechtem Halbkreis in der Fahrrichtung.
+		Begriff
+Bedeutung	Rückwärts
+Rückwärts fahren
+		Beziehung zu anderen Signalen
+			Es kann das Signal Sichtverbindung folgen
+	
+
+3.3.4	Anfahren
+	
+	Anfahren vorwärts
+	
+		Ein langer Pfiff und einmaliges kreisförmiges Einwärtsbewegen der beiden erhobenen Arme quer zum Gleis.
+		Begriff
+Bedeutung	Anfahren vorwärts
+Vorwärts gegen ein Hindernis fahren
+		Beziehung zu anderen Signalen
+			Es kann das Signal Sichtverbindung folgen
+	
+	Anfahren rückwärts
+	
+		Zwei lange Pfiffe und zweimaliges kreisförmiges Einwärtsbewegen der beiden erhobenen Arme quer zum Gleis.
+		Begriff
+Bedeutung	Anfahren rückwärts
+Rückwärts gegen ein Hindernis fahren
+		Beziehung zu anderen Signalen
+			Es kann das Signal Sichtverbindung folgen
+	
+	Die Signale Anfahren vorwärts und Anfahren rückwärts sind durch den Ruf anfahren zu ergänzen.
+	
+
+3.3.5	Sichtverbindung
+	
+		Langsames Schwingen des nach unten ausgestreckten Arms schräg zum Gleis.
+		Begriff
+Bedeutung	Sichtverbindung
+Optische Verbindungsüberwachung zwischen dem den Fahrweg beobachtenden RL und dem LF
+		Beziehung zu anderen Signalen
+			Es können Entfernungsangaben folgen
+	
+	Das Signal ist nach Beginn der Entfernungsangaben nicht mehr zu geben.
+	
+3.3.6	Entfernungsangaben
+	
+	Die Entfernung zwischen den anfahrenden Fahrzeugen und dem Hindernis ist mit «wagenlang – halbe – vier – zwo – einen» anzugeben, wobei jeder Ruf wie folgt zu bestätigen ist:
+	
+		Einmaliges, bei der Angabe zwo zweimaliges Heben des ausgestreckten Arms auf Schulterhöhe quer zum Gleis.
+		Bedeutung	Entfernungsangabe
+		Beziehung zu anderen Signalen
+			Es kann Halt folgen
+	
+
+3.3.7	Abstossen
+	
+		Ein kurzer und ein langer Pfiff sowie einmaliges rasches Bewegen des erhobenen Arms in senkrechtem Halbkreis in der Richtung des Stosses.
+Das Signal ist durch den Ruf Stoss zu ergänzen.
+		Begriff	Stoss
+		Bedeutung	Rasches Beschleunigen der Rangierbewegung
+	Befinden sich vor und hinter dem Triebfahrzeug Wagen, ist der LF über die Richtung des Stosses zu verständigen.
+Im Anschluss an die Abgabe des Befehls Stoss ist folgendes Zeichen zu geben:
+	
+		Rasches Schwingen des nach unten ausgestreckten Arms schräg zum Gleis, bis die gewollte Geschwindigkeit erreicht ist.
+		Bedeutung	Optische Verbindungsüberwachung zwischen dem den Fahrweg beobachtenden RL und dem LF
+		Beziehung zu anderen Signalen
+			Es folgt Halt
+	
+3.3.8	Langsamer fahren
+	
+		Leichtes Auf- und Abwärtsbewegen des quer zum Gleis ausgestreckten Arms.
+		Begriff	Langsamer
+		Bedeutung	Verlangsamen der Fahrt
+
+3.3.9	Halt
+	
+		Bei Tag
+Drei kurze Pfiffe und rasches Auf- und Abwärtsbewegen des quer zum Gleis ausgestreckten Arms.
+Bei Nacht
+Drei kurze Pfiffe und rasches Auf- und Abwärtsbewegen mit rotem Licht; ist kein solches vorhanden, ist ausnahmsweise ein weisses Licht zugelassen.
+		Begriff	Halt
+		Bedeutung	Anhalten
+	
+3.3.10	Bewegen
+	
+		Mündliche Verständigung und beide Arme in Schulterhöhe nach vorne heben, die flach ausgestreckten Hände wiederholt einander nähern.
+		Begriff	Bewegen
+		Bedeutung	Vorsichtiges Bewegen in Richtung des RL
+	
+	Ist die mündliche Verständigung wegen zu grosser Entfernung oder während dem Kuppeln / Entkuppeln nicht möglich, darf der Befehl zum Bewegen zusätzlich mit zwei kurzen Pfiffen erteilt werden.
+	
+
+3.3.11	Vorwärts- oder Rückwärtsfahren über kurze Entfernung
+	
+		Ein bzw. zwei lange Pfiffe und langsames Schwingen des schräg nach unten ausgestreckten Arms in der Fahrrichtung.
+		Bedeutung	Vorwärts bzw. rückwärts fahren
+		Beziehung zu anderen Signalen
+			Kurze Zeit nach dem Erteilen dieses Befehls folgt Halt
+	
+3.3.12	Rangierklingel und Rangierhupe
+	
+	Bei einfachen Verhältnissen darf die Zustimmung an eine Rangierbewegung mit der Rangierklingel oder -hupe mit dem Zeichen   (lang – kurz – lang) erteilt werden.
+	
+
+3.4	Hinweissignale für Rangierbewegungen 
+3.4.1	Kennzeichnung von Lokwechselsprech- und Lokmeldestellen 
+	
+	Lokwechselsprech- und Lokmeldestellen dienen der Verständigung zwischen LF und FDL. Sie können vom Führerstand und auch vom Boden aus bedient werden.
+	
+		Mit schwarz-orange gekennzeichnetem Ständer
+		Begriff	Obligatorischer Ruf
+		Bedeutung	Die Verbindungsaufnahme vom LF zum FDL ist obligatorisch.
+Die Verbindungsaufnahme entfällt, wenn das nach der Sprech- oder Meldestelle folgende ortsfeste Signal Fahrt signalisiert
+	
+		Mit schwarz-weiss gekennzeichnetem Ständer
+		Begriff	Fakultativer Ruf
+		Bedeutung 
+	Die Verbindungsaufnahme vom LF zum FDL ist fakultativ.
+Ein weisses Blinklicht oben auf dem Lautsprecher kann den LF darauf aufmerksam machen, dass der LF an der Sprechstelle verlangt wird
+	
+
+3.4.2	Warnzeichen
+	
+	Gelb-schwarze Streifen kennzeichnen Hindernisse, die nahe ans Profil grenzen oder eine nicht ohne weiteres erkennbare Gefahrenstelle sind.
+	
+		Begriff	Vorsicht Profil
+		Bedeutung	Besondere Vorsicht
+	
+
+4	Signale für Zugvorbereitung
+4.1	Bremsprobe
+4.1.1	Ortsfeste Signale für Bremsprobe
+	
+		Begriff	Bremsen
+		Bedeutung	Auftrag zum Bremsen
+	
+		Begriff	Bremsen mit der Magnet-
+schienenbremse
+		Bedeutung	Auftrag zum Bremsen nach dem Verfahren zur Prüfung der Magnetschienenbremse
+	
+		Begriff	Lösen
+		Bedeutung	Auftrag zum Lösen
+	
+
+		Begriff	Bremse gut
+		Bedeutung	Die Bremsen sind gut
+	
+4.1.2	Signale des Personals für die Bremsprobe
+	
+	Sofern die Befehle und Meldungen für die Bremsprobe dem LF nicht mündlich, fernmündlich oder mit ortsfesten Signalen übermittelt werden können, sind sie mit der Mundpfeife zu geben und durch Armbewegungen bzw. nachts, wo nichts anders erwähnt ist, mit einem weissen Licht zu ergänzen.
+	
+	Bremsen
+	
+	
+Bei Tag	Bei Tag
+Drei kurze Pfiffe und beide Arme senkrecht heben und die offenen Handflächen über dem Kopf quer zum Gleis zusammenführen
+Bei Nacht
+Drei kurze Pfiffe und das weisse Licht in einer Halbkreisbewegung langsam heben und anschliessend schnell senkrecht absenken
+		
+		Begriff	Bremsen
+		Bedeutung	Auftrag zum Bremsen
+	
+	
+Bei Nacht  	
+	
+	Bremse lösen
+	
+		Zwei kurze Pfiffe und Schwingen des hocherho­benen Arms quer zum Zug.
+		Begriff	Lösen
+		Bedeutung	Auftrag zum Lösen
+	
+
+	Bremse gut
+	
+		Hochhalten der offenen Handfläche gegen den LF.
+Das Signal des Personals Bremse gut ist durch den LF mit demselben Signal zu quittieren.
+		Begriff	Bremse gut
+		Bedeutung	Die Bremsen sind gut
+	
+4.2	Bereitschaft
+	
+		Hochhalten des Arms bzw. nachts eines weissen Lichts gegen die Person, welche die Abfahrerlaubnis gibt.
+		Begriff	Bereit
+		Bedeutung	Die Bereitschaft ist vorhanden
+	
+
+
+5	Signale für Zugfahrten
+5.1	Zugsignale
+5.1.1	Grundsatz
+	
+	Zugsignale gelten für Zugfahrten. Es wird unterschieden zwischen Vor- und Hauptsignalen einerseits, zwischen Signalsystem L und N anderseits.
+Ein Hauptsignal kann grundsätzlich alle Signalbilder signalisieren und zeigt in der Grundstellung Halt. Ein Vorsignal hingegen kann Halt nicht signalisieren und zeigt in der Grundstellung Warnung.
+	
+5.1.2	Signalsystem L
+	
+	Ankündigung und Ausführung einer Geschwindigkeit werden mit farbigen Lichtpunktkombinationen signalisiert.
+	
+5.1.3	Signalsystem N
+	
+	Ankündigung und Ausführung einer Geschwindigkeit werden mit einem Lichtpunkt und mit einer Zahl signalisiert.
+	
+5.1.4	Vorsignale
+	
+	Vorsignal System L
+	
+		Das Vorsignal des Systems L kann zeigen:
+–	Warnung
+–	Geschwindigkeits-Ankündigung
+–	Geschwindigkeits-Ausführung
+–	Ankündigung Freie Fahrt
+–	Freie Fahrt
+	
+
+	Vorsignal System N
+	
+		Das Vorsignal des Systems N ist mit einem weiss reflektierenden quadratischen Rand gekennzeichnet. Dieses kann zeigen:
+–	Warnung
+–	Geschwindigkeits-Ankündigung
+–	Geschwindigkeits-Ausführung
+–	Freie Fahrt
+	
+	Wiederholungssignale
+	Wenn nach einem Signal die Sicht auf das nachfolgende Signal behindert ist, kann es wiederholt sein. Ab einem Wiederholungssignal ist der Bremsweg für die zulässige Höchstgeschwindigkeit nicht gewährleistet. Ein Wiederholungssignal gilt im Sinne dieser Vorschriften nicht als nächstes Signal.
+	
+	Merktafel Wiederholungssignal System N
+	
+		Das Wiederholungssignal des Systems N wird mit einer weiss reflektierenden Merktafel mit zwei schwarzen Sternen gekennzeichnet.
+	
+
+5.1.5	Hauptsignale	
+		
+	Hauptsignal System L	
+		
+		Die Signallinsen eines Hauptsignals sind in einer einzigen senkrechten Reihe angeordnet; allenfalls können die Linsen für Rot und Notrot aus Platzgründen leicht versetzt zur senkrechten Reihe stehen.
+Hauptsignale des Systems L können zeigen:
+–	Halt
+–	Warnung
+–	Geschwindigkeits-Ankündigung
+–	Geschwindigkeits-Ausführung
+–	Ankündigung Freie Fahrt
+–	Freie Fahrt
+–	Kurze Fahrt
+–	Hilfssignal
+Ist anhand der Linsenanordnung nicht erkennbar, dass es sich um ein Hauptsignal handelt, wird dies mit einer aufgesetzten weissen Tafel mit schwarzem Rand und schwarzem Punkt gekennzeichnet	
+		
+	Hauptsignal System N	
+		
+		Das Hauptsignal des Systems N ist mit einem weiss reflektierenden Kreis gekennzeichnet. Das Signal kann zeigen:
+–	Halt
+–	Warnung
+–	Geschwindigkeits-Ankündigung
+–	Geschwindigkeits-Ausführung
+–	Freie Fahrt
+–	Kurze Fahrt
+–	Fahrt in besetztes Gleis
+–	Hilfssignal	
+	Mini-Hauptsignale	
+	Mini-Hauptsignale werden in Güter-, Rangier- und Unterhaltsanlagen, welche höchstens mit einer Geschwindigkeit von 40 km/h befahren werden, verwendet.
+Das Mini-Hauptsignal befindet sich in Bodennähe und gilt nur für ein Gleis. In Anlagen mit Zwergsignalen befindet sich das Mini-Hauptsignal über einem Zwergsignal.	
+		
+		Das Mini-Hauptsignal ist mit zwei senkrecht übereinander angeordneten Signallinsen ausgerüstet.
+Das Mini-Hauptsignal kann Halt oder Warnung zeigen.	
+		
+5.1.6	Vor- und Hauptsignal System L am gleichen Standort	
+		
+	Das Vorsignal am Standort eines Hauptsignals bezieht sich immer auf das nächste Signal.
+Das Vorsignal zeigt Warnung oder dessen Lichter sind gelöscht, solange das am gleichen Standort befindliche Hauptsignal Halt zeigt.
+Die Lichter des Vorsignals sind gelöscht, wenn das am gleichen Träger befindliche Hauptsignal Kurze Fahrt zeigt.	
+		
+		
+5.1.7	Kennzeichnung der Signale	
+		
+		Das Hauptsignal ist mit einem Buchstaben bezeichnet. Diesem ist allenfalls eine der Gleiszugehörigkeit entsprechende Zahl nachgestellt	
+	
+		Das Vorsignal trägt die Bezeichnung des nachfolgenden Hauptsignals, ergänzt mit einem hochgestellten Stern, Wiederholungssignale mit zwei bzw. drei Sternen	
+		
+
+5.2	Signalisierung an Zugsignalen
+5.2.1	Grundsätzliche Beziehung der Zugsignale zueinander
+	
+	Das nächste Signal zeigt nur einen tieferen auszuführenden Begriff, wenn vorgängig eine entsprechende, tiefere Ankündigung signalisiert wurde.
+Das nächste Signal kann einen höheren Begriff zeigen, ohne dass dies vorgängig signalisiert wird.
+	
+5.2.2	Warnung und Vorwarnung
+	
+		Begriff
+Bedeutung	Warnung
+Verminderung der Geschwindigkeit, dass vor dem nächsten Halt zeigenden Signal angehalten werden kann
+	
+		Begriff
+Bedeutung	Warnung
+Verminderung der Geschwindigkeit, dass vor dem nächsten Halt zeigenden Signal angehalten werden kann
+	
+
+		Begriff	Warnung
+		Bedeutung	Verminderung der Geschwindigkeit, dass vor dem nächsten Halt zeigenden Signal ange-halten werden kann
+		
+		
+	
+	
+		Begriff	Vorwarnung
+		Bedeutung	Verminderung der Geschwindigkeit, dass vor dem übernächsten Signal angehalten werden kann. Ab dem nächsten Signal ist der Bremsweg für die zulässige Höchstgeschwindigkeit nicht gewährleistet
+		Beziehung zu anderen Signalen
+			Das nächste Signal zeigt Warnung, das übernächste Signal zeigt Halt
+	
+
+5.2.3	Halt	
+		
+		Begriff	Halt	
+		Bedeutung	Halt vor dem Signal	
+		Beziehung zu anderen Signalen	
+			Dem Signal geht ein Warnung zeigendes Signal voraus
+Ausnahme:
+Das vorausgehende Signal kann Kurze Fahrt zeigen oder eine Merktafel zur Ankündigung eines Einfahrsignals ohne Vorsignal sein	
+		
+		Begriff	Halt	
+		Bedeutung	Halt vor dem Signal	
+		Beziehung zu anderen Signalen	
+			Dem Signal geht ein Warnung zeigendes Signal voraus	
+		
+
+5.2.4	Ankündigung Freie Fahrt
+	
+		Begriff	Ankündigung Freie Fahrt
+(Fahrbegriff 1*)
+		Bedeutung	Ab dem nächsten Signal gilt Fahrt mit der in der Streckentabelle angegebenen Höchstgeschwindigkeit
+	
+		Begriff
+Bedeutung	Ankündigung Freie Fahrt
+Ab dem nächsten Signal gilt Fahrt mit der in der Streckentabelle angegebenen Höchstgeschwindigkeit
+			
+	
+
+
+
+5.2.5	Freie Fahrt
+	
+		Begriff
+Bedeutung	Freie Fahrt (Fahrbegriff 1)
+Fahrt mit der in der Streckentabelle angegebenen Höchst-geschwindigkeit
+	
+		Begriff	Freie Fahrt
+		Bedeutung	Fahrt mit der in der Streckentabelle angegebenen Höchstgeschwindigkeit
+	
+
+5.2.6	Geschwindigkeits-Ankündigung
+	
+		Begriff	Geschwindigkeits-Ankündigung 40 km/h (Fahrbegriff 2*) 
+		Bedeutung	Ab dem nächsten Signal bzw. den zugehörigen Weichen gilt die Höchstgeschwindigkeit von 40 km/h. Ist in der Streckentabelle eine kleinere Geschwindigkeit aufgeführt, ist diese gültig.
+Für Schmalspurbahnen können tiefere Geschwindigkeiten gelten
+	
+		Begriff	Geschwindigkeits-Ankündigung
+60 km/h (Fahrbegriff 3*) 
+		Bedeutung	Ab dem nächsten Signal bzw. den zugehörigen Weichen gilt die Höchstgeschwindigkeit von 60 km/h. Höhere Geschwindigkeiten sind in der Streckentabelle aufgeführt.
+Für Schmalspurbahnen können tiefere Geschwindigkeiten gelten
+	
+
+		Begriff	Geschwindigkeits-Ankündigung
+90 km/h (Fahrbegriff 5*) 
+		Bedeutung	Ab dem nächsten Signal bzw. den zugehörigen Weichen gilt die Höchstgeschwindigkeit von 90 km/h. 
+Für Schmalspurbahnen können tiefere Geschwindigkeiten gelten
+	
+		Begriff	Geschwindigkeits-Ankündigung 
+		Bedeutung	Ab dem nächsten Signal gilt die mit der Zahl  10 angezeigte Höchstgeschwindigkeit in km/h
+	
+
+5.2.7	Geschwindigkeits-Ausführung
+	
+		Begriff
+
+Bedeutung	Geschwindigkeits-Ausführung
+40 km/h (Fahrbegriff 2)
+Ab diesem Signal bzw. den zugehörigen Weichen gilt die Höchstgeschwindigkeit von 
+40 km/h. Ist in der Streckentabelle eine kleinere Geschwindigkeit aufgeführt, ist diese gültig.
+Für Schmalspurbahnen können tiefere Geschwindigkeiten gelten
+			
+		Begriff	Geschwindigkeits-Ausführung
+60 km/h (Fahrbegriff 3)
+		Bedeutung	Ab diesem Signal bzw. den zugehörigen Weichen gilt die Höchstgeschwindigkeit von 
+60 km/h. Höhere Geschwindigkeiten sind in der Strecken-tabelle aufgeführt.
+Für Schmalspurbahnen können tiefere Geschwindigkeiten gelten
+		Begriff	Geschwindigkeits-Ausführung
+90 km/h (Fahrbegriff 5)
+		Bedeutung	Ab diesem Signal bzw. den zugehörigen Weichen gilt die Höchstgeschwindigkeit von 
+90 km/h. 
+Für Schmalspurbahnen können tiefere Geschwindigkeiten gelten
+	
+		Begriff	Geschwindigkeits-Ausführung
+		Bedeutung	Ab diesem Signal gilt die mit der Zahl 10 angezeigte Höchstgeschwindigkeit in km/h
+	
+
+5.2.8	Kurze Fahrt 
+	
+		Begriff	Kurze Fahrt (Fahrbegriff 6)
+		Bedeutung	Ab diesem Signal bzw. den zugehörigen Weichen gilt die Höchstgeschwindigkeit 
+40 km/h. Ist in der Streckentabelle eine kleinere Geschwindigkeit aufgeführt, ist diese gültig.
+Für Schmalspurbahnen können tiefere Geschwindigkeiten gelten.
+Das nächste Signal steht in verkürztem Abstand
+		Beziehung zu anderen Signalen
+			Das nächste Signal zeigt Halt.
+Dem Signal kann auch 
+–	ein Sperrsignal
+–	ein Gleisabschluss mit rotem Licht
+folgen
+	
+		Begriff	Kurze Fahrt
+		Bedeutung	Ab diesem Signal gilt die Höchstgeschwindigkeit 
+40 km/h. Ist in der Streckentabelle eine kleinere Geschwindigkeit aufgeführt, ist diese gültig.
+Das nächste Signal steht in verkürztem Abstand
+		Beziehung zu anderen Signalen
+			Das nächste Signal zeigt Halt.
+Dem Signal kann auch ein Gleisabschluss mit rotem Licht folgen
+	
+
+5.3	Zusatzsignale
+5.3.1	Besetztsignal
+	
+		Begriff	Besetztes Gleis
+		Bedeutung	Auf dem folgenden Gleisabschnitt ist ein Hindernis zu erwarten
+		Beziehung zu anderen Signalen
+			Bei beleuchtetem Besetztsignal zeigt das zugehörige Hauptsignal Geschwindigkeits-Ausführung 40 km/h oder Kurze Fahrt. Ist am gleichen Standort ein Vorsignal angebracht, ist dieses dunkel
+	
+		Begriff	Besetztes Gleis
+		Bedeutung	Auf dem folgenden Gleisabschnitt ist ein Hindernis zu erwarten
+		Beziehung zu anderen Signalen
+			Bei beleuchtetem Besetztsignal zeigt das vorausgehende Signal Geschwindigkeitsankündigung oder -ausführung 40 km/h. Das zugehörige Signal zeigt Warnung
+	
+
+5.3.2	Signal für Einfahrt in einen Bahnhof ohne schienenfreie
+Zugänge 
+	
+		Begriff	Einfahrt in einen Bahnhof ohne schienenfreie Zugänge
+		Bedeutung	Einfahrt in ein dem Bahnhof-gebäude näher liegendes Gleis
+oder
+Gleichzeitige Einfahrten 
+		Beziehung zu anderen Signalen
+			Bei beleuchtetem Signal zeigt das zugehörige Hauptsignal Geschwindigkeits-Ausführung 40 km/h oder Kurze Fahrt. Ist am gleichen Standort ein Vorsignal angebracht, ist dieses dunkel
+	
+5.3.3	Gleisnummern- und Richtungssignale beim System L 
+	
+	Gleisnummernsignal
+	
+		Begriff	Gleisnummernsignal
+		Bedeutung	Die Fahrstrasse ist aus bzw. nach dem am Gleisnummernsignal angezeigten Gleis eingestellt
+		Beziehung zu anderen Signalen
+			Das Gleisnummernsignal bezieht sich auf das am gleichen Standort angebrachte Hauptsignal
+	
+
+	Richtungssignal
+	
+		Begriff	Richtungssignal
+		Bedeutung	Die Fahrstrasse ist aus bzw. nach der am Richtungssignal angezeigten Gleisgruppe oder Richtung eingestellt
+		Beziehung zu anderen Signalen
+			Das Richtungssignal bezieht sich auf das am gleichen Standort angebrachte Hauptsignal
+	
+5.3.4	Hinweispfeil bei Gruppensignal
+	
+		Begriff	Hinweispfeil Gruppensignal
+		Bedeutung	Der Pfeil weist auf das Gleis hin, aus dem die Fahrstrasse eingestellt ist
+		Beziehung zu anderen Signalen
+			Der Hinweispfeil bezieht sich auf das am gleichen Standort angebrachte Hauptsignal
+	
+5.3.5	Fahrtstellungsmelder
+	
+		Begriff	Fahrtstellungsmelder
+		Bedeutung	Das zugehörige Hauptsignal zeigt aus diesem Gleis Fahrt
+	
+
+5.3.6	Gruppensignal-Halttafel
+	
+	In Bahnhöfen mit Gruppensignal kann vor dem Sicherheitszeichen oder vor der entsprechenden GFM der für eine Kreuzung oder Überholung massgebenden Weiche eine Gruppensignal-Halttafel stehen.
+Die Gruppensignal-Halttafel kann nur zusammen mit einem Fahrtstellungsmelder oder einer Fahrbegrifftafel aufgestellt sein.
+	
+	Signalisierung mit Fahrtstellungsmelder
+	
+		Begriff	Gruppensignal-Halttafel mit Fahrtstellungsmelder
+		Bedeutung	Bei der Einfahrt
+Bei Halt zeigendem Gruppensignal Halt vor der Gruppensignal-Halttafel
+Bei der Abfahrt
+Bei Fahrt zeigendem Gruppensignal gilt der leuchtende Fahrtstellungsmelder als Zustimmung zur Fahrt
+	
+	Signalisierung mit Fahrbegrifftafeln
+	
+		Begriff	Gruppensignal-Halttafel mit Fahrbegrifftafel
+		Bedeutung	Bei der Einfahrt
+Bei Halt zeigendem Gruppensignal Halt vor der Gruppensignal-Halttafel
+Bei der Abfahrt
+Stimmt bei Fahrt zeigendem Gruppensignal der Fahrbegriff des Gruppensignals mit demjenigen der Fahrbegrifftafel überein, gilt dies als Zustimmung zur Fahrt (Im = Fahrbegriff)
+	
+
+	Fahrbegrifftafel mit Halteorttafel	
+	Es kann zusätzlich zur Gruppensignal-Halttafel auch beim normalen Halteort eine Fahrbegrifftafel zusammen mit einer Halteorttafel aufgestellt sein.	
+		
+		Begriff	Fahrbegrifftafel mit Halteorttafel
+		Bedeutung	Die Fahrbegrifftafel zeigt an, welcher Fahrbegriff am Gruppensignal bei einer Ausfahrt 
+ab dem zugehörigen Gleis 
+erscheint (Im = Fahrbegriff)
+		
+5.3.7	Stumpengleissignale	
+		
+	Weiche mit drehbarer Laterne	
+		
+ 	
+      Bei Tag                 Bei Tag	Begriff
+Bedeutung	Stumpengleis
+Halt für Zugfahrten vor der in das Stumpengleis führenden Weiche	
+		
+	     Bei Nacht                Bei Nacht			
+		
+
+	Weiche mit festem Signal
+	
+	
+Bei Tag 	Begriff	Stumpengleis
+		Bedeutung	Halt für Zugfahrten vor der in das Stumpengleis führenden Weiche
+			
+	
+Bei Nacht		
+			
+	
+5.4	Orientierungstafeln für fehlende Vor- und Hauptsignale
+5.4.1	Merktafel für fehlendes Vorsignal zum Einfahrsignal
+	
+		Begriff
+
+Bedeutung	Fehlendes Vorsignal zum Einfahrsignal
+In Bremswegentfernung folgt das Einfahrsignal. Am Einfahrsignal ist Halt zu erwarten
+	
+5.4.2	Merktafel S für fehlendes Einfahrsignal
+	
+		Begriff	Fehlendes Einfahrsignal
+		Bedeutung	In Bremswegentfernung folgt die erste Weiche eines Bahnhofs
+	
+
+5.5	Hinweissignale für Zugfahrten
+5.5.1	Merktafel H für Haltestelle
+	
+		Begriff	Haltestelle
+		Bedeutung	Es folgt eine Haltestelle. Die Merktafel H befindet sich in Bremswegentfernung zur Mitte der Haltestelle
+	
+5.5.2	Signale für Bedarfshalt
+	
+	Das Signal wird bei Haltestellen und in Bahnhöfen mit Bedarfshalt angewendet. Es befindet sich im Bereich des Einsteigeortes.
+	
+		Begriff	Bedarfshalt
+		Bedeutung	Halt für Züge mit entsprechen-dem Vermerk in der Fahrordnung
+	
+	Ältere Signale sind nur mit einer Lampe ausgerüstet.
+	
+5.5.3	Merktafel für Geschwindigkeitsschwelle beim Signalsystem L
+	
+		Begriff	Geschwindigkeitsschwelle bei der ersten Weiche
+		Bedeutung	Die Geschwindigkeitsschwelle befindet sich bei der ersten Weiche
+		Beziehung zu anderen Signalen
+			Das Signal ist beim zugehörigen Einfahrvorsignal aufgestellt
+	
+
+5.5.4	Merktafel für ein folgendes Einfahrsignal beim Signalsystem N
+	
+		Begriff	Voranzeige Einfahrsignal N
+		Bedeutung	Das nächste Signal ist das Einfahrsignal
+		Beziehung zu anderen Signalen
+			Handelt es sich beim folgenden Signal um ein Wiederholungssignal, gilt die Bedeutung für das übernächste Signal
+	
+5.5.5	Merktafel für Streckengeschwindigkeit beim Signalsystem N
+	
+		Begriff	Streckengeschwindigkeit
+		Bedeutung	Ab diesem Signal gilt die Streckengeschwindigkeit
+		Beziehung zu anderen Signalen
+			Der Merktafel geht ein Hauptsignal voraus
+	
+5.5.6	Merktafel für Ansprechen der Zugbeeinflussung
+	
+	Die Merktafel befindet sich unmittelbar vor oder beim betreffenden Vorsignal.
+	
+		Bedeutung	Die Zugbeeinflussung spricht ausser bei Warnung auch bei einzelnen Fahrbegriffen an
+	
+
+5.5.7	Halteort- und Zuglängentafel für haltende Züge im Bahnbetrieb
+	
+		Begriff	Halteort
+		Bedeutung	Halteort für alle Reisezüge
+	
+		Begriff	Halteort
+		Bedeutung	Halteort für Reisezüge mit 
+einer Länge von 100 m
+		Beziehung zu anderen Signalen
+			Zusätzlich zu der abgebildeten Tafel können auch Tafeln 05, 15, 2, 25, 3, 35, 4 usw. für Zuglängen von 50, 150, 200, 250, 300, 350, 400 Metern usw. folgen
+	
+		Begriff	Zuglängentafel
+		Bedeutung	Halteort für alle Züge mit entsprechender Zuglänge
+	Entsprechen die Zuglängen nicht den auf den Tafeln angegebenen Werten, verschiebt sich der Halteort dementsprechend.
+Die Angaben auf den Tafeln beziehen sich auf die Länge des Zuges inklusive Triebfahrzeug.
+	
+		Begriff	Zuglängentafel
+		Bedeutung	Halteort für alle Züge mit entsprechender Achszahl
+	Auf älteren Zuglängentafeln kann die Zuglänge auch mit einer Achszahl angegeben sein.
+	
+	
+5.5.8	Signalisierung des Halteorts im Trambetrieb
+	
+	Im Trambetrieb legen die ISB die Signale zur Signalisierung der Halteorte fest.
+	
+5.5.9	Statusanzeige für Strassenbahnsignale im Trambetrieb
+	
+	Im Trambetrieb können die ISB Statusanzeigen für Strassenbahnsignale in den Betriebsvorschriften regeln. Diese Statusanzeigen zeigen den erwarteten Zustand des zugehörigen Strassenbahnsignals, ohne dass ihnen die Bedeutung eines Vorsignals zukommen darf.
+
+
+5.6	Abfahrsignale	
+		
+	Das Signal für Abfahrerlaubnis darf nur erteilt werden, wenn die Zustimmung zur Ausfahrt vorliegt.	
+		
+5.6.1	Ortsfestes Signal für Abfahrerlaubnis	
+		
+		Begriff	Abfahrerlaubnis	
+		Bedeutung	Erteilen der Abfahrerlaubnis	
+		
+5.6.2	Signale des Personals für Abfahrerlaubnis	
+		
+	Sofern die Abfahrerlaubnis dem LF nicht mit dem ortsfesten Signal für Abfahrerlaubnis erteilt werden kann, ist sie wie folgt zu geben:	
+		
+	Schrillpfeife	
+		
+		Ein langer Pfiff mit der Schrillpfeife und einmaliges Bewegen des hocherhobenen Arms, bei Nacht zusätzlich mit weissem oder grünem Licht, in der Fahrrichtung.	
+		Begriff	Abfahrerlaubnis	
+		Bedeutung	Erteilen der Abfahrerlaubnis	
+	
+
+	Abfahrstab oder Handlaterne 
+	
+	
+Bei Tag	Bei Tag
+Langsames Schwingen des erhobenen Abfahr-stabs quer zum Zug, bis sich dieser in Bewegung setzt.
+Bei Nacht
+Langsames Schwingen der erhobenen Handlaterne oder Taschenlampe mit grünem Licht quer zum Zug, bis sich dieser in Bewegung setzt.	
+		Begriff	Abfahrerlaubnis	
+		Bedeutung	Erteilen der Abfahrerlaubnis	
+			
+	
+Bei Nacht		
+			
+
+5.7	Signale an Fahrzeugen bei Zugfahrten
+5.7.1	Kennzeichnung der arbeitenden Triebfahrzeuge
+	
+	Pendelzugseinheiten gelten im Sinne dieser Vorschrift als Triebfahrzeuge.
+	
+		Vorne drei weisse Lichter
+		Begriff	Zugspitze
+	
+	An Triebfahrzeugen, die nicht an der Zugspitze verkehren, sind die Lichter der Vorwärtsrichtung dunkel.
+	
+	
+		Hinten dunkel oder unten ein weisses Licht
+			
+			
+	
+	Zwischen den in Vielfachsteuerung verkehrenden Triebfahrzeugen sind alle Lampen dunkel.
+
+5.7.2	Kennzeichnung des Zugschlusses
+	
+	
+	Begriff	Zugschlusssignal
+		Das letzte Fahrzeug zeigt hinten auf einer Querachse über Puffer angeordnet:
+–	bei Reisezügen und im Trambetrieb
+–	zwei rote Lichter (Dauerlicht) nach Bild 587
+–	bei Güterzügen
+–	zwei rot-weisse reflektierende Scheiben nach Bild 588 oder
+–	zwei rote Lichter (Dauerlicht) nach Bild 587
+Sofern auf Grund fahrzeugbaulicher Bedingungen oder mit Rücksicht auf die Anforderungen der ISB erforderlich, kann auf nichtinteroperablen Strecken und auf Strecken des interoperablen Ergänzungsnetzes sowie im Trambetrieb das letzte Fahrzeug bei Reise- und Güterzügen zeigen:
+–	ein rotes Licht (Dauerlicht) # oder 
+–	ein rotes blinkendes Licht # oder
+–	eine rot-weisse reflektierende Scheibe #
+	
+5.7.3	Kennzeichnung indirekt geführter Züge
+	
+	Fahrzeuge an der Zugspitze zeigen in der Fahrrichtung vorn ein weisses Licht. Ausserhalb von Tunnels darf bei Tag auf die Signalisierung der Zugspitze verzichtet werden.
+	
+5.7.4	Kennzeichnung nicht gekuppelter Schiebelok
+	
+	Die nicht gekuppelte Schiebelok zeigt beim Schieben auf die Strecke sowie bei der Rückfahrt in den rückliegenden Bahnhof
+–	vorne drei weisse Lichter
+–	hinten ein weisses Licht
+Das letzte gekuppelte Fahrzeug zeigt das Zugschlusssignal.
+	
+6	Ziffer entfällt
+
+
+7	Signale für den elektrischen Betrieb
+	
+	Die Signale für den elektrischen Betrieb müssen auch nachts eindeutig erkennbar sein.
+	
+7.1	Allgemein gültige Signale für den elektrischen Betrieb
+	
+7.1.1	Kennzeichnung der Erdungsvorrichtungen
+	
+	
+Bei Tag	Begriff	Fahrleitungsabschnitt ausgeschaltet und geerdet
+		Bedeutung	Halt für Fahrzeuge mit gehobenem Stromabnehmer vor dem betreffenden Fahrleitungsabschnitt
+			
+			
+	
+Bei Nacht		
+			
+			
+	
+	Sofern die Erdungsvorrichtung innerhalb des Lichtraumprofils aufgehängt ist, gilt die rote Flagge bzw. das rote Licht für alle Fahrten als Haltsignal.
+	
+7.1.2	Stromabnehmersignale
+	
+		Begriff	Vorsignal zum Senksignal
+		Bedeutung	Die Stromabnehmer müssen ab dem Senksignal gesenkt sein
+		Beziehung zu anderen Signalen
+			Es folgt ein Senksignal.
+Es kann ein Aufhebungssignal folgen
+			
+
+		Begriff	Senksignal
+		Bedeutung	Halt für Fahrzeuge mit gehobenem Stromabnehmer
+		Beziehung zu anderen Signalen
+			Dem Senksignal kann ein Vorsignal vorausgehen und es kann ein Endsignal folgen.
+Das Senksignal kann in Bahnhof- und Anschlussgleisanlagen auch allein verwendet werden:
+–	ortsfest
+–	ortsveränderlich
+–	drehbar an Mast oder auf Weichenlaterne.
+Das Senksignal kann auch als Lichtsignal mit aufgesetztem weissen Dreieck verwendet werden
+			
+		Begriff	Endsignal zum Senksignal
+		Bedeutung	Erlaubnis zum Heben der Stromabnehmer
+		Beziehung zu anderen Signalen
+			Es geht ein Senksignal voraus
+		Begriff	Aufhebungssignal zum Senk-signal
+		Bedeutung	Ab dieser Stelle wird der mit gesenktem Stromabnehmer zu befahrende Abschnitt nicht befahren
+		Beziehung zu anderen Signalen
+			Es geht ein Vorsignal voraus
+	
+
+7.1.3	Signale für Schutzstrecken
+	
+	Anfang und Ende von Dauerschutzstrecken sind mit Signaltafeln gekennzeichnet.
+Anfang und Ende von fakultativen Schutzstrecken sind mit Lichtsignalen gekennzeichnet.
+Im Trambetrieb kann das Ausschaltsignal ohne vorausgehendes Vorsignal und ohne Einschaltsignal signalisiert sein. Anstelle der Ausschaltung des Hauptschalters ist die Trennstelle nach Möglichkeit ohne Fahr- und Bremsstrom zu befahren. Die Trennstellen folgen unmittelbar auf das Ausschaltsignal.
+	
+		Begriff	Vorsignal zum Ausschaltsignal
+		Bedeutung	Vorbereitung zum Ausschalten
+		Beziehung zu anderen Signalen
+			Es folgt ein Ausschaltsignal
+	
+	
+		Begriff	Ausschaltsignal
+		Bedeutung	Vorbeifahrt mit ausgeschaltetem Hauptschalter
+		Beziehung zu anderen Signalen
+			Dem Ausschaltsignal kann ein Vorsignal vorausgehen und es folgt ein Einschaltsignal
+	
+
+		Begriff	Einschaltsignal
+		Bedeutung	Weiterfahrt mit eingeschaltetem Hauptschalter
+		Beziehung zu anderen Signalen
+			Es geht ein Ausschaltsignal voraus.
+Wenn eine mit Lichtsignalen ausgerüstete Schutzstrecke an Spannung gelegt ist und ohne Ausschalten des Hauptschalters befahren werden darf, zeigen auch das Vor- und das Ausschaltsignal, sofern sie beleuchtet sind, das Bild des Einschaltsignals
+	
+7.1.4	Signal für Streckentrennung im Bahnbetrieb
+	
+		Begriff	Streckentrennung
+		Bedeutung	Halt für Fahrzeuge mit gehobenem Stromabnehmer bei ausgeschalteter Streckenfahrleitung
+		Beziehung zu anderen Signalen
+			Die Streckentrennung ist bahnhofseitig mit dem Signal Streckentrennung gekennzeichnet, streckenseitig durch das Einfahrsignal begrenzt
+			
+7.1.5	Signal für Trennstelle im Trambetrieb
+	
+	
+Begriff	Trennstelle	
+Bedeutung	Standort elektrischer Trennstelle	
+		
+
+7.2	Signale im Bereich verschiedener Stromsysteme
+7.2.1	Stromabnehmersignal vor Systemschutzstrecken
+	
+	Der Anfang einer Systemschutzstrecke (zwischen Fahrleitungen verschiedener Stromsysteme), die nur mit gesenktem Stromabnehmer befahren werden darf, ist mit dem Senksignal gekennzeichnet.
+	
+7.2.2	Zonen-Schutzstreckensignal
+	
+	In Bahnhöfen mit umschaltbaren Zonen sind die Systemschutzstrecken mit Zonen-Schutzstreckensignalen gekennzeichnet.
+	
+		Begriff	Zonen-Schutzsstrecke
+		Bedeutung	–	Halt für Einsystem-Trieb-fahrzeuge mit gehobenem Stromabnehmer
+–	Halt für Mehrsystem-Trieb-fahrzeuge mit gehobenem Stromabnehmer.
+Ausnahme:
+Vorbeifahrt für Triebfahrzeuge mit gehobenem Stromabnehmer und ausgeschaltetem Hauptschalter gestattet, sofern die Stromabnehmer für beide Systeme verwendet werden können
+	
+
+7.2.3	Zonensignal	
+		
+	Das Zonensignal zeigt den Schaltzustand der umschaltbaren Zone an.	
+		
+			Ziffer	Stromsystem
+		Bedeutung	  0
+11
+15
+25
+  3–
+  1–	Fahrleitung ausgeschaltet
+11 000 Volt, 16,7 Hz
+15 000 Volt, 16,7 Hz
+25 000 Volt, 50 Hz
+3 000 Volt, Gleichstrom
+bis 1 500 Volt, Gleichstrom
+
+7.2.4	Systemwechselsignal
+	
+	Auf Strecken und in Bahnhöfen sind Systemschutzstrecken mit Systemwechselsignalen wie folgt gekennzeichnet:
+–	mit Signaltafeln oder
+–	mit Lichtsignalen
+–	in Anlagen mit umschaltbaren Zonen, sofern nicht das Signal Zonen-Schutzstrecke zur Anwendung kommt
+–	wenn die eingestellte Fahrstrasse über eine Systemschutzstrecke führen kann.
+Auf einspuriger Strecke befinden sich das Umschaltsignal links und das Endsignal rechts des Fahrdrahts. Die Zahlen auf den Systemwechselsignalen haben die gleiche Bedeutung wie beim Zonensignal.
+	
+		Begriff	Vorsignal zum Umschaltsignal
+		Bedeutung 	Nach dem nächsten Systemwechselsignal folgt eine Schutzstrecke mit Spannungswechsel.
+Die Zahl kündigt die neue Spannung nach der Schutzstrecke an
+		Beziehung zu anderen Signalen
+			Es folgt ein Umschaltsignal
+	
+
+		Begriff	Umschaltsignal
+		Bedeutung 	Die obere Zahl bezieht sich auf die Fahrleitungsspannung vor, die untere auf die Fahr-leitungsspannung nach der Schutzstrecke.
+–	Halt für Einsystem-Triebfahrzeuge mit gehobenem Stromabnehmer
+–	Halt für Mehrsystem-Triebfahrzeuge mit gehobenem Stromabnehmer.
+Ausnahme:
+Vorbeifahrt für Triebfahrzeuge mit gehobenem Stromabnehmer und ausgeschaltetem Hauptschalter gestattet, sofern die Stromabnehmer für beide Systeme verwendet werden können
+		Beziehung zu anderen Signalen
+			Bei Lichtsignalen geht ein Vorsignal voraus. 
+Es folgt ein Endsignal
+	
+		Begriff	Endsignal zur Systemschutzstrecke
+		Bedeutung	Weiterfahrt mit dem betreffenden Stromsystem
+		Beziehung zu anderen Signalen
+			Es geht ein Umschaltsignal voraus
+	
+
+
+8	Signale bei Unregelmässigkeiten
+8.1	Signale bei Gefahr
+8.1.1	Haltsignal bei Gefahr
+	
+	Muss eine Zugfahrt oder eine Rangierbewegung wegen drohender Gefahr angehalten werden, ist das Signal Halt – Gefahr zu geben.
+	
+	
+Bei Tag	Begriff	Halt – Gefahr 
+		Bedeutung 	Halt für Zugfahrten und Rangierbewegungen, unter Verwendung aller möglichen Bremsmittel
+	
+rotes Licht
+Bei Nacht		
+			
+	
+	Das Signal ist in unmittelbarer Nähe des befahrenen Gleises, allenfalls mehrmals zu geben, wobei die Flagge oder das rote Licht bis zum Still-stand des Zuges oder der Rangierbewegung zu schwingen ist.
+Steht keine rote Flagge oder rotes Licht zur Verfügung, kann das Signal auch mit der Hand oder mit weissem Licht gegeben werden.
+Der LF gibt das Signal mit der Lokpfeife.
+	
+	
+
+8.1.2	Warnsignal 
+	
+		Begriff	Warnsignal 
+		Bedeutung 	Halt für Zugfahrten und Rangierbewegungen auf parallel verlaufenden Gleisen
+	oder		
+	
+	
+8.1.3	Nothalt auf Arbeitsstellen
+	
+	
+Mehrere rote
+Lichter	Begriff	Nothalt auf Arbeitsstellen
+		Bedeutung 	Halt für Zugfahrten und Rangierbewegungen 
+	
+
+8.2	Signale bei Störungen
+8.2.1	Ziffer entfällt
+	
+	
+8.2.2	Hilfssignal
+	
+	Hilfssignal beim Signalsystem L
+	
+	
+oder
+	Begriff	Hilfssignal L
+		Bedeutung 	Zustimmung zur Vorbeifahrt
+
+–	am Halt zeigenden oder unbeleuchteten Hauptsignal (Bild 807)
+–	am rot blinkenden Hauptsignal (Bild 809)
+und Fahrt auf Sicht
+		Beziehung zu anderen Signalen
+			Am nächsten Signal ist Halt zu erwarten, bzw. Warnung, so-fern es sich um ein Vorsignal handelt.
+Das Hilfssignal befindet sich am gleichen Standort, wie das zugehörige Halt zeigende oder unbeleuchtete Hauptsignal (Bild 807)
+	
+	Hilfssignal beim Signalsystem N
+	
+		Begriff	Hilfssignal N
+		Bedeutung 	Zustimmung zur Vorbeifahrt am rot blinkenden Hauptsignal und Fahrt auf Sicht
+		Beziehung zu anderen Signalen
+			Am nächsten Signal ist Halt bzw. Warnung zu erwarten. Nach einer Merktafel für Streckengeschwindigkeit folgt kein Halt zeigendes Hauptsignal
+
+8.2.3	Hauptsignal gestörte Bahnübergangsanlage 
+	
+	Hauptsignal gestörte Bahnübergangsanlage beim Signalsystem L
+	
+		Begriff	Bahnübergangsanlage gestört
+		Bedeutung 	Zustimmung zur Vorbeifahrt am rot blinkenden Hauptsignal und zum Befahren der gestörten Bahnübergangsanlage. 
+Die im Bereich des Signals kontrollierten Fahrstrassenelemente und der zugehörige Streckenblock funktionieren normal.
+Überwacht das Hauptsignal mehr als eine Bahnübergangsanlage, wird die Anzahl auf der Zusatzsignalisierung angegeben. In einer Zone mit Verschachtelung von Bahnübergangsanlagen ist auf die Zusatztafel zu verzichten.
+		Beziehung zu anderen Signalen
+			Es kann ein Warnung zeigen-des Vorsignal vorausgehen
+			
+
+9	Ungültige oder zeitweise gültige Signale
+9.1	Ungültige Signale
+9.1.1	Kennzeichnung
+	
+		Ein ungültiges Signal ist durch ein schwarz-weisses Kreuz gekennzeichnet oder es ist verhüllt.
+	
+9.1.2	Signalbild
+	
+		Sind mehrere Signale am gleichen Standort angebracht, sind die nicht mit einem Kreuz versehenen oder nicht verhüllten Signale gültig.
+	
+	Ungültige Signale zeigen kein Signalbild. Zu Prüfzwecken dürfen diese ein Signalbild zeigen, sofern keine Verwechslungsgefahr besteht.
+	
+
+9.2	Zeitweise gültige Lichtsignale
+9.2.1	Lichtsignale mit dreieckigem Aufsatz
+	
+	Ein zeitweise gültiges Lichtsignal trägt einen dreieckigen weissen Aufsatz.
+	
+		Bedeutung	Das Lichtsignal ist in unbe-leuchtetem Zustand ohne Bedeutung
+			
+	
+9.2.2	Lichtsignale ohne dreieckigen Aufsatz
+	
+	Folgende Lichtsignale sind in unbeleuchtetem Zustand ohne Bedeutung:
+    • Besetztsignal System L
+    • Signal für gleichzeitige Einfahrten
+–	Gleisnummernsignal
+–	Richtungssignal
+–	Hilfssignal System L
+–	Signal für Bedarfshalt
+–	Signal für fakultative Schutzstrecke #
+–	Zonen-Schutzstreckensignal #
+–	Systemwechselsignal #
+
+	
+
+10	Signale für Arbeiten im Gleisbereich
+	
+	Signale für Arbeiten im Gleisbereich haben für den LF keine Bedeutung.
+	
+10.1	Alarm auf Arbeitsstellen, fest oder mobil
+10.1.1	Optischer Alarm
+	
+		Begriff	Optische Alarmanlage
+		Bedeutung	Unterstützt die abgegebenen akustischen Alarmsignale oder ersetzt solche gemäss Weisung der ISB
+	
+10.1.2	Akustischer Alarm
+	
+		1 langer Ton auf- und absteigend oder konstant, mit akustischem Alarmmittel
+		Begriff	Alarmsignal 1
+		Bedeutung	Es erfolgt eine Fahrt auf dem Nachbargleis
+	
+		2 lange Töne auf- und absteigend oder konstant, mit akustischem Alarmmittel
+		Begriff	Alarmsignal 2
+		Bedeutung	Es erfolgt eine Fahrt auf dem Arbeits- oder Nachbargleis
+	
+		mindestens 4 rasch aufeinanderfolgende Töne, mit akustischem Alarmmittel
+		Begriff	Alarmsignal Gefahr
+		Bedeutung	Unmittelbare Gefahr
+	
+
+10.2	Merkzeichen für Schneeräumung
+	
+	Bauten, die die Schneeräumung auf der Strecke behindern, sind mit Merkzeichen gekennzeichnet.
+Bei langen Hindernissen, z.B. Bahnübergängen, können am Anfang und am Ende Merkzeichen aufgestellt sein.
+	
+		Begriff	Hindernis für Schneeräumung
+		Bedeutung 	Heben der Pflugschar bzw. der Schleudereinrichtung
+	Es sind auch andere Kennzeichnungen zugelassen.
+	
+10.3	Merktafeln für Grundwasserschutzzone
+	
+	Die bei der Unkrautvertilgung zu schützenden Grundwasserzonen sind mit Merktafeln gekennzeichnet. Die Tafeln stehen in Bodennähe.
+	
+		Begriff	Beginn Grundwasserschutz-zone
+			
+	
+		Begriff	Ende Grundwasserschutzzone
+			
+	
+		Begriff	Beginn Fassungsbereich einer Grundwasserschutzzone
+			
+	
+		Begriff	Ende Fassungsbereich einer Grundwasserschutzzone
+			
+
+Beilage 1
+
+
+
+Beispiele für das Aufstellen der Langsamfahrsignale
+
+
+1	Aufstellen der Langsamfahrsignale
+1.1	Legende
+	
+		Langsamfahrstelle
+Bremsweg im Bereich FSS
+
+
+Fahrrichtung
+
+Zugbeeinflussung
+	
+	Die Signalbilder sind so dargestellt, wie sie in der Fahrrichtung vom LF gesehen werden. Die obere Kante der Signale ist zugleich ihr wirklicher Standort quer zur Gleisachse.
+	
+1.2	Eine Geschwindigkeitsverminderung im gleichen Gleis
+1.2.1	Einspurige Strecke
+	
+	
+	
+1.2.2	Zweigleisige Strecke mit Einrichtung für Einspurbetrieb
+	
+	
+	
+1.2.3	Zweigleisige Strecke mit Einrichtung für Wechselbetrieb
+	
+	
+	
+
+1.2.4	Dreigleisige Strecke mit Einrichtung für Wechselbetrieb
+	
+	
+	
+1.2.5	Viergleisige Strecke mit Einrichtung für Wechselbetrieb
+	
+	
+	
+1.3	Unterschiedliche Geschwindigkeitsverminderung im gleichen Gleis
+1.3.1	Einspurige Strecke
+	
+	
+	
+1.3.2	Zweigleisige Strecke mit Einrichtung für Einspurbetrieb
+	
+	
+	
+1.4	Unterschiedliche Geschwindigkeiten auf nebeneinander-liegenden Gleisen nach einer Spurwechselstelle
+	
+	Mit Rücksicht auf eine bessere Übersicht sind in den Zeichnungen in dieser Ziffer die Signale nur für eine Fahrrichtung dargestellt.
+	
+1.4.1	Zweigleisige Strecke mit Einrichtung für Wechselbetrieb
+	
+	
+	
+1.4.2	Dreigleisige Strecke mit Einrichtung für Wechselbetrieb
+	
+	
+	
+1.4.3	Zweigleisige Strecke mit Einrichtung für Wechselbetrieb und Gleise im Bahnhof
+	
+	
+
+
+1.5	Signalisierung von Langsamfahrstellen im Übergang zur FSS
+1.5.1	Ziffer entfällt
+	
+	
+1.5.2	Langsamfahrstelle innerhalb FSS mit Bremsweg teilweise im Bereich der Aussensignalisierung
+	
+	
+	
+1.5.3	Langsamfahrstelle im Übergangsbereich zwischen Aussensignalisierung und FSS
+	
+	
+	
+
+1.5.4	Langsamfahrstelle innerhalb Aussensignalisierung mit Bremsweg teilweise im Bereich der FSS
+	
+	
+	
+
+
+
+Beilage 2
+
+
+
+Beispiele für die Signalisierung an Zugsignalen
+
+
+
+1. Halt		
+
+
+2. Einfahrt mit freier Fahrt und Halt vor dem Ausfahrsignal
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+3. Durchfahrt mit freier Fahrt		
+
+4. Einfahrt mit signalisierter Geschwindigkeit und Halt vor dem Ausfahr-
+    signal
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+5. Durchfahrt mit signalisierten Geschwindigkeiten
+    Einfahrgeschwindigkeit grösser als Ausfahrgeschwindigkeit		
+
+6. Durchfahrt mit signalisierten Geschwindigkeiten 
+    Einfahrgeschwindigkeit kleiner als Ausfahrgeschwindigkeit
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+7. Einfahrt in ein besetztes Gleis		
+
+
+8. Kurze Fahrt signalisiert am Einfahrsignal
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+9. Kurze Fahrt in ein besetztes Gleis		
+
+
+10. Verlängerte Einfahrt bei Gleisabschnittsignalen
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+11. Verlängerte Einfahrt in ein besetztes Gleis		
+
+
+12. Vorwarnung - Warnung - Halt bei Kurzblock
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+Beilage 3
+
+
+
+Beispiele für durchgehende Geschwindigkeitssignalisierung
+
+    1. Durchgehende Geschwindigkeitssignalisierung mit Strassenbahnbereich im Bahnbetrieb
+
+Mit Rücksicht auf eine bessere Übersicht sind in der Zeichnung die Signale nur für eine Fahrtrichtung dargestellt		
+	
+
+
+
+Signalisierung des
+Strassenbahnbereichs
+
+Signalisierung
+der Geschwindigkeit
+
+	
+	Legende
+			Trambetrieb
+			Bahnbetrieb (innerhalb Bahnbetrieb siehe Ziff. 1)
+
+
+
+
+
+
+
+
+
+
+
+Kennzeichnung Grenze zwischen Bahn- und Trambetrieb.
+
+Signalisierung
+der Geschwindigkeit
+
+
+
+
+Anlage 1
+
+
+
+Huckepacksignale
+
+ 
+
+1	Huckepacksignale
+	
+	Diese Signale sind nur für SIM-Züge (Simplon-Inter-Modal) und für Rangierbewegungen mit SIM-Wagen gültig.
+	
+1.1	Merktafeln für Eintrittskorridor-Anmeldung
+	
+		Begriff	Anfangssignal
+		Bedeutung	Meldeort der Zugnummer zwischen dem Anfangs- und Endsignal
+		Beziehung zu anderen Signalen
+			Es folgt ein Endsignal
+	
+		Begriff	Endsignal
+		Bedeutung	Anmeldung abgeschlossen
+		Beziehung zu anderen Signalen
+			Es geht ein Anfangssignal voraus
+	
+1.2	Huckepack-Verbottafel
+	
+	Huckepack-Verbottafeln werden in Bodennähe und links, ausnahms-weise auch rechts aufgestellt. Die Spitze der Signaltafel zeigt gegen das zugehörige Gleis.
+	
+		Begriff	Halt
+		Bedeutung	Halt vor dem Signal
+	
+
+1.3	Huckepack-Verbotsignal
+1.3.1	Huckepack-Vorsignal
+	
+		Begriff	Warnung
+		Bedeutung	Halt vor dem nächsten Huckepack-Verbotsignal
+		Beziehung zu anderen Signalen
+			Es folgt ein Huckepack-Verbotsignal
+	
+1.3.2	Huckepack-Verbotsignal
+	
+		Begriff	Halt
+		Bedeutung	Halt vor dem Signal
+		Beziehung zu anderen Signalen
+			Es geht ein Huckepack-Vorsignal voraus
+	
+1.4	Huckepack-Wegtafel
+	
+	Huckepack-Wegtafeln zeigen den zulässigen Fahrweg an.
+		Bedeutung	Halt vor der in Richtung violettem Punkt stehenden Weiche bei Vorbeifahrt an einem Halt zeigenden Hauptsignal
+
+
+Anlage 2
+
+
+
+Formsignale
+
+
+1	Zugsignal
+1.1	Hauptsignal
+1.1.1	Halt
+	
+	Das Formsignal zeigt bei Tag einen Flügel waagrecht nach rechts, bei Nacht ein rotes Licht.
+	
+		Begriff	Halt
+		Bedeutung	Halt vor dem Signal
+		Beziehung zu anderen Signalen
+			Dem Signal kann ein Warnung zeigendes Vorsignal voraus-gehen
+	
+1.1.2	Freie Fahrt
+	
+	Das Formsignal zeigt bei Tag den oberen Flügel schräg nach rechts auf-wärts, bei Nacht ein grünes Licht.
+	
+		Begriff	Freie Fahrt (Fahrbegriff 1)
+		Bedeutung	Fahrt mit der in der Strecken-tabelle angegebenen Höchst-geschwindigkeit
+		Beziehung zu anderen Signalen
+			Das nächste Signal zeigt
+–	Warnung
+–	Geschwindigkeits-Ankündigung
+–	Freie Fahrt
+	
+	
+1.1.3	Geschwindigkeits-Ausführung
+	
+	Das Formsignal zeigt bei Tag zwei Flügel schräg nach rechts aufwärts, bei Nacht oben ein grünes und darunter ein oranges Licht.
+	
+		Begriff	Geschwindigkeits-Ausführung
+40 km/h (Fahrbegriff 2)
+		Bedeutung	Ab diesem Signal bzw. den zugehörigen Weichen gilt die Höchstgeschwindigkeit von 
+40 km/h. Ist in der Strecken-
+tabelle eine kleinere Ge-schwindigkeit aufgeführt, ist diese gültig
+		Beziehung zu anderen Signalen
+			Das nächste Signal zeigt
+–	Warnung
+–	Geschwindigkeits-Ankündigung
+–	Geschwindigkeits-Ausführung
+–	Freie Fahrt
+	
+	
+
+2	Rangiersignal
+2.1	Räumungssignal
+	
+	Das Formsignal zeigt bei Tag zwei blau-weisse gekreuzte Flügel, bei Nacht ein blaues Licht.
+	
+		Begriff	Rangieren verboten
+		Bedeutung	Räumung und Freihaltung der durch dieses Signal zu schützenden Zugfahrstrasse
+	
+	Mit der Zustimmung des FDL dürfen Rangierbewegungen auch bei Verbotstellung des Räumungssignals ausgeführt werden.
+	
+	Das Formsignal zeigt bei Tag die blau-weissen Flügel senkrecht, bei Nacht ein weisses Licht.
+	
+		Begriff	Rangieren gestattet
+		Bedeutung	Im Gültigkeitsbereich des Signals ist keine Zugfahr-strasse eingestellt
+	
+
+	
+Anlage 3
+
+
+
+Rangiersignale für Ablaufanlagen
+
+ 
+
+
+1	Rangiersignale für Ablaufanlagen
+1.1	Ziffer entfällt
+	
+1.2	Ablaufsignal
+1.2.1	Allgemeines
+	
+	Ablaufsignale gelten für das Abdrücken, Anhalten und Zurückziehen am Ablaufberg. Sie signalisieren nach beiden Seiten. In der Grundstellung sind die Signale unbeleuchtet und ohne Bedeutung.
+Ablaufsignale haben die gleiche Form und zeigen die gleichen Bilder wie die entsprechenden Rangiersignale. Zur Unterscheidung tragen die Ablaufsignale einen halbkreisförmigen weissen Aufsatz.
+Die mit den Ablaufsignalen gegebenen Befehle richten sich an den LF.
+	
+1.2.2	Signalisierung am Ablaufsignal
+	
+	Halt
+	
+		Begriff
+Bedeutung	Halt
+Halt der Rangierbewegung
+		
+	
+	Schieben
+	
+	
+	Begriff
+Bedeutung	Schieben
+Langsames Schieben gegen den Ablaufberg
+		
+		
+

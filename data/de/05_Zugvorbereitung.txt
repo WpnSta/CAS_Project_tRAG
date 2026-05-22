@@ -1,0 +1,860 @@
+﻿Schweizerische Eisenbahnen	R 300.5
+
+
+
+Zugvorbereitung
+
+
+1	Zugbildung
+1.1	Kennzeichnung der Züge 
+	
+	Vor Abfahrt eines Zuges sind die Zugspitze und der Zugschluss gemäss den Signalvorschriften zu signalisieren. Das Warnsignal muss signalisiert werden können. Auf Strecken mit Handrückmeldung oder auf Strecken ohne Block muss bei Nacht das letzte Fahrzeug eines Zuges mit einem roten Licht, einem rot blinkenden Licht oder zwei roten Lichtern gekennzeichnet sein.
+	
+1.2	Führen der Züge
+
+	Bei direkt und indirekt geführten Zügen muss das erste Fahrzeug mit einem aktiven Empfangsgerät für die Zugbeeinflussung ausgerüstet sein.
+Ausnahme: 
+Die ISB können in den Betriebsvorschriften oder den Netzzugangsbestimmungen festlegen, wie gross die Distanz zwischen der Zugspitze (Puffer, Kupplung) und dem Empfangsgerät der Zugbeeinflussung maximal sein darf. Die EVU setzen diese Anforderung in ihren Betriebsvorschriften um. Kann diese Anforderung nicht erfüllt werden, ist die Zugbeeinflussung als nicht ausreichend zu betrachten.
+	
+1.2.1	Direktes Führen der Züge 
+	
+	Züge dürfen direkt geführt werden, wenn
+–	der LF dauernd eine freie Sicht auf den Fahrweg und die Signale hat und
+–	der LF die automatische Bremse bedient und
+–	der LF die Möglichkeit hat, Achtungssignale zu geben und
+–	der LF die vorgeschriebenen Signalmittel in Reichweite hat.
+Züge werden nur von einer Stelle aus direkt geführt.
+	
+1.2.2	Indirektes Führen der Züge
+	
+	Züge werden indirekt geführt, wenn der LF keine freie Sicht auf den Fahrweg und die Signale hat.
+Das indirekte Führen von Zügen ist nur mit Bewilligung der ISB oder bei Störungen gestattet.
+Das Fahrpersonal ist zu verständigen. Das indirekte Führen kann auch in der Fahrordnung angeordnet werden.
+Die indirekt führende Person hat sich so aufzustellen, dass sie den Fahrweg überblicken und die Signale einwandfrei beobachten kann.
+
+
+1.3	Einreihen der Triebfahrzeuge
+1.3.1	Grundsatz 
+	
+	Die Triebfahrzeuge sind in der Regel an die Spitze des Zuges zu stellen, ausgenommen, wenn sie ferngesteuert sind.
+Triebfahrzeuge, welche unmittelbar gekuppelt und vielfachgesteuert sind, gelten als ein Triebfahrzeug.
+Die Vorgaben für das Einreihen von Zahnradtriebfahrzeugen sind durch die EVU unter Berücksichtigung der Einsatzbedingungen aus den Fahrzeugzulassungen festzulegen.
+	
+1.3.2	Schiebende Triebfahrzeuge
+	
+	Die zulässigen Stosskräfte sind in den Ausführungsbestimmungen der ISB angegeben. Die EVU regeln die Anwendung der Stosskräfte bzw. die Bedienung von schiebenden Triebfahrzeuge in den Betriebsvorschriften.
+Hinter einem schiebenden Triebfahrzeug dürfen Fahrzeuge angehängt werden.
+	
+1.3.3	Schiebedienst 
+	
+	Werden zusätzliche, schiebende Triebfahrzeuge am Schluss von direkt geführten Zügen einzeln bedient, gilt das als Schiebedienst.
+Ein schiebendes Triebfahrzeug ist mit dem Zug zu kuppeln.
+Ausnahme: 
+Wenn das Triebfahrzeug den Zug in einem Abschnitt verlässt sowie beim Schieben in einen angrenzenden Abschnitt unter die eingeschaltete Fahrleitung kann die ISB in den Ausführungsbestimmungen das Vorgehen regeln.
+	
+1.3.4	Vorspanndienst 
+	
+	Werden an der Zugspitze mehrere, unmittelbar gekuppelte Triebfahrzeuge einzeln bedient, gilt das als Vorspanndienst. Als zugführend gilt das vorderste Triebfahrzeug.
+	
+1.3.5	Zwischendienst
+	
+	Werden einzeln bediente, arbeitende Triebfahrzeuge zwischen den Wagen eines Zuges eingereiht, gilt das als Zwischendienst. Ein Zwischentriebfahrzeug (Zwischenlok) ist so einzureihen, dass keine Stosskräfte übertragen werden müssen.
+	
+1.3.6	Überführung von Triebfahrzeugen
+	
+	Arbeitende Triebfahrzeuge dürfen zwischen den Wagen oder am Schluss eines Zuges überführt werden. Es darf nur das Eigengewicht bewegt werden.
+Muss lasthalber mehr als das Eigengewicht bewegt werden, gelten die Bestimmungen für den Schiebedienst oder für den Zwischendienst.
+	
+1.4	Einreihen der Anhängelast
+1.4.1	Grundsatz
+	
+	In die Züge dürfen nur Fahrzeuge eingereiht werden, deren Beschaffenheit und Ladung die Voraussetzungen für die Beförderung mit dem betreffenden Zug erfüllen. Kleinwagen dürfen nicht angehängt werden. Beschädigte oder entgleiste Fahrzeuge dürfen erst nach der Untersuchung und der Freigabe durch den technischen Wagendienst in Züge eingereiht werden.
+Für das Einreihen von Fahrzeugen in die Züge sind zudem die nachstehenden Bestimmungen zu beachten:
+–	die Einschränkungen für das Verkehren von Fahrzeugen auf ein-zelnen Strecken mit Rücksicht auf die grösste zulässige Radsatz- und Meterlast sowie das Lademass
+–	die zulässige Höchstgeschwindigkeit der Fahrzeuge mit Rück-sicht auf Bauart, Achsstand und Gewicht
+–	die zulässige Höchstgeschwindigkeit der Fahrzeuge auf Grund 
+ihrer Anschrift oder eines Schadenzettels
+–	die für aussergewöhnliche Sendungen massgebenden Bestimmungen
+–	die Ausführungsbestimmungen der EVU für das Einreihen von Fahrzeugen am Zugschluss sowie für das Schleppen von Triebfahrzeugen und bei Beschädigungen.
+	
+1.4.2	Einreihen von besetzten Reisezugwagen in Güterzügen
+	
+	In Güterzügen sind besetzte Reisezugwagen hinter dem Triebfahrzeug einzureihen.
+	
+
+
+1.4.3	Einreihen von Gefahrgutwagen
+	
+	Die EVU regeln die Einhaltung der Verordnung über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen (RSD) bzw. der Regelung zur Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID) in den Betriebsvorschriften.
+Wagen mit Grosszetteln (Placards) nach Muster 1 bis 9 gemäss RID sowie offene Wagen mit Ladegut, das diese Grosszettel (Placards) trägt, dürfen nur in Güterzügen befördert werden. In Güterzügen mitgeführte besetzte Reisezugwagen müssen von Gefahrgutwagen durch einen Schutzabstand getrennt sein.
+Wagen mit Grosszetteln (Placards) nach Muster 1, 1.5 oder 1.6 gemäss RID sowie offene Wagen mit Ladegut, das diese Grosszettel (Placards) trägt, müssen durch einen Schutzabstand entsprechend RID getrennt sein.
+Nach der Zugvorbereitung und nach jeder Änderung der Zugzusammensetzung muss der LF vor der Abfahrt verständigt werden, wenn Gefahrgutwagen eingereiht sind. Die EVU legen die Art der Verständigung des LF in den Ausführungsbestimmungen fest.
+	
+1.4.4	Aussergewöhnliche Sendungen
+	
+	Als aussergewöhnliche Sendung verkehren Fahrzeuge mit oder ohne Ladung, welche aufgrund ihrer äusseren Abmessungen (z.B. Lademassüberschreitung), ihres Gewichts oder ihrer Beschaffenheit nur unter besonderen technischen oder betrieblichen Bedingungen befördert werden dürfen. 
+Die ISB und die EVU regeln die Behandlung solcher Sendungen in ihren Betriebsvorschriften.
+Das betroffene Personal ist über die jeweils einzuhaltenden Bedingungen protokollpflichtig zu verständigen. 
+	
+1.4.5	Nicht freizügig einsetzbare Wagen
+	
+	Schwere Wagen, leichte Wagen, Schlussläufer und Fahrzeuge mit Ablaufbergverbot sind Fahrzeuge, die auf Grund ihrer Bauart oder ihres Zustandes nicht freizügig in Zügen verkehren dürfen. Sie sind entsprechend zu kennzeichnen.
+	
+
+1.4.6	Vormeldungen
+	
+	Der ZVB hat den FDL des Abgangsbahnhofs vor der Abfahrt zu verständigen,
+–	wenn in einem Zug die folgenden Fahrzeuge eingereiht sind:
+–	Wagen mit einem überlangen inneren Achsabstand. Die ISB regeln das Mass des zulässigen inneren Achsstandes in den Betriebsvorschriften.
+–	Fahrzeug als aussergewöhnliche Sendung
+–	Schlussläufer
+–	wenn sich Gefahrgut im Zug befindet. Die ISB regeln die benötigten Informationen.
+–	wenn unplanmässig Reisende oder Tiere transportiert werden.
+Der FDL des Abgangsbahnhofs verständigt die FDL der Zwischenbahnhöfe und des Endbahnhofs.
+	
+1.5	Anhängelast 	
+		
+	Die Anhängelast darf nicht grösser sein als die Summe der für die betreffende Strecke zugelassenen Normallasten aller im Zug arbeitenden Triebfahrzeuge. Dabei ist zu achten auf
+–	die zulässige Zughakenlast
+–	die zulässige Schiebelast
+Die grösste Zughakenlast, die zulässige Schiebelast sowie die für die einzelnen Triebfahrzeuge festgesetzten Normallasten sind für jede Strecke in den Ausführungsbestimmungen der EVU angegeben.
+	
+
+2	Sichern stillstehender Züge
+2.1	Sichern
+	
+	Stillstehende Züge oder Zugteile sind gegen Entlaufen zu sichern.
+Für Adhäsionsstrecken sind die Regelungen bezüglich Festhaltekraft massgebend, auf Zahnstangenstrecken oder -abschnitten gelten die entsprechenden Betriebsvorschriften der EVU. 
+	
+2.2	Mindestfesthaltekraft
+	
+	Die Summe der Festhaltekräfte der von der Luftbremse unabhängigen Bremsmittel darf nicht kleiner sein als die Mindestfesthaltekraft für den Zug auf der entsprechenden Neigung.
+Für Adhäsionsstrecken mit einer Neigung bis 75 ‰ können die Werte für die Mindestfesthaltekraft der Beilage 1 entnommen werden.
+Die ISB legen in den Betriebsvorschriften die Mindestfesthaltekraft für Neigungen über 75 ‰ fest.
+	
+2.3	Mindestfesthaltekraft bei der Abfahrt
+	
+	Bei der Abfahrt eines Zuges müssen so viele von der Luftbremse unabhängige Bremsmittel vorhanden sein, dass die Mindestfesthaltekraft erstellt werden kann. Die Mindestfesthaltekraft muss jederzeit für die vorhandene Neigung genügen.
+	
+2.4	Wirkung der automatischen Bremse
+	
+	Kann der Luftvorrat oder das Vakuum nicht ergänzt werden, genügt zur Sicherung eines Zuges oder Zugteils bis zu einer halben Stunde die automatische Bremse. Dabei sind die Fahrzeuge voll zu bremsen.
+Ein einzeln abgestellter Wagen ist immer mit von der Luftbremse unabhängigen Mitteln zu sichern.
+	
+2.5	Sichern mit von der Luft unabhängigen Bremsmitteln
+	
+	Bleibt ein Zug oder Zugteil voraussichtlich länger als eine halbe Stunde auf der Strecke stehen, ist dieser mit von der Wirkung der Luftbremse unabhängigen Bremsmitteln so zu sichern, dass die Mindestfesthaltekraft vorhanden ist.
+	
+
+2.6	Anrechenbare Bremskräfte für die Festhaltekraft
+	
+	Die Festhaltekraft wird in Kilo-Newton (kN) ermittelt.
+Anschriften in der Einheit Tonnen (t) sind gemäss folgender Regel einzusetzen: 1 t (Bremsgewicht) wird als 1 kN (Festhaltekraft) angerechnet.
+Bei doppelter Anschrift der Festhaltekraft in kN und t ist der Wert in kN anzurechnen.
+	
+	Zur Bestimmung der Festhaltekraft sind folgende Bremsen anrechenbar:
+	–	Feststellbremse
+–	der Zahlenwert des Gesamtgewichts in t, aber höchstens die angeschriebene Festhaltekraft
+	
+	Beispiele:
+	
+		–	bei leerem Wagen sind 22 kN anrechenbar
+–	bei einem Gesamtgewicht von  mindestens 36 t sind 36 kN anrechen­bar
+
+		–	bei leerem Wagen sind 16 kN anrechenbar
+–	bei einem Gesamtgewicht von mindestens 24 t sind 24 kN anrechen­bar
+
+	
+	–	bei leerem Wagen sind 28 kN anrechenbar
+–	bei einem Gesamtgewicht von mindestens 37 t sind 37 kN anrechen­bar
+	die Angabe 21 t hat keine Bedeutung mehr
+
+	–	bei fehlender Festhaltekraftanschrift das Gesamtgewicht in t, höchstens jedoch 20 kN.
+–	bei folgender Wagenanschrift ist der angeschriebene Faktor zu berücksichtigen:
+		
+z.B. 1/4 vom Gesamtgewicht
+	
+	–	Hemmschuhe
+Für die Festhaltekraft ist in Neigungen bis 50 ‰ für jede unterlegte Achse die anteilige Radsatzlast nach folgender Formel anrechenbar:
+Radsatzlast in t x 2 = kN, max. 40 kN
+Die Hemmschuhe sind unter die Räder von Wagen mit möglichst hoher Radsatzlast zu legen. Je Wagen ist nur ein Hemmschuh zu verwenden. Die Feststellbremse von Wagen, bei denen ein Hemmschuh unterlegt ist, darf für die Festhaltekraft nicht angerechnet werden.
+Die EVU können das Unterlegen und das Anrechnen von Hemmschuhen bei Triebfahrzeugen und von zusätzlichen Hemmschuhen bei Wagen in den Betriebsvorschriften regeln. Dabei ist sicherzustellen, dass je Achse nicht mehr als die anteilige Festhaltekraft der Feststellbremse oder ein Hemmschuh angerechnet wird.
+Die ISB regeln für Neigungen über 50 ‰ die Anrechnung der Hemmschuhe für die Festhaltekraft in den Betriebsvorschriften.
+	
+
+
+3
+	Bremsvorschriften
+
+Für Zahnradfahrzeuge gelten zusätzlich die Bremsvorschriften der EVU. Diese sind unter Berücksichtigung der Einsatzbedingungen aus den Fahrzeugzulassungen festzulegen.
+	
+3.1	Bremstabellen
+	
+	Die ISB geben in den Betriebsvorschriften diejenigen Angaben aus der angewendeten Bremstabelle bekannt, welche für die Berechnung des Teilbremsverhältnisses und für den Störungsfall nötig sind.
+	
+3.2	Bremsrechnung
+	
+	Das Bremsverhältnis zur Bestimmung der Bremsreihe wird wie folgt berechnet:
+
+Rundungsregel:
+Bei der Bremsrechnung sind Bruchteile von Tonnen (t) und Bremsprozenten (%) von 0,5 und grösser aufzurunden, solche von weniger als 0,5 abzurunden.
+Jeder Zug benötigt eine Bremsrechnung. Die EVU können in den Betriebsvorschriften die Ermittlung des Bremsverhältnisses mit Dauer- oder Standardbremsrechnungen regeln.
+
+
+3.3	Umstellvorrichtungen
+3.3.1	Bremsart-Wechsel
+			
+	GPR-Wechsel	auf Stellung	wenn vorgeschriebene Stellung nicht vorhanden
+			
+	Triebfahrzeuge	R	P
+			
+	Abweichende Regelung 
+für Güterzüge mit einer Anhängelast von mehr als 600 t:
+–	die Triebfahrzeuge an
+der Spitze des Zuges	
+
+
+G	
+
+
+P
+			
+			
+	Wagen	R	P / RIC oder G
+			
+	mit Magnetschienenbremse	R + Mg	
+	Abweichende Regelung für Güterzüge:		
+	–	Züge mit einer Anhängelast von mehr als 600 t
+	P / RIC oder G
+
+	Ist die erforderliche Stellung nicht vorhanden, ist die betreffende Bremse auszuschalten und zu entleeren. 
+Das notwendige Teilbremsverhältnis muss aber in jedem Fall erreicht werden. Nötigenfalls sind ungebremste Fahrzeuge auszusetzen.
+	–	Züge mit einer Anhängelast
+von mehr als 1200 t 
+	G bei den ersten fünf Bremseinheiten der Anhängelast, übrige auf P / RIC oder G
+	
+	–	Züge aus nicht einheitlichem Wagenmaterial mit einer Anhängelast von mehr als 1600 t	G	
+	–	Niederflurzüge des Huckepackverkehrs	G	
+			
+	Als Güterzüge aus einheitlichem Wagenmaterial gelten vollständig beladene Züge. Dabei sind folgende Bedingungen einzuhalten: 
+–	ausschliesslich Drehgestellwagen und 
+–	keine Gelenkwagen und 
+–	ausschliesslich Wagen mit folgenden Mindest-Gesamtgewichten:
+			Züge mit einer Anhängelast von 1601 bis 2500t	Züge mit einer Anhängelast von mehr als 2500t
+		4-achsiger Wagen	64t	80t
+		6-achsiger Wagen	96t	120t
+		8-achsiger Wagen	128t	160t
+	Die Bestimmungen über das Teilbremsverhältnis müssen eingehalten werden.
+Befinden sich an der Spitze von Güterzügen mit mehr als 1200 t Anhängelast Reisezugwagen ohne G-Bremse, werden die Bremsen wie folgt eingestellt:
+
+	
+3.3.2	Lastwechsel
+	
+	Lastwechsel	auf Stellung
+	Wenn das Gesamtgewicht
+–	kleiner ist als das angeschriebene Umstellgewicht
+–	das angeschriebene Umstellgewicht erreicht oder übersteigt	
+leer
+beladen
+		
+	Ist das Umstellgewicht nicht angeschrieben und beträgt das Gesamtgewicht bei 2-achsigen Wagen 25 t und mehr bzw. bei 4-achsigen Wagen 50 t und mehr	beladen
+		
+		
+	Ist ein manueller Lastwechsel, der auf «leer» stehen sollte, auf Stellung 
+«beladen» blockiert, ist die Bremse auszuschalten.
+	
+
+
+3.4	Anrechenbare Bremsgewichte	
+3.4.1	Grundsätze
+	
+	Angerechnet werden darf:
+–	das R-Bremsgewicht der Fahrzeuge auf Bremsstellung R
+–	das P-Bremsgewicht der Fahrzeuge auf Bremsstellung P
+–	Bei Fahrzeugen auf Bremsstellung G das G-Bremsgewicht nur zu 8/10 wegen der längeren Bremszylinderfüllzeit
+–	bei Fahrzeugen in Bremsstellung R oder P sind bei Güterzügen
+aufgrund der Länge folgende Bremsgewichtsreduktionen auszu-führen:
+
+Länge der Anhängelast	Bremsgewicht multiplizieren mit	0 - 500 m
+1	501 - 600 m
+0,95	601 - 700 m
+0,90	701 - 800 m
+0,85	über 800 m
+0,8	Bei Erstellung der Bremsrechnung durch ein Datenverarbeitungssystem können auch Zwischenwerte zwischen denjenigen in der obenstehenden Tabelle berechnet werden.
+Folgende Bremsgewichte dürfen nur angerechnet werden, wenn die EVU das in ihren Betriebsvorschriften regeln:
+–	das höhere der beiden Bremsgewichte in Stellung 
+–	das Bremsgewicht mit Einbezug der elektromagnetischen Schienenbremse 
+–	die EP-Bremse
+–	das E-Bremsgewicht bei speziell bezeichneten Pendel- und 
+Triebzugeinheiten, die zusätzlich mit Magnetschienenbremsen
+ausgerüstet sind
+Für Fahrzeuge mit Vakuumbremse sind zusätzlich die Bestimmungen in der Anlage 1 zu beachten.
+	
+3.4.2	Arbeitende Triebfahrzeuge	
+	
+Das Bremsgewicht wird entsprechend der Stellung der GPR-Wechsel ermittelt. Die entsprechenden Bremsgewichte sind der Triebfahrzeugtabelle oder der Bremsanschrift am Triebfahrzeug zu entnehmen.
+Triebfahrzeuge mit eingeklammerter P-Bremsgewichtanschrift besitzen keine Stellung «P» an der Umstellvorrichtung.
+Triebfahrzeuge mit elektrischer oder hydrodynamischer Bremse tragen neben der Bremsanschrift ein «E».	
+		Beispiel Bremsanschrift einer Lok:
+	
+	
+	Bei dieser Anschrift darf z.B. angerechnet werden:
+–	Umstellvorrichtung auf Stellung «R» .........  ........	100 t
+–	bei einem Güterzug mit mehr als 600 t Anhängelast,
+Umstellvorrichtung auf Stellung «G» (0.8 • 72 t) ...............	 58 t
+	
+	Für einen zugführenden Traktor ohne Druckluftbremse darf für die bediente Rangierbremse das Dienstgewicht als Bremsgewicht angerechnet werden.
+Sind im Zug weitere bediente Traktoren ohne Druckluftbremse, darf für diese kein Bremsgewicht angerechnet werden, auch wenn sie an die Hauptleitung angeschlossen sind.
+	
+	Beispiel Bremsanschrift eines Traktors:
+	
+	
+	
+	
+	Für Fahrzeuge mit Vakuumbremse sind zusätzlich die Bestimmungen in der Anlage 1 zu beachten.
+	
+	
+3.4.3	Geschleppte Triebfahrzeuge	
+		
+Das Bremsgewicht geschleppter Triebfahrzeuge ist der Triebfahrzeugtabelle zu entnehmen.
+Werden Triebfahrzeuge in Güterzügen mit mehr als 1200 t Anhängelast geschleppt, muss die Druckluftbremse dieser Triebfahrzeuge ausgeschaltet werden, wenn auf Grund ihrer Einreihung die G-Bremse vorgeschrieben wäre und nicht auf G gestellt werden kann.
+Bei Triebfahrzeugen mit Nachbremse (N) darf das Bremsgewicht für das Bremsverhältnis im Zug nicht angerechnet werden. 		
+	Beispiel Bremsanschrift einer Lok:	
+	
+	
+Bei dieser Anschrift darf z.B. angerechnet werden:
+–	anrechenbares Bremsgewicht ................................................  0 t
+–	anrechenbares Bremsgewicht für das Teilbremsverhältnis ... 57 t	
+	
+Für Fahrzeuge mit Vakuumbremse sind zusätzlich die Bestimmungen in der Anlage 1 zu beachten.	
+	
+3.4.4	Wagen ohne Umstellvorrichtung	
+	
+Anrechenbar ist das angeschriebene Bremsgewicht oder, wenn diese Angabe fehlt, das Eigengewicht des Wagens. 	
+	
+	
+Beispiel Bremsanschrift eines Reisezugwagens:	
+	
+	
+	
+3.4.5	Wagen mit Umstellvorrichtung
+	
+	Beispiel Bremsanschrift eines Reisezugwagens:	
+	
+	
+	
+Bei dieser Anschrift und Stellung dürfen entsprechend den Betriebsvorschriften 69 t, 74 t oder 84 t angerechnet werden.               	       	
+	
+3.4.6	Wagen mit automatischer Lastabbremsung und 
+Kennzeichnung A	
+		Beispiel Bremsanschrift eines Güterwagens:
+	
+	
+	Bei dieser Anschrift darf z.B. angerechnet werden:
+	
+	Stellung
+P	G (= 0,8 • P)
+	
+	bei leerem Wagen
+bei einem Gesamtgewicht von 26 t (Beladung 10 t)
+bei einem Gesamtgewicht von 40 t (Beladung 24 t)	16 t
+26 t
+29 t	13 t
+21 t
+23 t		
+				Ist in der Anschrift zusätzlich zum Bremsgewicht das Bremsverhältnis angegeben, bezieht sich dieses immer auf den voll beladenen bzw. besetzten Wagen. Das auf Grund des aktuellen Beladezustandes wirksame Bremsgewicht kann wie folgt errechnet werden:	
+		
+				    Bremsverhältnis [%]
+Bremsgewicht = 				•  Gesamtgewicht [t]
+			100 [%]
+			
+	Beispiel Bremsanschrift eines Reisezugwagens:		
+	
+	
+	Bei dieser Anschrift und Stellung darf z.B. angerechnet werden:
+	
+	
+bei leerem Wagen	
+65 t		
+	bei besetztem Wagen		92 t		
+	3.4.7	Wagen mit automatischer Lastabbremsung und Bremsgewichttabelle			
+Anrechenbar ist das in Abhängigkeit vom Gesamtgewicht angegebene Bremsgewicht.	
+	
+Beispiel Bremsanschrift eines Güterwagens mit Bozic-Bremse:	
+	
+	
+	
+Bei dieser Anschrift darf z.B. in Stellung «P» angerechnet werden:
+–	Bremsgewicht bei einem Gesamtgewicht von 10 – 13 t ...... 9 t
+–	Bremsgewicht bei einem Gesamtgewicht von 14 – 18 t .....	11 t
+–	Bremsgewicht bei einem Gesamtgewicht von 19 – 23 t .....	14 t	
+3.4.8	Wagen mit automatischem Lastwechsel 	
+	
+Anrechenbar ist das grössere Bremsgewicht, wenn das Gesamtgewicht gleich oder grösser als das Umstellgewicht ist. Das kleinere Bremsgewicht ist in den anderen Fällen zu berücksichtigen.
+Beispiel Bremsanschrift eines Güterwagens:	
+	
+	
+	
+Bei dieser Anschrift darf z.B. in Stellung «P» angerechnet werden:
+–	bei einem Gesamtgewicht bis zu 22 t  ................................	13 t
+–	bei einem Gesamtgewicht von 22 t und mehr  ...................	26 t	
+	
+3.4.9	Wagen mit manuellem Lastwechsel
+	
+		
+Anrechenbar ist das der Stellung der Umstellvorrichtung entsprechende Bremsgewicht.
+Beispiel Bremsanschrift eines Güterwagens:		
+		
+		
+		
+Bei dieser Anschrift darf z.B. in Stellung «P» angerechnet werden:
+–	bei einem Gesamtgewicht von 18 t / Stellung 14 t: ........... 14 t
+–	bei einem Gesamtgewicht von 20 t / Stellung 18 t: ........... 18 t
+–	bei einem Gesamtgewicht von 21 t / Stellung 18 t:............ 18 t		
+		
+Für Fahrzeuge mit Vakuumbremsen sind zusätzlich die Bestimmungen in der Anlage 1 zu beachten.		
+3.5	Ungebremste Fahrzeuge	
+3.5.1	Grundsatz
+	
+	Das erste und das letzte Fahrzeug (einschließlich Triebfahrzeuge) des Zuges müssen eine funktionstüchtige automatische Bremse oder eine Nachbremse besitzen.
+	
+3.5.2	Kennzeichnung ausgeschalteter Luftbremsen
+	
+	Fahrzeuge, deren automatische Bremse ausgeschaltet ist, sind zu kennzeichnen.
+	
+3.5.3	Automatische Bremse ohne ersichtlichen Grund ausgeschaltet
+	
+	An Wagen, deren automatische Bremse ohne ersichtlichen Grund ausgeschaltet ist, darf der Ausschalthahn geöffnet werden. Anschliessend ist vor der Weiterfahrt an diesen Wagen eine Bremsprobe vorzunehmen.
+	
+3.5.4	Teilbremsverhältnis	
+	
+Die Bremsen sind gleichmässig im Zug zu verteilen. Überdies müssen die Bedingungen für das Teilbremsverhältnis erfüllt sein.
+Das Teilbremsverhältnis muss gerechnet werden:
+–	vom Zugschluss her bis zu jeder möglichen Trennstelle im Zug 
+–	von der Zugspitze her für jede mögliche Trennstelle bis nach dem fünften Fahrzeug der Anhängelast.
+Das kleinste berechnete Teilbremsverhältnis muss mindestens so gross sein wie das Bremsverhältnis nach angewendeter Bremstabelle für die massgebende Neigung und eine Geschwindigkeit von 25 km/h.
+Zur Bestimmung der Teilbremsverhältnisse werden angerechnet:
+–	das zur Bestimmung der Bremsreihe anrechenbare Bremsgewicht der eingeschalteten Bremse
+–	bei geschleppten Triebfahrzeugen mit Nachbremse das in der Triebfahrzeugtabelle angegebene oder am Fahrzeug ange-
+schriebene Bremsgewicht der Nachbremse
+Das Teilbremsverhältnis gilt als erfüllt und muss nicht überprüft werden, wenn alle Fahrzeuge mit einer Bremse gebremst werden.
+Die EBU, welche auf Grund der angewendeten Bremstabelle und der massgebenden Neigung grundsätzlich mit einer tieferen Geschwindigkeit als 25 km/h verkehren, erlassen die notwendigen Vorschriften in den Ausführungsbestimmungen.
+Beispiel:
+–	Lok (Eigengewicht 120 t, anrechenbares G-Bremsgewicht 72 t)
+–	Anhängelast 1600 t
+–	die ersten fünf Wagen haben keine G-Bremse (Bremsen ausgeschaltet)
+
+Das kleinste Teilbremsverhältnis vom Zugschluss her gerechnet, beträgt 61 %. Das von der Spitze bis zum fünften Fahrzeug der Anhängelast berechnete Teilbremsverhältnis beträgt 18 %.
+Mit dem im Beispiel angegebenen kleinsten Teilbremsverhältnis von 18 % darf bei Anwendung der Bremstabelle G2016 nicht gefahren werden. 
+Für Neigungen bis 14 ‰ ist ein Teilbremsverhältnis von mindestens 20 % notwendig. Muss mit diesem Zug zum Beispiel eine Neigung von 20‰ befahren werden, beträgt das erforderliche kleinste Teilbremsverhältnis 31%. In diesem Falle sind der vierte und der fünfte Wagen von der Zugspitze her auszureihen oder an anderer Stelle im Zug einzureihen.	
+3.5.5	Fahrzeuge mit mehreren Bremseinheiten	
+	
+Muss bei einem Gelenkwagen oder bei einer untrennbaren Wageneinheit mit mehreren Steuerventilen eine Bremseinheit ausgeschaltet werden, darf das andere Steuerventil eingeschaltet bleiben. Ausgenommen sind Fahrzeuge, bei denen die Wagenanschrift dahingehend lautet, dass alle Steuerventile ausgeschaltet werden müssen. Für die Bremsrechnung und für das Teilbremsverhältnis darf nur dann ein Bremsgewicht angerechnet werden, wenn Angaben für die einzelne Einheit vorhanden sind. Fehlen diese Angaben, dürfen für die noch funktionierende Bremseinheit maximal 7 t angerechnet werden.	
+3.5.6	Ungebremstes Fahrzeug am Zugschluss	
+	
+Das Überführen eines ungebremsten Fahrzeuges am Zugschluss ist nur gestattet, wenn dieses wegen eines Schadens nur einseitig über eine funktionsfähige Zug- bzw. Stosseinrichtung verfügt. Dabei sind die Bedingungen gemäss den Vorschriften «Bremsstörung und Zugtrennung» einzuhalten.	
+3.6	Starke Gefälle und grosse bzw. lange Steigungen	
+	
+EVU, welche starke Gefälle und grosse bzw. lange Steigungen befahren, müssen dazu die notwendigen Betriebsvorschriften erlassen.	
+	
+3.7	Zugreihe und Höchstgeschwindigkeit
+3.7.1	Anwendung der Zug- und Bremsreihen
+	
+	Allen Zügen sind in der Fahrordnung geeignete Zug- und Bremsreihen aus der Streckentabelle vorzuschreiben.
+Zugreihe und Bremsreihe gehören zusammen und sind auch bei Änderungen immer zusammen anzugeben.
+Die in der Fahrordnung enthaltene Zug- und Bremsreihe wird als Regelreihe bezeichnet. Alle übrigen zur Verfügung stehenden Zug- und Bremsreihen sind Ersatzreihen.
+Wenn das vorhandene Bremsverhältnis, die anzuwendende Bremsart und die Zusammensetzung des Zuges es verlangen oder gestatten, ist die Ersatzreihe mit der grössten auf Grund der Bremsrechnung möglichen Bremsreihe vorzuschreiben und dem LF bekannt zu geben. Sofern es betrieblich sinnvoll ist, können auch tiefere Bremsreihen angewendet werden. Der LF hat die zulässigen Geschwindigkeiten der Streckentabelle zu entnehmen.
+Mit kleinerem als mit dem nach Streckentabelle für die betreffende 
+Strecke zulässigen kleinsten Bremsverhältnis darf nur bei ausserordentlichen Vorkommnissen gefahren werden, z.B. nach einer Zugtrennung 
+oder im Störungsfall. 
+Das minimal erforderliche Bremsverhältnis muss unter Berücksichtigung der Vorschriften über das Teilbremsverhältnis mindestens für die massgebende Neigung und die gemäss angewendeter Bremstabelle tiefste Geschwindigkeit genügen.
+Bei Lokzügen richten sich Zug- und Bremsreihe nach der Zulassung der Triebfahrzeuge und dem vorhandenen Bremsverhältnis.
+	
+3.7.2	Höchstgeschwindigkeiten und höchstzulässige Länge der Züge (UIC)	
+	
+Die zulässigen Höchstgeschwindigkeiten und die höchstzulässigen Längen der Züge für die einzelnen Zug- und Bremsreihen bei Anwendung der Bremsbewertung nach UIC 544-1 sind:	
+	
+Zugreihe	Bremsreihe
+(%)	vmax
+(km/h)	Bemerkungen / höchstzulässige Länge der Züge	
+				
+N	180 - 150	250	für Züge mit Neigeeinrichtung, bis 500 Meter	
+W	180 - 150	250	für Züge mit Wankkompensationseinrichtung, bis 500 Meter	
+R	180 - 135
+
+125 - 105 	250
+
+160	für Züge mit erhöhter Kurvengeschwindigkeit, bis 500 Meter	
+A	115 - 50	120	bis 750 m	
+D	115 - 50	100	für Radsatzlasten über 20 t bis max. 22.5 t, bis 750 m 	
+				
+	
+Die EVU regeln in ihren Betriebsvorschriften 
+–	die minimale Anhängelast für Geschwindigkeiten über 160 km/h
+–	gemäss den Vorgaben der ISB die anzuwendenden Zugreihen für die von ihnen eingesetzten Fahrzeuge
+Für Züge mit einer Länge von mehr als 750 Meter können die ISB TSI-konforme Betriebsvorschriften erlassen.
+3.7.3	Höchstgeschwindigkeiten und höchstzulässige Längen der Züge (AB-EBV)	
+	
+Die ISB legen die zulässigen Höchstgeschwindigkeiten und die höchstzulässigen Längen der Züge für die einzelnen Zug- und Bremsreihen bei Anwendung der Bremsbewertung gemäss Ausführungsbestimmungen zur Eisenbahnverordnung (AB -EBV, SR 742.141.11) zu Art. 52 fest.	
+Die EVU regeln in ihren Betriebsvorschriften gemäss den Vorgaben der ISB die anzuwendenden Zugreihen für die von ihnen eingesetzten Fahrzeuge.
+
+
+
+	
+3.7.4	Zusätzliche Einschränkungen	
+	
+Zusätzlich sind Geschwindigkeitsverminderungen insbesondere bei aussergewöhnlichen Sendungen gemäss Beförderungsplan zu berücksichtigen.
+Bei indirekt geführten Zügen beträgt die Höchstgeschwindigkeit 30 km/h. Besteht zwischen der indirekt führenden Person an der Spitze des Zuges und dem LF eine fernmündliche Verbindung, beträgt die Höchstgeschwindigkeit 60 km/h.	
+	
+3.8	Angaben für die Zugführung
+3.8.1	Grundsatz
+	
+	Vor der Abfahrt benötigt der LF mindestens folgende Angaben:
+–	die vorgeschriebene Zug- und Bremsreihe
+–	Gewicht der Anhängelast
+–	Länge des Zuges (Meter)
+–	Höchstgeschwindigkeit der Anhängelast
+–	Begleitung des Zuges
+–	Gefahrgut vorhanden sowie dessen Position im Zug
+–	bei Güterzügen den Anteil Wagen mit Scheibenbremsen (D) bzw. LL- und K-Sohlen (inkl. Angabe der Gesamtzahl der Wagen)
+–	bei Güterzügen den Anteil G-Bremse (teilweise/ganzer Zug)
+–	bei Güterzügen die vorhandene Festhaltekraft
+Die Art der Verständigung des LF richtet sich nach den Ausführungsbestimmungen des EVU.
+Jede Änderung der Angaben für die Zugführung ist dem LF durch den ZVB zu melden, insbesondere wenn
+–	der Zug nicht nach der vorgeschriebenen Zug- und Bremsreihe verkehren kann
+–	die Angaben von den in den Betriebsvorschriften aufgeführten Dauerlastzetteln abweichen
+–	die Angaben unterwegs ändern.
+Geschwindigkeitsverminderungen sind dem LF protokollpflichtig bekannt zu geben und der FDL ist zu informieren.
+	
+3.8.2	Keine Angaben notwendig
+	
+	Der LF vermindert die Geschwindigkeit von sich aus, wenn
+–	die Höchstgeschwindigkeit der arbeitenden Triebfahrzeuge kleiner ist als die für den Zug vorgeschriebene
+–	die Einreihung oder allfällige Schäden der arbeitenden Triebfahrzeuge dies bedingt.
+Der LF erhöht die Geschwindigkeit von sich aus, wenn die Bedingungen dazu erfüllt sind.
+	
+
+
+4	Zuguntersuchung
+4.1	Grundsatz
+	
+	Die EVU regeln in den Betriebsvorschriften die Durchführung der Zuguntersuchung. Der ZVB koordiniert die technische und die betriebliche Zugvorbereitung.
+Beim Aufenthalt und bei Arbeiten zwischen Gleisen oder zwischen einem Gleis und einem festen Hindernis muss ein Sicherheits-Zwischenraum vorhanden sein. Andernfalls ist nach den Bestimmungen «Fehlender Sicherheits-Zwischenraum» vorzugehen. Bei Arbeitsstellen ist nach den Bestimmungen über «Arbeiten im Gleisbereich» vorzugehen.
+Die Komposition darf während der Zuguntersuchung nur bewegt oder verändert werden, wenn das gesamte beteiligte Personal vorher informiert wurde.
+	
+4.2	Umfang der Zuguntersuchung
+	
+	Technische Zuguntersuchung:
+Der ZVB hat sicherzustellen, dass
+–	die Lauffähigkeit und Betriebssicherheit gewährleistet sind
+–	die Seitentüren und andere Verschlüsse an Wagen und Behältern geschlossen und gesichert sind
+–	die Güterwagen vorschriftsgemäss beladen und die Ladeeinheiten und die Behälter gesichert sind.
+Die technische Zuguntersuchung ist an jedem einzelnen Fahrzeug mindestens einmal pro Tag und bei Güterwagen zusätzlich nach Änderungen der Beladung durchzuführen.
+Betriebliche Zuguntersuchung:
+Der ZVB hat sicherzustellen, dass
+–	der Zug vorschriftsmässig formiert ist
+–	die Fahrzeuge richtig gekuppelt sind
+–	funktionstüchtige Bremsen in vorgeschriebener Art und Anzahl vorhanden und verteilt sowie die Umstellvorrichtungen richtig gestellt sind
+–	genügend von der Wirkung der automatischen Bremse unab-
+hängige Bremsmittel zum Sicherstellen der Mindestfesthaltekraft vorhanden sind
+–	bei Zahnradfahrzeugen genügend nicht erschöpfbare Bremsmittel zur Sicherung von stillstehenden Fahrzeugen vorhanden sind
+
+–	wo möglich die automatische Türschliessung ordnungsgemäss funktioniert 
+–	der Zug mit den vorgeschriebenen Ausrüstungsgegenständen, Kennzeichnungen und Signalmitteln versehen ist
+–	die Bremsprobe durchgeführt ist.
+Die betriebliche Zuguntersuchung ist mindestens einmal pro Tag, bei jedem neu gebildeten Zug und bei Änderungen unterwegs durchzuführen.
+	
+4.3	Bremsprobe
+	
+	Vor der Abfahrt im Ausgangsbahnhof, bei Veränderung der Zusammensetzung, nach einem Fahrrichtungswechsel oder nach der Inbetriebnahme eines abgestellten Zuges muss eine Bremsprobe durchgeführt werden. Diese ist vom gleichen Führerstand aus vorzunehmen, von dem aus die Bremse während der Fahrt bedient wird.
+Bei der Bremsprobe sind die Bremssysteme zu prüfen, deren Bremsgewichte bei der Berechnung der Bremsreihe und des Teilbremsverhältnisses angerechnet werden.
+Bei Zahnradfahrzeugen sind die Bremssysteme gemäss den Vorgaben der EVU zu prüfen.
+	
+4.3.1	Durchführung der Bremsprobe
+	
+	Vor Beginn der Bremsprobe
+–	müssen die Bremsapparate betriebsbereit sein
+–	muss die Luftbremse gelöst sein. Dies ist an einem beliebigen Wagen zu prüfen
+    • müssen Feststellbremsen gelöst sein. Davon ausgenommen sind Feststellbremsen, welche zum Sichern gegen Entlaufen benötigt werden
+    • müssen die Bremsapparate auf deren Dichtigkeit geprüft werden.
+Die Bremsprobe ist in folgender Reihenfolge an allen Fahrzeugen, bei denen eine Bremsprobe vorzunehmen ist, auszuführen:
+–	eine Betriebsbremsung ausführen
+–	prüfen, ob die Bremsen aller zu kontrollierenden Fahrzeuge 
+gebremst sind
+–	die Bremsen lösen
+–	prüfen, ob die Bremsen aller zu kontrollierenden Fahrzeuge 
+gelöst sind.
+
+Die Kontrolle ist durchzuführen
+–	an den Fahrzeugen selbst (Bremssohlen aller Achsen, Bremszustandsanzeige) oder
+–	an den Bremszylinder-Manometern der bedienten Triebfahrzeuge
+und Steuerwagen (z.B. beim Kuppeln einer Schiebelok oder bei
+der Vereinigung von Pendelzugeinheiten).
+Müssen zum Lösen während der Bremsprobe Auslöseventile betätigt werden, ist die Bremsprobe an den betreffenden Fahrzeugen zu wiederholen.
+Wenn während der Bremsprobe Vorgänge beobachtet werden, die auf Unregelmässigkeiten schliessen lassen, ist die Bremsprobe zu wiederholen.
+Bei in den Ausführungsbestimmungen des EVU aufgeführtem Rollmaterial kann die Bremsprobe vom Führerstand aus durchgeführt werden. In diesem Fall müssen alle Fahrzeuge mit einer geeigneten Meldeeinrichtung ausgerüstet sein.
+Für Fahrzeuge mit Vakuumbremse sind zusätzlich die Bestimmungen in der Anlage 1 zu beachten.
+	
+4.3.2	Hauptbremsprobe
+	
+	Die Bremsen aller Fahrzeuge im Zug, mit Ausnahme der Triebfahrzeuge an der Spitze, sind zu prüfen
+–	wenn der Zug neu gebildet wird
+–	wenn der Zug aus Zugteilen gebildet wird, welche nicht innerhalb
+von 2 Stunden von Anschlusszügen kamen
+–	wenn der Zug mehr als 12 Stunden abgestellt wurde
+–	bei Kompositionen, welche unverändert mehrere Tage im Einsatz
+stehen, täglich
+–	wenn bei der Bremsprobe auf Wirkung eine unerwartet schlechte
+Bremswirkung festgestellt wird
+–	wenn Unklarheit oder Zweifel über die Durchführung der Brems-
+probe bestehen.
+Wenn mehrere Triebfahrzeuge zusammengekuppelt sind, ist die Hauptbremsprobe schon bei der Inbetriebnahme der Triebfahrzeuge auszuführen.
+Die Hauptbremsprobe darf auch mit ortsfester Anlage oder mit einem weiteren Triebfahrzeug durchgeführt werden. In diesem Fall ist nach dem Anhängen des zugführenden Triebfahrzeugs eine Zusatzbremsprobe durchzuführen.
+
+Für Fahrzeuge mit Vakuumbremse sind zusätzlich die Bestimmungen in der Anlage 1 zu beachten.
+	
+4.3.3	Zusatzbremsprobe
+	
+	Die Bremsen des letzten luftgebremsten Fahrzeuges sowie aller neu beigestellten Fahrzeuge sind zu prüfen
+–	bei jedem Fahrrichtungswechsel, sofern das Triebfahrzeug an der
+Spitze neu gekuppelt wurde
+–	wenn der Zug von 2 bis zu 12 Stunden abgestellt wurde.
+Die Bremsen an einem beliebigen Fahrzeug, das sich hinter der letzten Trennstelle der Hauptleitung befindet sowie an allen neu beigestellten Fahrzeugen sind zu prüfen
+–	nachdem ohne Fahrrichtungswechsel Triebfahrzeuge oder Wagen
+ausgewechselt oder beigestellt wurden
+–	nachdem Bremskupplungen getrennt und wieder gekuppelt 
+wurden
+–	wenn die Hauptbremsprobe mit einer ortsfesten Anlage oder mit
+einem weiteren Triebfahrzeug durchgeführt wurde, nach dem
+Anhängen des zugführenden Triebfahrzeugs. Wurde die Haupt-
+bremsprobe mit einer ortsfesten Anlage durchgeführt und wurde diese zwischen den Fahrzeugen des Zuges angeschlossen, muss
+die Zusatzbremsprobe hinter dem Anschlusspunkt der Anlage 
+erfolgen.
+An Zugteilen, welche innerhalb von 2 Stunden von Anschlusszügen kamen, ist eine Zusatzbremsprobe vorzunehmen. Je Zugteil ist mindestens eine Bremse am entsprechenden Fahrzeug nach den vorgängigen Bestimmungen zu prüfen.
+Für Fahrzeuge mit Vakuumbremse sind zusätzlich die Bestimmungen in der Anlage 1 zu beachten.
+	
+
+4.3.4	Vereinfachte Bremsprobe
+	
+	Der LF führt die Bremsprobe allein durch, indem der LF das Ansprechen der Bremsen an den Bremszylinder-Manometern im bedienten Führerstand kontrolliert, und zwar
+–	bei jedem Führerstandwechsel ohne Änderung der Zugzusam-
+mensetzung
+–	bei Inbetriebnahme des Führerstandes nach dem Abkuppeln von
+Vorspannlok oder Pendelzugeinheiten
+–	wenn der Zug bis zu 2 Stunden abgestellt wurde
+–	wenn der bediente Führerstand vorübergehend, bzw. die Lok
+komplett abgerüstet wurde.
+	
+4.3.5	Bremsprobe der Nachbremse geschleppter Triebfahrzeuge
+	
+	Bremsen
+Nach Ausführung einer Betriebsbremsung mit einer Druckverminderung in der Hauptleitung um 1 bar müssen die Bremsen der Fahrzeuge mit Nachbremse noch gelöst sein.
+Anschliessend ist frühestens nach 20 Sekunden eine Schnellbremsung einzuleiten oder der Kupplungshahn der Hauptleitung am Zugschluss zu öffnen, bis die Nachbremse anspricht und die Bremssohlen oder die Bremsbeläge fest anliegen.
+Lösen
+Nach dem Herstellen des Normaldrucks in der Hauptleitung müssen die Bremsen der Fahrzeuge mit Nachbremse gelöst sein.
+4.3.6	Keine Bremsprobe
+	
+	Die Bremsprobe ist nicht erforderlich
+–	wenn am Zugschluss Fahrzeuge abgehängt wurden
+–	nach dem Betätigen von Umstellvorrichtungen (bei Fahrzeugen
+mit Druckluftbremsen)
+–	nach dem Rückstellen einer gezogenen Notbremse.
+Für Fahrzeuge mit Vakuumbremse sind zusätzlich die Bestimmungen in der Anlage 1 zu beachten.
+	
+4.3.7	Abschluss der Bremsprobe
+	
+	Die Meldung über den Abschluss der Bremsprobe erfolgt durch den zuständigen ZVB. Sie ist für den gesamten Zug dem LF gemäss den Vorschriften «Signale» oder quittungspflichtig mit der Meldung: «Zug ... Bremse gut» bekannt zu geben.
+4.4	Abschluss der Zugvorbereitung
+4.4.1	Bedingungen für den Abschluss der Zugvorbereitung
+	
+	Die Zugvorbereitung ist abgeschlossen, wenn
+–	die Zugbildung beendet ist
+–	der LF im Besitze der notwendigen Angaben für die Zugführung ist
+–	die erforderlichen Teile der Zuguntersuchung durchgeführt sind
+–	das Zugende mit einem Zugschlusssignal gekennzeichnet ist.
+Der ZVB meldet dem LF den Abschluss der Zugvorbereitung.
+4.4.2	Melden des Stands der Zugvorbereitung
+	
+	Der ZVB verständigt den FDL und den LF über den Stand der Zugvorbereitung, wenn diese
+–	nicht rechtzeitig auf die fahrplanmässige Abfahrtszeit abgeschlossen werden kann oder
+–	frühzeitig abgeschlossen wird und das vorzeitige Verkehren zulässig ist.
+Die Verständigung erfolgt so früh wie möglich.
+Die ISB kann in den Ausführungsbestimmungen Bahnhöfe oder Bahnhofteile bezeichnen, bei welchen der Abschluss der Zugvorbereitung dem FDL in jedem Fall gemeldet werden muss.
+
+5	Zugvorbereitung im Trambetrieb
+5.1	Zugbildung 
+5.1.1	Kennzeichnung der Züge
+	
+	Zugspitze und Zugschluss sind vor der Abfahrt nach den Signalvorschriften zu signalisieren.
+	
+5.1.2	Direktes Führen der Züge
+	
+	Züge dürfen direkt geführt werden, wenn:
+-	der LF dauernd eine freie Sicht auf den Fahrweg und die Signale hat und
+-	der LF die Bremse bedient und
+-	der LF die Möglichkeit hat, Achtungssignale zu geben und
+-	der LF die vorgeschriebenen Signalmittel in Reichweite hat.
+Züge werden nur von einer Stelle aus direkt geführt.
+	
+5.1.3	Indirektes Führen der Züge
+	
+	Züge werden indirekt geführt, wenn der LF keine freie Sicht auf den Fahrweg und die Signale hat. 
+Das indirekte Führen von Zügen ist nur mit Bewilligung der ISB oder bei Störungen gestattet.
+Der indirekt führende Mitarbeiter hat sich so aufzustellen, dass er den Fahrweg überblicken und die Signale einwandfrei beobachten kann.
+Die EVU regeln das Vorgehen und die erlaubte Höchstgeschwindigkeit bei indirekt geführten Zügen in ihren Betriebsvorschriften, allenfalls auf Basis von Vorgaben der ISB.
+	
+
+5.1.4	Einreihen der Fahrzeuge in Züge
+	
+	Die Triebfahrzeuge sind an die Spitze des Zuges zu stellen. Triebfahrzeuge, welche unmittelbar gekuppelt und vielfachgesteuert werden, gelten als ein Triebfahrzeug.
+In die Züge dürfen nur Fahrzeuge eingereiht werden, deren Beschaffenheit die Voraussetzungen für die Beförderung mit dem betreffenden Zug erfüllen. Beschädigte oder entgleiste Fahrzeuge dürfen erst nach der Untersuchung und der Freigabe durch den technischen Dienst in Züge eingereiht werden.
+Für das Einreihen von Fahrzeugen in die Züge sind zudem die nachstehenden Bestimmungen zu beachten:
+-	die Einschränkungen für das Verkehren von Fahrzeugen auf einzelnen Strecken
+-	die zulässige Höchstgeschwindigkeit der Fahrzeuge mit Rücksicht auf ihre Bauart
+-	die Betriebsvorschriften der EVU für das Einreihen von Fahrzeugen für das Schleppen und das Schieben sowie bei Beschädigungen.
+	
+5.1.5	Nicht freizügig einsetzbare Fahrzeuge und Kompositionen
+	
+	Die EVU führen Verzeichnisse über diejenigen Fahrzeuge und Kombinationen sowie über die Fahrzeugeigenschaften, bei welchen Einschränkungen für den freizügigen Einsatz gelten.
+	
+5.1.6	Anhängelast
+	
+	Die EVU regeln die zulässigen Anhängelasten und die Länge der Züge in den Betriebsvorschriften, allenfalls auf Basis von Vorgaben der ISB.
+	
+5.1.7	Ungebremstes Fahrzeug am Zugschluss
+	
+	Das Überführen eines ungebremsten Fahrzeuges am Zugschluss ist nur gestattet, wenn dieses über eine funktionsfähige Zug- und Stosseinrichtung verfügt. Dabei sind die Bedingungen gemäss den Vorschriften «Bremsstörung» einzuhalten.
+Die EVU regeln in den Betriebsvorschriften die Begleitung.
+
+5.2	Sichern stillstehender Züge
+	
+	Stillstehende Züge oder Zugteile sind gegen Entlaufen zu sichern.
+Die EVU regeln die Bremsmittel und das Vorgehen in den Betriebsvorschriften.
+5.3	Bremsvorschriften und Höchstgeschwindigkeit
+	
+	Das EVU stellt sicher, dass der LF über die erforderlichen Informationen zur Zusammensetzung des Zuges und dessen Bremseigenschaften verfügt. 
+	
+5.3.1	Höchstgeschwindigkeit
+	
+	Die EVU regeln die zulässigen Höchstgeschwindigkeiten in den Betriebsvorschriften.
+5.3.2	Angaben für die Zugführung
+	
+	Die EVU regeln in den Betriebsvorschriften die Angaben, welche der LF für die Zugführung benötigt und die Art der Verständigung.
+	
+
+5.4	Zuguntersuchung
+5.4.1	Grundsatz
+	
+	Mit der Zuguntersuchung wird sichergestellt, dass die Lauffähigkeit und Betriebssicherheit gewährleistet sind. 
+Die EVU regeln in den Betriebsvorschriften die Durchführung der Zuguntersuchung. Der ZVB koordiniert die technische und die betriebliche Zugvorbereitung.
+Die Komposition darf während der Zuguntersuchung nur bewegt oder verändert werden, wenn das gesamte beteiligte Personal vorher informiert wurde.
+	
+5.4.2	Umfang der Zuguntersuchung
+	
+	Die technische und betriebliche Zuguntersuchung der Fahrzeuge ist mindestens einmal pro Tag nach Vorgaben der EVU durchzuführen.
+	
+5.4.3	Bremsprobe
+	
+	Vor der Abfahrt am Ausgangsort, bei Veränderung der Zusammensetzung, nach einem Fahrrichtungswechsel oder nach der Inbetriebnahme eines abgestellten Zuges muss eine Bremsprobe durchgeführt werden. Diese ist vom gleichen Führerstand aus vorzunehmen, von dem aus die Bremse während der Fahrt bedient wird. 
+Vor Beginn der Bremsprobe:
+-	muss die Zugbildung abgeschlossen sein
+-	müssen die Bremsapparate betriebsbereit sein.
+Wenn während der Bremsprobe Vorgänge beobachtet werden, die auf Unregelmässigkeiten schliessen lassen, ist die Bremsprobe zu wiederholen.
+	
+5.4.4	Abschluss der Zugvorbereitung
+	
+	Die EVU regeln in den Betriebsvorschriften die Bedingungen und das Vorgehen für den Abschluss der Zugvorbereitung.
+	
+
+	
+
+
+Beilage 1
+
+
+
+Tabelle Mindestfesthaltekraft
+
+
+Anlage 1
+
+
+
+Zusatzbestimmungen Vakuumbremse
+
+
+
+
+1	Bremsvorschriften
+	
+1.1	Anrechenbare Bremsgewichte
+1.1.1	Grundsatz
+	
+	Angerechnet werden dürfen sämtliche Vakuumbremsen sowie vakuumgesteuerte Druckluftbremsen.
+	
+1.1.2	Arbeitende Triebfahrzeuge
+	
+	Die entsprechenden Bremsgewichte sind der Bremsanschrift am Triebfahrzeug zu entnehmen. Bei Triebfahrzeugen mit zweistufiger Bremse ist das R-Bremsgewicht anzurechnen.
+Ab Batterie gespeiste Magnetschienenbremsen sind anrechenbar, wenn ihre Wirkung wenigstens einmal täglich kontrolliert wird und sämtliche Fahrzeuge des Zuges mit einer Luftbremse gebremst werden.	
+	
+1.1.3	Geschleppte Triebfahrzeuge
+	
+	Grundsätzlich gelten geschleppte Triebfahrzeuge inkl. Traktoren und selbstfahrende Baumaschinen als ungebremst.
+Ausnahme: Wenn die Speiseleitung ab der Zuglok verbunden ist und das geschleppte Triebfahrzeug entsprechend eingerichtet ist, darf das angeschriebene Bremsgewicht angerechnet werden. Bei Triebfahrzeugen mit zweistufiger Bremse ist das P-Bremsgewicht anzurechnen.
+Bei bedienten Traktoren und Baumaschinen darf das angeschriebene Bremsgewicht angerechnet werden, sofern für genügende Druckluftreserve gesorgt werden kann. 
+	
+
+1.1.4	Wagen mit dreistufigem Lastwechsel	
+		
+	Anrechenbar ist das der Stellung des Lastwechsels entsprechende Brems­gewicht.
+Beispiel:
+
+
+
+
+
+
+	Bei dieser Anschrift darf z.B. angerechnet werden:
+–	bei einem Gesamtgewicht von 20 t / Stellung L16: .............. 16 t
+–	bei einem Gesamtgewicht von 21 t / Stellung B22: .............. 22 t
+–	bei einem Gesamtgewicht von 38 t / Stellung B22: .............. 22 t
+–	bei einem Gesamtgewicht von 45 t / Stellung B42: .............. 42 t
+	
+1.1.5	Wagen mit vakuumgesteuerter Druckluftbremse	
+		
+	Die mit vakuumgesteuerter Druckluftbremse ausgerüsteten Wagen tragen die Anschrift
+
+
+Bei diesen Wagen muss nebst der Hauptleitung auch die Speiseleitung zwingend verbunden werden.
+			
+1.2	Betätigen der Belüftungsklappen	
+		
+	Nach längeren Gefällsfahrten sind im Zugendbahnhof oder an den durch das EVU bezeichneten Orten die Belüftungsklappen zu betätigen.
+Bei Fahrzeugen, die mit automatischen Ausgleichsventilen ausgestattet sind, entfällt das Belüften.	
+
+2	Bremsprobe
+2.1	Hauptbremsprobe
+	
+	Die Hauptbremsprobe ist in folgender Reihenfolge an sämtlichen zu prüfenden Fahrzeugen auszuführen:
+    • Vakuum bei abgestellter Pumpe langsam auf 0 cmHg absenken
+    • nach einer Minute Vakuum auf 25 cmHg erhöhen
+    • prüfen, ob alle Fahrzeuge gebremst sind
+    • einen Bremsschlauch am Zugschluss kurz öffnen; die dadurch verursachte Vakuumabsenkung gilt als Aufforderung, die Bremsen zu lösen
+    • prüfen, ob die Bremsen aller Fahrzeuge gelöst sind.
+	
+2.2	Zusatzbremsprobe
+	
+	Nach dem Umstellen eines Lastwechsels ist die Bremse am betreffenden Wagen zu prüfen.
+Die Zusatzbremsprobe ist in folgender Reihenfolge auszuführen:
+    • eine Schnellbremsung ausführen
+    • prüfen, ob alle zu prüfenden Fahrzeuge gebremst sind
+    • die Bremsen lösen
+    • wenn das letzte Fahrzeug geprüft werden muss, ist durch kurzes Öffnen eines Bremsschlauchs zu prüfen, ob Luft eingesogen wird
+    • prüfen, ob die Bremsen aller zu prüfenden Fahrzeuge gelöst sind.
+	
+2.3	Keine Bremsprobe
+	
+	Die Bremsprobe ist nicht erforderlich, wenn nach einer längeren Gefällsfahrt die Belüftungsklappen betätigt wurden.
+In jedem Fall ist die Dichtigkeit der Bremsapparate zu prüfen.
+
+

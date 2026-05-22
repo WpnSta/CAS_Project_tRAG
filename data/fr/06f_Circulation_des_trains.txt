@@ -1,0 +1,667 @@
+﻿Chemins de fer suisses	R 300.6
+
+
+
+Circulation des trains
+
+
+
+
+1	Principes de base pour la circulation des trains
+1.1	Etablissement et destruction d’itinéraires
+	
+	En tenant compte des processus d’exploitation, les itinéraires sont déterminés et établis en desservant en conséquence les installations de sécurité. Comme protection contre toute manipulation intempestive, les itinéraires sont verrouillés par l’appareil d’enclenchement. Ensuite, les signaux sont mis à voie libre. Après leur franchissement, les signaux sont remis à l’arrêt, les itinéraires détruits et les avis d’arrivée des trains, assurés par le block, transmis.
+Cela s’effectue partiellement ou totalement de manière automatique par l’appareil d’enclenchement, le cas échéant avec l’appui d’un système d’acheminement automatique des trains. Les dessertes manuelles des installations de sécurité sont effectuées par le CC.
+	
+1.1.1	Surveillance des automatismes
+	
+	Le fonctionnement correct du système d’acheminement automatique des trains ainsi que celui des automatismes à l’appareil d’enclenchement doivent être surveillés par le CC. En cas de nécessité, il faut intervenir manuellement.
+En cas d’exploitation normale, on peut renoncer à cette surveillance pour autant que le respect des normes d’exploitation soit garanti. De plus, lors de dérangements ou d’évènements, l’intervention des services concernés ou l’alarme doit être assurée.
+	
+1.1.2	Contrôle de l’itinéraire
+	
+	Avant l’établissement d’un itinéraire, il faut contrôler
+–	que le parcours à franchir soit libre
+–	qu’aucun mouvement de manœuvre et qu’aucune autre circula­tion de train ne mettent en danger le train 
+–	que les aiguilles se trouvent en bonne position
+–	que les signaux de manœuvre indiquent l’image correspondante
+–	que les installations de passage à niveau surveillées devant être franchies soient enclenchées.
+Si les contrôles correspondants ne peuvent pas être assurés par l’appareil d’enclenchement, ceux-ci doivent être effectués par le CC.
+	
+
+1.1.3	Destruction d’itinéraires sans commande de secours
+	
+	En gare, l’itinéraire de train peut être détruit lorsqu’il est assuré qu’aucun itinéraire involontaire ne peut être établi sur ce tronçon et lorsque les aiguilles et les passages à niveau surveillés de l’itinéraire ont été franchis puis libérés ou après l’arrêt du train, également lorsque les aiguilles ou les passages à niveau surveillés restent occupés.
+Si les conditions correspondantes ne sont pas vérifiées par l’appareil d’enclenchement, celles-ci doivent être contrôlées par le CC.
+	
+1.1.4	Destruction d’itinéraires au moyen d’une commande de secours
+	
+	Un itinéraire de train peut être détruit par le CC au moyen d’une commande de secours 
+–	lorsqu’aucun train n’est concerné ou 
+–	lorsque le train en question est arrêté et lorsqu’il est assuré que celui-ci ne continue pas ou 
+–	lorsque le train en question a quitté entièrement l’itinéraire. Il faut procéder alors selon les dispositions « Processus principal en cas de dérangements ».
+	
+1.1.5	Avis d’arrivée des trains
+	
+	L’avis d’arrivée d’un train ne peut être transmis que lorsque le train a franchi en entier le dernier signal principal du canton de block concerné et que ledit signal a été remis à l’arrêt.
+	
+1.2	Observation des signaux
+	
+	Le MEC doit observer les signaux qui sont valables pour lui.
+Lorsque le MEC rencontre des signaux présentant l’image arrêt, le MEC doit arrêter le train. 
+Si un train ne peut pas s’arrêter devant un signal présentant l’image arrêt, celui-ci ne peut repartir qu’avec l’autorisation du CC. 
+	
+1.2.1	Signal principal présentant l’image arrêt 
+	
+	Si un signal principal ne se met pas à voie libre sans raison manifeste, le MEC doit s’annoncer auprès du CC. 
+1.2.2	Aucun signal avancé
+	
+	S’il n’y a pas de signal avancé, le MEC doit toujours s’attendre à trouver le prochain signal principal présentant l’image arrêt.
+1.3	Assentiment pour circuler
+	
+	Pour chaque train, un assentiment pour circuler est nécessaire.
+	
+1.3.1	Transmission de l’assentiment pour circuler
+	
+	Le CC transmet l’assentiment pour circuler au MEC par la mise à voie libre du signal principal.
+	
+1.3.2	Validité de l’assentiment pour circuler
+	
+	L’assentiment pour circuler transmis est valable 
+–	en pleine voie jusqu’au prochain signal principal
+–	en gare, jusqu’à l’arrêt du train. S’il n’y a pas d’assentiment pour circuler pour le prochain tronçon, le MEC ne peut déplacer le train qu’avec l’assentiment contre quittance du CC.
+Le GI règle la procédure lorsque plus d’un arrêt est ordonné pour les trains à l’intérieur du même tronçon.
+	
+1.3.3	Reprise de l’assentiment pour circuler
+	
+	Si le CC doit, pour des raisons d’exploitation, reprendre l’assentiment pour circuler qui a été transmis, le CC avise le MEC contre quittance avant la reprise de l’assentiment. Si aucun train ne s’approche du signal avancé ou du signal principal ou ne se trouve devant, on peut renoncer à l’avis. 
+	
+1.3.4	Assentiment pour circuler sur les tronçons dépourvus de signaux principaux
+	
+	L’assentiment pour circuler est transmis au MEC comme suit : 
+– 	au moyen de l’horaire ou
+– 	au moyen d’une marche ou
+– 	au moyen d’un ordre de croisement et de dépassement ou
+– 	au moyen d’un ordre à quittancer du CC de vive voix ou en phonie.
+Les GI règlent dans leurs prescriptions d’exploitation la procédure de transmission de l’assentiment pour circuler, la validité et les conditions requises pour la reprise de l’assentiment pour circuler compte tenu des directives en vigueur concernant le point d’arrêt limite. 
+	
+1.4	Utilisation des voies
+	
+	En règle générale, l’utilisation des voies est libre. 
+1.4.1	Utilisation des voies en gare
+	
+	Les trains avec service voyageurs et avec arrêt prescrit doivent utiliser les voies à quai.
+	
+1.4.2	Utilisation des voies en pleine voie
+	
+	Sur un tronçon à deux voies équipé pour l’exploitation à voie unique, il faut, en règle générale, utiliser la voie de gauche. 
+L’équipement de la pleine voie est repris dans les tableaux des parcours.
+	
+1.5	Transition entre un train et un mouvement de manœuvre
+	
+	La transition entre un train et un mouvement de manœuvre doit toujours être précédée d’un arrêt.
+
+2	Seuil de vitesse
+2.1	Modification de vitesse
+2.1.1	Diminution de vitesse
+	
+	Lors d’une diminution de vitesse, la vitesse doit avoir été abaissée au plus tard quand la tête du train atteint le seuil de vitesse.
+	
+2.1.2	Augmentation de vitesse
+	
+	Lors d’une augmentation de vitesse, le train ne doit être accéléré que lorsque la queue du train a franchi le seuil de vitesse.
+	
+2.1.3	Trains avec un faible rapport de freinage
+	
+	Pour les trains ayant un faible rapport de freinage, il peut arriver que la vitesse de ligne prescrite soit plus basse que la vitesse prescrite ou signalée pour la gare. Dans de tels cas, en gare, la vitesse de ligne la plus élevée prescrite avant ou après la gare est déterminante.
+	
+2.2	Seuil de vitesse avec l’image voie libre
+2.2.1	Principe
+	
+	Lorsque les signaux pour les trains présentent l’image voie libre ou l’image annonce de voie libre, les vitesses doivent être prélevées des tableaux des parcours.
+	
+2.2.2	Seuil de vitesse en gare
+	
+	Du côté de l’entrée, si la vitesse en gare est différente de la vitesse en pleine voie, le seuil de vitesse se trouve
+–	à hauteur de la première aiguille ou 
+–	environ 200 mètres après le signal d’entrée s’il n’y a pas d’aiguille sur la voie en question.
+Du côté de la sortie, si la vitesse en gare est différente de la vitesse en pleine voie, le seuil de vitesse se trouve
+–	à hauteur de la dernière aiguille ou
+–	à hauteur du signal de sortie s’il n’y a pas d’aiguille sur la voie en question.
+
+	Si la vitesse d’entrée est différente de la vitesse de sortie, le seuil de vitesse se trouve
+–	au milieu du quai de la voie parcourue ou
+–	au milieu du bâtiment de la gare ou au milieu de la gare s’il n’y a pas de quai.
+Si le tronçon situé entre le côté de l’entrée et de la sortie est sans aiguille et sans courbe, il peut être franchi avec la plus élevée des deux vitesses de la gare.
+Lorsque deux ou plusieurs vitesses étagées pour l’entrée ou la sortie sont indiquées dans la colonne des gares du tableau des parcours, l’emplace­ment des seuils de vitesse est réglé dans les prescriptions d’exploitation du GI. 
+Si aucune vitesse de gare n’est prescrite, avec l’image voie libre, la vitesse entre la première aiguille et la dernière aiguille correspond à la vitesse de ligne admissible la plus élevée avant ou après la gare.
+	
+2.2.3	Seuil de vitesse dans une halte
+	
+	Le seuil de vitesse se trouve au milieu du quai de la voie parcourue.
+Pour les courbes commençant avant ou finissant après la halte, le seuil de vitesse se trouve au milieu du quai de la voie parcourue.
+	
+2.3	Seuil de vitesse lorsque la vitesse est signalée
+2.3.1	Principe
+	
+	Une vitesse est considérée comme signalée lorsqu’un signal pour les trains n’indique pas l’image voie libre ou annonce de voie libre.
+Un signal répétiteur n’est jamais valable comme seuil de vitesse.
+	
+2.3.2	Début de la vitesse signalée
+	
+	Une vitesse annoncée à un signal pour les trains est valable à partir du prochain signal pour les trains.
+La vitesse d’exécution signalée à un signal pour les trains est valable dès ce signal.
+Font exception, 
+–	les signaux d’entrée du système L, lorsqu’au signal précédent, un panneau indique que le seuil de vitesse se trouve à hauteur de la première aiguille
+–	lorsque des aiguilles se trouvent avant un signal de groupe, le seuil de vitesse se situe à hauteur de la première aiguille franchie du côté de la sortie.
+Les cas des seuils de vitesse isolés qui dérogent sont réglés dans les prescriptions d’exploitation du GI.
+	
+2.3.3	Modification ou fin de la vitesse signalée
+	
+	Une vitesse signalée est valable jusqu’au prochain signal pour les trains ou jusqu’au panneau de seuil de vitesse pour la vitesse de pleine voie pour les signaux du système N.
+Si le prochain signal pour les trains indique une vitesse supérieure ou s’il s’agit d’un panneau de seuil de vitesse pour la vitesse de pleine voie, la vitesse peut être augmentée lorsque
+–	l’image complète du signal ou le panneau de seuil de vitesse pour la vitesse de pleine voie et l’appartenance à la voie parcourue sont reconnus avec certitude et
+–	la queue du train a dégagé les aiguilles en déviation et
+–	la tête du train a franchi la dernière aiguille du tronçon et 
+–	aucune vitesse inférieure n’est surveillée par un contrôle de la marche des trains
+au maximum
+–	à la vitesse annoncée ou
+–	à la vitesse d’exécution, pour autant qu’aucune vitesse inférieure ne soit annoncée au même endroit.
+Si du côté de la sortie ou avant un poste à diagonales d’échange, il s’agit du dernier signal pour les trains du système L, il est possible d’accélérer lorsque
+–	la queue du train a dégagé les aiguilles en déviation et
+–	la tête du train a franchi la dernière aiguille de la gare ou du poste à diagonales d’échange.
+Si un signal pour les trains présentant l’image avertissement ou préavertissement est suivi d’un signal pour les trains présentant l’image avertissement ou préavertissement, le train peut être accéléré au maximum à la vitesse de 40 km/h. 
+Les entreprises de chemin de fer à voie étroite peuvent prescrire des vitesses inférieures.
+	
+
+
+3	Départ
+3.1	Principe
+	
+	Lorsque les conditions pour le départ sont remplies, un train doit démarrer ou, après un arrêt, poursuivre sa marche.
+	
+3.1.1	Conditions pour le départ d’un train
+	
+	Après avoir reçu l’assentiment pour circuler, le MEC ne peut partir que lorsque
+–	la préparation du train est terminée
+–	les portes sont fermées
+et dans les cas requis, lorsque
+–	le train est commercialement prêt au départ
+–	l’autorisation de départ a été transmise.
+	
+3.2	Moment pour transmettre l’assentiment pour circuler
+	
+	Le CC, en tenant compte des possibilités de l’exploitation, doit transmettre l’assentiment pour circuler de façon à circuler de manière ponctuelle.
+Pour les gares ou parties de gares désignées par le GI dans les dispositions d’exécution, l’assentiment pour circuler ne peut être transmis qu’après avoir reçu l’annonce de la fin de la préparation du train.
+Lorsque l’assentiment pour circuler ne peut pas être transmis à temps sans raisons apparentes, le CC avise dans la mesure du possible le MEC.
+	
+3.3	Assentiment pour circuler avec des signaux de groupe
+	
+	Si des signaux de groupe sont équipés d’une signalisation complémentaire, celle-ci devra être respectée, en plus de l’assentiment pour circuler. Comme signalisation complémentaire sont utilisés les indicateurs de point d’arrêt pour signaux de groupe avec signal annonciateur de voie libre ou avec indicateur d’image de voie libre, les signaux nains, les indicateurs de numéro de voie ou les flèches indicatrices pour signal de groupe. 
+	Lorsque la tête d’un train, avec un signal de groupe présentant l’image arrêt, se trouve entre l’indicateur de point d’arrêt pour signal de groupe et le signal de groupe, le MEC avise contre quittance le CC de l’emplacement du train. On procédera ensuite selon les dispositions pour signaux de groupe sans signalisation complémentaire.
+	
+
+3.3.1	Signal de groupe équipé de la signalisation complémentaire
+	
+	L’assentiment pour circuler est valable pour les signaux de groupe à voie libre avec la signalisation complémentaire ci-dessous :
+–	indicateur de point d’arrêt pour signal de groupe avec un signal annonciateur de voie libre allumé ou
+–	indicateur de point d’arrêt pour signal de groupe combiné avec un indicateur d’image de voie libre. L’image du signal de groupe doit correspondre à celle de l’indicateur d’image de voie libre ou
+–	signal nain présentant l’image avancer ou
+–	indicateur de numéro de voie allumé correspondant à la voie en question ou
+–	flèche indicatrice pour signal de groupe allumée correspondant à la voie en question.
+Dans les installations équipées de signaux nains et de signaux annonciateurs de voie libre, le signal nain doit présenter l’image avancer et le signal annonciateur doit être allumé. 
+Si l’assentiment pour circuler est constaté au signal avancé, les MEC des trains sans arrêt prescrit peuvent renoncer à respecter la signalisation complémentaire pour signal de groupe.
+	
+3.3.2	Signal de groupe avec signal nain
+	
+	Le MEC doit s’assurer avant le départ que tous les signaux nains de la voie sur laquelle il se trouve, situés entre la tête du train et le signal de groupe, présentent l’image avancer. Si des aiguilles ou croisements non occupés se trouvent entre la tête du train et le prochain signal nain, il faut vérifier que le signal nain précédent présente également l’image avancer.
+Le MEC doit prendre contact avec le CC si ce contrôle ne peut pas être effectué. Il n’est pas nécessaire de prendre contact si le signal annonciateur de voie libre est allumé ou qu’une autorisation de départ est transmise au moyen de signaux fixes pour l’autorisation de départ pour la voie concernée. 
+	
+3.3.3	Signal de groupe sans signalisation complémentaire
+	
+	Lorsque plusieurs trains sont prêts au départ dans une gare occupée sur place, le CC doit aviser contre quittance les MEC des trains qui ne doivent pas partir et ce, avant de mettre à voie libre le signal de groupe. Cet avis est également nécessaire avant la mise à voie libre d’un signal de groupe pour un train passant sans arrêt. 
+	
+	
+3.4	Prêt commercial
+	
+	Le train est commercialement prêt au départ lorsque le débarquement et l’embarquement des voyageurs sont terminés, que le déchargement et le chargement des marchandises sont terminés, que l’heure de départ est arrivée ou que les conditions pour un départ à l’avance sont remplies. L’horloge de la gare est déterminante pour le départ du train. Les trains dont l’horaire n’est pas publié officiellement peuvent circuler à l’avance. 
+Lorsqu’il est prévisible que le prêt commercial ne pourra pas être transmis à temps, le MEC avise le CC. Cette information doit être donnée aussi tôt que possible, généralement avant la transmission de l’assentiment pour circuler. 
+	
+3.5	Autorisation de départ
+3.5.1	Principe
+	
+	Une autorisation de départ est nécessaire dans une gare initiale de départ ou après un arrêt prescrit dans les cas suivants :
+–	par l’AT pour les trains accompagnés ou
+–	par le CC, pour les trains indiqués dans la marche du train ou
+–	par le CC, pour les gares, parties de gares ou voies isolées 
+indiquées dans les tableaux des parcours.
+	
+3.5.2	Transmission de l’autorisation de départ
+	
+	Avant la transmission de l’autorisation de départ par l’AT ou par le CC, il faut s’assurer que l’assentiment pour circuler soit transmis et que le train soit commercialement prêt au départ.
+L’autorisation de départ doit être transmise conformément aux prescriptions des signaux ou au moyen de l’ordre à quittancer : « Train …en route ».
+Là où des moyens dépendants des signaux (par ex. signaux fixes ou systèmes de SMS) sont disponibles pour transmettre l’autorisation de départ, il y a lieu de les utiliser.
+	
+
+3.6	Assentiment pour circuler en gare sans visibilité sur le signal principal
+3.6.1	Confirmation de l’existence de l’assentiment pour circuler
+	
+	Lorsque le prochain signal principal en gare n’est pas visible, le MEC a besoin d’une confirmation que l’assentiment pour circuler est existant.
+Comme confirmation, on entend :
+–	l’assentiment pour circuler au signal répétiteur est visible ou 
+–	le signal annonciateur de voie libre est allumé ou 
+–	la tête du train se trouve après le signal de sortie et
+–	le MEC a pu constater au préalable l’assentiment pour circuler au signal de sortie et l’image y relative ne signale pas itinéraire court et
+–	le MEC n’a pas franchi un signal indiquant l’image avertissement ou
+–	l’autorisation de départ transmise par des moyens dépendants des signaux (par ex. signaux fixes ou systèmes de SMS). 
+Lorsqu’il n’existe aucune de ces confirmations, le MEC a besoin d’une confirmation contre quittance du CC quant à l’existence d’un assentiment pour circuler. En cas de nécessité, le MEC demande cette confirmation au CC.
+	
+3.6.2	Vitesses maximales
+	
+	Lorsque
+–	l’autorisation de départ transmise par des moyens dépendants des signaux (par ex. signaux fixes ou systèmes de SMS) ou
+–	la confirmation contre quittance du CC
+est disponible, la vitesse maximale est limitée à 40 km/h et il faut s’attendre à trouver le prochain signal à l’arrêt.
+La vitesse maximale est limitée à 40 km/h lorsque le signal annonciateur de voie libre est allumé.
+Lorsque l’assentiment pour circuler au signal répétiteur est visible ou lorsque l’assentiment pour circuler a été constaté au signal de sortie précédent, la vitesse maximale est déterminée par l’image du signal indiquée ou l’image constatée au préalable.
+Lorsqu’il existe plusieurs confirmations, la disposition la moins restrictive peut être appliquée.
+Pour une éventuelle augmentation de la vitesse admise, il faut dans tous les cas respecter les dispositions concernant le « Seuil de vitesse ».
+	
+3.7	Départ depuis une halte sans visibilité sur le signal principal
+	
+	Depuis une halte, lorsqu’il n’y a aucune visibilité sur le signal principal et que les autres conditions pour le départ sont remplies, le MEC peut démarrer. Dans ce cas, l’image indiquée du signal précédent doit être prise en compte.
+
+
+4	Circulation
+4.1	Signal annonciateur de voie libre
+	
+	Lorsque, après avoir franchi un signal avancé présentant l’image avertissement, le signal annonciateur de voie libre de la voie à parcourir est allumé, le train doit poursuivre sa marche à la vitesse maximale de 40 km/h jusqu’à ce que l’image de voie libre du signal principal soit distinguée.
+	
+4.2	Franchissement de tronçons à vitesse réduite
+4.2.1	Réductions de vitesse permanentes fixes
+	
+	Les tronçons de voie qui doivent être franchis en permanence à vitesse réduite sont signalés par des écrans de vitesse.
+	
+4.2.2	Tronçons de ralentissement 
+	
+	Les tronçons de voie qui doivent être franchis temporairement à vitesse réduite sont signalés par des signaux de ralentissement.
+	
+4.2.3	Annonce
+	
+	La pose et l’enlèvement des signaux de ralentissement, l’emplacement kilométrique des signaux et la vitesse maximale admissible doivent être annoncés par le GI. Les ETF avisent les MEC. Ceux-ci doivent emmener avec eux les annonces ou un index des tronçons de ralentissement.
+	
+4.2.4	Délai d’annonce
+	
+	La pose des signaux de ralentissement doit auparavant être annoncée aux ETF dans les délais prévus par les dispositions d’exécution du GI, ceci afin que les MEC puissent être avisés à temps. L’enlèvement des signaux doit être annoncé suffisamment tôt afin que les MEC en prennent connaissance avant l’enlèvement des signaux.
+	
+4.2.5	Délai d’annonce pas respecté
+	
+	Si le délai n’est pas respecté, le GI doit aviser les gares voisines du tronçon de voie concerné et les ETF concernées en indiquant l’emplacement des signaux de ralentissement ainsi que la vitesse maximale admissible. Jusqu’à l’expiration du délai d’annonce, ces gares doivent annoncer par un ordre à protocoler aux MEC l’emplacement des signaux et, le cas échéant, la vitesse admissible.
+	
+
+4.2.6	Signaux de ralentissement non posés
+	
+	Si un tronçon de voie doit être temporairement franchi à vitesse réduite avant que les signaux de ralentissement soient posés, le CC doit aviser, par un ordre à protocoler, le MEC sur 
+–	l’emplacement du tronçon à franchir
+–	la vitesse maximale autorisée
+–	l’absence de signaux de ralentissement.
+Depuis le signal principal, la gare ou la halte précédant jusqu’au tronçon de ralentissement, la vitesse maximale suivante doit être prescrite :
+–	40 km/h lorsque le tronçon de ralentissement doit être franchi à 40 km/h ou moins ou
+–	à la vitesse admissible sur le tronçon de ralentissement lorsque cette vitesse est supérieure à 40 km/h.
+	
+4.2.7	Réduction de la vitesse
+	
+	Si le CC doit aviser le MEC d’une réduction de la vitesse au moyen d’un ordre à protocoler, le CC doit également, lors de la transmission de l’ordre 5 et de l’ordre 6, aviser par un ordre à protocoler le MEC du genre d’assentiment pour circuler.
+	
+4.3	Franchissement de tronçons avec pantographes abaissés
+4.3.1	Tronçons de lignes de contact sans tension ou endommagés
+	
+	Les tronçons de voie devant être franchis avec pantographes abaissés sont signalés par des signaux de manœuvre de pantographes.
+4.3.2	Annonce
+	
+	La pose et l’enlèvement des signaux de manœuvre de pantographes sous forme de panneau mobile et leur emplacement kilométrique doivent être annoncés par le GI. Les ETF avisent les MEC. Ceux-ci doivent emmener avec eux les annonces.	
+	
+4.3.3	Délai d’annonce	
+		
+	La pose des signaux de manœuvre de pantographes doit auparavant être annoncée aux ETF dans les délais prévus par les dispositions d’exécution du GI, ceci afin que les MEC puissent être avisés à temps. L’enlèvement des signaux doit être annoncé suffisamment tôt afin que les MEC en prennent connaissance avant l’enlèvement des signaux.	
+	
+	
+4.3.4	Délai d’annonce pas respecté	
+		
+	Si le délai n’est pas respecté, le GI doit aviser les gares voisines du tronçon de voie concerné et les ETF concernées en indiquant l’emplacement des signaux de manœuvre de pantographes. Jusqu’à l’expiration du délai, ces gares doivent annoncer l’emplacement des signaux par un ordre à protocoler aux MEC.	
+	
+4.3.5	Signaux de manœuvre de pantographes non posés 
+	
+	Lorsque les signaux de manœuvre de pantographes ne sont pas posés, le CC doit aviser le MEC par un ordre à protocoler sur 
+–	l’emplacement du tronçon à franchir
+–	l’absence de signaux de manœuvre de pantographes. 
+Pour le franchissement :
+–	à l’entrée de la gare, tous les pantographes doivent être abaissés avant de franchir le signal d’entrée et jusqu’à l’arrêt ou jusqu’à hauteur du bâtiment de la gare respectivement jusqu’au milieu de la gare. Lorsque le véhicule moteur d’un train faisant arrêt se trouve encore du côté de l’entrée, le MEC peut à nouveau lever le pantographe seulement avec l’accord du CC
+–	à la sortie de la gare, tous les pantographes doivent être abaissés depuis le bâtiment de la gare respectivement depuis le milieu de la gare et peuvent à nouveau être relevés seulement après le passage du signal d’entrée de la direction opposée
+–	au passage de la gare, tous les pantographes doivent être abaissés avant de franchir le signal d’entrée et peuvent à nouveau être relevés seulement après le passage du signal d’entrée de la direction opposée.
+	
+4.4	Zone pour les chemins de fer routiers
+	
+	Dans une zone pour les chemins de fer routiers, il faut circuler en marche à vue. Cependant, les vitesses maximales admissibles sont fixées par le GI en tenant compte des véhicules et des conditions locales.
+En outre, dans une zone pour les chemins de fer routiers, la législation sur le trafic routier est également applicable.
+	
+
+4.5	Exploitation à voie unique sur un tronçon à deux voies équipé pour l’exploitation à voie unique
+4.5.1	Introduction de l’exploitation à voie unique
+	
+	Si une voie doit être interdite sur un tronçon à deux voies équipé pour l’exploitation à voie unique et qu’il faut circuler sur la voie de droite, il faut introduire l’exploitation à voie unique.
+Avant l’introduction de l’exploitation à voie unique, le CC doit
+–	attendre l’avis d’arrivée du dernier train qui a franchi la voie de gauche ou
+–	aviser contre quittance les MEC de tous les trains se trouvant sur la voie de gauche qu’ils ne peuvent se remettre en mouvement qu’avec l’autorisation du CC et
+–	vérifier que tous les signaux situés sur la voie de gauche présentent l’image arrêt.
+Si l’appareil d’enclenchement ne peut pas être commuté pour l’exploitation à voie unique, il faut procéder selon les dispositions « Processus principal en cas de dérangements » pour circuler sur la voie de droite. Cela est également valable pour l’entrée dans la gare voisine.
+	
+4.5.2	Avis aux MEC
+	
+	Le GI désigne les tronçons pour lesquels un avis contre quittance est nécessaire pour des raisons techniques en cas de circulation sur la voie de droite. 
+	
+4.5.3	Validité des signaux
+	
+	Les signaux de la voie de gauche sont valables pour les trains circulant sur la voie de droite. Si la voie de droite est équipée de signaux, ceux-ci sont alors valables.
+	
+4.5.4	Réintroduction de l’exploitation à deux voies
+	
+	Avant la réintroduction de l’exploitation à deux voies, le CC doit attendre l’avis d’arrivée du dernier train qui a circulé sur la voie de droite. 
+	
+
+4.6	Arrêt facultatif
+	
+	Un arrêt facultatif est indiqué dans la marche du train.
+Le MEC d’un train avec arrêt facultatif doit s’arrêter lorsque
+–	le signal pour arrêt facultatif est enclenché ou
+–	il est évident que des voyageurs veulent embarquer ou
+–	dans le train, un bouton de demande d’arrêt facultatif a été pressé ou
+–	un arrêt lui est demandé.
+A l’approche d’une halte ou d’une gare, le MEC d’un train avec arrêt facultatif doit réduire la vitesse en fonction des conditions locales et actuelles ainsi que des moyens de freinage à disposition. La réduction de vitesse doit être calculée de manière à ce que le train puisse, au besoin, s’arrêter à temps et à l’endroit prévu.
+En cas de nécessité, l’ETF peut prescrire la vitesse d’approche maximale autorisée dans les dispositions d’exécution.
+	
+4.7	Arrêt ou passage exceptionnel
+	
+	Lorsqu’un train doit exceptionnellement s’arrêter ou passer sans arrêt, le CC avise le MEC contre quittance.
+	
+4.8	Tronçons de ralentissement dans la zone de transition entre la signalisation extérieure et la SCab
+	
+	Un tronçon de ralentissement s’étend dans la zone de transition lorsqu’au moins une partie du tronçon à parcourir à vitesse réduite est située dans une zone de SCab et une autre partie dans une zone équipée de la signalisation extérieure. Les plus grandes distances de freinage possibles précédant le tronçon de ralentissement effectif sont à considérer comme faisant partie intégrante de ce tronçon de ralentissement.
+Tous les tronçons situés dans une zone de transition sont signalés au moyen de signaux répétiteurs implantés à l’extrémité de la SCab en direction du tronçon équipé de la signalisation extérieure.
+Les signaux répétiteurs doivent être posés à la limite du système entre la signalisation extérieure et la SCab. Ces signaux répétiteurs peuvent être :
+–	un signal avancé avec 2 lampes lorsqu’il se situe avant le tronçon de ralentissement ou
+–	un signal avancé avec 1 lampe, lorsqu’il se situe dans le tronçon de ralentissement. 
+	
+	
+4.9	Installations de passage à niveau surveillées avec déclenchement à commande temporelle
+	
+	Les GI doivent définir dans leurs prescriptions d’exploitation la procédure à respecter en cas d’arrêt ou de circulation ralentie entre le point d’enclenchement et l’installation de passage à niveau pour les installations de passage à niveau surveillées avec déclenchement à commande temporelle.
+
+
+5	Entrée
+5.1	Entrée dans une gare sans accès dénivelé aux quais
+	
+	Les prescriptions suivantes s’appliquent aux entrées dans des gares sans accès dénivelé aux quais. Elles ne s’appliquent pas si les accès devant être empruntés par les voyageurs sont équipés de barrières.
+	
+5.1.1	Principe lorsqu’il y a plusieurs trains
+	
+	Lorsqu’un ou plusieurs trains avec service voyageurs sont concernés et que le premier qui entre est un train avec service voyageurs, celui-ci doit circuler sur la voie principale la plus proche du bâtiment de la gare. 
+Si après l’entrée d’un train avec service voyageurs le prochain train utilise la voie principale la plus proche du bâtiment de la gare, les MEC des trains concernés doivent être avisés en conséquence.
+	
+5.1.2	Entrées simultanées
+	
+	Si un train avec service voyageurs est concerné en cas d’entrées simultanées, les MEC des trains concernés doivent être avisés en conséquence. 
+	
+5.1.3	Mesure lorsque la gare n’est pas occupée sur place
+	
+	Lorsqu’un train circule sur une voie principale qui est plus proche du bâtiment de la gare que celle utilisée dans la plupart des cas par des trains avec service voyageurs et avec un arrêt prescrit, le MEC doit être avisé en conséquence.
+Dans une gare équipée de quais, lorsqu’un train ne franchit pas de passage susceptible d’être traversé par des voyageurs, ceci jusqu’au point d’arrêt usuel du train, on peut renoncer à l’avis.
+	
+5.1.4	Avis et entrée
+	
+	Les MEC sont avisés comme suit :
+–	avec le signal pour entrée dans une gare sans accès dénivelé aux quais ou
+–	au moyen d’une indication dans les tableaux des parcours ou
+–	par un avis à quittancer du CC. Les signaux d’entrée ne peuvent être mis à voie libre qu’après avoir transmis l’avis.
+
+
+
+
+Ces trains doivent circuler depuis le début du quai jusqu’à ce que
+–	le train soit arrêté ou
+–	la tête du train ait atteint la fin du quai
+en marche à vue, vitesse maximale 20 km/h. S’il n’y a pas de quai, c’est le secteur entre les signaux limite de garage de l’aiguille d’entrée et de l’aiguille de sortie qui fait foi.
+	
+5.2	Point d’arrêt des trains
+5.2.1	Point d’arrêt limite
+	
+	Les trains doivent s’arrêter au plus tard devant un signal principal, un signal de barrage ou un signal pour les chemins de fer routiers présentant l’image arrêt.
+Lorsqu’un signal nain, dépendant d’un signal principal à l’arrêt et présentant également l’image arrêt, se trouve immédiatement avant le signal principal concerné, il faut s’arrêter avant le signal nain présentant l’image arrêt.
+	
+5.2.2	Point d’arrêt limite avec signal de groupe
+	
+	En présence d’un signal de groupe présentant l’image arrêt, les trains doivent s’arrêter au plus tard :
+–	devant le signal de groupe lorsque celui-ci se trouve avant l’aiguille de sortie. Lorsqu’un signal nain, dépendant d’un signal de groupe à l’arrêt et présentant également l’image arrêt, se trouve immédiatement avant le signal de groupe concerné, il faut s’arrêter avant le signal nain présentant l’image arrêt
+–	devant le signal limite de garage de l’aiguille de sortie si le signal de groupe se situe après le signal limite de garage de l’aiguille de sortie
+–	devant l’indicateur de point d’arrêt pour signal de groupe. Le tronçon situé entre l’indicateur de point d’arrêt pour signal de groupe et le signal limite de garage de la prochaine aiguille abordée par le talon doit être libre. 
+L’aiguille du côté de la sortie peut être orientée dans n’importe quelle position.
+	
+
+5.2.3	Point d’arrêt usuel 
+	
+	Les trains avec arrêt prescrit doivent s’arrêter dans les gares au point d’arrêt usuel. Celui-ci se trouve à l’endroit le plus approprié pour l’embarquement et le débarquement des voyageurs ou pour le chargement et le déchargement des marchandises.
+Le point d’arrêt peut être indiqué par un indicateur de point d’arrêt ou de longueur de trains.
+Des points d’arrêt particuliers peuvent être réglés dans la marche du train ou dans les dispositions d’exécution du GI. 
+	
+5.2.4	Arrêt avant le point d’arrêt usuel
+	
+	Si un train doit exceptionnellement s’arrêter avant le point d’arrêt usuel, le CC avise contre quittance le MEC.
+Le signal principal concerné ne sera mis à voie libre qu’après avoir avisé le MEC.
+Si le point d’arrêt désigné ne peut pas être clairement reconnu par le MEC, il faut l’indiquer par le signe de la main. 
+	
+5.2.5	Arrêt après le point d’arrêt usuel
+	
+	Si un train doit exceptionnellement circuler au-delà du point d’arrêt usuel, le CC avise contre quittance le MEC.
+Si cela n’est pas possible, le CC ou la personne désignée doit demander au MEC du train entrant de poursuivre sa marche par un balancement du bras.
+	
+5.2.6	Franchissement d’un signal de barrage ou principal présentant l’image arrêt
+	
+	Dans certains cas, un signal de barrage, de tronçon de voie ou un signal de sortie présentant l’image arrêt peut être franchi sans arrêt. Ceux-ci doivent être indiqués dans les dispositions d’exécution du GI.
+Le CC ou la personne désignée doit demander au train entrant de poursuivre sa marche par un balancement du bras.
+	
+
+5.3	Gares en cul-de-sac et voies isolées en cul-de-sac
+	
+	Les gares en cul-de-sac ou les voies isolées en cul-de-sac dans une gare avec des voies de passage sont indiquées dans les tableaux des parcours. 
+Lorsque des voies isolées sont en cul-de-sac, il est possible de renoncer à cette indication si l’entrée est signalée au moyen de l’image itinéraire court ou si l’extrémité de la voie est signalée par un feu rouge placé à la même hauteur que les signaux de sortie des autres voies.
+Les voies en cul-de-sac de longueur normale indiquées dans les tableaux des parcours peuvent être occupées sur une certaine distance, à leur extrémité, par des véhicules sans que cela soit assimilé à une entrée sur voie occupée. Ces voies sont reprises dans les dispositions d’exécution du GI. 
+	
+5.4	Entrée sur voie occupée
+5.4.1	Avis
+	
+	Une entrée sur voie occupée est signalée au signal principal concerné au moyen du signal de voie occupée ou prescrite dans les tableaux des parcours, dans la marche du train ou au moyen de l’ordre 5 à protocoler.
+	
+5.4.2	Conditions pour une entrée sur voie occupée 
+	
+	A hauteur du seuil de vitesse, la vitesse ne doit pas excéder 40 km/h au maximum. Dès la distance de freinage qui suit ce seuil de vitesse, il faut circuler en marche à vue.
+Des véhicules peuvent stationner au plus tôt à la distance de freinage qui suit le seuil de vitesse. Les valeurs minimales correspondantes sont fixées dans les dispositions d’exécution du GI. 
+	
+5.4.3	Chiffre plus valable
+	
+5.4.4	Garer sur des véhicules sans arrêt préalable
+	
+	Les trains peuvent garer sur des véhicules sans arrêt préalable.
+	
+
+5.5	Voie à utilisation restreinte
+	
+	Une voie à utilisation restreinte peut être parcourue sans restriction jusqu’au point d’arrêt usuel, mais cependant pas jusqu’au point d’arrêt limite. 
+Comme entrée sur une voie à utilisation restreinte, on entend :
+–	entrée sur une voie aboutissant à un cul-de-sac de sécurité ou à un signal de cul-de-sac 
+–	entrée en direction d’un signal nain présentant l’image arrêt
+–	entrée sur une voie pouvant être parcourue tout au plus jusqu’au signal limite de garage de la première aiguille en mauvaise position.
+Les voies à utilisation restreinte sont indiquées dans le tableau des parcours.
+Le signe pour la voie à utilisation restreinte n’a aucune signification si le MEC peut constater que le signal de sortie est à voie libre pour le train entrant.
+	
+5.6	Installation de passage à niveau ouverte avant le signal de 
+sortie
+	
+	Les entrées en direction d’installations de passage à niveau ouvertes se trouvant avant le signal de sortie ne sont autorisées que si la voie peut être parcourue sans restriction jusqu’au point d’arrêt usuel prévu.
+Un train faisant arrêt doit s’arrêter au point d’arrêt usuel mais au plus tard avant l’installation de passage à niveau ouverte.
+Les gares, dans lesquelles les entrées en direction d’installations de passage à niveau ouvertes sont possibles, sont indiquées dans les tableaux des parcours. Cette indication sera aussi reprise lorsque l’installation de passage à niveau se situe après un indicateur de point d’arrêt pour signal de groupe.
+Le signe pour l’installation de passage à niveau ouverte avant le signal de sortie n’a aucune signification si le MEC peut constater que le signal de sortie est à voie libre pour le train entrant.
+
+6	Cas spéciaux
+6.1	Courses d’essai
+6.1.1	But
+	
+	Les courses d’essai servent à tester le matériel roulant et les installations.
+	
+6.1.2	Annonce
+	
+	Les courses d’essai sont annoncées comme trains facultatifs ou spéciaux ou comme mouvements de manœuvre en pleine voie.
+	
+6.1.3	Exécution
+	
+	La planification des éventuelles mesures à prendre (par ex. les dérogations aux prescriptions de circulation des trains ou un accompagnement exceptionnel) doit être réglée par écrit entre le GI et l’ETF.
+	
+6.2	Courses de déneigement
+6.2.1	Genre
+	
+	Les courses de déneigement sont effectuées par des véhicules moteurs équipés de chasse-neige fixes, des chasse-neige poussés ou des chasse-neige rotatifs sur roues.
+	
+6.2.2	Annonce
+	
+	Le service compétent décide quand des courses de déneigement doivent être mises en marche et par quels moyens la neige doit être déblayée.
+Les courses de déneigement sont annoncées comme trains facultatifs ou spéciaux ou comme mouvements de manœuvre en pleine voie.
+	
+6.2.3	Rencontres de trains
+	
+	Lorsque la neige est déblayée sur une voie contiguë, le chasse-neige ne peut rencontrer d’autres trains ou mouvements de manœuvre que dans les gares. Quand cela n’est pas possible, le train chasse-neige doit arrêter le déneigement lors de la rencontre en pleine voie. 
+Les chasse-neige rotatifs ne doivent s’arrêter que si le jet ne peut pas être détourné à temps et dirigé du côté opposé à la voie parcourue par le train ou le mouvement de manœuvre.
+	
+
+
+7	Circulation des trains en exploitation des tramways
+7.1	Principes de base
+7.1.1	Parcours
+	
+	Les parcours sont déterminés et établis au fur et à mesure dans le sens de marche, compte tenu des processus d’exploitation. Cela peut s’effectuer partiellement ou totalement de manière automatique.
+	
+7.1.2	Surveillance des automatismes
+	
+	Le MEC doit surveiller le fonctionnement correct des automatismes pour son convoi. En cas de nécessité, il faut intervenir manuellement.
+	
+7.1.3	Observation des signaux
+	
+	Le MEC doit observer les signaux qui sont valables pour lui. 
+Lorsque le MEC rencontre des signaux présentant l’image arrêt, il doit arrêter le train. 
+Les GI règlent la procédure applicable lorsqu’un train ne peut pas s’arrêter devant un signal présentant l’image arrêt.
+	
+7.1.4	Contrôle de l’itinéraire et assentiment pour circuler
+	
+	Pour chaque train, un assentiment pour circuler est nécessaire. 
+En tenant compte des règles de priorité et des droits de priorité, le CC met les aiguilles en position dans le parcours et commande les installations de régulation du trafic. 
+Le CC contrôle le parcours et transmet au fur et à mesure l’assentiment pour circuler si :
+–	les aiguilles se trouvent en bonne position
+–	les indications de verrouillage des aiguilles sont présentes en cas de nécessité et
+–	les signaux autorisent la circulation et
+–	le parcours est libre.
+	
+
+7.1.5	Validité de l’assentiment pour circuler
+	
+	L’assentiment pour circuler constaté est valable jusqu’à
+–	la présence d’un obstacle sur le parcours
+–	la présence d’un signal indiquant l’image arrêt
+–	jusqu’à la limite marquant le passage de la zone d’exploitation des tramways à la zone d’exploitation ferroviaire. 
+Après un arrêt, l’assentiment pour circuler n’est plus valable.
+	
+7.1.6	Utilisation des voies
+	
+	Sur les voies de ligne régulière, les trains utilisent la voie de droite dans le sens de marche. Dans les boucles de rebroussement, il convient de circuler dans le sens de marche prévu. 
+En présence d’une seule voie de ligne régulière ou de plus de deux voies de ligne régulière parallèles, le GI fixe le sens de marche et l’utilisation des voies. 
+Sur des voies de service sur lesquelles les trains peuvent également circuler, le GI définit les conditions de desserte et de franchissement de l’installation.
+	
+7.2	Seuil de vitesse
+7.2.1	Diminution de vitesse
+	
+	Lors d’une diminution de vitesse, la vitesse doit avoir été abaissée au plus tard quand la tête du train atteint le seuil de vitesse.
+	
+7.2.2	Augmentation de la vitesse
+	
+	Lors d’une augmentation de vitesse, le train ne doit être accéléré que lorsque la queue du train a franchi le seuil de vitesse.
+En cas de réglementation correspondante dans les prescriptions d'exploitation du GI, sous la forme d'une signalisation complémentaire à l’écran de vitesse ou sur la base d'une réglementation à l'échelle du réseau, il est déjà possible d’accélérer lorsque la tête du train a atteint l’écran de vitesse.
+	
+7.3	Départ
+7.3.1	Principe
+	
+	Lorsque les conditions pour le départ sont remplies, un train doit démarrer ou, après un arrêt, poursuivre sa marche.
+
+7.3.2	Conditions pour le départ d’un train
+	
+	Après avoir reçu l’assentiment pour circuler, le MEC ne peut partir que lorsque 
+–	la préparation du train est terminée et
+–	les portes sont fermées 
+et dans les cas requis, lorsque 
+–	le train est commercialement prêt au départ. 
+Les ETF déterminent les cas dans lesquels une autorisation de départ est en plus nécessaire et la manière dont elle est transmise.
+	
+7.3.3	Prêt commercial
+	
+	Le train est commercialement prêt au départ lorsque le débarquement et l’embarquement des voyageurs sont terminés, que le déchargement et le chargement des marchandises sont terminés, que l’heure de départ est arrivée ou que les conditions pour un départ à l’avance sont remplies.
+	
+7.4	Circulation
+7.4.1	Vitesse maximale locale
+	
+	La vitesse maximale autorisée sur les tronçons de voie ainsi que pour le franchissement des aiguilles et des croisements de voies est indiquée par des signaux d’indication de vitesse ou fixée par le GI dans les prescriptions d’exploitation.
+	
+7.4.2	Vitesse maximale générale pour les éléments de parcours
+	
+	Des vitesses maximales peuvent être définies pour les éléments d'infrastructure. Les éléments et les vitesses maximales correspondantes doivent être réglés par les GI dans les prescriptions d'exploitation.
+	
+7.4.3	Vitesse maximale liée à une situation particulière
+	
+	Le GI peut fixer des vitesses maximales liées à des situations particulières, par exemple lors de rencontres de trains.
+	
+7.4.4	Tronçons de ralentissement
+	
+	Les tronçons de voie qui doivent être franchis temporairement à vitesse réduite sont signalés par des signaux de ralentissement. 
+La pose et l’enlèvement des signaux de ralentissement, l’emplacement des signaux et la vitesse maximale admissible doivent être annoncés par le GI. 
+Les ETF informent les MEC. 
+Le GI peut définir un délai d’annonce pour la pose de signaux de ralentissement. 
+Lorsque les signaux de ralentissement ne sont pas encore posés, la marche à suivre est définie dans le processus applicable en cas de dérangement.
+	
+7.4.5	Franchissement de tronçons sans tension et circulation en cas de ligne de contact endommagée
+	
+	Le GI détermine s’il est possible de franchir des tronçons de voie sans tension ou des tronçons sur lesquels la ligne de contact est endommagée. Le cas échéant, les GI règlent la procédure à suivre dans les prescriptions d’exploitation.
+	
+7.4.6	Clignotant de direction
+	
+	Le clignotant de direction est utilisé conformément à la législation sur la circulation routière, par ex : 
+–	lorsque le convoi tourne à gauche ou à droite
+–	lorsque la sécurité du trafic l'exige, pour avertir les autres usagers de la route, notamment avant de démarrer.
+Les ECF peuvent édicter des consignes supplémentaires pour l’utilisation des clignotants de direction et des clignotants d’avertissement.
+	
+7.5	Arrêt
+7.5.1	Point d’arrêt limite
+	
+	Les trains doivent s’arrêter au plus tard devant un signal de chemin de fer routier présentant l’image arrêt. Lorsqu’une ligne d’arrêt complémentaire se trouve immédiatement avant le signal présentant l’image arrêt, il faut s’arrêter avant.
+	
+7.5.2	Point d’arrêt usuel
+	
+	Les trains avec arrêt prescrit doivent s’arrêter au point d’arrêt usuel. Celui-ci se trouve à l’endroit le plus approprié pour l’embarquement et le débarquement des voyageurs. 
+Le point d’arrêt peut être indiqué par un indicateur de point d’arrêt ou des marquages de point d’arrêt. 
+Des points d’arrêt particuliers peuvent être réglés dans la marche du train ou dans les dispositions d’exécution du GI.
+	
+7.6	Cas spéciaux
+7.6.1	Courses d’essai
+	
+	Les courses d’essai servent à tester le matériel roulant et les installations.
+La planification des éventuelles mesures à prendre (par ex. les dérogations aux PCT ou un accompagnement exceptionnel) doit être réglée par écrit entre le GI et l’ETF.
+	
+7.6.2	Courses de déneigement
+	
+	Les courses de déneigement se déroulent selon les consignes du GI.
+	
+

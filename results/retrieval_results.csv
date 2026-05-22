@@ -1,0 +1,67 @@
+﻿ID,Source Term,Query,Language,Relevant section,Target Term,hit_mono,hit_multi,rerank_mono,rerank_multi
+1,Heizer,Was macht ein Heizer?,de,"R 300.13, section 1.1",Feuerung,True,True,1.760924220085144,1.760924220085144
+2,Heizer,Quelles sont les fonctions du chauffeur?,fr,"R 300.13, section 1.1",foyer,False,True,-0.7841065526008606,1.6110206842422485
+3,Heizer,Cosa fa un fuochista?,it,"R 300.13, section 1.1",regolazione del fuoco,True,True,-0.5568044781684875,2.0423786640167236
+4,Abstossen,Welche Arten von Rangierbewegungen gibt es?,de,"R 300.4, section 1.3",abstossen,True,True,9.427061080932617,9.427061080932617
+5,Abstossen,Quels genres de mouvements de manoeuvre distingue-t-on?,fr,"R 300.4, section 1.3",lancer,True,True,2.2644431591033936,8.947957038879395
+6,Abstossen,Quali tipi di movimenti di  manovra si distinguono?,it,"R 300.4, section 1.3",colpo,True,True,3.460797071456909,10.612664222717285
+7,Perron,Unter welchen Bedingungen sind Rangierfahrten gegen eingestellte Zugfahrstrassen erlaubt?,de,"R 300.4, section 2.3.2",Perron,True,True,10.832234382629395,10.832233428955078
+8,Perron,Dans quelles conditions les courses de manœuvre en direction d'itinéraires de train établis sont-elles autorisées?,fr,"R 300.4, section 2.3.2",quai,False,True,0.5026735067367554,10.813406944274902
+9,Perron,In quali condizioni sono ammessi i movimenti di manovra verso percorsi treni disposti?,it,"R 300.4, section 2.3.2",marciapiede,False,True,1.7543344497680664,10.903534889221191
+10,Kleinwagen,Welche Fahrzeuge dürfen nicht in Züge eingereiht werden?,de,"R 300.5, section 1.4.1",Kleinwagen,True,True,7.594430923461914,7.594430923461914
+11,Kleinwagen,Quels véhicules ne doivent pas être incorporés dans un train?,fr,"R 300.5, section 1.4.1",wagonnets,False,True,2.3267016410827637,7.867495059967041
+12,Kleinwagen,Quale veicoli non possono essere inseriti in un treno?,it,"R 300.5, section 1.4.1",piccoli veicoli,False,True,1.0587213039398193,4.300811290740967
+13,Absperrung,Bei welchen Arbeiten sind für die Arbeitsstelle keine Alarmmassnahmen notwendig?,de,"R 300.12, section 3.1.7",Absperrung,True,True,10.401373863220215,10.401373863220215
+14,Absperrung,Pour quels types de travaux n'est-il pas nécessaire de prévoir des mesures d'alarme?,fr,"R 300.12, section 3.1.7",barrage,False,True,-3.1621015071868896,8.045430183410645
+15,Absperrung,Per quali tipi di lavoro non occorrono misure di allarme per l'area dei lavori?,it,"R 300.12, section 3.1.7",barriera protettiva,True,True,5.929670810699463,9.374279975891113
+16,Einfahrweiche,Was sind Zielpunkte im Fahrweg?,de,"R300.4, section 4.3.2",Einfahrweiche,True,True,9.522578239440918,9.522578239440918
+17,Einfahrweiche,Quels points peuvent être utilisés comme but du parcours?,fr,"R300.4, section 4.3.2",l'aiguille d'entrée,True,True,0.4010598659515381,1.4930593967437744
+18,Einfahrweiche,Quali sono i punti d'arrivo nell'itinerario?,it,"R300.4, section 4.3.2",scambio d'entrata,False,True,-3.1140353679656982,8.629258155822754
+19,Nebengleis,Unter welchen Bedingungen ist der Sicherheits-Zwischenraum vorhanden?,de,"R 300.1, section 2.5.2",Nebengleisen,False,False,4.255385875701904,4.2553839683532715
+20,Nebengleis,Dans quelles conditions considère-t-on qu'une zone intermédiaire de sécurité est disponible?,fr,"R 300.1, section 2.5.2",voies secondaires,False,False,-2.484661817550659,7.848429203033447
+21,Nebengleis,In quali condizioni è disponibile lo spazio di sicurezza intermedio?,it,"R 300.1, section 2.5.2",binari secondari,False,False,-0.16677942872047424,3.9798367023468018
+22,Arbeitsstelle,Unter welchen Bedingungen sind Arbeiten ohne Sicherheitswärter zugelassen?,de,"R 300.12, section 3.1.6",Arbeitsstellen,True,True,4.048618793487549,4.048619747161865
+23,Arbeitsstelle,Dans quelles conditions des travaux sans protecteur sont-ils autorisés?,fr,"R 300.12, section 3.1.6",chantiers,True,True,4.757090091705322,4.132011890411377
+24,Arbeitsstelle,Per quali lavori si può rinunciare al guardiano di sicurezza?,it,"R 300.12, section 3.1.6",aree dei lavori,True,True,-0.694486677646637,5.777424335479736
+25,Kreuzung,Wie können dem Lokführer die Zustimmung zur Fahrt auf Strecken ohne Hauptsignale erteilt werden?,de,"R 300.6, section 1.3.4",Kreuzung,True,True,7.397972583770752,7.397974014282227
+26,Kreuzung,Comment l'assentiment pour circuler sur les tronçons dépourvus de signaux principaux est-il transmis au mécanicien?,fr,"R 300.6, section 1.3.4",croisement,False,True,-1.1347497701644897,9.660841941833496
+27,Kreuzung,Come viene dato il consenso per la corsa su tratte prive di segnali principali al macchinista?,it,"R 300.6, section 1.3.4",incrocio,False,True,3.434880018234253,9.912680625915527
+28,Sperren,Welche Massnahmen hat der Fahrdienstleiter bei Unregelmässigkeiten an der Fahrbahn zu treffen?,de,"R 300.9, section 8.1.1",sperren,False,False,3.83160138130188,3.83160138130188
+29,Sperren,Quelles mesures doit prendre le chef-circulation en cas de signalement d'irrégularités à la voie?,fr,"R 300.9, section 8.1.1",interdire,False,False,-2.0707480907440186,2.410754442214966
+30,Sperren,Quali provvedimenti deve adottare il capomovimento in caso di irregolarità al binario?,it,"R 300.9, section 8.1.1",Sbarrare,False,False,-3.5601937770843506,1.06846022605896
+31,Wagen,Unter welchen Bedingungen darf mit einem ungebremsten Fahrzeug am Zugschluss weitergefahren werden?,de,"R 300.9, section 12.3.4",Wagens,True,True,10.86037826538086,10.86037826538086
+32,Wagen,Dans quelles conditions la marche avec un véhicule non freiné en queue du train peut-elle être poursuivie?,fr,"R 300.9, section 12.3.4",voiture,False,True,-0.3625470697879791,10.847354888916016
+33,Wagen,In quali condizioni è ammesso proseguire con un veicolo non frenato in coda al treno?,it,"R 300.9, section 12.3.4",carrozza,False,True,-0.4402315318584442,10.834390640258789
+34,Wagen,Was muss zur Vermeidung von Risiken und Gefahren des elektrischen Stroms gemacht werden?,de,"R 300.8, section 2.4.1",Wagen,True,True,8.786754608154297,8.786754608154297
+35,Wagen,Que faut-il faire pour diminuer les risques et les dangers du courant électrique?,fr,"R 300.8, section 2.4.1",wagon,True,True,4.527217388153076,7.88159704208374
+36,Wagen,Cosa bisogna fare per diminuire i rischi e i pericoli della corrente elettrica?,it,"R 300.8, section 2.4.1",vagone,True,True,4.981643199920654,7.419213771820068
+37,Lokführer,Wann sind Transporte von Waren aller Art im bedienten Führerstand zugelassen?,de,"R 300.13, section 3.2.6",LF,True,True,8.974015235900879,8.974013328552246
+38,Lokführer,Quand est-il permis de transporter des marchandises dans une cabine de conduite desservie?,fr,"R 300.13, section 3.2.6",MEC,False,True,-2.8909647464752197,8.655591011047363
+39,Lokführer,Quando è ammesso il trasporto di merci nella cabina di guida occupata?,it,"R 300.13, section 3.2.6",MAC,False,True,-3.298187255859375,9.500731468200684
+40,Gefälle,Wann muss der Lokführer die Wirkung der Luftbremse prüfen?,de,"R 300.14, section 2.3.7",Gefälle,True,True,1.5489827394485474,1.5489827394485474
+41,Gefälle,À quel moment le mécanicien doit-il s'assurer de l'efficacité du frein à air?,fr,"R 300.14, section 2.3.7",pente,False,True,-5.848402976989746,3.298576593399048
+42,Gefälle,Quando il macchinista deve verificare l'efficacia del freno ad aria?,it,"R 300.14, section 2.3.7",discesa,True,True,2.052532911300659,7.005285739898682
+43,Neigung,Wie werden Bremskurven ermittelt?,de,"R 300.7, section 3.2",Neigung,True,True,2.1849260330200195,2.1849260330200195
+44,Neigung,Comment les courbes de freinages sont-elles calculées?,fr,"R 300.7, section 3.2",déclivité,True,True,0.903171718120575,4.436762809753418
+45,Neigung,Come sono calcolate le curve di frenatura?,it,"R 300.7, section 3.2",pendenza,True,True,2.160001277923584,4.746944904327393
+46,Zwergsignal,Für welche optischen Signale wird die Farbe weiss verwendet?,de,"R 300.2, section 1.2.1",Zwergsignale,True,True,8.180110931396484,8.180110931396484
+47,Zwergsignal,Pour quels signaux optiques la couleur blanche est-elle utilisée?,fr,"R 300.2, section 1.2.1",signaux nains,True,True,2.0975124835968018,3.095567464828491
+48,Zwergsignal,Per quali segnali ottici si usa il colore bianco?,it,"R 300.2, section 1.2.1",segnali bassi,True,True,1.818518877029419,6.477880477905273
+49,Erste Weiche,"Wo befindet sich die Geschwindigkeitsschwelle im Bahnhof, wenn sich die Bahnhofsgeschwindigkeit auf der Einfahrseite von der Streckengeschwindigkeit unterscheidet?",de,"R 300.6, section 2.2.2",ersten Weiche,True,True,10.800793647766113,10.800793647766113
+50,Erste Weiche,"Où se trouve le seuil de vitesse en gare si, du côté de l'entrée, la vitesse en gare est différente de la vitesse de la pleine voie?",fr,"R 300.6, section 2.2.2",première aiguille,True,True,5.956871509552002,10.801687240600586
+51,Erste Weiche,Dove si trova la soglia di velocità in stazione se sul lato d'entrata la velocità in stazione è diversa dalla velocità di tratta?,it,"R 300.6, section 2.2.2",primo scambio,True,True,5.12962007522583,10.833056449890137
+52,Nachbargleis,Wann darf im Bahnhof mit einer Höchstgeschwindigkeit von 40 km/h gefahren werden?,de,"R 300.4, section 3.6.3",Nachbargleise,True,True,8.923883438110352,8.923883438110352
+53,Nachbargleis,Dans quels cas un mouvement de manœuvre peut-il circuler à la vitesse maximale de 40 km/h en gare?,fr,"R 300.4, section 3.6.3",voies contiguës,False,True,3.221074342727661,7.675556659698486
+54,Nachbargleis,Quando si può circolare alla velocità massima di 40 km/h in stazione?,it,"R 300.4, section 3.6.3",binari attigui,False,True,1.8973474502563477,7.118593692779541
+55,Nachbargleis,Wann ist eine Sperrung von Gleisen/Weichen notwendig?,de,"R 300.12, section 3.2.4",Nachbargleis,True,True,8.876934051513672,8.876934051513672
+56,Nachbargleis,Quand est-ce qu'une interdiction des voies/aiguilles est nécessaire?,fr,"R 300.12, section 3.2.4",voie contiguë,False,True,-3.4000661373138428,8.8900146484375
+57,Nachbargleis,Quando è necessario uno sbarramento di binari/scambi?,it,"R 300.12, section 3.2.4",binario adiacente,False,True,-0.46666693687438965,9.869908332824707
+58,Sichern,Was muss vor der Durchführung der Bremsprobe gemacht werden?,de,"R 300.5, section 4.3.1",Sichern,True,True,7.2066426277160645,7.2066426277160645
+59,Sichern,Que faut-il faire avant le début de l'essai du frein?,fr,"R 300.5, section 4.3.1",assurer,False,True,1.8608415126800537,7.698999881744385
+60,Sichern,Cosa si fa prima dell'inizio della prova dei freni?,it,"R 300.5, section 4.3.1",assicurare,True,True,4.9949798583984375,8.622286796569824
+61,Sichern,"Wie ist vorzugehen, wenn eine Zahnstangenweiche aufgeschnitten wurde?",de,"R 300.9, section 4.6.2",Sichern,True,True,5.012152194976807,5.012152194976807
+62,Sichern,Que faut-il faire si une aiguille de voie à crémaillère a été talonnée?,fr,"R 300.9, section 4.6.2",protéger,False,True,-2.1811797618865967,10.562644958496094
+63,Sichern,Come si procede se è stato tallonato uno scambio a cremagliera?,it,"R 300.9, section 4.6.2",assicurare,False,True,-4.012304306030273,9.187536239624023
+64,Stoss,Wann ist bei Rangierfahrten das Speichern von Fahrstrassen verboten?,de,"R 300.4, section 2.3.7",Stoss,True,True,4.332510948181152,4.332507610321045
+65,Stoss,Quand est-il interdit d'enregistrer des itinéraires lors des courses de manœuvre?,fr,"R 300.4, section 2.3.7",lancer,False,True,-1.529918909072876,5.408629417419434
+66,Stoss,Quando è vietata la memorizzazione dei percorsi durante le corse di manovra?,it,"R 300.4, section 2.3.7",colpo,True,True,2.8650805950164795,6.084021091461182

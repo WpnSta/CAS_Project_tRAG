@@ -1,0 +1,83 @@
+﻿Chemins de fer suisses	R 300.11
+
+
+
+Enclenchement, déclenchement et mise à la terre des lignes de contact
+
+
+ 
+
+1	Généralités
+1.1	Champ d’application
+	Les présentes prescriptions concernent les aspects de l’exploitation ferroviaire en rapport avec les lignes de contact.
+	
+
+2	Compétences et manœuvre
+2.1	Enclenchement ou déclenchement de la ligne de contact
+2.1.1	Habilitation à donner des ordres d’enclenchement ou de déclenchement
+	
+	Sont habilitées à donner des ordres d’enclenchement ou de 
+déclenchement :
+–	les PECIE désignées par des ECF
+–	les PIIE.
+Sont habilités à donner des ordres de déclenchement :
+–	autre personnel désigné par une ECF
+–	des tiers en cas d’urgence.
+	
+2.1.2	Ordres d’enclenchement ou de déclenchement
+	
+	Les ordres d’enclenchement ou déclenchement doivent être clairs et sans équivoque.
+Les ordres d’enclenchement ou déclenchement sont transmis au minimum avec les indications suivantes :
+–	nom et désignation de la fonction
+–	lieu (gare, diagonale d’échange, numéro de voie, tronçon 
+concerné, etc.)
+–	désignation de l’interrupteur
+–	mot de passe, dans les cas prescrits par le GI. 
+	Le mot de passe est attribué par le service exécutant l’ordre d’enclenchement ou de déclenchement. Les ordres de réenclenchement du tronçon concerné ne sont exécutés que s’ils sont complétés du même mot de passe.
+Les personnes habilitées uniquement à transmettre des ordres de déclenchement décrivent le plus précisément possible les voies ou lignes à déclencher. En cas d’urgence ou de doute, on procédera à un déclenchement à plus grande échelle.
+Les ordres de manœuvre électrique et la confirmation d’exécution d’un enclenchement ou déclenchement sont transmis par un ordre à protocoler. Pour les voies normalement déclenchées, les ordres d’enclenchement ou de déclenchement et la confirmation d’exécution peuvent être transmis au moyen d’un ordre à quittancer.
+	
+	
+	
+	
+2.1.3	Manœuvre d’enclenchement ou de déclenchement
+	
+	Les enclenchements ou déclenchements sur des interrupteurs télécommandés sont, en principe, effectués par les centres de télécommande concernés.
+Les enclenchements ou déclenchements sur des interrupteurs de lignes ou de gare desservis localement pour des secteurs de gare ou des installations d’entretien et de service sont effectués par des PECIE ou des PIIE, ou, sur mandat du service compétent, par les PIIE désignées par l’ECF.
+En exploitation des tramways, le GI doit régler par analogie les enclenchements ou déclenchements sur des interrupteurs desservis localement qui sont effectués par des PECIE ou des PIIE.
+	
+2.1.4	Protéger l’enclenchement ou le déclenchement
+	
+	Déclenchement de lignes de contact en exploitation ferroviaire :
+Le CC doit protéger le déclenchement demandé à l’installation de sécurité.
+La personne habilitée procédant au déclenchement doit protéger l’interrupteur contre tout réenclenchement intempestif. La protection doit être réalisée avant que la confirmation soit transmise au mandant.
+Enclenchement de lignes de contact en exploitation ferroviaire :
+La personne habilitée supprime les mesures de sécurité prises contre un réenclenchement intempestif, procède à l’enclenchement puis confirme celui-ci au mandant.
+Une fois l’enclenchement effectué, le CC supprime les mesures de sécurité y relatives.
+En exploitation des tramways, le GI règle les conditions de protection de l’enclenchement ou du déclenchement.
+	
+2.1.5	Desserte des interrupteurs à cornes
+	
+	Les interrupteurs à cornes ne peuvent être déclenchés que s’il est garanti que les pantographes des véhicules situés sous les lignes de contact concernées sont abaissés et que les éventuels autres récepteurs raccordés à ces interrupteurs ou lignes de contact (par ex. installations de préchauffage des trains ou de chauffage des aiguilles) sont déclenchés.
+	
+2.2	Mise à la terre
+2.2.1	Habilitation à mettre à la terre
+	
+	Sont habilitées à mettre à la terre des lignes de contact les PECIE dans toutes les installations ferroviaires ainsi que les PIIE dans les installations pour lesquelles elles ont reçu une instruction concrète.
+2.2.2	Dispositif de mise à terre et tâteur de tension
+	
+	Les dispositifs de mise à terre et les tâteurs de tension défectueux ou n’ayant pas fait l’objet d’une vérification ne peuvent pas être utilisés et doivent être annoncés au service compétent.
+	
+2.3	Etat d’enclenchement de la ligne de contact
+2.3.1	Voies de chargement
+	
+	Les lignes de contact des voies de chargement doivent, pour des raisons de sécurité, être déclenchées et mises à la terre.
+Les exceptions à cette règle ne peuvent être autorisées par le GI que si elles sont impératives et si les distances de sécurité sont garanties pour tous les régimes d’exploitation prévus dans les prescriptions des installations, conformément à la législation ferroviaire.
+S’agissant des voies longeant un quai de chargement, une halle marchandises ou les voies de débord normalement déclenchées, les lignes de contact doivent être enclenchées juste avant qu’un véhicule moteur électrique doive y pénétrer. Dès que le véhicule moteur a quitté la voie concernée, les lignes de contact doivent être déclenchées à nouveau et mises à la terre.
+	
+2.3.2	Information à la clientèle
+	
+	Les clients procédant à des travaux de chargement ou de déchargement doivent être rendus attentifs sur les dangers du courant électrique. Avant d’aviser un client qu’une voie est déclenchée, il faut avoir déclenché et mis à la terre la ligne de contact concernée. Si la ligne de contact d’une voie de chargement doit être réenclenchée, les clients concernés doivent en être avisés avant que l’enclenchement soit effectué. Il incombe à l’ETF, mettant à disposition les véhicules pour le chargement ou le déchargement ou les prenant en charge après les travaux de transbordement, d’informer ses clients.
+
+	
+

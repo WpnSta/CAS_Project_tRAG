@@ -1,0 +1,834 @@
+﻿Ferrovie svizzere	R 300.14
+
+
+
+Freni
+ 
+
+1	In generale
+	
+	Le ITF disciplinano le necessarie aggiunte alle presenti disposizioni nelle loro prescrizioni d’esercizio, in particolare
+–	il servizio nel singolo caso 
+–	la descrizione tecnica dei dispositivi del freno 
+–	le prescrizioni sulla loro manutenzione 
+–	le particolarità dei dispositivi del freno dei veicoli storici, in particolare il freno non moderabile in frenatura
+–	le particolarità dei dispositivi del freno dei veicoli a cremagliera.
+
+Ai sensi di queste prescrizioni i freni motore come i freni idrodinamici o i freni a correnti parassite sono equiparati ai freni elettrici.
+L’impiego di freni a correnti parassite con effetto sulle rotaie non è ammesso.
+	
+
+2	Servizio del freno
+2.1	In generale
+2.1.1	Principio
+	
+	I freni devono essere utilizzati eseguendo il minor numero possibile di manipolazioni, e quelle necessarie solo con la dovuta ponderatezza.
+Le nozioni fondamentali circa il funzionamento degli apparecchi del freno, l’osservanza dei manometri e del tachimetro, il senso della decelerazione e il giusto apprezzamento dell’effetto frenante, delle distanze e delle condizioni di adesione, sono i presupposti per un servizio dei freni inappuntabile.
+	
+2.1.2	Più veicoli motori serviti
+	
+	Di principio il freno automatico viene servito dalla locomotiva di testa.
+	
+2.2	Impiego del freno
+2.2.1	Treni
+	
+	Nel limite del possibile, si deve sempre utilizzare il freno elettrico. In caso di insufficiente efficacia del freno elettrico occorre utilizzare in più il freno automatico.
+Con veicoli motori sciolti, bisogna impiegare per quanto possibile il freno elettrico, per fermare il freno di manovra o all’occorrenza il freno automatico.
+	
+2.2.2	Movimenti di manovra
+	
+	Di principio bisogna utilizzare il freno automatico.
+Il freno di manovra da solo può essere utilizzato
+–	per veicoli motori in corsa sciolta 
+–	per piccoli gruppi di veicoli 
+–	nei casi ammessi, nei quali il peso rimorchiato non dev’essere frenato con l’aria.
+Le ITF disciplinano nelle loro prescrizioni d’esercizio l’impiego del freno elettrico per i movimenti di manovra.
+	
+
+2.2.3	Fermata
+	
+	I veicoli motori fermi e occupati da MAC, con o senza peso rimorchiato, vanno in ogni caso assicurati con il freno di manovra. Se questo manca o se la sua efficacia è insufficiente, bisogna utilizzare il freno automatico o, all’occorrenza, il freno d’immobilizzazione.
+	
+2.2.4	Assicuramento dei veicoli motore
+	
+	I veicoli motore ricoverati e non occupati da un MAC devono essere assicurati con il freno d’immobilizzazione.
+Le ITF disciplinano nelle prescrizioni d’esercizio l’impiego dei freni d’immobilizzazione che possono essere allentati mediante la condotta principale.
+	
+2.2.5	Esercizio invernale
+	
+	Durante l’esercizio invernale, per il servizio del freno sono necessari almeno i seguenti provvedimenti:
+–	Con temperature sotto 0°C, subito dopo l’inizio della corsa il MAC deve verificare la facilità di circolazione dei veicoli
+–	Dopo l’arresto nelle stazioni, per quanto possibile si devono allentare subito i freni
+–	In caso di neve o di ghiaccio pressati fra ceppo del freno e ruota o fra guarnizione del freno e disco del freno, l’efficacia del freno d’immobilizzazione può venir meno! I veicoli devono essere assicurati in più con staffe d’arresto
+–	Le frenature con il freno ad aria vanno avviate per tempo, per liberare le superfici di attrito dalla neve e dal ghiaccio (suole dei freni, dischi dei freni).
+Le ITF disciplinano l’esercizio invernale nelle prescrizioni d’esercizio.
+	
+2.3	Prova dei freni
+2.3.1	Scopo della prova dei freni
+	
+	Mediante la prova dei freni si accerta che
+–	l’aria può scorrere liberamente nella condotta principale, in ambedue le direzioni, e che non esistono fughe d’aria negli apparecchi del freno
+–	dopo una frenatura di servizio dalla cabina servita, i freni di tutti gli assi frenati sono serrati, mentre dopo l’allentamento del freno dalla medesima cabina gli stessi sono di nuovo completamente allentati, senza azionare le valvole di scarico.
+
+2.3.2	Prontezza d’esercizio
+	
+	La prova dei freni può essere iniziata solo dopo che i distributori e i rispettivi serbatoi dell’aria di tutti i veicoli accoppiati alla condotta principale sono caricati o gli apparecchi del freno evacuati. Inoltre, con i freni ad aria compressa, nei serbatoi principali dev’essere raggiunta almeno la pressione normale. Per le ferrovie a scartamento normale e per numerose ferrovie a scartamento ridotto, tale pressione è di 5 bar, per altre ferrovie è invece di 4, 4,2 o a 4,5 bar.
+	
+2.3.3	Tempo di carica e di vuotatura del freno automatico 
+	
+	Il tempo di carica degli apparecchi del freno vuoti per un veicolo frenato ad aria compressa ammonta, a dipendenza del sistema di frenatura, a circa 2 minuti per il freno viaggiatori e fra 2 e 5 minuti per il freno merci. Aumentando la lunghezza del treno, cresce anche il tempo di carica.
+Per l’evacuazione degli apparecchi del freno di un veicolo frenato con il vuoto, valgono all’incirca i medesimi valori del freno merci.
+	
+2.3.4	Verifica della ermeticità
+	
+	Bisogna effettuare un controllo della ermeticità della condotta principale e degli apparecchi del freno come segue:
+–	freno automatico ad aria compressa
+	Prima di iniziare la prova principale dei freni o qualora esista un sospetto all’ermeticità:	
+	con un’alimentazione interrotta, la perdita d’aria nella condotta principale non deve superare 0,3 bar durante un minuto.
+	Prima di iniziare la prova dei freni supplementare o semplificata:
+	in caso di breve interruzione della rialimentazione, non si deve costatare una perdita d’aria il manometro della condotta principale.
+–	freno a vuoto
+	Prima dell’inizio della prova freni: 
+	con la pompa a vuoto ferma, l’assenza d’aria durante 10 secondi non deve ridursi oltre 4 cmHg né cadere sotto 45 cmHg.
+	
+
+2.3.5	Prova dei freni dei veicoli motori
+	
+	Alla messa in servizio del veicolo motore, il MAC deve verificare la funzione dei rispettivi freni ad aria come segue:
+–	il freno di manovra mediante il manometro del cilindro dei freni (1 bar e in seguito pressione completa) o con il dispositivo d’annuncio.
+–	Il controllo del freno automatico avviene come segue:
+–	mediante il manometro del cilindro dei freni o il dispositivo d’annuncio per i treni loc con veicoli motori serviti singolarmente e per i movimenti di manovra.
+	Con il freno ad aria compressa, la pressione nella condotta principale va ridotta di 0,5 bar, e con il freno a vuoto portata a 20 cmHg. In seguito occorre verificare se i cilindri del freno contengono aria compressa.
+–	da terra o dai manometri, per i veicoli motori che circolano rimorchiati o in comando multiplo nei casi in cui è prescritta una prova principale dei freni.
+Il freno di manovra e il freno automatico vanno controllati dopo ogni cambiamento della cabina di guida; dopo aver sganciato il veicolo motore bisogna verificare il freno di manovra mediante il manometro del cilindro dei freni o con il dispositivo d’annuncio.
+Se non vi è nessun manometro del cilindro dei freni o dispositivo d’annuncio, il freno va controllato in ogni caso da terra.
+Dopo il controllo di funzionamento, l’efficacia del freno va verificata in ogni caso immediatamente non appena messo in movimento il veicolo motore.
+	
+2.3.6	Esecuzione della prova dei freni per i treni
+	
+	–	Frenare
+	La prova del freno automatico dev’essere svolta eseguendo una frenatura d’esercizio. Per i freni ad aria compressa, la pressione nella condotta principale va ridotta di 1 bar. 
+–	Allentare
+	Per quanto possibile il freno deve essere allentato con un colpo di carica ad alta pressione seguito da una sovraccarica a bassa pressione.
+	
+
+2.3.7	Controllo dell’azione frenante nei treni
+	
+	Il MAC deve verificare l’efficacia del freno ad aria
+–	immediatamente dopo la partenza
+–	dalla stazione di origine o d’inversione di corsa 
+–	dopo che furono apportati cambiamenti della composizione del treno 
+–	dopo un cambiamento di MAC
+–	prima di 
+–	percorrere una forte discesa 
+–	entrare in una stazione di testa
+–	di tanto in tanto dopo l’ultima frenatura con il freno automatico, in caso di neve soffiata o con forte freddo 
+Per eseguire tali controlli si deve effettuare una frenatura d’esercizio, senza far uso del freno elettrico e con il freno ad aria del veicolo motore distaccato. Le ITF emanano corrispondenti prescrizioni d’esercizio per quanto attiene al servizio specifico ai veicoli o al rispetto di eventuali condizioni d’impiego di componenti del freno (p.es. suole del freno in materiale composito).
+	
+2.3.8	Prova del freno di sicurezza
+	
+	Le ITF disciplinano nelle loro prescrizioni d’esercizio l’esecuzione della prova del freno di sicurezza.
+	
+2.4	Freno automatico ad aria compressa
+2.4.1	Frenare 
+	
+	Si fa distinzione fra i seguenti tipi di frenatura:
+–	Frenatura d’esercizio
+	La frenatura d’esercizio serve per fermare il treno e per ridurne la velocità. La pressione nella condotta principale viene ridotta di meno di 1,5 bar gradualmente o d’un sol colpo. La prima riduzione della pressione deve avvenire rapidamente.
+	Essa deve situarsi al minimo fra 0,4 e 0,5 bar per i treni con ceppi dei freni in ghisa, almeno fra 0,5 e 0,8 bar per i treni viaggiatori con freni a disco o con ceppi dei freni in materiale composito e almeno a 1 bar per i treni merci con freni a disco o con ceppi dei freni in materiale composito.
+–	Frenatura completa 
+	Una frenatura completa avviene riducendo di 1,5 bar la pressione nella condotta principale. In questo modo si ottiene la pressione massima possibile al cilindro del freno e la forza frenante massima del freno automatico.
+–	Frenatura rapida
+	Una frenatura rapida avviene con lo scarico completo dell’aria della condotta principale (0 bar) mediante il rubinetto di comando, attraverso un’apertura di deflusso maggiore. Con la vuotatura rapida e completa della condotta principale, si ottiene il percorso di frenatura più corto nel tempo più breve e con la medesima forza frenante come con la frenatura completa. Oltre a ciò, sui veicoli che ne sono dotati sono attivati i freni magnetici di rotaia e le valvole di accelerazione della frenatura rapida e, per i veicoli motori a rimorchio, il freno di notifica.
+	Sui veicoli motori, un freno ad aria in precedenza allentato agisce nuovamente appieno.
+–	Frenatura d’emergenza
+	Si ha una frenatura d’emergenza quando lo scarico della condotta principale è provocato dall’azionamento di un dispositivo del freno d’allarme. Sostanzialmente, l’efficacia è uguale a quella della frenatura rapida.
+–	Frenatura imposta
+	Si ha una frenatura imposta allorché un dispositivo di sicurezza oppure il calcolatore del veicolo, provoca lo scarico della condotta principale. Sostanzialmente, l’efficacia è uguale a quella della frenatura rapida. Se in più viene interrotta l’alimentazione, si riduce in misura corrispondente il tempo per ottenere la forza frenante massima.
+
+	
+2.4.2	Allentamento o carica
+	
+	Per allentare e per riempire i freni il rubinetto di comando dev’essere portato sulla posizione di marcia o, se esiste, nella posizione di carica (cambiamento di sezione). Inoltre, se disponibile, bisogna applicare la funzione della sovraccarica a bassa pressione (funzione di equilibrio).
+Se il rubinetto di comando non ha una limitazione temporale del colpo di carica, al momento di portarlo sulla posizione di carica occorre badare che con i freni completamente allentati la pressione normale nella condotta principale venga superata al massimo di 0,4 bar.
+L’allentamento con la posizione di carica va eseguito di regola
+–	dopo l’accoppiamento del veicolo motore al treno
+–	alla messa in servizio di un treno spola
+–	se vengono aggiunti veicoli in stazioni intermedie
+–	durante la prova dei freni
+–	per assicurare l’allentamento dei freni durante la corsa, salvo per i treni fino a una lunghezza complessiva di 125 m
+–	se in precedenza si è dovuto frenare dopo la sovraccarica a bassa pressione
+–	al termine di una corsa in discesa.
+Si deve evitare di allentare nella posizione di carica o una sovraccarica a bassa pressione se
+–	bisogna nuovamente frenare subito dopo aver allentato
+–	si adotta il metodo della frenatura a sega
+–	subito dopo i freni devono essere azionati con un altro rubinetto di comando.
+Quando i freni sono allentati, occorre evitare di portare il rubinetto di comando sulla posizione di carica, e la sovraccarica a bassa pressione.
+	
+2.5	Freno a vuoto
+2.5.1	Frenare 
+	
+	Si fa distinzione fra i seguenti tipi di frenatura:
+–	Frenatura d’esercizio
+	La frenatura d’esercizio serve per fermare il treno e per ridurne la velocità. Nella condotta principale il vuoto viene ridotto gradualmente o d’un sol colpo da 42 a 20 cmHg.
+–	Frenatura completa
+	Una frenatura rapida avviene eliminando completamente il vuoto nella condotta principale mediante il rubinetto di comando.
+–	Frenatura rapida
+	Con la frenatura rapida il vuoto nella condotta principale viene eliminato istantaneamente mediante il rubinetto di comando attraverso un’apertura di deflusso maggiore. L’onda di pressione che ne deriva ha come effetto l’entrata in azione in rapida successione delle valvole di frenatura rapida. In questo modo, nel tempo più breve si ha il percorso di frenatura più breve con la massima forza frenante.
+–	Frenatura d’emergenza
+	Con una frenatura d’emergenza, l’apertura di un rubinetto d’emergenza provoca l’eliminazione del vuoto nella condotta principale. Sostanzialmente, l’efficacia è uguale a quella della frenatura rapida.
+
+–	Frenatura imposta
+	Si ha una frenatura imposta allorché un dispositivo di sicurezza o il calcolatore del veicolo provoca la completa eliminazione del vuoto. Sostanzialmente, l’efficacia è uguale a quella della frenatura rapida.
+	
+2.5.2	Allentamento o evacuazione  
+	
+	Durante la corsa la pompa a vuoto deve funzionare al numero di giri minimo. Per l’evacuazione degli apparecchi del freno dopo la formazione del treno e per l’allentamento rapido durante la prova dei freni si deve impostare un numero di giri più elevato.
+	
+2.6	Freni elettrici
+2.6.1	Principio 
+	
+	Il freno elettrico dev’essere utilizzato per le corse in discesa, per ridurre la velocità e per fermare sempre con la forza di frenatura ammessa. 
+Il freno elettrico dev’essere inserito per tempo, affinché, in caso di mancato funzionamento, si abbia ancora il tempo di ricorrere, in sua vece, al freno ad aria.
+	
+2.6.2	Veicoli a scartamento normale con accoppiamento a vite UIC
+	
+	Percorrendo tratti di rallentamento e scambi in deviazione per i quali la velocità massima consentita è di 40 km/h, il freno elettrico dei veicoli motore in testa a treni e movimenti di manovra può essere impiegato soltanto con una forza di frenatura fortemente ridotta.
+Se in testa al treno circolano più veicoli motore dotati di freno elettrico, valgono le restrizioni seguenti:
+–	sui veicoli motore in comando singolo, la forza di frenatura massima ammessa può essere sfruttata appieno solo sul veicolo motore in testa e su quelli di spinta; su tutti gli altri veicoli motore si può frenare con il freno elettrico solo il proprio peso.
+–	sui veicoli motore in comando multiplo si può frenare solo con la forza di frenatura ridotta conformemente alle norme dell’ITF.
+
+2.7	Uso del freno automatico durante la corsa 	
+2.7.1	Riduzione della velocità e frenature di arresto di corse con cari merci e carri di servizio frenate con l’aria compressa 	
+		
+	Percorrendo scambi in deviazione per i quali la velocità massima è limitata a 40 km/h, occorre osservare quanto segue:
+–	per ridurre la velocità o per fermare il treno, la pressione nella condotta principale dovrebbe essere ridotta al massimo di 0,5 bar, salvo che vi sia pericolo imminente.
+–	se, fermando, la pressione nella condotta principale è stata ridotta di oltre 1 bar, prima di proseguire la corsa si deve controllare tutto il treno o il movimento di manovra sul posto con il freno automatico allentato, alla ricerca di eventuali irregolarità.	
+		
+2.7.2	Impiego del freno automatico ad aria compressa nei treni a scartamento normale sulle discese 	
+		
+	–	Metodo della frenatura a sega
+	Questo metodo di frenatura va utilizzato se, circolando in discesa con una velocità massima ammessa > 40 km/h, il freno elettrico del veicolo motore non è più sufficiente da solo per mantenere costante la velocità. In questo modo si evita un surriscaldamento delle ruote, dei freni a disco e dei ceppi del freno, escludendo inoltre il rischio che lungo la discesa si esaurisca l’efficacia dei freni.
+	Con una frenatura sufficientemente forte (abbassare la pressione nella condotta principale a 4,6-4 bar), la velocità va ridotta in modo tale che fra l’allentamento e l’inizio della nuova frenatura resti almeno un periodo di 90 secondi. A tale scopo, la velocità del treno va ridotta del seguente valore indicativo:	
+		
+		
+		
+		
+		Il tempo di frenatura necessario a ridurre la velocità non dovrebbe d’altronde superare i 60 secondi. In seguito, per allentare, il rubinetto di comando va lasciato nella posizione di marcia. 
+	Il MAC dovrà verificare l’intervallo di tempo di almeno 90 secondi fino all’inizio della nuova frenatura, adeguando, se necessario, la riduzione di velocità.
+	Per quanto possibile, il freno ad aria dei veicoli motori dev’essere allentato.
+–	Metodi di regolazione
+	Sui treni con veicoli motori senza freno elettrico o se questo è perturbato, lungo le discese si deve adottare la frenatura di regolazione.
+	Al riguardo, per mantenere costante la velocità, la pressione nella condotta principale va regolata fra 4,6 e 4,4 bar. Si deve evitare di circolare con una pressione della condotta principale troppo vicina al limite di allentamento di 4,8 bar.
+	Il freno ad aria dei veicoli motori non va allentato.
+	All’occorrenza, le ITF disciplinano nelle loro prescrizioni d’esercizio una riduzione della velocità massima.	
+		
+2.7.3	Posto di fermata immediatamente prima di un ostacolo o di un segnale che mostra fermata	
+		
+	Circolando 
+–	verso un segnale che mostra fermata
+–	verso un binario di testa 
+–	verso un binario occupato o utilizzabile limitatamente
+–	verso barriere aperte
+la velocità del treno deve essere ridotta per tempo con una frenatura adeguata, in modo tale che per fermare o in caso d’emergenza sia ancora possibile aumentare l’azione frenante.
+Il freno elettrico può essere utilizzato per l’entrata verso un binario di testa, soltanto se la sua efficacia, in caso di un’eventuale avaria, è compensata nella stessa misura e automaticamente da altri mezzi di frenatura.
+Per gli elettrotreni valgono le corrispondenti prescrizioni d’esercizio dell’ITF.	
+		
+2.7.4	Sganciamento del veicolo motore, cambiamento della cabina di guida 	
+		
+	Prima di sganciare il veicolo motore, il peso rimorchiato dev’essere frenato con il freno automatico.
+Durante il cambiamento della cabina di guida il veicolo motore o il treno spola dev’essere frenato con il freno automatico oppure secondo le prescrizioni d’esercizio dell’ITF.	
+	
+2.7.5	Ricovero di un treno o di una parte di treno 
+	
+	Ai sensi delle prescrizioni sui freni, un’interruzione dell’alimentazione di compensazione più lunga di quella necessaria per la prova di tenuta stagna vale come ricovero di un treno o di una parte di treno.
+Se l’alimentazione di compensazione viene interrotta (p.es. alla messa fuori esercizio della cabina di guida) si deve avviare una frenatura d’esercizio. In questo modo si evita che l’efficacia dei freni si esaurisca a causa del lento calo di pressione nella condotta principale.
+		
+
+
+3	Perturbazioni
+3.1	In generale
+3.1.1	Genere della perturbazione
+	
+	Le perturbazioni ai freni ad aria possono essere essenzialmente dovute a difetti di preparazione oppure a difetti tecnici.
+	
+3.1.2	Difetti di preparazione
+	
+	Un difetto di preparazione è la conseguenza di manipolazioni omesse o trascurate del freno ad aria o di singole parti di esso. In particolare possono essere: 
+–	condotte dell’aria non o malamente accoppiate
+–	disposizione del tutto o in parte sbagliata di rubinetti d’accoppiamento o d’isolamento
+–	dispositivi d’inversione in una posizione errata o intermedia
+–	freni d’immobilizzazione serrati
+–	apparecchi del freno sovraccarichi o non ancora o insufficientemente carichi o svuotati.
+	
+3.1.3	Difetto tecnico
+	
+	Un difetto tecnico dei freni è visibile per la permeabilità delle condotte e degli apparecchi, per la difficoltosa mobilità di pistoni, saracinesche o valvole ecc. Le cause sono spesso usura, invecchiamento, incaglio oppure la penetrazione di corpi estranei nelle condotte e negli apparecchi.
+I difetti tecnici e le perturbazioni che ne derivano possono essere evitati, fra l’altro, riponendo subito negli appositi supporti gli accoppiamenti a vite e del freno non utilizzati; per quanto possibile, la condotta principale dei freni ad aria compressa e la condotta d’alimentazione devono essere spurgate brevemente prima di accoppiarle.
+	
+3.1.4	Determinazione della causa del difetto
+	
+	Se non è chiara la ragione di una perturbazione ai freni, occorre dapprima controllare la preparazione e in seguito lo stato del veicolo o della parte di treno in questione.
+Se è impossibile eliminare il difetto, nel limite del possibile i freni dei veicoli in avaria devono essere disinseriti.
+	
+
+3.2	Prova dei freni
+3.2.1	Verifica di plausibilità
+	
+	Nel corso della prova dei freni il MAC osserva in particolare se vi è un calo o un aumento rapido o lento della pressione della condotta principale plausibile con la lunghezza della stessa.
+	
+3.2.2	Ceppi dei freni congelati
+	
+	Se vengono accertati ceppi dei freni congelati, si deve controllare che ogni ceppo dei veicoli frenati con questo tipo di freni sia allentato.
+	
+3.3	Parte pneumatica
+3.3.1	Veicoli non accoppiati alla condotta principale
+	
+	I freni ad aria dei veicoli non accoppiati alla condotta principale del veicolo motore devono essere svuotati.
+	
+3.3.2	Mancato funzionamento del compressore 
+	
+	In caso di mancato funzionamento del compressore durante la corsa si deve fermare il treno, prima che la pressione nel serbatoio principale scenda sotto il valore della pressione normale della condotta principale.
+	
+3.3.3	Sovraccarica della condotta principale dei freni ad aria compressa 
+	
+	Se il regolatore di pressione del rubinetto di comando è regolabile a mano, in caso di piccole sovraccariche il MAC può, azionandolo, aumentare la pressione della condotta principale finché tutti i freni sono allentati. Successivamente, osservando il manometro della condotta principale e azionando lentamente il regolatore di pressione, quest’ultima va ridotta nuovamente al valore normale.
+Se per un difetto o una manipolazione errata vi è una sovraccarica del freno durante la carica ed è impossibile allentare con la pressione normale o con una sovraccarica a bassa pressione, bisogna ridurre la pressione della condotta principale a 0,5 bar sotto il valore di pressione normale. In seguito vanno azionate le valvole di scarico dei veicoli. All’occorrenza si avvertirà prima il PRT o l’ACCT.
+	
+
+3.3.4	Frenatura involontaria
+	
+	Se la condotta principale è stagna e durante la corsa vi sono veicoli che frenano involontariamente, si può provare ad allentare i loro freni frenando e allentando a brevi intervalli, possibilmente con una sovraccarica a bassa pressione.
+	
+3.3.5	Fughe d’aria
+	
+	I freni ad aria compressa sono insensibili alle piccole fughe d’aria. Viceversa, perdite d’aria rilevanti possono provocare perturbazioni ai freni in tutto il treno. Se è impossibile eliminarle o evitarle disinserendo il freno ad aria, occorre scartare il rispettivo veicolo o sistemarlo in coda al treno.
+	
+3.4	Disinserimento dei freni ad aria
+	
+	Sui veicoli privi del dispositivo per il disinserimento dei freni occorre procedere secondo le disposizioni dell’ITF.
+	
+3.4.1	Disinserimento del freno automatico ad aria compressa
+	
+	Se il freno ad aria di un veicolo è inutilizzabile, lo si deve disinserire come detto qui appresso:
+1.	chiudere il rubinetto d’isolamento
+2.	azionare la valvola di scarico
+3.	verificare l’allentamento del freno ad aria con una prova supplementare dei freni mediante una frenatura rapida al rispettivo veicolo.
+	Se per ragioni d’esercizio è necessario disinserire i freni ad aria - p.es. nel caso di treni con peso rimorchiato superiore alle 1200 t o di veicoli sui quali non esiste la posizione prescritta per i dispositivi d’inversione – è sufficiente controllare l’allentamento del freno ad aria.
+	
+3.4.2	Danni agli organi di rotolamento e ai freni 
+	
+	Occorre disinserire il freno ad aria in particolare nei casi seguenti: 
+–	ceppi del freno difettosi o fortemente consunti 
+–	cerchioni allentati 
+–	molle di sospensione inzeppate
+–	veicoli motori dai quali siano stati smontati i tiranti di comando o di collegamento. 
+Se non è possibile disinserire il freno, i veicoli entranti in considerazione devono essere scartati.
+	
+3.4.3	Perturbazione del dispositivo antislittamento
+	
+	Se il dispositivo antislittamento è guasto, sul rispettivo veicolo il dispositivo d’inversione va portato sulla posizione per l’azione frenante V/RIC. Se ciò è impossibile, il freno ad aria dev’essere disinserito.
+	
+3.5	Perturbazioni al freno magnetico di rotaia  
+	
+	In caso di perturbazione del freno magnetico di rotaia si deve procedere secondo le norme delle ITF.
+	
+3.6	Perturbazione ai freni durante la corsa
+3.6.1	Verifica dell’ermeticità durante la corsa 
+	
+	Quando, durante la corsa, il MAC avverte una reazione nel treno che lascia presumere l’azione di singoli freni, si deve eseguire per quanto possibile una prova di tenuta stagna. Se effettuando la prova di tenuta stagna si nota una perdita di pressione nella condotta principale, occorre fermare il treno.
+	
+3.6.2	Abbassamento della pressione nella condotta principale
+	
+	Se, senza aver compiuto una prova di tenuta stagna il MAC avverte che la pressione della condotta principale scende sotto il valore impostato, bisogna portare immediatamente il rubinetto di comando nella posizione di frenatura rapida.
+	
+3.6.3	Presunta rottura di un treno
+	
+	Se il MAC presume che la riduzione della pressione della condotta principale sia da ricondurre a una rottura del treno, deve lasciare il rubinetto di comando nella posizione di marcia. Poco prima della fermata, il rubinetto di comando va riportato nella posizione di frenatura d’esercizio.
+	
+
+3.7	Pericoli
+3.7.1	Fermata in caso di pericolo
+	
+	Allorché in caso di pericolo è necessario fermare subito il treno, i MAC di tutti i locomotori accoppiati alla condotta principale devono procedere a una frenatura rapida o collaborare alla frenatura rapida azionata dalla loc di testa. In tal caso il freno ad aria va utilizzato immediatamente senza tener conto del freno elettrico, lasciando che agisca pienamente sui veicoli motori.
+Si procederà a una frenatura rapida anche nel caso in cui, nonostante la forte diminuzione della pressione nella condotta principale non si ottiene l’effetto desiderato di una frenatura d’esercizio. Inoltre, se necessario, il treno dev’essere frenato con tutti i mezzi a disposizione. Fra questi rientrano in particolare il pulsante d’emergenza, il rubinetto del freno d’allarme e l’azionamento dei dispositivi di sicurezza.
+	
+3.7.2	Cattive condizioni di adesione
+	
+	In presenza di cattive condizioni di adesione il MAC deve viaggiare ad una velocità fortemente ridotta e con la dovuta ponderatezza, se necessario senza considerare un’eventuale perdita di tempo. In situazioni critiche, se sono disponibili, si devono utilizzare i sabbiatori.
+La forza frenante richiesta deve essere ripartita possibilmente su tutti gli assi. Bisogna evitare per quanto possibile eccessive forze frenanti con il freno elettrico o con il freno ad aria.
+Entrando su un tratto in discesa, occorre frenare per tempo, prima di raggiungere la velocità massima.
+	
+
+
+
+
+
+
+Annesso 1
+
+
+
+Descrizione dei freni
+
+1	In generale
+1.1	Scopo dei freni
+	
+	I freni servono per regolare la velocità e per fermare i treni o i movimenti di manovra.
+	
+1.2	Sistemi di frenatura
+	
+	Di regola, per frenare i veicoli ferroviari si utilizzano
+–	freni ad attrito
+–	freni elettrici
+–	freni di rotaia
+–	freni a cremagliera 
+–	altri sistemi senza attrito meccanico (p.es. freni a correnti parassite, freni idrostatici o idrodinamici).
+	
+1.2.1	Freni ad attrito
+	
+	Come freni ad attrito si utilizzano generalmente freni con ceppi o a disco. In casi speciali si impiegano anche freni a tamburo, eseguiti come freni a nastro o a ceppo.
+Con i freni a ceppo, i utilizzano suole dei freni in ghisa o in materiale composito che vengono premute sulla superficie di rotolamento delle ruote in acciaio. Con i freni a disco, le guarnizioni dei freni premono sui dischi fissati all’asse del veicolo.
+Di regola i freni ad attrito sono realizzati come freni ad aria.
+La maggior parte dei veicoli motori, le carrozze viaggiatori e una gran parte dei carri merci sono inoltre muniti di un freno meccanico ad attrito azionato manualmente. Si fa distinzione fra
+–	freni azionabili dal veicolo o da terra, che servono per assicurare i veicoli contro la fuga e
+–	freni azionabili solo dal veicolo, che da un lato servono per assicurare i veicoli contro la fuga e dall’altro per regolare la velocità, per determinati movimenti di manovra.
+	
+	
+	
+
+1.2.2	Freno elettrico
+	
+	Nella frenatura elettrica, i motori di trazione dei locomotori lavorano come generatori. L’energia elettrica così prodotta, nel sistema del freno a recupero ritorna alla linea di contatto e nel sistema di freno reostatico viene trasformata in calore, mediante resistenze. 
+Il freno elettrico serve a regolare e a ridurre la velocità, in certi casi fino all’arresto completo. Esso presenta inoltre i seguenti vantaggi:
+–	l’usura dei freni meccanici è minore 
+–	le emissioni foniche sono ridotte
+–	circolando in discesa le ruote si riscaldano meno 
+–	viene facilitata la condotta del treno 
+–	in caso di pericolo, vi è una prontezza di frenatura maggiore del freno automatico. 
+	
+1.2.3	Freno di rotaia
+	
+	Con questo tipo di freni, gli zoccoli di frenatura collocati sotto il telaio portante sono abbassati e, di regola, premuti sul fungo della rotaia mediante una forza magnetica.
+	
+1.3	Freno automatico
+	
+	Il freno automatico è un freno continuo, con il quale da un sol posto si possono frenare contemporaneamente tutti i veicoli collegati di un treno o un movimento di manovra.
+Il freno automatico deve
+–	permettere di fermare in qualsiasi momento
+–	in caso di rottura del treno, entrare in azione automaticamente in ogni parte del treno
+–	poter essere azionato o richiesto in caso d’emergenza da ogni veicolo sul quale durante la corsa si trovano persone
+–	essere efficace abbastanza a lungo, indipendentemente da una fonte d’energia esterna al veicolo.
+Di regola i freni automatici sono costruiti come freni ad aria ad azione indiretta (freno ad aria automatico, freno a vuoto). 
+Come freni automatici si utilizzano inoltre freni ad aria ad azione diretta, freni elettropneumatici, elettroidraulici o freni puramente elettrici.
+	
+
+1.4	Freni ad aria
+	
+	I freni ad aria sono utilizzati principalmente come
+–	freno automatico
+	Di regola i freni ad aria automatici sono eseguiti come freni ad aria compressa o freni a vuoto ad azione indiretta. L’aria compressa generata dal compressore non serve solo per produrre la forza ma anche per comandare il processo di frenatura. Lo stesso vale per il vuoto prodotto mediante la pompa a vuoto.
+–	freno di manovra
+	Il freno di manovra agisce direttamente sul veicolo servito (veicolo motore o di comando) e, all’occorrenza, su quello in comando multiplo o in telecomando.
+	
+
+2	Attrito ceppo del freno – ruota - rotaia
+2.1	Proporzione delle forze fra i ceppi dei freni, la ruota
+e la rotaia 
+	
+	
+	
+	L’attrito prodotto dalla pressione del ceppo sul cerchione genera la forza d’attrito, la quale è applicata tangenzialmente alla circonferenza della ruota e agisce in senso contrario alla rotazione della ruota. Contemporaneamente fra la rotaia e la ruota viene generata una uguale forza contraria (forza di attrito statico), la quale agisce in senso contrario al movimento del veicolo.
+Per evitare che le ruote slittino sulla rotaia e si producano sfaccettature, è necessario che la forza d’attrito del ceppo sulla ruota non superi mai la forza d’aderenza della ruota sulla rotaia. Questa particolarità fisica comporta che, a causa dell’attrito inferiore rispetto ai veicoli stradali, si hanno percorsi di frenatura sensibilmente più lunghi. In questo caso, limitatori di pressione massima impediscono che si crei una pressione eccessiva nel cilindro del freno e lo slittamento delle ruote.
+	
+2.2	Coefficiente d’aderenza fra la ruota e la rotaia
+	
+	Il coefficiente d’aderenza della ruota sulla rotaia è massimo se la rotaia è pulita, asciutta oppure completamente bagnata. Può essere molto ridotto quando comincia a piovere, con la nebbia o con la brina, sui passaggi a livello a causa del sale antigelo sparso ma soprattutto con la caduta delle foglie o se le rotaie sono sporche d’olio e perciò sdrucciolevoli. Dispositivi antislittamento impediscono alle ruote di slittare, all’occorrenza può servire lo spargimento di sabbia sulle rotaie.
+	
+
+2.3	Coefficiente d’attrito fra la suola del freno e la ruota 
+	
+	Il coefficiente d’attrito fra la suola del freno e la ruota dipende dalla velocità e dalla pressione della suola ma anche dalla combinazione fra il materiale della ruota e della suola.
+Un confronto tra freni con suole in ghisa, in materiale composito (p.es. K, L e LL) come pure i freni a disco mostra che a velocità crescente il coefficiente d’attrito
+–	diminuisce in misura relativamente elevata nel caso di suole in ghisa
+–	diminuisce solo debolmente con suole in materiale composito (p.es. K, L e LL) 
+–	rimane costante con i freni a disco.
+Per evitare che le ruote si blocchino, bisogna limitare entro un certo valore la pressione dei ceppi alle basse velocità. Alle alte velocità, invece, con i ceppi in ghisa bisogna aumentare la pressione in modo da ottenere ancora la necessaria azione frenante.
+	
+
+3	Struttura meccanica
+3.1	Apparecchiatura del freno di un carro merci
+	
+	Apparecchiatura del freno di un carro merci dotato di regolatore della timoneria, di dispositivo MV e del dispositivo manuale vuoto-carico
+	
+
+
+	
+	
+	
+	La forza esercitata dal pistone del cilindro di freno 16 agisce sul bilanciere orizzontale 12, da questo mediante la combinazione regolatore della timoneria 10 / tirante per il carico 13 / tirante del freno 19 sul bilanciere verticale 20 e i triangoli del freno 24 sulle suole del freno 23 e così sulle superfici di rotolamento delle ruote.
+Con la manovella del freno d’immobilizzazione 5 la forza viene trasmessa al bilanciere orizzontale 12 per mezzo della vite del freno 6, della chiocciola 7, dell’alberello del freno 8 e il tirante dell’asta di trazione 9. Dal bilanciere la forza – come descritto in precedenza – agisce sulla superficie di rotolamento delle ruote.
+
+3.2	Blocco frenante / Unità frenanti 
+	
+	In condizioni limitate di spazio, con il blocco frenante la forza agisce direttamente dal cilindro del freno per mezzo della timoneria del freno dotata di regolatore della timoneria e i ceppi dei freni sulla superficie di rotolamento della ruota. Di norma ogni ruota è dotata di un proprio blocco frenante.
+	
+3.3	Regolatore della timoneria del freno
+	
+	Il consumo delle suole del freno causa un aumento dell’interspazio fra le suole stesse e la ruota. Ciò significa a sua volta una maggiore consumo di aria compressa e un aumento dei tempi di riempimento e di scarico del cilindro del freno. Per i freni, la cui efficacia dipende dalla corsa dello stantuffo, si ha una diminuzione della pressione dei ceppi e quindi un peggioramento dell’effetto frenante.
+Per evitare tali inconvenienti, viene montato nella timoneria del freno un regolatore – solitamente automatico – della timoneria, con il quale, raccorciando l’asta di comando, si compensa il consumo delle suole del freno e con ciò l’aumento del gioco di questi ultimi e l’allungamento della corsa dello stantuffo.
+	
+3.4	La frenatura del carico
+	
+	I carri il cui peso lordo è notevolmente superiore a quello della tara, sono equipaggiati con un dispositivo per la frenatura del carico, che permette un adattamento della pressione dei ceppi al peso lordo effettivo del carro.
+La commutazione della pressione dei ceppi avviene
+–	mediante il dispositivo vuoto-carico manuale con le posizioni «vuoto» e «carico»
+–	mediante il dispositivo vuoto-carico automatico con le posizioni «vuoto» e «carico»
+–	la frenatura automatica autocontinua del carico in modo corrispondente 
+–	al carico, fino al peso massimo complessivo possibile
+–	al carico, solo fino a un determinato peso massimo complessivo. Il rapporto di frenatura si riduce in misura proporzionale all’aumento del peso del carico.
+	
+
+4	Parte pneumatica
+	
+	Lo strato atmosferico esercita una pressione sulla terra pressappoco uguale al peso di una colonna d’acqua di 10 m d’altezza o di una colonna di mercurio alta 760 mm. Ciò corrisponde per ogni cm2 di superficie terrestre a circa 10 N (1 kp) o ca. 1 bar.
+	
+4.1	Proprietà dell’aria compressa
+	
+	Si ottiene aria compressa quando l’aria atmosferica contenuta in un determinato volume viene compressa in uno più piccolo. La sovrapressione misurata in rapporto alla pressione atmosferica viene espressa in bar.
+In una condotta, l’aria compressa circola sempre dal punto in cui la pressione è più alta verso quello dove la pressione è più bassa. La velocità del flusso d’aria dipende dalla differenza delle pressioni e dalla resistenza nella condotta.
+Collegando un serbatoio riempito con aria compressa con un serbatoio vuoto, quindi riempito solo con aria atmosferica, l’aria compressa affluisce nel secondo fino a quando le pressioni nei due serbatoi si sono equilibrate (pareggio di pressione).
+L’aria compressa tende sempre a dilatarsi. Se viene immessa aria compressa nel cilindro del freno, questa cerca di spostare lo stantuffo fino a quando quest’ultimo trova una resistenza, cioè fino al momento in cui i ceppi sono in contatto con i cerchioni delle ruote.
+	
+4.2	Proprietà del vuoto 
+	
+	Si ottiene un vuoto aspirando l’aria da uno spazio chiuso per mezzo di una pompa a vuoto e creando così una sottopressione rispetto alla pressione atmosferica. Per quanto concerne il pareggio di pressione, vale quanto detto per l’aria compressa.
+	
+
+5	Condotte d’aria
+5.1	Collegamento fra i veicoli
+	
+	Per collegare le varie condotte dell’aria fra i veicoli, ciascuno di questi ultimi è dotato, ad ogni estremità, almeno di un tubo flessibile munito di una testa di accoppiamento e di un dispositivo d’isolamento.
+L’esecuzione dissimile delle teste d’accoppiamento impedisce di congiungere fra loro condotte dell’aria di costruzione differente. 
+Con certi accoppiamenti automatici le condotte dell’aria sono accoppiate e separate mediante una manovra automatica.
+	
+5.1.1	La condotta principale (condotta principale dell’aria)
+	
+	Dal rubinetto di comando del freno nella cabina di guida servita, la condotta principale collega tutti i veicoli accoppiati al freno automatico fino alla coda del treno. Essa alimenta i veicoli con l’aria compressa o con il vuoto necessario a produrre la forza e a comandare i freni.
+Per isolare la condotta principale sui veicoli dotati di freno ad aria compressa, su ogni traversa di testa sono montati, in disposizione semplice o doppia, rubinetti di testata. Il rubinetto di testata è aperto quando, per norma, il suo manubrio è disposto orizzontalmente ed è chiuso se, per norma, il manubrio guarda verticalmente verso l’alto. Quando i rubinetti di testata sono chiusi, l’interno degli accoppiamenti comunica con l’atmosfera attraverso un orifizio di scarico praticato nel bossolo del rubinetto.
+Per isolare la condotta principale dei veicoli dotati di freno a vuoto, alle testate di accoppiamento del freno è applicato un coperchio di chiusura (o cieco), il quale aderisce saldamente alla testa di accoppiamento per effetto del vuoto creato.
+	
+5.1.2	Condotta di alimentazione 
+(condotta d’alimentazione ad alta pressione, condotta del serbatoio principale)
+	
+	Partendo dal cilindro principale dell’aria del veicolo motore, la condotta d’alimentazione porta l’aria compressa ai veicoli allacciati al freno. Per la funzione dei freni, l’accoppiamento della condotta d’alimentazione è obbligatorio
+–	al fine di alimentare con aria compressa il rubinetto di comando del freno e il rubinetto del freno di manovra di un treno condotto dal veicolo di comando
+–	per alimentare con aria compressa i cilindri del freno per i veicoli con freno elettropneumatico ad azione diretta
+
+
+
+–	per alimentare con aria compressa i cilindri del freno per i veicoli con freno ad aria compressa comandato dal vuoto.
+L’isolamento della condotta d’alimentazione avviene allo stesso modo della condotta principale per i freni ad aria compressa.
+	
+5.1.3	Condotta del freno di manovra
+	
+	Partendo dal rubinetto del freno di manovra della cabina di guida servita, la condotta del freno di manovra alimenta con aria compressa i freni di manovra dei veicoli motori accoppiati in comando multiplo.
+Di regola la condotta del freno di manovra non è munita di rubinetti d’isolamento. L’isolamento avviene mediante una valvola di ritenuta montata nelle teste d’accoppiamento.
+	
+
+6	Freno automatico ad aria compressa
+6.1	Principio del freno automatico ad aria compressa
+	
+	
+	
+	I veicoli con freno automatico ad aria compressa sono dotati almeno dei seguenti elementi: condotta principale, rubinetto d’isolamento, distributori con o senza serbatoi di comando, serbatoi ausiliari e cilindri del freno. In più, i veicoli motori sono provvisti di compressori d’aria, serbatoio principale e rubinetti di comando, all’occorrenza rubinetto del freno di manovra e rubinetto del freno rimorchio.
+Il freno automatico è definito anche freno ad azione indiretta, poiché l’aria compressa è portata al cilindro del freno indirettamente attraverso il distributore dal serbatoio ausiliario, il quale è comandato dalla pressione della condotta principale.
+Di regola il freno automatico può essere messo fuori esercizio separatamente su ogni veicolo. Sui veicoli, ciò avviene per mezzo di un rubinetto d’isolamento montato esternamente. Il rubinetto d’isolamento è aperto, di regola, quando il suo manubrio è disposto verticalmente ed è chiuso se il manubrio è in posizione orizzontale.
+	
+6.1.1	Carica o allentamento 
+	
+	Il compressore sul veicolo motore spinge l’aria compressa nel serbatoio principale. Da qui, attraverso il rubinetto di comando e la condotta principale, essa giunge ai distributori e ai serbatoi ausiliari dei singoli veicoli accoppiati alla condotta principale. Il rubinetto di comando regola a un determinato valore la pressione nella condotta principale e nelle apparecchiature del freno dei veicoli. Il vano sopra lo stantuffo del cilindro del freno accoppiato al distributore è collegato con l’aperto; una molla nel vano sotto lo stantuffo o nella timoneria lo spinge nella posizione di allentamento. Il freno è pronto per il servizio quando il sistema di frenatura è riempito alla prescritta pressione normale d’esercizio.
+
+	
+6.1.2	Frenare
+	
+	Mediante il rubinetto di comando, la pressione nella condotta principale viene ridotta in modo tale da obbligare i distributori a mettersi nella posizione di frenatura e collegando il serbatoio ausiliario con il cilindro del freno. Viene così interrotto il collegamento fra cilindro del freno e l’aperto. Dal serbatoio ausiliario l’aria compressa passa attraverso il distributore e affluisce nel vano sopra lo stantuffo del cilindro del freno, vincendo la forza della molla nel vano sotto lo stantuffo e provocando così lo spostamento dello stantuffo nella posizione di frenatura.
+	
+6.2	Il distributore
+6.2.1	In generale
+	
+	Lo scopo del distributore è di comandare automaticamente i collegamenti fra la condotta principale, il serbatoio ausiliario, i cilindri del freno e la pressione atmosferica (aria esterna). Il distributore conferisce al freno le seguenti importanti qualità:
+–	inesauribilità con un servizio del freno accurato
+–	buona capacità di regolazione, ossia elevata sensibilità nella frenatura e nell’allentamento
+–	elevata velocità di propagazione
+–	poca sensibilità alle sovraccariche del sistema
+–	poca sensibilità alle piccole variazioni di pressione
+–	compensazione automatica delle perdite d’aria nei cilindri del freno
+–	reazione rapida del freno e variazione regolare della pressione
+–	funzionamento sicuro in ogni condizione atmosferica.
+La buona possibilità di regolazione è importante tanto nella frenatura quanto nell’allentamento. I freni devono essere sempre graduabili sia all’allentamento sia nella frenatura.
+	
+6.2.2	Funzione
+	
+	Di regola il distributore pneumatico lavora secondo il cosiddetto principio delle tre pressioni. Vengono comandate la pressione della condotta principale (blu), la pressione nel serbatoio di comando (giallo) e quella del cilindro del freno (verde). La pressione nel serbatoio ausiliario (rosso) contiene la scorta d’aria necessaria ad alimentare il cilindro del freno.
+In certi casi, anziché del serbatoio di comando (giallo) alcuni distributori possono essere muniti di una molla.
+	
+6.2.3	Carica e allentamento
+	
+	
+	
+	Dalla condotta principale 2, attraverso il rubinetto d’isolamento 3 l’aria complessa affluisce
+–	nel vano (blu) sopra lo stantuffo di comando 7
+–	nel serbatoio ausiliario 1, passando attraverso la valvola di ritenuta 5 e nel vano (rosso) sopra la valvola di regolazione 10
+–	nel serbatoio di comando 9 e nel vano (giallo) sotto lo stantuffo di comando 7, per mezzo della valvola di ritenuta 6.
+Dato che lo stantuffo di comando subisce un po’ l’effetto della molla che preme sullo stantuffo di regolazione 8, lo stelo cavo non si trova in contatto con la valvola di regolazione 10 chiusa. Il cilindro di freno è quindi in comunicazione con l’aperto attraverso il foro nello stelo.
+	
+
+6.2.4	Frenare
+	
+	
+	
+	Una depressione nella condotta principale provoca una riduzione della pressione nel vano (blu) sopra lo stantuffo di comando 7; le valvole di ritenuta 5 e 6 vengono contemporaneamente chiuse, in modo da impedire un ritorno d’aria compressa dal serbatoio di comando e dal serbatoio ausiliario verso la condotta principale. In seguito alla differenza di pressione fra l’aria di comando (gialla) e l’aria della condotta principale (blu), lo stantuffo di comando si sposta verso l’alto e il suo stelo cavo stacca dalla sede e apre la valvola di regolazione. Il foro dello stelo che mette in comunicazione il cilindro del freno 4 con l’aperto è ora chiuso e dal serbatoio ausiliario affluisce aria (verde) al cilindro del freno attraverso la valvola di regolazione 10 aperta.
+	
+
+6.2.5	Posizione di chiusura
+	
+	
+	
+	Quando la pressione nel cilindro di freno e, con essa, quella (verde) nel vano sopra lo stantuffo di regolazione 8, aumenta al punto tale che la forza del pistone di regolazione, diretta verso il basso, compensa o supera leggermente quella dello stantuffo di comando 7 diretta verso l’alto, lo stantuffo di comando e con esso lo stelo cavo si sposta verso il basso in modo tale da permettere alla molla della valvola di regolazione di premere sulla sua sede la valvola di regolazione 10 e di tenerla chiusa. Un ulteriore afflusso d’aria dal serbatoio ausiliario al cilindro del freno non è quindi più possibile. Lo stelo cavo rimane in contatto con la valvola di regolazione e impedisce uno scarico d’aria dal cilindro del freno all’aperto. Ogni ulteriore depressione nella condotta principale provoca un corrispondente aumento della pressione nel cilindro del freno; per ogni grado di frenatura viene determinata una situazione d’equilibrio come testé descritto sopra. L’effetto completo di frenatura è raggiunto quando la pressione nella condotta principale è stata ridotta a un punto tale da ottenere la parità di pressione fra serbatoio ausiliario e cilindro di freno.
+	
+
+6.2.6	Allentamento graduale 
+	
+	
+	
+	Quando il rubinetto di comando lascia nuovamente affluire aria compressa nella condotta principale, aumenta la pressione nel vano (blu) sopra lo stantuffo di comando. Per conseguenza, l’equilibrio delle forze sullo stantuffo di comando ne risulta alterato e quest’ultimo è spostato verso il basso, in modo tale che lo stelo cavo si stacca dalla valvola di regolazione. L’aria compressa (verde) del cilindro del freno può ora scaricarsi all’aperto, attraverso lo stelo cavo; questo però solo finché la forza che agisce verso il basso è sufficiente per mantenere lo stantuffo di regolazione nella sua posizione di allentamento, cioè con lo stelo cavo aperto. Si ha in questo modo una diminuzione della pressione nel cilindro del freno e per conseguenza anche nel vano sopra lo stantuffo di regolazione 8, di modo che ora lo stantuffo di comando sotto la spinta dell’aria di comando (gialla) viene spostato quel tanto verso l’alto, da permettere la chiusura dello stelo cavo e interrompere così il collegamento fra il cilindro del freno e l’aperto. Il processo di allentamento si ripete aumentando a più riprese la pressione nella condotta principale.
+	
+6.2.7	Allentamento completo
+	
+	Il freno è completamente allentato solo quando nella condotta principale è ripristinata la pressione iniziale, ossia quella esistente prima della frenatura iniziale e il serbatoio ausiliario è di nuovo completamente carico.
+	
+
+6.3	Dipendenza fra la pressione della condotta principale e la pressione nel cilindro del freno 
+	
+	La pressione massima nel cilindro di freno è raggiunta quando nella condotta principale la pressione è diminuita di 1,5 bar. Se il cilindro del freno di un veicolo motore è stato allentato dopo una frenatura iniziale, la pressione nel cilindro del freno può essere aumentata ancora fino ad un certo valore con una ulteriore depressione nella condotta principale di 0,6 bar. Un limitatore di pressione massima sul distributore impedisce un superamento dei valori di pressione ammissibili nel cilindro del freno.
+Il cilindro del freno è completamente allentato non appena la pressione nella condotta principale è salita nuovamente fino a 0,2 bar al di sotto della pressione normale. Il limite di allentamento è stato fissato a questo valore per evitare perturbazioni durante l’allentamento; ossia tutti gli apparecchi del freno – prima di tutto quelli dei veicoli in coda al treno – devono allentare sicuramente anche in caso di aumento della pressione nella condotta al valore normale, e ciò anche in treni lunghi.
+	
+6.4	Velocità di propagazione del freno ad aria automatico 
+	
+	La frenatura eseguita dal MAC deve propagarsi il più rapidamente possibile fino alla coda del treno. Quanto più rapida è la propagazione, tanto più breve sarà il percorso di frenatura. La velocità con la quale una frenatura si propaga fino alla coda del treno, viene denominata «velocità di propagazione». Il tempo di propagazione è quello che intercorre fra il momento in cui il manubrio del rubinetto del MAC viene messo nella posizione di frenatura rapida, e l’inizio dell’aumento della pressione nel cilindro del freno dell’ultimo veicolo.
+Il distributore è di regola munito di una valvola di accelerazione, con la quale, durante la frenatura, in questo punto viene fatto defluire un certo quantitativo d’aria compressa dalla condotta principale. In questo modo la velocità di propagazione può essere aumentata da ca. 90 - 180 m/s a 250 - 280 m/s.
+	
+6.5	Freno viaggiatori e freno merci
+	
+	Si distingue tra freno viaggiatori e freno merci giacché ai freni sono poste determinate esigenze, con riguardo alla lunghezza e alla velocità massima ammissibile dei treni. Nei treni che circolano ad alta velocità l’effetto del freno deve essere rinforzato, per ottenere percorsi di frenatura non troppo lunghi. Con l’impiego di ceppi dei freni in ghisa, il freno viaggiatori deve inoltre agire con maggiore forza a velocità elevate.
+
+
+
+I freni devono sempre poter agire in tutte le condizioni in modo tale da evitare eccessivi strappi e reazioni nel treno. I treni merci lunghi e pesanti, con carri diversamente caricati e frenati, necessitano perciò di freni con un effetto relativamente lento, per evitare pressioni longitudinali nel treno.
+	
+6.6	Freni viaggiatori
+6.6.1	Freno V
+	
+	Il freno V ha un effetto rapido. Esso è impiegato per treni leggeri o mediamente pesanti.
+Il tempo di riempimento del cilindro del freno va da 3 a 5 secondi, mentre quello di allentamento da 10 a 20 secondi.
+Queste brevi variazioni delle pressioni durante la frenatura e l’allentamento esigono veicoli rigidamente accoppiati e frenati in modo uniforme. Il corto tempo di riempimento e di scarico del cilindro del freno si ottiene grazie ai passaggi d’aria meno strozzati nei distributori.
+	
+6.6.2	Freno R
+	
+	Il freno R va considerato sostanzialmente un freno V. Nei treni circolanti ad alta velocità fino a 160 km/h, i percorsi di frenatura necessari si possono rispettare solo se i freni dei veicoli dotati di suole dei freni in ghisa esercitano una pressione più forte quando la velocità aumenta. Ciò è possibile perché la forza frenante resta il più possibile invariata mentre cambia il coefficiente d’attrito. A tale scopo, la pressione dei ceppi è rinforzata quando la velocità è superiore a un certo valore (p.es. 80 km/h). Con una riduzione della velocità sotto un certo valore (p.es. 50 km/h), la pressione dei ceppi deve essere di nuovo ridotta al valore normale, per evitare che le ruote si blocchino.
+Sui veicoli dotati di freni a disco o di suole del freno in materiale composito (p.es. K, L o LL), il coefficiente d’attrito rimane invariato per l’intero ambito di velocità. Per tale ragione si può rinunciare a un comando del freno R dipendente dalla velocità.
+	
+
+6.7	Freni merci
+	
+	Il freno M ha un effetto lento. Per tale ragione anche i percorsi di frenatura sono più lunghi. Questo tipo di freno è impiegato nei treni con materiale rotabile non uniforme e estremamente lunghi. Le premesse per una frenatura e un allentamento senza scosse di questi treni sono meno favorevoli. Il materiale rotabile non omogeneo e le differenze di carico comportano anche una frenatura diversa dei singoli veicoli, con corrispondenti spinte longitudinali, che con un servizio del freno non avveduto possono portare ad accavallamenti dei respingenti e a deragliamenti. Per questo il freno M deve, all’inizio di una frenatura, entrare rapidamente in funzione (scatto), con successivamente un aumento relativamente lento della forza frenante. In questo modo vengono evitate spinte longitudinali troppo elevate nel treno, e le forze di reazione negli accoppiamenti e nei repulsori possono uguagliarsi a poco a poco. Per gli stessi motivi, anche nel processo di allentamento la diminuzione dell’azione frenante deve avvenire lentamente.
+A dipendenza della lunghezza del treno, il tempo di riempimento del cilindro del freno va da 18 a 35 secondi, e quello di allentamento da 45 a 60 secondi.
+La rapida entrata in funzione dei freni (scatto iniziale) prescritta per il freno M all’inizio della frenatura, è ottenuta mediante la cosiddetta valvola di frenatura iniziale incorporata nel distributore. Essa lascia affluire direttamente aria compressa dal serbatoio ausiliario al cilindro di freno, finché in quest’ultimo non è raggiunta una pressione di 0,8 bar. In seguito il collegamento viene interrotto e la pressione nel cilindro del freno aumenta solo lentamente, poiché ora l’aria compressa passa unicamente attraverso un piccolo foro di strozzatura.
+	
+6.8	Dispositivi d’inversione per l’azione frenante
+	
+	Di regola i veicoli motori sono dotati di un dispositivo MV, MVR o MR, invece carri e carrozze sono muniti in prevalenza di un dispositivo MV o RIC/R, RIC/R+Mg o ancora RIC/R/R+Mg, che permette, a scelta, l’adattamento della frenatura al tipo di frenatura del treno.
+	
+
+6.9	Rubinetto di comando
+	
+	Con il rubinetto di comando è possibile variare la pressione nella condotta principale.
+Con il rubinetto in posizione di carica (cambiamento di sezione) si ottiene la rapida alimentazione della condotta principale e degli apparecchi di frenatura. Il serbatoio principale della locomotiva è collegato direttamente con la condotta principale mediante grandi canali. Con molti tipi di rubinetto di comando, il fatto di portarlo nella posizione di carica provoca un colpo di carica limitato nel tempo (onda di pressione) con una successiva sovraccarica a bassa pressione (funzione di equilibrio) della condotta principale da 0,2 a 0,4 bar oltre la pressione normale.
+Nella posizione di marcia questo collegamento viene strozzato. La sovraccarica a bassa pressione si riduce lentamente evitando così l’entrata in funzione dei freni. Il collegamento passa inoltre per un regolatore di pressione, che mantiene costante la pressione normale e serve a compensare automaticamente le piccole perdite di pressione.
+Nella posizione di frenatura, la pressione nella condotta principale viene diminuita per mezzo di uno scarico dell’aria all’aperto. In tal modo è possibile ridurre gradualmente la pressione nella condotta principale fino ad ottenere la frenatura completa.
+In posizione di frenatura rapida, tutta l’aria può scaricarsi direttamente e in modo rapido all’aperto, ottenendo lo svuotamento più rapido della condotta principale. Ne consegue un aumento dell’effetto di frenatura in tutto il treno.
+Nella posizione neutra o in quella di chiusura, il collegamento fra serbatoio principale e condotta principale è interrotto.
+	
+6.10	Valvola di scarico
+	
+	I veicoli devono essere dotati di una valvola di scarico, che consente di allentare i freni svuotando gli apparecchi del freno senza aumentare la pressione nella condotta principale.
+Sui veicoli motori la valvola di scarico può essere azionata dal quadro pneumatico, sui carri, normalmente, mediante aste o cavi di comando da entrambi i lati del veicolo.
+I cilindri del freno dei veicoli motori possono essere svuotati con una valvola di scarico elettromagnetica, azionabile dalla cabina di guida.
+	
+
+6.11	Il freno elettropneumatico
+	
+	Il freno EP è un freno automatico ad aria compressa a comando elettropneumatico. Esso permette di frenare o di allentare contemporaneamente tutti i veicoli ubicati in treni di qualsiasi lunghezza. In questo modo si può ottenere una frenatura omogenea con il minimo di spinte longitudinali nel treno.
+Il veicolo motore è equipaggiato di un apparecchio di comando mentre i veicoli sono dotati di elettrovalvole. Per la trasmissione e la sorveglianza degli ordini di comando elettrici è necessario un cavo di comando. Se il comando elettropneumatico viene a mancare, si può azionare il freno con il solo comando pneumatico per mezzo della condotta principale.
+I freni EP sono suddivisi in due gruppi
+–	i freni EP ad azione diretta
+–	i freni EP ad azione indiretta
+	
+6.11.1	Freno EP ad azione diretta
+	
+	Sui veicoli motori o di comando, il dispositivo di comando del freno EP ad azione diretta è combinato con il rubinetto di comando o con l’elemento di comando determinante. L’apparecchio di comando dà una tensione elettrica di frenatura o di allentamento proporzionale alla forza frenante desiderata. Su ogni veicolo del treno c’è una valvola elettropneumatica, la quale regola la pressione nel cilindro del freno in funzione della tensione elettrica esistente nel cavo di comando (condotta EP).
+	
+
+6.11.2	Freno EP ad azione indiretta
+	
+	Sui veicoli motori o di comando, l’apparecchio di comando del freno EP ad azione indiretta è azionato con il rubinetto di comando. Esso dà ordini elettrici per la frenatura o l’allentamento, quando la pressione nella condotta principale viene diminuita o aumentata. Questo freno lavora dunque parallelamente al freno ad aria automatico. Ogni veicolo è munito di due valvole elettropneumatiche: una per la frenatura e una per l’allen­tamento. In posizione eccitata queste valvole collegano la condotta principale del veicolo con l’aperto (frenatura) o direttamente con la condotta d’alimentazione (allentamento). Questo genere di freno EP agisce dunque sul freno automatico di tutti i veicoli accoppiati alla condotta principale.
+
+7	Freno automatico a vuoto
+7.1	Principio del freno a vuoto
+	
+	
+	
+	I veicoli equipaggiati del freno a vuoto, chiamato anche ad aspirazione dell’aria, possiedono almeno una condotta principale, cilindri dei freni con vani superiore e inferiore, serbatoio speciale e valvola di ritenuta, montata fra il serbatoio speciale e il vano inferiore del cilindro di freno. Inoltre, i veicoli motori sono dotati di una pompa a vuoto con valvola di ritenuta e rubinetto di comando (valvola del vuoto).
+	
+7.1.1	Evacuazione o allentamento 
+	
+	Per mezzo di valvole di ritenuta, la pompa a vuoto del veicolo motore aspira (evacua) l’aria di tutto il sistema, creando così un vuoto. Attraverso la condotta principale vengono evacuati il vano inferiore del cilindro di freno e mediante valvole di ritenuta il vano superiore e il serbatoio speciale. Nel cilindro del freno montato in posizione orizzontale, lo stantuffo è tenuto nella posizione di allentamento da una molla di richiamo, dal proprio peso, invece, nel cilindro del freno montato verticalmente. Il freno è pronto ad entrare in azione o allentato quando fra la pressione atmosferica e il sistema viene prodotta una differenza di 52 cmHg e fra il vano inferiore e superiore dei cilindri del freno collegati vi è una pressione uguale. Sul veicolo motore, una valvola di regolazione limita la differenza di pressione fra l’aria esterna e la condotta principale a 52 cmHg; quando la pompa a vuoto è ferma, una valvola di ritenuta impedisce l’afflusso incontrollato di aria dall’esterno.
+	
+
+7.1.2	Frenare
+	
+	Con il rubinetto di comando, dosando l’afflusso di aria dall’esterno viene ridotto il vuoto nella condotta principale e nei vani inferiori dei cilindri del freno. La depressione di 52 cmHg nei vani superiori e nei serbatoi speciali è mantenuta grazie al funzionamento automatico dell’ermeticità e alle valvole di ritenuta montate. In seguito alla differenza di pressione nei due vani, viene superata la forza della molla di richiamo e il peso proprio dello stantuffo, di modo che questo si sposta nella posizione di frenatura.
+	
+7.2	Velocità di propagazione del freno a vuoto 
+	
+	In generale, per quanto attiene alla velocità di propagazione del freno a vuoto vale quanto detto per il freno ad aria compressa.
+La velocità di propagazione ammonta normalmente a 15 m/s, in caso di frenatura rapida a ca. 200 m/s.
+	
+7.3	Freno ad aria compressa comandato dal vuoto
+	
+	Il freno ad aria compressa comandato dal vuoto ha, rispetto al vero e proprio freno a vuoto, gli altri vantaggi seguenti:
+–	può essere combinato con un dispositivo antislittamento 
+–	per i veicoli motori, è pure possibile la combinazione con un freno di manovra e un freno antislittamento.
+Il freno ad aria compressa comandato dal vuoto è dotato, in più del vero e proprio freno a vuoto, di un distributore a vuoto, il quale svolge la medesima funzione del distributore del freno ad aria compressa. L’alimenta­zione con aria compressa del cilindro del freno avviene per mezzo della condotta d’alimentazione e del distributore a vuoto. 
+	
+
+	
+	Durante la carica e l’allentamento la condotta principale 2 e il serbatoio di comando 6 sono evacuati dalla pompa a vuoto del veicolo motore a 52 cmHg. Lo stantuffo del distributore si muove verso il basso e provoca lo scarico del cilindro del freno 4.
+Frenando, mediante l’eliminazione del vuoto nella condotta principale lo stantuffo del distributore è spinto verso l’alto. Nel serbatoio di comando 6, in seguito alla chiusura della valvola di ritenuta resta mantenuto il vuoto di riferimento di 52 cmHg. Mediante la valvola di regolazione 9 aperta, dalla condotta d’alimentazione 1 l’aria compressa affluisce nella camera attraverso lo stantuffo di regolazione 8 e nel cilindro del freno.
+L’aumento di pressione nella camera provocato dallo stantuffo di regolazione ha come effetto lo spostamento verso il basso dello stantuffo del distributore e la chiusura della valvola di regolazione.
+In ragione del vuoto nella condotta principale, di quello nel serbatoio di comando e della pressione nel cilindro del freno, il distributore funziona secondo il principio delle tre pressioni. In questo modo è possibile una regolazione graduata della pressione nel cilindro del freno.
+Premessa per un funzionamento sicuro del freno ad aria compressa comandato dal vuoto è l’afflusso di aria compressa attraverso la condotta d’alimentazione. La sorveglianza della pressione minima 10 controlla la pressione della condotta d’alimentazione. Se essa scende sotto i 5,5 bar, vi è una ventilazione obbligata della condotta principale.
+	
+
+8	Freno di manovra
+	
+	
+	
+	È chiamato freno di manovra il freno ad aria con azione diretta montato sui veicoli motori o di comando. Esso agisce unicamente sul veicolo motore o di comando, all’occorrenza su altri locomotori in comando multiplo. In certi casi il freno di manovra viene comandato elettropneumaticamente dal veicolo di comando, in tale evenienza esso può agire in più anche sul veicolo motore.
+Il freno di manovra è azionato per mezzo del rubinetto del freno di manovra, che attinge l’aria compressa dal serbatoio principale attraverso un regolatore di pressione, il quale è regolato su una certa pressione massima, per evitare frenature troppo elevate.
+Con il freno di manovra si può, nella frenatura come nell’allentamento, regolare a piacimento la pressione nel cilindro del freno.
+
+	
+
+9	Freno di rotaia
+	
+	I freni di rotaia sono impiegati
+–	per ridurre il percorso di frenatura quando viene avviata una frenatura rapida, in particolare nel settore delle tranvie
+–	per compensare la forza frenante in caso di improvviso mancato funzionamento del freno elettrico
+–	come freno d’immobilizzazione.
+I pattini (zoccoli di frenatura) esplicano la loro forza frenante sulla testa della rotaia grazie ad un effetto elettromagnetico o magnetico permanente. In questo modo la forza d’attrito è esercitata direttamente sulla rotaia in modo indipendente dall’attrito ruota/rotaia.
+	
+
+10	Dispositivi del freno d’allarme
+	
+	Il dispositivo del freno d’allarme permette, in caso d’emergenza, di fermare un treno o un movimento di manovra. Di regola un dispositivo del freno d’allarme è montato su ogni veicolo sul quale durante la corsa possono sostare persone.
+	
+10.1	Valvola del freno d’allarme
+	
+	Ogni veicolo accessibile ai viaggiatori è equipaggiato, per norma, di una valvola del freno d’allarme. La valvola del freno d’allarme può essere 
+aperta da una terza persona, e collega immediatamente la condotta principale con l’aperto, provocando così una frenatura d’emergenza; su numerosi veicoli, il deflusso dell’aria compressa ha come effetto l’entrata in azione del fischietto. Il ripristino nella posizione d’esercizio normale può essere fatto, di regola, solo con un particolare dispositivo di richiamo o con la chiave per le carrozze.
+I veicoli di servizio, i bagagliai e i carri merci possono essere equipaggiati di un semplice rubinetto del freno d’allarme senza dispositivo di richiamo.
+	
+10.2	Ponteggio del freno d’emergenza, domanda del freno d’emergenza 
+	
+	In determinati casi i veicoli predisposti al trasporto di passeggeri possono essere equipaggiati di un ponteggio del freno d’emergenza o di una domanda del freno d’emergenza. Il ponteggio e la domanda del freno 
+d’emergenza devono impedire che un treno venga a fermarsi in un luogo non appropriato.
+	
+10.2.1	Ponteggio del freno d’emergenza
+	
+	Una valvola del freno d’emergenza aperta provoca una frenatura d’emergenza, al contempo in cabina di guida viene segnalato al MAC che è stato azionato il freno d’allarme. Il MAC può scansare (ponteggiare) l’effetto del freno d’emergenza. Una perdita d’aria nella condotta principale dovuta ad altre ragioni (p.es. per la rottura del treno) non può essere ponteggiata.
+	
+10.2.2	Domanda di freno d’emergenza
+	
+	L’azionamento di un dispositivo di frenatura d’emergenza è segnalato in cabina di guida, ma non provoca una frenatura d’emergenza.
+	
+
+11	Acceleratore della frenatura rapida, valvole di frenatura rapida 
+	
+	Sono dotati di acceleratore della frenatura rapida determinate carrozze viaggiatori inserite in treni frenati ad aria compressa. Possono essere muniti di valvole di frenatura rapida, nei treni frenati con il vuoto, sia carrozze viaggiatori sia carri merci.
+In caso di rapido svuotamento della condotta principale (per una frenatura rapida o d’emergenza), i dispositivi di accelerazione della frenatura rapida dei veicoli collegano la condotta principale con l’aperto. Con ciò si può aumentare notevolmente la velocità di propagazione. Dopo che sono entrati in azione, gli organi di accelerazione della frenatura rapida chiudono il collegamento fra la condotta principale e l’aperto solo al momento in cui la condotta principale è completamente vuota.
+	
+
+12	Freno di rimorchio
+	
+	
+	
+	Il freno di rimorchio è un dispositivo che permette di azionare il freno automatico dei veicoli rimorchiati mediante il freno di manovra del veicolo motore.
+Una valvola del freno di rimorchio montata sul veicolo motore comanda le necessarie variazioni di pressione nella condotta principale e il freno automatico dei singoli veicoli, in funzione della pressione che si ha nel cilindro del freno di manovra.
+	
+
+13	Freno di notifica
+13.1	Freno di notifica per veicoli motori di ferrovie ad aderenza 
+	
+	Sono dotati del freno di notifica i trattori senza freno automatico o i veicoli motori il cui freno automatico non è efficace in fase di rimorchio. 
+Il freno di notifica non entra in azione in caso di frenatura d’esercizio o completa, o se viene azionato il freno rimorchio. Il freno di notifica fa in modo che il freno ad aria di un veicolo motore accoppiato alla condotta principale reagisca, non appena la pressione nella condotta principale è scesa sotto i 2,5 bar all’incirca. Aumentando la pressione nella condotta principale al valore di una frenatura completa, il freno di notifica provoca l’allentamento dei veicoli che ne sono provvisti.
+	
+13.2	Freno di notifica per ferrovie con esercizio misto a cremagliera e ad aderenza 
+	
+	I veicoli che circolano su sezioni a cremagliera possono essere equipaggiati con un freno ad aderenza e uno a cremagliera ad azione ritardata.
+Con una riduzione moderata del vuoto (fino a 25 cmHg) o della pressione nella condotta principale, reagisce solo il freno ad aderenza. Ciò è sufficiente per mantenere la velocità circolando in discesa. Una riduzione più forte del vuoto (oltre 24 cmHg) o della pressione nella condotta principale ha come effetto la reazione anche del freno a cremagliera.
+	
+
+14	Freno antislittamento
+	
+	Il freno antislittamento evita, con una leggera frenatura delle ruote motrici, lo slittamento in caso di cattiva adesione. Un’azione efficace di questo freno è garantita solo se i ceppi possono aderire rapidamente alle ruote e se l’allentamento è istantaneo. Ciò è ottenuto mediante una valvola elettropneumatica, azionata da un comando automatico o da un interruttore a pulsante.
+	
+
+15	Dispositivo antiscivolamento 
+	
+	In condizioni sfavorevoli la forza frenante può raggiungere il valore limite di aderenza fra ruota e rotaia. Esiste allora il pericolo che frenando gli assi si blocchino. Ciò comporta percorsi di frenatura più lunghi e, inoltre, danni alle superfici di rotolamento delle ruote a causa della formazione di piattine. I dispositivi antiscivolamento possono evitare questi inconvenienti.
+Il dispositivo antiscivolamento confronta il numero di giri degli assi del veicolo. Non appena la differenza del numero di giri ha raggiunto un determinato valore, il cilindro del freno viene scaricato all’aperto e l’alimentazione interrotta. Quando l’asse ha nuovamente raggiunto il numero di giri normale, si interrompe lo svuotamento del cilindro di freno e entra di nuovo in azione la frenatura.
+	
+
+16	Veicoli con calcolatore del freno 
+	
+	La gestione dei sistemi di frenatura è integrata nella tecnica di guida del locomotore o del veicolo di comando. Attraverso il bus dei dati e l’apparecchio di guida del veicolo gli elementi di servizio in cabina di guida comandano un calcolatore, che a sua volta gestisce gli elementi pneumatici.
+Una frenatura rapida può essere eseguita in ogni caso direttamente aprendo la condotta principale con un rubinetto d’emergenza o una valvola del freno d’emergenza, ignorando il calcolatore.
+	
+
+17	Freno di sicurezza
+	
+	Il freno di sicurezza è indipendente dall’attrito fra ruota e rotaia. Fra i freni di sicurezza rientrano, fra l’altro, i freni di rotaia e i freni a cremagliera.
+I freni di sicurezza sono impiegati
+–	per circolare su tratte con pendenze superiori al 60 ‰
+–	nelle zone di tranvie, finché la velocità non è ridotta in modo adeguato.
+	
+
+18	Freno di stazionamento a molla
+	
+	I freni di stazionamento a molla sono utilizzati
+–	come freno d’immobilizzazione 
+–	in certi casi, come elemento del sistema del freno automatico.
+	
+18.1	Funzionamento 
+	
+	Con il freno di stazionamento a molla, per mezzo di una molla situata nel cilindro del freno la forza frenante agisce direttamente sull’asta del pistone, sulla ruota e sul disco del freno. Durante l’allentamento, una forza contraria a quella della molla e generata mediante un sistema pneumatico, idraulico o elettromagnetico, agisce sul pignone del freno e sulla rispettiva asta e li porta nella posizione di allentamento.
+	
+18.2	Allentamento di soccorso 
+	
+	Mancando la forza necessaria per allentare, il freno di stazionamento a molla può essere allentato soltanto con un dispositivo speciale. Dopo 
+l’allentamento di soccorso, il freno di stazionamento a molla è inefficace.
+
+	
+

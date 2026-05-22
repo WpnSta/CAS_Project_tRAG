@@ -1,0 +1,942 @@
+﻿Ferrovie svizzere	R 300.9
+
+
+
+Perturbazioni
+
+
+
+1	In generale
+	
+	Gli ordini per i movimenti di manovra in stazione e su binari di raccordo sono trasmessi con obbligo di quietanza anziché con obbligo di protocollo. 
+Se il CMOV non ha la possibilità di servire l’impianto di sicurezza, la persona del servizio tecnico designato può eccezionalmente su ordine esplicito del CMOV eseguire comandi su detti impianti.
+	
+1.1	Avvisi
+	
+	All’occorrenza, il personale interessato si avvisa reciprocamente in merito a irregolarità e ritardi come pure su risultati e misure adottate.
+In caso di perturbazioni che provocano ritardi, i viaggiatori devono essere informati in merito alla causa e, se conosciuto, circa il probabile tempo d’attesa fino al proseguimento della corsa.
+La sicurezza delle persone interessate va assicurata ed esse vanno rese attente ai possibili pericoli.
+	
+1.2	Basi per l’eliminazione di una perturbazione
+1.2.1	Accertamento della completezza di una corsa
+	
+	La completezza di una corsa viene accertata:
+–	da parte del MAC per la propria corsa, o
+–	da parte del CMOV sul posto che ha osservato il segnale di coda del treno o
+–	da parte del CMAN nell’ambito di movimenti di manovra per la propria corsa.
+A tale riguardo, all’interno della sezione perturbata non devono essere subentrati cambiamenti nella formazione dei veicoli motore e del peso rimorchiato.
+	
+
+1.2.2	Controllo sul posto
+	
+	Un controllo sul posto può essere compiuto sui seguenti elementi dell’impianto di sicurezza:
+–	scambio 
+–	impianto di passaggio a livello sorvegliato
+–	ABL
+Mediante un controllo sul posto si accerta se l’elemento dell’impianto di sicurezza perturbato è libero. 
+Nel caso di scambi, si devono controllare tutte le diramazioni fino alle estremità del ABL.
+Per garantire che il controllo sul posto includa il giusto elemento dell’impianto di sicurezza, il CMOV comunica al personale incaricato, con obbligo di quietanza, le indicazioni necessarie sulla posizione della sezione o dell’elemento.  
+	
+1.2.3	Intervento del servizio tecnico
+	
+	Se il CMOV non è in grado di eliminare la perturbazione o se la posizione di base dell’impianto non viene raggiunta anche dopo averlo percorso, il CMOV deve far intervenire il servizio tecnico.
+
+2	Processo chiave in caso di perturbazioni
+2.1	Accertamenti e misure di sicurezza
+2.1.1	Primi accertamenti
+	
+	Se un segnale non si dispone su via libera o un altro elemento dell’impianto di sicurezza non raggiunge la posizione voluta, il CMOV deve ritenere che la disposizione sia impedita da ragioni d’esercizio o che un’operazione non sia stata eseguita. Solo quando si è accertato che ciò non è il caso, si può presumere una perturbazione.
+Quali elementi dell’impianto di sicurezza valgono, in particolare:
+–	i segnali
+–	gli scambi
+–	gli impianti di passaggio a livello sorvegliati
+–	i ABL
+–	il blocco 
+–	il chiavistellamento del percorso.
+	
+2.1.2	Assicuramento dell’elemento dell’impianto di sicurezza perturbato
+	
+	Se dai primi chiarimenti risulta che vi è un elemento dell’impianto di sicurezza perturbato, lo si deve assicurare. 
+	
+2.1.3	ABL perturbato
+	
+	Il CMOV può riportare nella posizione di base il ABL con un’operazione di soccorso, se mediante un controllo sul posto è stato costatato che lo stesso è libero.
+Se dopo aver ripristinato la posizione di base la perturbazione è eliminata, si possono revocare le misure di sicurezza.
+	
+2.1.4	Adozione di misure
+	
+	Il CMOV deve definire e mettere a protocollo:
+–	l’ultima corsa che ha percorso l’elemento dell’impianto di sicurezza perturbato e
+–	la sezione perturbata per la prossima corsa
+In seguito il CMOV deve verificare che nella sezione perturbata così definita non si trovi nessuna corsa e che non sia stato dato nessun consenso per una corsa sulla sezione perturbata.
+	
+
+2.2	Velocità sulla sezione perturbata
+	
+	La sezione perturbata dev’essere percorsa con corsa a vista. In tale contesto il MAC deve considerare come perturbati gli impianti di passaggio a livello sorvegliati.
+A partire dalla seconda corsa esiste la possibilità di percorrere la sezione perturbata alla velocità massima prescritta, purché siano soddisfatte le rispettive condizioni per la revoca della corsa a vista.
+	
+2.2.1	Condizioni per la revoca della corsa a vista a partire dalla seconda corsa
+	
+	In caso di necessità per l’esercizio, il GI deve disciplinare nelle prescrizioni d’esercizio le condizioni e la procedura per la revoca della corsa a vista a partire dalla seconda corsa.
+Il CMOV deve verificare se
+–	l’ultima corsa ha lasciato la sezione perturbata e la sua completezza è stata accertata e 
+–	le direttive fissate dal GI nelle sue prescrizioni d’esercizio sono adempiute.
+Se nelle prescrizioni d’esercizio del GI non sono previste direttive per la revoca della corsa a vista a partire dalla seconda corsa, non è ammesso sopprimere la corsa a vista.
+	
+2.3	Disporre e assicurare l’itinerario
+2.3.1	Principio
+	
+	Nella misura del possibile il CMOV deve disporre e assicurare l’itinerario. 
+	
+2.3.2	ABL o blocco perturbato
+	
+	Il ABL di un binario, oppure il blocco, può essere riportato nella posizione di base dopo aver prescritto con obbligo di protocollo la corsa a vista per la prossima corsa. Si può rinunciare alla prescrizione della corsa a vista per la prossima corsa, purché siano soddisfatte le rispettive direttive per la revoca della corsa a vista.
+	
+2.3.3	Inversione dello scambio nonostante l’indicazione di occupazione
+	
+	Se dal controllo sul posto si è accertato che lo scambio è libero, questo può essere invertito con un’operazione di soccorso.
+	
+
+2.4	Consenso
+2.4.1	Consenso per i treni
+	
+	Il consenso può essere dato come segue:
+–	mediante disposizione su via libera del segnale principale, o 
+–	disponendo il segnale principale su via libera con un’operazione di soccorso oppure 
+–	con il segnale principale per impianto di passaggio a livello perturbato oppure
+–	per mezzo del segnale ausiliario oppure
+–	con l’ordine 1 soggetto a protocollo oppure
+–	sulle tratte prive di segnali principali, la procedura viene fissata dai GI.
+	
+2.4.2	Segnale principale disposto su via libera con un’operazione di soccorso
+	
+	Prima di disporre il segnale principale su via libera con un’operazione di soccorso, alla prossima corsa il CMOV deve prescrivere la corsa a vista con obbligo di protocollo, mediante l’ordine 6, sennonché siano adempiute le direttive per la revoca della corsa a vista a partire dalla seconda corsa.
+	
+2.4.3	Segnale ausiliario e superamento del segnale su posizione di fermata
+	
+	Mediante il segnale ausiliario o consegnando un ordine 1 soggetto a protocollo, il CMOV dà al MAC il consenso di superare il rispettivo segnale principale.
+Il segnale ausiliario o l’ordine 1 soggetto a protocollo permette pure il superamento di segnali bassi spenti e che mostrano fermata.
+Fino al prossimo segnale si deve circolare con corsa a vista. Al prossimo segnale principale ci si deve attendere la posizione di fermata.
+Se contemporaneamente viene eseguita un’entrata su un binario occupato, non bisogna avvisare ulteriormente il MAC.
+Se la corsa a vista dev’essere proseguita oltre il prossimo segnale principale che mostra via libera, ciò dev’essere prescritto al MAC con obbligo di protocollo mediante l’ordine 6.
+Se il segnale ausiliario si spegne prima che la testa del treno lo abbia superato, il MAC deve fermare immediatamente il treno e prendere contatto con il CMOV.
+	
+2.4.4	Consenso per movimento di manovra in stazione
+	
+	Il CMOV impartisce al CMAN, con obbligo di quietanza, l’ordine di superare il segnale basso o di manovra su posizione di fermata. L’ordine va impartito singolarmente per ogni corsa.
+	
+2.4.5	Consenso per movimento di manovra sulla tratta
+	
+	Prima di impartire il consenso per la sezione perturbata, il CMOV deve prescrivere al prossimo movimento di manovra sulla tratta la corsa a vista con obbligo di protocollo, mediante l’ordine 6, sennonché siano adempiute le direttive per la revoca della corsa a vista a partire dalla seconda corsa.
+	
+2.4.6	Consenso per movimento di manovra sul binario sbarrato
+	
+	Prima di impartire il consenso per la sezione perturbata, il CMOV avvisa con obbligo di protocollo il CS che la corsa a vista per i rispettivi movimenti di manovra non può venir soppressa. 
+	
+2.5	Revoca delle misure di sicurezza dopo una corsa
+	
+	Quando è stato accertato che la corsa ha percorso e poi liberata la sezione perturbata o una sua parte, si possono revocare le misure di sicurezza adottate in modo particolare per la corsa stessa.
+	
+2.6	Fine della perturbazione
+	
+	Se non vi è più alcuna sezione perturbata, il CMOV deve accertare la completezza della corsa, che ha percorso e poi liberata per ultimo la sezione perturbata. 
+Se esiste una serie ininterrotta di ABL attivi in permanenza, si può rinunciare al controllo della completezza dell’ultimo treno, purché la corsa successiva circoli come treno e il segnale principale possa essere disposto su via libera senza un’opera­zione di soccorso.
+Le misure di sicurezza adottate per la sezione perturbata possono essere revocate.
+
+
+3	Disposizioni complementari in caso di perturbazioni ai segnali
+3.1	Ordine per il superamento di più segnali su posizione di fermata
+	
+	Il superamento di più segnali susseguenti su posizione di fermata può essere ordinato con un unico ordine 1. Il primo e l’ultimo segnale su posizione di fermata che devono essere superati vanno contrassegnati in modo inequivocabile. Se la tratta da percorrere è a più binari, bisogna definire anche il binario di tratta da percorrere sul quale il treno deve circolare (p.es. il binario sinistro).
+	
+3.2	Il segnale principale resta su via libera
+	
+	Se dopo la corsa treno un segnale principale rimane su posizione di via libera o un segnale ausiliario o un segnale principale per impianto di passaggio a livello perturbato resta illuminato, il CMOV deve riportare manualmente il segnale nella posizione di base.
+	
+3.3	Il segnale principale si dispone in anticipo su fermata
+	
+	Allorché un segnale principale torna in anticipo su fermata, il MAC deve fermare subito il treno e prendere contatto con il CMOV.
+Se il treno si arresta dopo il segnale, per il proseguimento della corsa basta un’autorizzazione con obbligo di quietanza del CMOV al MAC.
+	
+3.4	Segnale di sbarramento
+	
+	Se un segnale di sbarramento non può essere spento, il MAC o il CMAN dev’essere avvisato con obbligo di quietanza dal CMOV in merito al superamento del segnale stesso su posizione di fermata.
+	
+3.5	Avvisatore della posizione di via libera spento in caso di treni in transito
+	
+	Se dopo aver superato un segnale avanzato su posizione di via libera il MAC accerta un avvisatore della posizione di via libera spento e non ne è stato avvisato, deve fermare il treno e prendere contatto con il preposto CMOV. Al rispettivo segnale principale ci si deve attendere la posizione di fermata.
+Se il CMOV può accertare un avvisatore perturbato, ne deve avvisare il MAC con obbligo di quietanza.
+
+3.6	Immagine del segnale basso incerta
+	
+	Se il MAC o il CMAN accerta nell’itinerario la presenza di un segnale basso spento o illuminato con una sola delle due lampadine inferiori, e non ne è stato avvisato, deve fermare il treno o il movimento di manovra e prendere contatto con il CMOV preposto.
+Il CMOV impartisce al MAC o al CMAN, con obbligo di quietanza, il consenso di proseguire la corsa.
+Se di un segnale basso è illuminata solo la lampadina superiore, l’imma­gine del segnale va considerata come via libera con prudenza.
+Se il CMOV può accertare qual è il segnale basso perturbato, ne deve avvisare il MAC o il CMAN con obbligo di quietanza.
+	
+3.7	Fermata facoltativa
+	
+	Fino al momento dell’eliminazione della perturbazione ad un segnale per la fermata facoltativa, il CMOV deve prescrivere con obbligo di quietanza una fermata ai treni interessati dalla perturbazione.
+In caso di guasto al dispositivo per la richiesta di fermata sul treno, questo deve arrestarsi ad ogni fermata o in ogni stazione con fermata facoltativa.
+	
+3.8	Segnali per l’esercizio elettrico
+	
+	Se un segnale luminoso per 
+–	tratte di protezione (anche il segnale avanzato), per una tratta di protezione disinserita o
+–	un segnale per pantografi o
+–	un segnale di protezione di zone commutabili o
+–	un segnale per il cambiamento della corrente
+non può essere illuminato, il CMOV deve avvisarne il MAC con obbligo di quietanza.
+
+4	Disposizioni complementari in caso di perturbazioni agli scambi
+4.1	Principio
+	
+	Non devono essere percorsi gli scambi la cui indicazione di posizione è incerta o gli scambi che non si trovano nella posizione finale.
+	
+4.2	Scambio con vincolo mancante
+	
+	Nei percorsi gli scambi vengono vincolati. Se uno scambio non può essere vincolato dal percorso, non è possibile disporre su via libera i segnali corrispondenti. In questo caso gli scambi vanno possibilmente assicurati contro l’inversione involontaria per mezzo dell’apparecchio centrale. 
+	
+4.3	Lo scambio non può essere invertito
+4.3.1	Principio
+	
+	Vanno riportati immediatamente nella posizione iniziale gli scambi che non possono essere portati nella posizione finale o quelli, dotati di filo o di condotte tubolari, che possono essere riportati in tale posizione solo con grande sforzo.
+	
+4.3.2	Possibili cause
+	
+	In particolare, le cause seguenti possono impedire l’inversione di uno scambio:
+–	presenza di un corpo estraneo / di sporcizia,
+–	lo scambio è vincolato,
+–	il ABL indica un’occupazione anche se il binario è libero,
+–	l’alimentazione di corrente è interrotta,
+–	altri difetti allo scambio.
+	
+4.3.3	Scambio vincolato
+	
+	Lo scambio può essere svincolato fintantoché
+–	nessun veicolo si avvicina,
+–	nessun segnale e nessun consenso permettono di percorrere lo scambio.
+	
+
+4.3.4	Alimentazione di corrente interrotta
+	
+	Se l’alimentazione è interrotta, si devono controllare i fusibili e all’occorrenza sostituirli. Bisogna controllare anche gli interruttori di corrente massima e se del caso inserirli.
+Se questi provvedimenti non danno esito positivo, lo scambio va assicurato in modo che al momento del reinserimento dell’alimentazione non possa girare. Lo scambio può essere invertito con la manovella.
+	
+4.3.5	Altri guasti
+	
+	Se non è possibile invertire lo scambio neanche con la manovella, bisogna procedere secondo le indicazioni del servizio tecnico competente.
+	
+4.4	La posizione dello scambio non può essere accertata
+	
+	Se per una stazione non presenziata viene prescritto con obbligo di protocollo il superamento di segnali su posizione di fermata e il CMOV non è in grado di accertare la posizione degli scambi, il CMOV deve ordinare con obbligo di quietanza la fermata davanti allo scambio o al gruppo di scambi interessati. Il MAC deve controllare l’eventuale presenza di corpi estranei o di danni meccanici al rispettivo scambio o gruppo di scambi, e la loro posizione corretta. Se si è accertato la corretta posizione e nessun danno agli scambi, si può proseguire la corsa dopo aver preso contatto con il CMOV. I treni successivi possono percorrere gli scambi senza fermarsi.
+	
+4.5	Mancanza del controllo dello scambio
+	
+	La posizione finale degli scambi viene controllata elettricamente. Se manca il controllo, i rispettivi segnali non possono essere disposti su via libera.
+Il CMOV può incaricare personale tecnico o della circolazione dei treni di controllare sul posto la corretta posizione finale. Lo scambio dev’essere controllato per escludere la presenza di corpi estranei o di danni meccanici. Tale controllo va ripetuto dopo ogni inversione per gli scambi presi di calcio o prima di ogni passaggio per gli scambi presi di punta.
+Uno scambio non deve più essere percorso se non è meccanicamente nella posizione finale, se è danneggiato oppure quando l’esito del controllo non è chiaro. Per l’ulteriore modo di procedere occorre seguire le istruzioni del servizio tecnico competente.
+Se il controllo sul posto dello scambio è ordinato a personale che si trova sul treno, il CMOV deve prescrivere al MAC con obbligo di quietanza una fermata prima dello scambio e incaricarlo di controllare lo scambio stesso.
+In seguito può essere dato il consenso o l’ordine 1 con obbligo di protocollo.
+Se uno scambio che è stato trovato in ordine sul posto deve essere percorso con mancanza del controllo, occorre portarlo nella posizione corrispondente e assicurarlo contro una intempestiva inversione. Finché il servizio tecnico competente ha eseguito i controlli sul posto, devono essere prescritte con obbligo di protocollo le seguenti velocità massime:
+–	10 km/h per l’attraversamento d’uno scambio preso di punta
+–	40 km/h per l’attraversamento d’uno scambio preso di calcio.
+Per il resto, bisogna procedere secondo le indicazioni del servizio tecnico competente.
+	
+4.6	Tallonamento di scambi
+4.6.1	Principio
+	
+	Il tallonamento degli scambi è vietato, poiché può causare danneggiamenti pericolosi per l’esercizio.
+	
+4.6.2	Scambio tallonato
+	
+	Se uno scambio è stato tallonato, bisogna fermare immediatamente le corse messe in pericolo e avvisare subito gli interessati. Lo scambio va assicurato e dev’essere liberato dal calcio verso la punta. Si deve controllare che lo scambio non abbia subito danni meccanici.
+Se è stato tallonato uno scambio a cremagliera, si deve fermare subito e assicurare lo scambio. Per l’ulteriore modo di procedere occorre seguire le istruzioni del servizio tecnico competente. 
+	
+4.6.3	Controllo d’uno scambio tallonato
+	
+	Il controllo meccanico sul posto di uno scambio tallonato deve essere eseguito, di principio, dal servizio tecnico competente.
+Quando un controllo meccanico non può essere compiuto subito dal servizio tecnico competente, è consentito percorrere lo scambio alla velocità massima di 40 km/h, a condizione che lo stesso sia stato controllato nelle due posizioni da personale della circolazione dei treni e che non risultino danni. Il CMOV deve prescrivere la riduzione di velocità al MAC, con obbligo di protocollo. All’impianto di sicurezza può essere ristabilita la situazione normale. Se, dopo aver eseguito queste misure, manca il controllo dello scambio, occorre procedere conformemente alle disposizioni per la mancanza del controllo dello scambio.
+	
+
+4.6.4	Scambio danneggiato nella parte meccanica
+	
+	Se lo scambio è danneggiato nella parte meccanica o se il risultato del controllo non è chiaro, esso non può più essere percorso. Per l’ulteriore modo di procedere occorre seguire le istruzioni del servizio tecnico competente.
+	
+4.6.5	Scambio non danneggiato
+	
+	Lo scambio può essere percorso di nuovo regolarmente se il controllo eseguito dal servizio tecnico competente non evidenzia alcun danno.
+	
+4.7	Incuneamento di uno scambio
+	
+	In caso di necessità, il GI stabilisce nelle disposizioni esecutive i provvedimenti per l’incuneamento di uno scambio.
+
+5	Cifra stralciata
+	
+
+
+
+6	Cifra stralciata 
+
+7	Disposizioni complementari per perturbazioni a impianti di passaggio a livello sorvegliati e di regolazione del traffico			
+7.1	Perturbazioni ad impianti di passaggio a livello sorvegliati 			
+7.1.1	Principio			
+				
+	In caso di perturbazione a un impianto di passaggio a livello sorvegliato, il segnale principale resta su fermata o la luce di controllo è spenta.
+Se un impianto di passaggio a livello subisce un danno meccanico dovuto a fattori esterni, gli interessati devono accordarsi sul modo di procedere. 			
+				
+7.1.2	Impianto di passaggio a livello sorvegliato perturbato 			
+				
+	In caso di perturbazione di un impianto di passaggio a livello sorvegliato da un segnale principale, si applica il processo chiave Perturbazioni. Sono eccettuati i segnali principali con i quali viene dato il consenso per il superamento mediante il segnale principale per impianti di passaggio a livello perturbati. 
+Se il consenso di superare il segnale principale viene dato con il segnale principale per impianti di passaggio a livello perturbati, si applicano le disposizioni per la circolazione su un impianto di passaggio a livello perturbato. Fino all’ultimo passaggio a livello perturbato dell’impianto di passaggio a livello sorvegliato la velocità massima è di 60 km/h. Indipendentemente da ciò, la velocità massima sugli scambi in stazione e sulla tratta è di 40 km/h.
+Se il MAC incontra una luce di controllo spenta, o se il controllo della marcia dei treni reagisce, si applicano le disposizioni per la circolazione su un impianto di passaggio a livello sorvegliato perturbato.
+Se il MAC accerta una luce di controllo spenta o se il controllo della marcia dei treni reagisce, e non ne è stato avvisato, deve annunciare la perturbazione al CMOV, al più tardi dopo aver superato l’ultimo passaggio a livello dell’impianto di passaggio a livello sorvegliato perturbato. Il CMOV avvisa con obbligo di quietanza i treni seguenti in merito alla luce di controllo spenta o al controllo della marcia dei treni perturbato. 			
+				
+7.1.3	Percorrere un impianto di passaggio a livello sorvegliato perturbato 			
+				
+	Il MAC deve percorrere un passaggio a livello sorvegliato ma non custodito sul posto come segue:
+–	prima di superare il passaggio a livello la velocità va ridotta a passo d’uomo, all’occorrenza si deve fermare
+–	si devono dare ripetuti segnali d’attenzione e entrare sul passaggio a livello con il veicolo di testa
+–	accelerare alla velocità ammessa, non appena il primo veicolo ha percorso il passaggio a livello.
+Un passaggio a livello sorvegliato e custodito sul posto può essere percorso con la velocità massima autorizzata.			
+		
+7.1.4	Avvisi in caso di sorveglianza sul posto		
+	Prima che una corsa possa percorrere la sezione con l’impianto di passaggio a livello sorvegliato perturbato, il CMOV deve avvisare la persona incaricata della sorveglianza sul posto in merito all’imminente partenza. Prima di impartire il suo consenso, il CMOV deve farsi confermare dalla persona incaricata che l’arresto del traffico stradale è garantito.
+Il CMOV deve avvisare il MAC con obbligo di quietanza in merito al passaggio a livello sorvegliato perturbato e custodito sul posto. Tale avviso decade se in seguito ad una perturbazione un treno deve circolare con corsa a vista.	
+	
+7.1.5	Disinserimento dell’impianto di passaggio a livello sorvegliato 	
+		
+	Se l’impianto di passaggio a livello sorvegliato non si disinserisce con il comando automatico, le barriere possono essere portate nella posizione di apertura con un’operazione di soccorso e l’impianto a luci lampeggianti disinserito manualmente se 
+–	sul passaggio a livello non si trova nessun veicolo ferroviario,
+–	nessun veicolo ferroviario si avvicina al passaggio a livello,
+–	nessun segnale rispettivamente. nessun consenso autorizza una corsa attraverso il passaggio a livello,
+–	non si può disporre preventivamente su fermata con richiamo di soccorso un segnale di protezione, e le condizioni sopra indicate sono soddisfatte.	
+		
+7.2	Perturbazioni ad impianti di regolazione del traffico	
+7.2.1	Principio	
+		
+	In caso di perturbazione ad un impianto di regolazione del traffico, il rispettivo segnale per tranvia mostra l’immagine fuori esercizio o resta sulla posizione di fermata.
+Se il segnale per tranvia di un impianto perturbato rimane sulla posizione di fermata, si deve per quanto possibile annunciare manualmente la corsa oppure mettere fuori esercizio l’impianto.	
+
+7.2.2	Circolazione su impianti di regolazione del traffico perturbati o fuori esercizio
+	
+	Se il segnale per tranvia mostra l’immagine fuori esercizio, sulla zona dell’impianto di regolazione del traffico il MAC circola secondo le prescrizioni per i settori di tranvie.
+Se il segnale per tranvia resta sulla posizione di fermata, il MAC deve percorrere la zona dell’impianto di regolazione del traffico come un impianto di passaggio a livello perturbato e non custodito.
+	
+7.2.3	Segnali per tranvia dipendenti dall’apparecchio centrale
+	
+	Prima di superare segnali per tranvia con dipendenza dall’apparecchio centrale che presentano l’immagine fuori esercizio o fermata, occorre un consenso del CMOV con obbligo di protocollo.
+
+
+
+8	Irregolarità al binario 	
+8.1	Primi accertamenti	
+		
+	Se al CMOV viene comunicata un’irregolarità al binario 
+(rottura di rotaia, slineamento del binario, dilavamento ecc.), il CMOV deve procedere ai seguenti accertamenti:
+–	luogo del punto danneggiato 
+–	genere del danno.	
+		
+8.1.1	Provvedimenti
+	
+	Il CMOV deve:
+–	assicurare la sezione interessata 
+–	avvisare il servizio tecnico
+–	aggirare se possibile il punto danneggiato. Quando ciò è impossibile, il CMOV deve chiarire se esso è ancora percorribile.
+–	Sbarrare la sezione concernente, se il luogo non è più percorribile. 
+–	Se la sezione viene valutata come percorribile o la percorribilità non può venir giudicata, il CMOV deve lasciar circolare le corse secondo le disposizioni che seguono.	
+		
+8.1.2	Ulteriore modo di procedere
+		
+	Alla prossima corsa il CMOV prescrive con obbligo di protocollo la corsa a vista e la circolazione sul luogo interessato alla velocità massima di 10 km/h. 
+Se il MAC conferma il danno, il CMOV sbarra il binario.
+Se il MAC non accerta alcun danno, al MAC delle prossime corse il CMOV prescrive con obbligo di protocollo una velocità massima di 40 km/h sul luogo interessato.
+Fino a che i segnali di rallentamento non sono posati, si deve inoltre procedere secondo le disposizioni «segnali di rallentamento non posati».
+Tale disposizione vale finché il servizio tecnico ha valutato la situazione e avvisato il CMOV sul modo di procedere.	
+
+	
+
+9	Irregolarità alla linea di contatto	
+9.1	Primi accertamenti	
+		
+	Se al CMOV viene comunicata un’irregolarità alla linea di contatto (tirante di poligonazione difettoso, filo di contatto pendente ecc.), il CMOV deve procedere ai seguenti accertamenti:
+–	luogo del punto danneggiato
+–	genere del danno.	
+		
+9.1.1	Provvedimenti	
+	
+	Se il MAC accerta danni alla linea di contatto,
+–	deve abbassare immediatamente i pantografi e fermare, se necessario
+–	può proseguire la corsa, solo se si è accertato, che i pantografi non sono danneggiati e la linea di contatto non viene danneggiata ulteriormente
+–	e se non può più proseguire la corsa, deve giudicare, se esiste un pericolo immediato a causa della linea di contatto strappata o parti di essa pendente. In caso di pericolo, il MAC prende le misure necessarie affinché i passeggieri non lasciano il treno, segnatamente fino a quando i collaboratori responsabili hanno preso le misure di sicurezza corrispondenti. Solo quando non esiste più pericolo si può iniziare con l’evacuazione del treno.
+Il CMOV deve:
+–	assicurare la sezione interessata 
+–	avvisare il servizio tecnico
+–	aggirare se possibile il punto danneggiato. Quando ciò è impossibile, il CMOV deve chiarire se esso è ancora percorribile.
+–	Sbarrare la sezione concernente, se il luogo non è più percorribile 
+–	Se la sezione viene valutata come percorribile o la percorribilità non può venir giudicata, è permesso la circolazione di un’altra corsa, se si può ritenere di non causare un’ulteriore irregolarità e la corsa non venga messa in pericolo.
+	
+
+9.1.2	Ulteriore modo di procedere
+	
+	La prossima corsa può percorrere la sezione interessata solo con pantografi abbassati o termicamente.
+Se il MAC considera che la sezione non è più percorribile, oppure non può procedere ad una tale valutazione, il CMOV deve sbarrare il binario.
+In caso contrario le ulteriori corse possono percorrere la sezione interessata con pantografi abbassati o termicamente. 
+Se le corse circolano con pantografo abbassato, il CMOV deve avvisarne il MAC mediante l’ordine 9 soggetto a protocollo.
+Tale disposizione vale finché il servizio tecnico ha valutato la situazione sul luogo e avvisato il CMOV sul modo di procedere.
+	
+9.2	Linea di contatto senza tensione	
+		
+	Se dopo una caduta di tensione il MAC si avvede che la linea di contatto non torna nuovamente sotto tensione, deve procedere come segue:
+–	proseguire immediatamente con corsa a vista
+–	proseguire fintantoché, in base al tipo di freno, può ancora fermare in modo sicuro
+–	percorrere il sezionamento di tratta con pantografi abbassati
+–	fermare in un posto adatto, tuttavia al più tardi nella prossima stazione.
+Non appena la linea di contatto è nuovamente sotto tensione, il MAC può proseguire la corsa senza limitazioni. Se il MAC non può accertare se la linea di contatto è di nuovo sotto tensione, deve prendere contatto con il CMOV.
+Se accerta una caduta di tensione, il CMOV non può dare alcun consenso di circolare nella sezione priva di tensione o deve revocare un consenso già dato. 	
+
+10	Perturbazioni ai dispositivi di sicurezza	
+10.1	Reazione del controllo della marcia dei treni con segnale principale che mostra un consenso per la corsa	
+		
+	Se al momento di superare un segnale principale che mostra un consenso per la corsa, il controllo della marcia dei treni trasmette inaspettatamente la funzione «Arresto» o «Avvertimento», il MAC deve supporre che il segnale sia stato volutamente richiamato su fermata. Il treno va fermato immediatamente e la corsa può essere proseguita solo con il consenso soggetto a quietanza del CMOV.	
+		
+10.2	Perturbazioni ad apparecchi di tratta del controllo della marcia dei treni 	
+	
+	Se al momento di superare un apparecchio di tratta del controllo della marcia dei treni, questo trasmette un annuncio d’errore, il MAC ne informa il CMOV, indicando il segnale e, per quanto possibile, il genere dell’anomalia.
+Fino al momento dell’eliminazione di perturbazioni permanenti agli apparecchi di tratta, il CMOV deve avvisare i MAC, con obbligo di quietanza, in merito alla reazione difettosa, o alla mancata reazione del controllo della marcia dei treni. Il MAC non deve fermare il treno nonostante la reazione del controllo della marcia dei treni ad un segnale principale che mostra consenso per la corsa.
+Gli impianti di passaggio a livello sorvegliati unicamente dal controllo della marcia dei treni vanno considerati come perturbati. .
+	
+10.3	Mancato funzionamento del controllo della marcia dei treni sul veicolo di testa su tratte ad aderenza
+	
+	Per quanto non necessario, non devono essere impiegati come veicolo di testa dei veicoli con perturbazioni al controllo della marcia dei treni. Non possono essere impiegati dei veicoli con perturbazioni al controllo della marcia dei treni uscenti dalla manutenzione.
+Se il controllo della marcia dei treni smette di funzionare sul veicolo di testa, alla prima occasione il MAC deve richiedere un MAC o personale corrispettivamente esaminato in più in cabina di guida. 
+Con un MAC o personale corrispettivamente esaminato in più in cabina di guida, si può circolare ad una velocità massima di 80 km/h.
+Finché in cabina non è presente un MAC o personale corrispettivamente esaminato in più, è ammesso proseguire la corsa ad una velocità massima di 40 km/h. 
+Gli impianti di passaggio a livello sorvegliati unicamente dal controllo della marcia dei treni vanno considerati come perturbati. 
+Il veicolo con il controllo della marcia dei treni in avaria può essere in esercizio in testa al treno al massimo per 6 ore a partire dall’insorgenza della perturbazione. Corse direttamente al posto di manutenzione sono ammesse anche dopo 6 ore, a patto che vengono svolte con un MAC o personale corrispettivamente esaminato in più e ad una velocità massima di 80 km/h.
+		
+10.4	Mancato funzionamento del comando di sicurezza sul veicolo di testa su tratte ad aderenza	
+		
+	Per quanto non necessario, non devono essere impiegati come veicolo di testa dei veicoli con perturbazioni al comando di sicurezza. Non possono essere impiegati dei veicoli con perturbazioni al comando di sicurezza uscenti dalla manutenzione.
+Se il comando di sicurezza smette di funzionare sul veicolo di testa, alla prima occasione il MAC deve richiedere una persona di un’IF in più in cabina di guida. Il MAC istruisce questa persona sul modo di fermare il treno in caso d’emergenza. Finché in cabina non è presente una persona di un’IF istruita in più, è ammesso proseguire la corsa con il comando di sicurezza in avaria ad una velocità massima di 60 km/h.
+Il veicolo con il comando di sicurezza in avaria può circolare in testa al treno al massimo per 6 ore a partire dall’insorgenza della perturbazione. Corse direttamente al posto di manutenzione sono ammesse anche dopo 6 ore, a patto che vengono svolte con una persona di un’IF istruita in cabina in più che può fermare il treno in caso d’emergenza.	
+		
+10.5	Mancato funzionamento di un dispositivo di sicurezza su una tratta a cremagliera	
+		
+	Se su una tratta a cremagliera un dispositivo di sicurezza smette di funzionare, all’occorrenza il MAC deve fermare subito verificare se è possibile eliminare il guasto. Se il dispositivo di sicurezza funziona di nuovo, è ammesso proseguire l’esercizio. 
+Se il dispositivo di sicurezza continua a non funzionare e la perturbazione non può essere eliminata, MAC può proseguire la corsa alla metà della velocità ammessa per la sua corsa e per la tratta. I viaggiatori devono essere fatti scendere al primo luogo appropriato. La corsa con il dispositivo di sicurezza in avaria può essere proseguita al massimo fino al prossimo luogo in cui il servizio tecnico possa verificare o riparare il veicolo. 
+Se in presenza di sistemi ridondanti una parte del dispositivo di sicurezza continua a funzionare, MAC può proseguire la corsa a velocità normale fino al prossimo luogo in cui il servizio tecnico possa verificare o riparare il veicolo.
+Per il resto, occorre procedere secondo le direttive delle ITF.	
+
+11	Irregolarità ai veicoli	
+11.1	Principio	
+	
+	Se i veicoli presentano irregolarità che possono mettere in pericolo o danneggiare persone, impianti o altri veicoli, non è ammesso cominciare né proseguire la corsa.
+Se vengono utilizzati impianti di controllo dei treni per sorvegliare lo stato tecnico dei veicoli durante la corsa, il GI deve emanare le necessarie disposizioni esecutive al riguardo.
+		
+11.2	Primi accertamenti	
+		
+	Quando viene accertata un’irregolarità ad un veicolo, il personale preposto deve decidere, tenendo conto delle prescrizioni d’esercizio determinanti, se la corsa può essere cominciata o proseguita. Se il personale responsabile non può decidere da sé sul posto, deve richiedere l’intervento del servizio tecnico, i quali chiariranno il modo di procedere.
+Il chiarimento o l’eliminazione di perturbazioni ai veicoli deve avvenire per quanto possibile sul lato opposto al binario o sul lato provvisto di uno spazio di sicurezza intermedio. Se questo non è possibile, occorre procedere secondo le disposizioni «Mancanza di uno spazio di sicurezza intermedio».	
+		
+11.3	Provvedimenti da prendere per determinate irregolarità	
+		
+	Le misure qui appresso elencate vanno adottate in funzione del rispettivo genere d’irregolarità.	
+		
+11.3.1	Porte laterali, pareti laterali e tetti scorrevoli aperti	
+		
+	Le porte laterali, le pareti laterali e i tetti scorrevoli aperti devono essere chiusi subito.	
+		
+11.3.2	Spostamento del carico	
+		
+	I carichi spostati devono essere riordinati immediatamente e assicurati.	
+		
+11.3.3	Veicoli sviati	
+		
+	Dopo il rialzo, i veicoli possono essere mossi solo con il consenso e secondo le istruzioni del servizio tecnico.	
+		
+
+11.3.4	Avaria totale dei fanali anteriori 	
+		
+	Se il MAC non è in grado di attivare alcun fanale anteriore, vale quanto segue:
+–	Condizioni di buona visibilità 
+Il MAC deve comunicare l’avaria al CMOV. Il treno deve proseguire alla velocità massima consentita fino alla località più vicina in cui sia possibile riparare o sostituire il fanale anteriore o sostituire il veicolo interessato. In corsa, il MAC deve utilizzare il fischietto della locomotiva secondo necessità o secondo le istruzioni del CMOV.
+–	Condizioni di oscurità o di visibilità insufficiente
+Il MAC deve comunicare l’avaria al CMOV. Purché un fanale anteriore portatile a luce bianca sia montato sulla testa del treno, quest’ultimo può proseguire fino alla località più vicina in cui sia possibile riparare o sostituire il fanale anteriore o sostituire il veicolo interessato. Se il treno può essere riconosciuto solo difficilmente, al bisogno la velocità va opportunamente ridotta in modo corrispondente alle condizioni di visibilità. In mancanza di fanale anteriore portatile, il treno deve rimanere fermo, salvo qualora il CMOV dia istruzioni formali per proseguire fino alla località più vicina in cui sia possibile liberare la tratta. In corsa, il MAC deve utilizzare il fischietto della locomotiva secondo necessità o secondo le istruzioni del CMOV.	
+		
+11.3.5	Avaria del fischietto della locomotiva 
+	
+	In caso di avaria del fischietto della locomotiva, il MAC deve informarne il CMOV. Il treno non deve superare la velocità massima consentita e deve proseguire fino alla località più vicina in cui sia possibile riparare il fischietto della locomotiva o sostituire il veicolo interessato. Il MAC deve essere pronto ad arrestare il treno prima di qualsiasi passaggio a livello per cui vige l’obbligo di azionare il fischietto della locomotiva, per poi riprendere la marcia solo quando ciò sia possibile in condizioni di sicurezza. Se un avvisatore acustico pluritonale è guasto ma conserva l’uso di almeno un tono, il treno può proseguire normalmente.
+	
+11.3.6	Avaria totale del segnale di coda del treno 
+	
+	Se viene a conoscenza dell’avaria totale del segnale di coda del treno, il CMOV deve adottare le disposizioni necessarie per arrestare il treno in un luogo appropriato e informare il MAC.
+
+Il MAC deve quindi controllare che il treno sia completo e, se necessario, riparare o sostituire il segnale di coda.
+Il MAC deve informare il CMOV, quando il treno è pronto a proseguire. Altrimenti, qualora la riparazione non sia possibile, il treno non può proseguire, salvo accordi particolari tra il CMOV e il MAC.
+Di notte, su tratte dove la liberazione avviene manualmente o su tratte senza blocco, se viene accertato un segnale di coda non illuminato il CMOV deve avvisare con obbligo di quietanza le stazioni susseguenti.
+	
+11.3.7	Mancato funzionamento del tachimetro 
+	
+	Se il tachimetro cessa di funzionare, il MAC deve ridurre fortemente la velocità, affinché non venga superata la velocità massima ammessa. Per quanto possibile, il MAC stabilisce la velocità in base alle indicazioni chilometriche della tratta.
+	
+11.3.8	Mancato funzionamento del ponteggio del freno d’emergenza / della domanda di freno d’emergenza
+	
+	I treni sui quali il ponteggio del freno d’emergenza o la domanda di freno d’emergenza non sono in funzione, non possono più percorrere le tratte per le quali sono prescritti tali dispositivi.
+	
+11.3.9	Avaria del sistema di comunicazione per la trasmissione telefonica per treni
+	
+	Se conformemente alle prescrizioni d’esercizio del GI è necessario un sistema di comunicazione per la trasmissione telefonica per treni, 
+–	un treno non può partire dalla stazione d’origine se il sistema di comunicazione del treno è in avaria, 
+–	un treno può proseguire la corsa solo fintantoché è assicurata la comunicazione d’emergenza oppure sussiste un’altra possibilità di comunicazione fra il CMOV e il MAC.
+Alla prossima occasione dev’essere sostituito il veicolo o il sistema di comunicazione del treno.
+	
+
+
+12	Perturbazioni ai freni e spezzamento di treni		
+12.1	Perturbazione ai freni		
+12.1.1	Provvedimenti immediati		
+	
+	Se lungo il percorso, il freno diventa inutilizzabile e se durante la corsa il MAC accerta che l’efficacia dei freni è insufficiente, deve fermare il treno il più presto possibile.		
+			
+12.2	Spezzamento del treno		
+12.2.1	Accoppiamento del treno		
+			
+	Dopo la rottura, l’accoppiamento del freno all’ultimo veicolo della parte del treno congiunta con la locomotiva di testa può essere chiuso solo previa intesa con il MAC.		
+			
+12.2.2	Accostamento	
+		
+	Per l’accostamento dopo lo spezzamento di un treno valgono le prescrizioni per il servizio di manovra.
+Se il treno non è accompagnato, il MAC può retrocedere solo con il consenso del CMOV e con estrema prudenza.	
+			
+12.2.3	Abbandono del treno, assicuramento e proseguimento con parti di treno	
+		
+	Se un proseguimento della corsa è possibile solo in parti, il MAC deve concordare il modo di procedere con il CMOV. In mancanza di un’intesa con il CMOV il MAC può proseguire al massimo fino al prossimo segnale principale, anche se questo mostra via libera.
+Il personale viaggiante deve assicurare contro la fuga le parti del treno lasciate sul posto. 
+Il CMOV deve assicurare la sezione interessata.	
+			
+12.3	Proseguimento della corsa		
+12.3.1	Causa non constatabile di una perturbazione ai freni		
+			
+	Se dopo una prova freno non è possibile stabilire con esattezza la causa, bisogna effettuare una prova principale del freno.		
+
+12.3.2	Nessun freno di altri veicoli disinserito
+	
+	Questa procedura vale:
+–	dopo una perturbazione ai freni
+–	dopo uno spezzamento del treno
+–	dopo l’avvenuto spezzamento del treno è stato congiunto l’accoppiamento 
+–	per recuperare le parti del treno lasciate sul posto.
+Se la perturbazione ai freni è eliminata senza disinserire i freni di altri veicoli e
+–	si può effettuare una prova del freno, si deve proseguire la corsa secondo il rapporto di frenatura disponibile
+–	non si può effettuare alcuna prova del freno, si deve proseguire alla metà della velocità della categoria di treno e di freno, in base al calcolo di frenatura, ma al massimo a 40 km/h col rapporto di frenatura disponibile. Immediatamente dopo il proseguimento della corsa si deve effettuare una prova del freno per verificarne l’efficacia. Nella prossima stazione adatta si deve effettuare la prova del freno.
+	
+12.3.3	Freni di altri veicoli disinseriti
+	
+	Se una perturbazione può essere eliminata solo disinserendo uno o più freni, si può proseguire la corsa alle seguenti condizioni:
+–	si deve verificare il rapporto di frenatura
+–	le condizioni per il rapporto di frenatura minimo di parte devono essere adempiute.
+Si deve inoltre effettuare una prova del freno. Se ciò non è possibile, ma il peso-freno rimanente e il rapporto di frenatura minimo di parte è sufficiente per la velocità più bassa e la pendenza determinante è sufficiente, si può proseguire la corsa secondo il rapporto di frenatura alla metà della velocità della categoria di treno e di freno, in base al calcolo di frenatura, ma al massimo a 40 km/h fino alla prossima stazione adatta, dove si dovrà effettuare la prova del freno. Immediatamente dopo il proseguimento della corsa si deve effettuare una prova del freno per verificarne l’efficacia.
+	
+
+12.3.4	Proseguimento con un veicolo non frenato in coda al treno
+	
+	La seguente procedura vale per al massimo un veicolo non frenato in coda al treno, se il freno deve essere disinserito durante la corsa, dopo la partenza alla stazione d’origine e al massimo fino alla prossima modifica della composizione del treno o fino a una inversione della direzione di marcia.
+È ammesso proseguire alle seguenti condizioni:
+–	il rapporto di frenatura e il rapporto di frenatura minimo di parte vanno stabiliti computando i freni rimanenti e devono bastare almeno per la velocità più bassa e la pendenza determinante; il rapporto di frenatura minimo di parte per il veicolo non frenato in coda dev’essere raggiunto includendo al massimo due veicoli circolanti direttamente davanti 
+–	il freno d’immobilizzazione azionabile dal veicolo di una carrozza occupata da viaggiatori e non frenata con il freno ad aria, situata in coda al treno, dev’essere servito
+–	l’accoppiamento del veicolo non frenato dev’essere teso fortemente con quello che lo precede e, per quanto possibile, la condotta principale va raccordata fino alla coda del treno.
+Se queste condizioni non possono essere soddisfatte e 
+–	il veicolo motore si trova a valle o il treno in pianura e il rapporto di frenatura rimanente basta per una velocità la più bassa e per la discesa determinante, si può circolare fino alla prossima stazione in base al rapporto di frenatura alla velocità massima di 40 km/h. 
+–	il veicolo motore si trova a monte, il proseguimento della corsa è vietato. Il treno va assicurato contro la fuga.
+	
+12.3.5	Prova del freno con annunci in cabina di guida
+	
+	Ai veicoli che permettono una prova dei freni con gli indicatori, in caso di perturbazione la prova del freno deve essere eseguita da terra.
+
+12.3.6	Veicoli a cremagliera
+	
+	Per il proseguimento della corsa dopo una perturbazione ai freni, ai veicoli a cremagliera si applicano le prescrizioni delle ITF.
+
+	
+
+13	Pericoli e incidenti	
+13.1	Comportamento in generale	
+	
+	Qualora venga provocata una messa in pericolo o un incidente, il personale procede conformemente alla successione qui esposta:
+–	riconoscere il pericolo
+–	valutare le conseguenze
+–	ridurre il pericolo
+–	allarmare
+–	salvare
+–	proseguire l’esercizio.	
+		
+13.2	Tipi di messa in pericolo	
+		
+	Nell’ambito dell’esercizio ferroviario, si considerano messe in pericolo tutti gli eventi che possono provocare o richiamare un incidente.
+Fra questi rientrano in particolare:
+–	una perdita d’aria nella condotta principale
+–	uno sviamento
+–	un urto o una collisione 
+–	uno spezzamento del treno 
+–	la fuga di veicoli 
+–	uno spostamento del carico 
+–	irregolarità inspiegabili nell’andamento del treno 
+–	l’arresto di un treno senza motivi apparenti 
+–	un ostacolo imprevisto nella zona dei binari
+–	danni al binario/agli scambi/alla linea di contatto 
+–	il superamento di un segnale su posizione di fermata
+–	il ricevimento di una chiamata d’emergenza o di un allarme 
+–	la fuoriuscita di sostanze o di merci pericolose 
+–	i pericoli della natura (p.es. frane imminenti o pericolo di valanghe).	
+
+13.3	Tipi di incidenti	
+		
+	Nell’ambito dell’esercizio ferroviario, sono considerati incidenti in particolare gli eventi che hanno le conseguenze seguenti:
+–	il ferimento o la morte di persone 
+–	il ferimento o la morte di animali di grossa taglia 
+–	il danneggiamento di infrastrutture ferroviarie 
+–	lo sviamento o il danneggiamento di veicoli ferroviari 
+–	il danneggiamento di veicoli stradali 
+–	l’urto contro oggetti presenti nella zona dei binari che a motivo della loro dimensione o caratteristica possono mettere in pericolo l’esercizio ferroviario 
+–	gli incendi 
+–	i possibili gravi danni alla popolazione e all’ambiente (p.es. irregolarità con sostanze / merci pericolose).	
+		
+13.4	Riduzione del pericolo	
+	
+	Il personale che accerta l’esistenza di una messa in pericolo o di un incidente, avendo riguardo per la propria salvaguardia deve provvedere immediatamente affinché le conseguenze siano contenute; a tale scopo, ad esempio: 
+–	si emette una chiamata d’emergenza 
+–	si arrestano i veicoli sfuggiti 
+–	il MAN dà segnali di arresto 
+–	il GS fa sgomberare il binario 
+–	inserire il segnale di fermata d’emergenza nelle aree di lavoro 
+–	il CMOV dispone i segnali su fermata, disinserisce le linee di contatto, inserisce gli impianti di passaggio a livello, assicura i binari che non devono essere percorsi, ordina una riduzione della velocità, rende possibile l’uscita del treno dalla galleria, non lascia più entrare altre corse in galleria
+–	il MAC conduce il treno in fiamme fuori della galleria, se del caso azionando il ponteggio del freno d’emergenza
+–	il MAC ferma il treno in un posto appropriato (p.es. non in galleria o su un ponte), se del caso azionando il ponteggio del freno d’emergenza, inserisce il segnale d’avvertimento, invia una chiamata d’emergenza e disinserisce la condotta elettrica ad alta tensione 
+–	le persone in pericolo vengono avvertite.
+Il GI può definire disposizioni specifiche per certe opere, in base al concetto di messa in allarme e d’emergenza. Tali disposizioni specifiche hanno la precedenza rispetto alle norme generali di comportamento. 	
+		
+13.5	Messa in allarme	
+		
+	Il personale che accerta una messa in pericolo o un incidente deve avvertire immediatamente il CMOV, secondo il principio:
+–	Chi avvisa?
+–	Che cosa è successo?
+–	Dove è successo?
+–	Quando è successo?
+Il GI emana disposizioni esecutive sul modo in cui il CMOV deve avviare ulteriori provvedimenti.	
+		
+13.6	Soccorso e provvedimenti di protezione per il luogo dell’incidente	
+		
+	Durante le operazioni di soccorso o di salvataggio di persone, animali o cose dev’essere prestata particolare attenzione alla protezione dei soggetti interessati. A tale riguardo, ad esempio, si deve 
+–	assicurare i binari che non devono essere percorsi 
+–	ordinare una riduzione della velocità
+–	disinserire e mettere a terra le linee di contatto 
+–	disporre la presenza di GS.	
+		
+13.7	Proseguimento dell’esercizio	
+		
+	Non appena si possono escludere altri pericoli, se il servizio tecnico preposto non ha dato istruzioni di altro tenore e gli organi inquirenti hanno liberato il luogo dell’infortunio, è possibile revocare le misure prese per contenere il pericolo e proseguire l’esercizio.	
+		
+
+
+14	Disposizioni complementari in caso di messa in pericolo 
+e di incidenti
+14.1	Comportamento del MAC in caso di segnale d’avvertimento e di una chiamata d’emergenza non chiara
+	
+	Al momento in cui percepisce il segnale d’avvertimento, il MAC deve fermare immediatamente la corsa e chiarire la situazione. Se non occorre un aiuto sul posto si deve proseguire, a condizione che non ne derivi alcuna messa in pericolo.
+Se il MAC riceve una chiamata d’emergenza non chiara, deve proseguire subito con corsa a vista. Le entrate in gallerie sono da evitare. Il MAC deve prendere contatto con il CMOV. Se questo non è possibile e il MAC non riceve altre istruzioni, dopo 10 minuti può continuare la corsa senza queste limitazioni.
+	
+14.2	Freno d’emergenza azionato
+	
+	Il MAC deve avvisare l’ACCT e i passeggeri se il MAC scansa l’azione del freno d’emergenza.
+Il freno d’emergenza può essere ritirato solo dopo intesa col MAC.
+	
+14.3	Proseguimento prima dell’arrivo dei soccorsi
+	
+	Prima che i soccorsi richiesti siano giunti sul posto, un treno o un movimento di manovra può essere mosso solo con il consenso del CMOV. 
+	
+14.4	Segnale per la fermata d’emergenza sulle aree di lavoro
+	
+	Se riconosce un segnale di fermata d’emergenza in un’area di lavoro, il MAC deve fermare immediatamente la corsa e contattare il CMOV. 
+Il CMOV chiarisce la ragione con il CS. Se, dopo che il segnale è stato spento, riceve dal CS il permesso che la corsa può continuare, il CMOV avvisa con obbligo di quietanza il MAC. 
+Se l’area di lavoro non è presenziata o se il CMOV non può contattare il CS, il CMOV deve prescrivere al MAC della prima corsa, con obbligo di protocollo il superamento del segnale per la fermata d’emergenza nelle aree di lavoro su posizione di fermata e corsa a vista fino alla fine dell’area di lavoro.
+Se non è stata accertata alcuna irregolarità, il segnale può essere spento. Se il segnale non può essere spento, il CMOV deve avvisare i MAC con obbligo di protocollo in merito al superamento del segnale fermata d’emergenza nelle aree di lavoro.
+	
+14.5	Incidenti con merci pericolose	
+		
+	Le IF regolano le misure immediate da prendere in caso di incidenti con merci pericolose in un promemoria di carattere obbligatorio per il personale; Il promemoria deve concordare con i principi della pianificazione d’intervento su territorio ferroviario, secondo l’ordinanza sulla protezione contro gli incidenti rilevanti (OPIR, RS 814.012). Il promemoria deve regolare in particolare:
+–	l’autoprotezione del personale ferroviario 
+–	l’identificazione del pericolo (pericoli specifici alla ferrovia e alle materie)
+–	l’annuncio dell’incidente (servizio che notifica, contenuto dell’annuncio e esempi di annuncio) 
+–	altre misure (assicurare il luogo dell’incidente, mettere al sicuro i feriti, guidare le forze d’intervento).
+Le IF devono fissare la ripartizione del promemoria. Il personale entrante in linea di conto deve portare con sé il promemoria.	
+	
+14.6	Comportamento verso le persone coinvolte 	
+		
+	Le persone ferite non devono essere lasciate senza assistenza. Le persone sotto choc vanno assistite, nella misura del possibile.
+Il binario in cui si trovano vittime di un incidente non deve più essere percorso. Le vittime devono essere coperte e sorvegliate.	
+		
+14.7	Messa in sicurezza del luogo dell’incidente 	
+		
+	Le operazioni necessarie alla protezione e alla messa in salvo devono essere avviate immediatamente. Altrimenti, sul sito dell’infortunio non può essere apportato alcun cambiamento. I mutamenti che ne risultano devono essere documentati. La posizione originaria delle vittime, dei veicoli e degli oggetti dev’essere contrassegnata in modo chiaro.
+I morti possono essere rimossi soltanto con l’autorizzazione dell’autorità preposta al procedimento penale.
+I dati (p.es. le registrazioni della velocità, registrazioni delle conversazioni, gli ordini da protocollare), e lo stato di funzionamento dei dispositivi di sicurezza, che potrebbero servire a chiarire le cause e le circostanze dell’evento, devono essere immediatamente messi al sicuro dai responsabili delle imprese interessate, all’attenzione degli organi inquirenti, e conservati per almeno sei mesi. 
+I nomi e gli indirizzi di persone che potrebbero fornire indicazioni utili sullo svolgimento dell’evento devono essere registrati.
+Non appena giunge sul luogo dell’infortunio, l’autorità preposta al procedimento penale decide circa la natura e l’estensione delle misure di sicurezza e di sorveglianza.	
+	
+	
+
+15	Perturbazioni in esercizio di tram
+15.1	Principio
+	
+	Il GI definisce per quali perturbazioni e irregolarità dev’essere richiesta un’informazione e per quali occorre domandare un permesso della centrale di comando prima di una corsa o di una manipolazione. Durante gli orari di presenza, la centrale di comando assume la gestione della disposizione e l’informazione, ordina misure e li revoca nuovamente. Il GI disciplina la procedura in caso di assenza della centrale di comando nelle prescrizioni d’esercizio. 
+Il GI disciplina l’impiego, la facoltà di dare istruzioni, le operazioni ammissibili agli impianti e la dotazione del personale per l’intervento o il supporto operativo sul posto.
+	
+15.1.1	Avviso
+	
+	All’occorrenza, il personale interessato si avvisa reciprocamente in merito a irregolarità e ritardi come pure su risultati e misure adottate. 
+In caso di perturbazioni che provocano ritardi, i viaggiatori devono essere informati in merito alla causa e, se conosciuto, circa il probabile tempo d’attesa fino al proseguimento della corsa. 
+La sicurezza delle persone interessate dev’essere garantita ed esse vanno rese attente ai possibili pericoli. 
+I GI disciplinano la chiamata dell’intervento operativo e dei servizi tecnici
+	
+15.1.2	Primi accertamenti
+	
+	Se un segnale non si dispone su via libera, oppure uno scambio o un altro elemento dell’impianto di sicurezza non raggiunge la posizione voluta, si deve ritenere che un’operazione non sia stata eseguita o che questo sia impedito da ragioni d’esercizio. Solo quando si è accertato che ciò non è il caso, si può presumere una perturbazione.
+Quali elementi valgono, in particolare:
+–	gli scambi, eventualmente con gli ABL e i segnali degli scambi corrispondenti
+–	gli impianti di regolazione del traffico, eventualmente con gli ABL corrispondenti
+–	i segnali fissi.
+	
+
+15.2	Disposizioni in caso di perturbazioni agli scambi
+15.2.1	Principio
+	
+	Non devono essere percorsi gli scambi la cui indicazione di posizione è incerta o gli scambi che non si trovano nella posizione finale.
+	
+15.2.2	Lo scambio non può essere invertito
+	
+	In particolare, le cause seguenti possono impedire l’inversione di uno scambio: 
+–	presenza di un corpo estraneo / di sporcizia
+–	lo scambio è vincolato
+–	l’ABL indica un’occupazione anche se il binario è libero
+–	l’alimentazione di corrente è interrotta
+–	l’annuncio della posizione dello scambio non è arrivato
+–	altri difetti allo scambio.
+Vanno riportati immediatamente nella posizione iniziale gli scambi che non possono invertiti o che possono esserlo solo con grande sforzo. 
+Se lo scambio non può essere invertito nemmeno azionandolo sul posto o mediante l’apposita asta per scambi, occorre avvisare la centrale di comando.
+	
+15.2.3	Scambio con vincolo mancante o mancata indicazione della posizione finale
+	
+	Se uno scambio dotato di indicatore di vincolo non viene vincolato dal comando degli scambi, il vincolo dello scambio non viene mostrato. Si deve fermare prima dell’ago dello scambio. In questo caso gli scambi devono essere per quanto possibile comandati di nuovo o invertiti manualmente con l’apposita asta. 
+I GI disciplinano la circolazione su scambi per i quali manca l’indicazione del vincolo dello scambio o quando lo scambio non è nella posizione finale. Essi fissano in particolare l’ammissibilità, il controllo della posizione finale e la velocità massima per la circolazione.
+	
+
+15.2.4	Tallonamento di scambi
+	
+	Il tallonamento degli scambi è vietato, poiché può causare danneggiamenti pericolosi per l’esercizio. 
+Se uno scambio è stato tallonato, bisogna fermare immediatamente le corse messe in pericolo e avvisare subito gli interessati. Lo scambio va assicurato e dev’essere liberato dal calcio verso la punta. Si deve controllare che lo scambio non abbia subito danni meccanici. 
+Il controllo meccanico sul posto di uno scambio tallonato deve essere eseguito, di principio, dal servizio tecnico competente. I GI disciplinano se e in che modo il personale operativo può controllare uno scambio tallonato. 
+Se lo scambio è danneggiato nella parte meccanica o se il risultato del controllo non è chiaro, esso non può più essere percorso. 
+Per l’ulteriore modo di procedere occorre seguire le istruzioni del servizio tecnico competente.
+	
+15.2.5	Incuneamento o messa fuori servizio di uno scambio
+	
+	I GI disciplinano l’incuneamento e la messa fuori servizio di uno scambio.
+	
+15.3	Disposizioni in caso di perturbazioni a impianti di regolazione del traffico
+	
+	In caso di perturbazione a un impianto di regolazione del traffico, il rispettivo segnale per tranvie mostra l’immagine fuori servizio o resta su posizione di fermata.
+Se il segnale per tranvie di un impianto perturbato rimane su posizione di fermata, si deve per quanto possibile annunciare manualmente la corsa oppure mettere fuori servizio l’impianto. 
+Per le corse con il segnale per tranvie su posizione di fermata, il GI disciplina la circolazione e le competenze del personale dell’IF nei confronti del traffico individuale. A tale scopo, il GI si consulta con le preposte autorità cantonali e comunali. 
+	
+15.3.1	Circolazione su impianti di regolazione del traffico perturbati o fuori servizio
+	
+	Se il segnale per tranvie mostra l’immagine fuori servizio, il MAC deve circolare con particolare prudenza in questo settore.
+
+	Se il segnale per tranvie mostra l’immagine di fermata e sul posto vi è una persona che dirige il traffico, il MAC percorre questo settore secondo le regole della circolazione stradale. Se il segnale per tranvie mostra l’immagine di fermata e sul posto non vi è nessuno per dirigere il traffico, il MAC percorre questo settore secondo le disposizioni del GI.
+	
+15.4	Irregolarità ai binari e agli scambi
+15.4.1	Primi accertamenti
+	
+	Se il MAC o il CMAN accerta una irregolarità ai binari o agli scambi, si deve per quanto possibile fermare la corsa prima del punto danneggiato. La centrale di comando va avvisata immediatamente indicando il luogo del punto danneggiato e il genere del danno.
+	
+15.4.2	Provvedimenti
+	
+	La centrale di comando deve:
+–	se necessario fermare la corsa successiva
+–	dopo aver chiesto chiarimenti al MAC o al CMAN, chiarire per quanto possibile la percorribilità del luogo del danneggiamento
+–	avvisare le corse successive secondo le disposizioni del GI
+–	far intervenire o avvisare i servizi tecnici e d’intervento preposti. 
+Se il punto interessato non è più percorribile, la centrale di comando deve predisporre lo sbarramento del binario o dello scambio.
+	
+15.5	Irregolarità alla linea di contatto
+15.5.1	Primi accertamenti
+	
+	Se il MAC o il CMAN accerta una irregolarità alla linea di contatto, si deve per quanto possibile fermare la corsa prima del punto danneggiato o abbassare i pantografi. La centrale di comando va avvisata immediatamente indicando il luogo del punto danneggiato e il genere del danno.
+	
+
+15.5.2	Provvedimenti	
+		
+	La centrale di comando deve:
+–	se necessario fermare la corsa successiva
+–	dopo aver chiesto chiarimenti al MAC o al CMAN, chiarire per quanto possibile la percorribilità del luogo del danneggiamento
+–	avvisare le corse successive secondo le disposizioni del GI
+–	far intervenire o avvisare i servizi tecnici e d’intervento preposti. 
+Se il punto interessato non è più percorribile, la centrale di comando deve predisporre lo sbarramento della sezione. 
+Se la corsa non può più proseguire, il MAC o il CMAN deve valutare se esiste un pericolo immediato a causa della linea di contatto strappata o parti di essa pendenti. In caso di pericolo, il MAC o il CMAN prende le misure necessarie affinché i passeggeri non lascino il treno, segnatamente fino a quando i collaboratori responsabili hanno preso le misure di sicurezza corrispondenti. Solo quando non esiste più pericolo si può iniziare con l’evacuazione del treno.	
+	
+15.5.3	Ulteriore modo di procedere	
+		
+	La percorribilità del luogo con altre corse, ad es. con pantografo abbassato, è conforme alle disposizioni del GI.	
+		
+15.5.4	Linea di contatto senza tensione	
+		
+	Se dopo una caduta di tensione il MAC si avvede che la linea di contatto non torna nuovamente sotto tensione, deve procedere come segue: 
+–	proseguire la corsa con particolare prudenza
+–	fermare in un posto adatto, tuttavia al più tardi al prossimo posto di fermata. Questo, per quanto possibile, senza ostacolare il flusso di traffico.	
+		
+15.6	Perturbazioni ai dispositivi di sicurezza 	
+15.6.1	Mancato funzionamento del comando di sicurezza sul veicolo di testa	
+		
+	Per quanto non necessario, non devono essere impiegati come veicolo di testa dei veicoli con perturbazioni al comando di sicurezza. Non possono essere impiegati veicoli con perturbazioni al comando di sicurezza uscenti dalla manutenzione. 
+	
+	Se il comando di sicurezza smette di funzionare sul veicolo di testa, alla prima occasione il MAC deve richiedere una persona di un’IF in più in cabina di guida. Il MAC istruisce questa persona sul modo di fermare il treno in caso d’emergenza. 
+Il veicolo con il comando di sicurezza in avaria può circolare in testa al treno al massimo per 6 ore a partire dall’insorgenza della perturbazione. Corse direttamente al posto di manutenzione sono ammesse anche dopo 6 ore, a patto che vengano effettuate con una persona di un’IF istruita in più in cabina, che può fermare il treno in caso d’emergenza.
+	
+15.7	Irregolarità ai veicoli	
+15.7.1	Principio	
+		
+	Se i veicoli presentano irregolarità che possono mettere in pericolo o danneggiare persone, impianti o altri veicoli, non è ammesso cominciare né proseguire la corsa. 
+Se vengono utilizzati impianti di controllo dei treni per sorvegliare lo stato tecnico dei veicoli durante la corsa, il GI deve emanare le necessarie disposizioni esecutive al riguardo. 
+Dopo aver sentito i servizi tecnici, la centrale di comando decide in caso di perturbazioni o di mancato funzionamento, in merito alla sostituzione del veicolo.	
+		
+15.7.2	Primi accertamenti	
+		
+	Quando viene accertata un’irregolarità a un veicolo, il personale preposto deve decidere, tenendo conto delle prescrizioni d’esercizio determinanti, se la corsa può essere cominciata o proseguita. Se il personale responsabile non può decidere da sé sul posto, deve prendere contatto con la centrale di comando e chiarire il modo di procedere. 
+Il chiarimento e l’eliminazione di perturbazioni ai veicoli deve avvenire per quanto possibile sul lato opposto al binario. A tale riguardo si devono osservare le disposizioni sulla sicurezza sul lavoro.	
+		
+
+15.7.3	Provvedimenti da prendere per determinate irregolarità
+	
+	Le misure qui appresso elencate vanno adottate in funzione del rispettivo genere d’irregolarità:
+–	Porte laterali aperte
+	Le porte laterali aperte vanno chiuse immediatamente.
+–	Veicoli sviati
+	Dopo il rialzo, i veicoli possono essere mossi solo con il consenso e secondo le istruzioni del servizio tecnico. 
+–	Mancato funzionamento totale o parziale dei fari frontali
+	Le ITF stabiliscono il modo di procedere in caso di mancato funzionamento dei fari frontali. Esse tengono in considerazione la visibilità delle corse per gli altri utenti del traffico. 
+–	Avaria del fischietto della locomotiva
+	Se il fischietto della locomotiva è inutilizzabile, il MAC o il CMAN deve proseguire con particolare prudenza. La centrale di comando dev’essere informata del mancato funzionamento. Il treno o il movimento di manovra deve proseguire fino alla località più vicina in cui sia possibile riparare il fischietto della locomotiva o sostituire il veicolo interessato.
+–	Avaria totale del segnale di coda del treno
+	Le ITF stabiliscono il modo di procedere in caso di mancato funzionamento del segnale di coda del treno. Esse tengono in considerazione la visibilità delle corse per gli altri utenti del traffico. 
+–	Mancato funzionamento del tachimetro
+	Se il tachimetro cessa di funzionare, il MAC deve ridurre fortemente la velocità, affinché non venga superata la velocità massima ammessa. Le ITF disciplinano la procedura ulteriore.
+–	Mancato funzionamento del ponteggio del freno d’emergenza / della domanda di freno d’emergenza
+	Solo i treni sui quali il ponteggio del freno d’emergenza o la domanda di freno d’emergenza sono ancora in funzione possono percorrere le tratte per le quali sono prescritti tali dispositivi.
+–	Avaria del sistema di comunicazione per la trasmissione telefonica per treni.
+	Le ITF disciplinano il modo di procedere quanto i sistemi di comunicazione smettono di funzionare.
+–	Avaria dell’indicatore di direzione 
+	In caso di avaria dell’indicatore di direzione il MAV o il CMAN deve circolare con particolare prudenza. La centrale di comando va avvisata dell’avaria. Il treno deve circolare fino al punto più vicino in cui è possibile riparare l'indicatore di direzione o sostituire il veicolo interessato.
+	
+15.8	Perturbazioni ai freni
+15.8.1	Provvedimenti immediati
+	
+	Se lungo il percorso, il freno diventa inutilizzabile e se durante la corsa il MAC accerta che l’efficacia dei freni è insufficiente, deve fermare il treno il più presto possibile e ricercare la causa. Si deve procedure in base alle prescrizioni d’esercizio per il veicolo corrispondente.
+	
+15.8.2	Proseguimento della corsa
+	
+	Se dopo una perturbazione al freno non è possibile stabilire con esattezza la causa, bisogna effettuare una prova dei freni.
+	
+15.8.3	Proseguimento con un veicolo non frenato
+	
+	L’ITF stabilisce il modo di procedere per il proseguimento della corsa con un veicolo non frenato dopo un guasto del freno.
+	
+15.9	Pericoli e incidenti
+15.9.1	Comportamento in generale
+	
+	Se viene provocato un pericolo o un incidente, il personale procede conformemente alla successione qui esposta: 
+–	riconoscere il pericolo
+–	valutare le conseguenze
+–	ridurre il pericolo
+–	allarmare
+–	salvare
+–	proseguire l’esercizio.
+	
+
+15.9.2	Tipi di messa in pericolo
+	
+	Nell’ambito dell’esercizio di tram si considerano messe in pericolo tutti gli eventi che possono provocare o richiamare un incidente. 
+Fra questi rientrano in particolare: 
+–	veicoli non funzionanti o danneggiati
+–	uno sviamento 
+–	un urto o una collisione
+–	la fuga di veicoli
+–	irregolarità inspiegabili nell’andamento del treno
+–	l’arresto di un treno senza motivi apparenti
+–	danni al binario/agli scambi/alla linea di contatto
+–	il superamento di un segnale su posizione di fermata
+–	il ricevimento di una chiamata d’emergenza o di un allarme 
+–	i pericoli e gli eventi naturali (ad es. inondazioni, bufere o incendi).
+	
+15.9.3	Tipi di incidenti
+	
+	Nell’ambito dell’esercizio di tram sono considerati incidenti in particolare gli eventi che hanno le conseguenze seguenti: 
+–	il ferimento o la morte di persone
+–	il ferimento o la morte di animali di grossa taglia
+–	il danneggiamento di infrastrutture
+–	lo sviamento o il danneggiamento di veicoli
+–	il danneggiamento di veicoli stradali
+–	l’urto contro oggetti presenti nella zona dei binari che a motivo della loro dimensione o caratteristica possono mettere in pericolo l’esercizio di tram
+–	gli incendi
+–	i possibili gravi danni alla popolazione e all’ambiente (ad es. irregolarità con sostanze / merci pericolose).
+
+15.9.4	Riduzione del pericolo	
+		
+	Il personale che accerta l’esistenza di una messa in pericolo o di un incidente, avendo riguardo per la propria salvaguardia deve provvedere immediatamente affinché le conseguenze siano contenute; a tale scopo, ad esempio: 
+–	si emette una chiamata d’emergenza
+–	si arrestano i veicoli sfuggiti
+–	il CMAN dà segnali di arresto
+–	il RALT fa sgomberare il binario
+–	la centrale di comando fa interrompere l’esercizio
+–	il MAC conduce il treno in fiamme fuori della galleria, se del caso azionando il ponteggio del freno d’emergenza
+–	il MAC ferma il treno in un posto appropriato (ad es. non in galleria o su un ponte), se del caso azionando il ponteggio del freno d’emergenza o inserisce il segnale d’avvertimento e invia una chiamata d’emergenza
+–	le persone in pericolo vengono avvertite. 
+Il GI può definire disposizioni specifiche per certe opere, in base al concetto di messa in allarme e d’emergenza. Tali disposizioni specifiche hanno la precedenza rispetto alle norme generali di comportamento.	
+		
+15.9.5	Messa in allarme	
+		
+	Il personale che accerta una messa in pericolo o un incidente deve avvertire immediatamente la centrale di comando secondo il principio: 
+–	Chi avvisa?
+–	Cosa è successo?
+–	Dove è successo? 
+–	Quando è successo?
+Il GI emana disposizioni esecutive sul modo in cui la centrale di comando deve avviare gli ulteriori provvedimenti necessari, ad es. l’informazione alle altre corse, l’impiego di chiamate collettive o annunci di rete.	
+	
+
+15.9.6	Soccorso e provvedimenti di protezione per il luogo dell’incidente	
+		
+	Durante le operazioni di soccorso o di salvataggio di persone, animali o cose dev’essere prestata particolare attenzione alla protezione dei soggetti interessati. A tale riguardo, ad esempio, si deve 
+–	assicurare i binari che non devono essere percorsi
+–	ordinare una riduzione della velocità
+–	ordinare una riduzione della velocità
+–	impiegare sul posto i servizi d’intervento operativo o altri corpi ausiliari.	
+	
+15.9.7	Proseguimento dell’esercizio	
+		
+	Non appena si possono escludere altri pericoli, se i servizi preposti non hanno dato istruzioni di altro tenore e gli organi inquirenti hanno liberato il luogo dell’infortunio, è possibile revocare le misure prese per contenere il pericolo e proseguire l’esercizio.	
+		
+15.10	Disposizioni complementari in caso di messa in pericolo e di incidenti	
+15.10.1	Comportamento del MAC in caso di luci d’avvertimento lampeggianti e in caso di chiamata d’emergenza non chiara	
+		
+	Al momento in cui percepisce luci d’avvertimento lampeggianti, il MAC o il CMAN deve immediatamente proseguire con particolare prudenza e all’occorrenza fermare immediatamente la corsa. In caso di dubbio deve chiarire la situazione. Se non occorre un aiuto sul posto e non c’è pericolo, si deve proseguire. 
+Se il MAC riceve una chiamata d’emergenza non chiara, deve circolare con particolare prudenza. Le entrate in gallerie sono da evitare. Il MAC deve prendere contatto con la centrale di comando. Se questo non è possibile e il MAC non riceve altre istruzioni, dopo 10 minuti può continuare la corsa senza queste limitazioni.	
+		
+15.10.2	Freno d’emergenza azionato	
+		
+	Il MAC deve avvisare i passeggeri se scansa l’azione del freno d’emergenza. 
+Il freno d’emergenza può essere ritirato solo dopo intesa col MAC.	
+		
+
+	
+

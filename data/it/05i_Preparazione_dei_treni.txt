@@ -1,0 +1,804 @@
+﻿Ferrovie svizzere	R 300.5
+
+
+
+Preparazione dei treni
+
+
+
+
+1	Formazione dei treni
+1.1	Contrassegno dei treni
+	
+	Prima della partenza di un treno, la testa e la coda devono essere segnalate in base alle prescrizioni sui segnali. Il segnale d’avvertimento deve poter essere dato. Di notte, su tratte dove la liberazione della tratta avviene manualmente o su tratte senza dispositivo di blocco, l’ultimo veicolo dev’essere contrassegnato con una luce rossa, una luce rossa lampeggiante o due luci rosse. 
+	
+1.2	Guida dei treni 
+	
+	Nel caso di treni condotti direttamente e indirettamente, il primo veicolo deve essere dotato di un dispositivo ricevente attivo per il controllo della marcia dei treni. 
+Eccezione:
+i GI possono stabilire nelle prescrizioni d’esercizio o nelle disposizioni per l’accesso alla rete a quanto può ammontare la distanza massima fra la testa del treno (repulsori, accoppiamento) e il dispositivo ricevente del controllo della marcia dei treni. Le ITF attuano queste esigenze nelle loro prescrizioni d’esercizio. Se questa esigenza non può essere soddisfatta, il controllo della marcia dei treni non può essere considerato come sufficiente.
+	
+1.2.1	Guida diretta dei treni 
+	
+	La guida diretta dei treni è ammessa alle seguenti condizioni
+–	il MAC ha costantemente la visuale libera sull’itinerario e sui segnali, e
+–	il MAC serve il freno automatico, e 
+–	il MAC ha la possibilità di dare segnali di attenzione, e 
+–	il MAC ha a portata di mano i mezzi di segnalazione prescritti.
+La guida diretta dei treni avviene da un solo posto. 
+	
+1.2.2	Guida indiretta dei treni 
+	
+	I treni vengono condotti mediante la guida indiretta se il MAC non ha la visuale libera sull’itinerario e sui segnali. 
+La guida indiretta dei treni è ammessa solo con l’autorizzazione del GI o in caso di perturbazione. 
+Il personale viaggiante dev’essere avvisato. La guida indiretta può anche essere ordinata nell’orario di marcia. 
+La persona addetta alla guida indiretta deve collocarsi in modo tale da poter vedere il percorso e osservare i segnali in modo ineccepibile. 
+	
+1.3	Ubicazione dei veicoli motore 
+1.3.1	Principio 
+	
+	Di regola i veicoli motore devono essere collocati in testa al treno, salvo quando sono telecomandati. 
+I veicoli motore accoppiati direttamente e in comando multiplo contano come un unico veicolo motore. 
+Le direttive per l’ubicazione dei veicoli motore a cremagliera devono essere fissate dalle ITF, tenendo in considerazione le condizioni d’impiego dalle omologazioni dei veicoli.
+	
+1.3.2	Veicoli motore di spinta 
+	
+	Le forze di spinta ammesse sono fissate nelle disposizioni esecutive del GI. Le ITF disciplinano nelle prescrizioni d’esercizio l’applicazione delle forze di spinta e il servizio di veicoli motore di spinta. 
+Dietro un veicolo motore di spinta è permesso aggiungere veicoli. 
+	
+1.3.3	Servizio di spinta
+	
+	Si parla di servizio di spinta quando altri veicoli motori di spinta in coda a treni condotti direttamente sono serviti singolarmente. 
+Un veicolo motore di spinta dev’essere accoppiato con il treno.
+Eccezione: 
+Se il veicolo motore lascia il treno in una sezione, come pure per la spinta verso una sezione adiacente sotto la linea di contatto inserita, il GI può disciplinare il modo di procedere nelle disposizioni esecutive.
+	
+1.3.4	Servizio di rinforzo in testa
+	
+	Si parla di servizio di rinforzo in testa quando in testa al treno vi sono più veicoli motore accoppiati direttamente serviti singolarmente. Il veicolo motore di testa è quello che conduce il treno. 
+
+		
+1.3.5	Servizio con locomotive intermedie	
+		
+	Si parla di servizio con locomotiva intermedia quando fra i veicoli di un treno sono ubicati veicoli motore attivi serviti singolarmente. Un veicolo motore intermedio (locomotiva intermedia) va ubicato in modo che non debba essere trasmesse forze di spinta. 	
+		
+1.3.6	Trasferimento di veicoli motore	
+		
+	I veicoli motore attivi possono essere trasferiti fra i veicoli o in coda a un treno. Può essere mosso unicamente il peso proprio. 
+Se per ragioni di carico deve essere mosso più del peso proprio, valgono le disposizioni per il servizio di spinta o per il servizio con locomotiva intermedia. 	
+		
+1.4	Ubicazione del peso rimorchiato	
+1.4.1	Principio	
+		
+	Nei treni si possono inserire solo veicoli la cui costruzione e il cui carico adempiono i presupposti per il trasporto con il treno interessato. I piccoli veicoli non possono essere agganciati. I veicoli danneggiati o sviati possono essere ubicati nei treni solo dopo la verifica e l’approvazione del servizio tecnico dei veicoli.
+Per l’inserimento di veicoli nei treni bisogna inoltre osservare le disposizioni seguenti: 
+–	le limitazioni alla circolazione di veicoli su singole tratte in rapporto al peso massimo ammissibile per sala e per metro nonché al profilo di carico 
+–	la velocità massima ammissibile dei veicoli in rapporto al tipo di costruzione, all’interasse e al peso 
+–	la velocità massima ammissibile dei veicoli in base alle loro iscrizioni o a un’etichetta d’avaria 
+–	le disposizioni determinanti per trasporti eccezionali
+–	le disposizioni esecutive delle ITF, per l’ubicazione di veicoli in coda al treno, così come per il traino di veicoli motore e in caso di avarie. 	
+		
+1.4.2	Ubicazione di carrozze viaggiatori occupate nei treni merci	
+		
+	Nei treni merci, le carrozze viaggiatori occupate vanno ubicate dietro il veicolo motore. 	
+		
+1.4.3	Ubicazione di carri con merci pericolose
+	
+	Le ITF disciplinano nelle prescrizioni d’esercizio il rispetto dell’ordinanza concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune (RSD) e le disposizioni del regolamento concernente il trasporto internazionale per ferrovia delle merci pericolose (RID).
+I carri con etichette di pericolo secondo i modelli da 1 a 9 del RID, come anche i carri scoperti con carico che porta tali etichette di pericolo, possono essere trasportati solo nei treni merci. Le carrozze viaggiatori occupate, condotte con treni merci, devono essere separate dai carri con merci pericolose da una distanza di protezione. 
+I carri con etichette di pericolo secondo i modelli 1, 1.5 o 1.6 del RID, come anche i carri scoperti con carico che porta tali etichette di pericolo, devono essere separati da una distanza di protezione conforme al RID.
+Dopo la preparazione del treno e dopo qualsiasi modifica della composizione, il MAC va avvisato prima della partenza se sono inseriti carri con merci pericolose. Le ITF stabiliscono il genere di avviso al MAC nelle loro disposizioni esecutive. 
+1.4.4	Trasporti eccezionali
+	
+	Circolano come trasporto eccezionale i veicoli, con o senza carico, che a causa delle loro dimensioni esterne (p.es. superamento del profilo di spazio libero), del loro peso o delle loro caratteristiche possono essere trasportati solo a particolari condizioni tecniche o d’esercizio. 
+Il GI e l’ITF disciplinano il trattamento di queste spedizioni nelle rispettive prescrizioni d’esercizio.
+Il personale entrante in considerazione deve essere avvisato con obbligo di protocollo sulle condizioni cui attenersi.
+	
+1.4.5	Veicoli non impiegabili liberamente
+	
+	I carri pesanti, quelli leggeri, i veicoli accodati e quelli con divieto di transito sulle selle di lancio sono veicoli che in base al loro tipo di costruzione o al loro stato non possono circolare liberamente. Essi vanno contrassegnati in conformità. 
+	
+
+1.4.6	Preannunci
+	
+	Prima della partenza, il PRT deve avvisare il CMOV della stazione di partenza,
+    • se in un treno sono ubicati i seguenti veicoli: 
+–	veicoli con eccessiva distanza interna fra gli assi. I GI disciplinano la misura dell’interasse ammessa nelle prescrizioni d’esercizio. 
+–	veicoli circolanti come trasporto eccezionale
+–	veicoli accodati. 
+    • se nel treno si trova merce pericolosa. I GI regolano le informazioni necessarie.
+    • se vengono trasportati eccezionalmente viaggiatori o animali
+Il CMOV della stazione di partenza ne avvisa i CMOV delle stazioni intermedie e della stazione di fine corsa.
+	
+1.5	Peso rimorchiato	
+		
+	Il peso rimorchiato non può superare la somma dei pesi norma ammessi per la tratta interessata, di tutti i veicoli motore attivi nel treno. In questo contesto si deve prestare attenzione 
+–	al peso massimo ammesso al gancio di trazione
+–	il peso spinto ammesso. 
+Il peso massimo al gancio di trazione, il peso spinto ammesso come pure i pesi norma fissati per i singoli veicoli motori sono indicati per ogni tratta nelle disposizioni esecutive delle ITF.	
+
+
+
+2	Assicuramento di treni fermi
+2.1	Assicuramento 
+	
+	I treni o le parti di treni fermi vanno assicurati contro il rischio di fuga. 
+Per le tratte ad aderenza sono determinanti le norme relative alla forza di ritenuta. Sulle tratte o le sezioni a cremagliera valgono le corrispondenti prescrizioni d’esercizio dell’ITF. 
+	
+2.2	Forza di ritenuta minima
+	
+	La somma delle forze di ritenuta dei mezzi di frenatura indipendenti dal freno ad aria non può essere inferiore alla forza di ritenuta minima per il treno sulla pendenza corrispondente. 
+Per le tratte ad aderenza con una pendenza fino al 75‰ i valori per la forza di ritenuta minima possono essere desunti dall’annesso 1.
+I GI fissano nelle prescrizioni d’esercizio la forza di ritenuta minima per le pendenze superiori al 75‰. 
+	
+2.3	Forza di ritenuta minima alla partenza
+	
+	Alla partenza di un treno devono essere disponibili tanti mezzi di frenatura indipendenti dal freno ad aria, abbastanza per allestire la forza di ritenuta minima. La forza di ritenuta minima deve bastare in ogni momento per la pendenza esistente. 
+	
+2.4	Efficacia del freno automatico
+	
+	Se la scorta d’aria o il vuoto non possono essere completati, il freno ad aria è sufficiente per assicurare un treno o una parte di treno fino a mezz’ora. I veicoli devono essere frenati completamente. 
+Un singolo veicolo ricoverato è sempre da assicurare con mezzi di frenatura indipendenti dal freno ad aria. 
+	
+2.5	Assicuramento con mezzi di frenatura indipendenti dall’aria 
+	
+	Se un treno o parti di treno restano prevedibilmente fermi sulla tratta per oltre mezz’ora, bisogna provvedere al loro assicuramento mediante mezzi di frenatura indipendenti dal freno ad aria, in modo che sia garantita la forza di ritenuta minima. 
+	
+
+2.6	Pesi-freno computabili per la forza di ritenuta 
+	
+	La forza di ritenuta è definita in kilonewton (kN).
+Le iscrizioni dell’unità in tonnellate (t) devono essere applicate secondo la regola seguente: 1 t (peso-freno) viene computata come 1 kN (forza di ritenuta). 
+Se la forza di ritenuta è indicata in doppio, in kN e in t, si deve computare il valore in kN. 
+	
+	Per la determinazione della forza di ritenuta sono computabili i freni seguenti: 
+	–	il freno d’immobilizzazione
+–	il valore numerico del peso totale in t, al massimo la forza di ritenuta iscritta 
+	Esempi: 
+		–	con un carro vuoto sono computabili 22 kN 
+–	con un peso totale di almeno 36 t sono computabili 36 kN 
+		–	con un carro vuoto sono computabili 16 kN
+–	con un peso totale di almeno 24 t sono computabili 24 kN
+	
+
+	
+–	con un carro vuoto sono computabili 28 kN
+–	con un peso totale di almeno 37 t sono computabili 37 kN
+	l’indicazione 21 t non ha più alcun significato 
+	
+	–	se manca l’iscrizione relativa alla forza di ritenuta, si può computare il peso totale in t, al massimo 20 kN
+–	nel caso della seguente iscrizione sul carro va tenuto in considerazione il fattore iscritto: 
+		
+p.es. 1/4 del peso totale
+	
+
+	–	staffe d’arresto 
+Per la forza di ritenuta, sulle pendenze fino al 50‰ è computabile per ogni asse assicurato con una staffa il peso assiale proporzionale in base alla formula seguente: 
+peso assiale in t x 2 = kN, mass. 40 kN
+Le staffe d’arresto vanno collocate sotto le ruote dei veicoli con il peso assiale più elevato possibile. Per ogni veicolo va utilizzata una sola staffa d’arresto. Il freno d’immobilizzazione dei carri sotto i quali è posata una staffa d’arresto non può essere computato per la forza di ritenuta minima. 
+Le ITF possono disciplinare nelle prescrizioni d’esercizio la posa e il computo di staffe d’arresto per i veicoli motore e di staffe d’arresto supplementari per i vagoni. Al riguardo occorre assicurare che per ogni asse non venga computata più della forza di ritenuta proporzionale del freno d’immobilizzazione o una staffa d’arresto.
+I GI fissano nelle prescrizioni d’esercizio il computo delle staffe d’arresto per la forza di ritenuta minima per le pendenze superiori al 50‰. 
+
+
+3	Prescrizioni di frenatura
+
+	Per i veicoli a cremagliera valgono in più le prescrizioni di frenatura delle ITF. Queste devono essere fissate tenendo in considerazione le condizioni d’impiego dalle omologazioni dei veicoli.
+	
+3.1	Tabelle di frenatura
+	
+	I GI comunicano nelle prescrizioni d’esercizio i dati estrapolati dalle tabelle di frenatura applicate, necessari per il calcolo del rapporto di frenatura minimo di parte e per il caso di perturbazione. 
+	
+3.2	Calcolo di frenatura
+	
+	Il rapporto di frenatura necessario per determinare la categoria di freno è calcolato nel modo seguente: 
+
+Regola per l’arrotondamento:
+nel calcolo di frenatura le frazioni di ton (t) e le percentuali di frenatura (%) di 0,5 e oltre vanno arrotondate per eccesso, quelle di meno di 0,5 vanno arrotondate per difetto. 
+Ogni treno necessita di un calcolo di frenatura. Le ITF possono disciplinare nelle prescrizioni d’esercizio la definizione del rapporto di frenatura in base a calcoli di frenatura permanenti o standard. 
+
+3.3	Dispositivi d’inversione
+3.3.1	Cambiamento del tipo di freno
+			
+	Dispositivo MVR	su posizione	se non esiste una posizione prescritta 
+			
+	Veicoli motore	R	V
+			
+	Norma derogante per treni 
+merci con un peso rimorchiato di oltre 600 t:
+–	i veicoli motore in testa al
+treno 	
+
+
+M	
+
+
+V
+			
+			
+	Carri e carrozze 	R	V / RIC o M 
+			
+	con freno magnetico di rotaia 	R + Mg	
+	Norma derogante per i treni merci: 		
+	–	treni con un peso rimorchiato di più di 600 t
+	V / RIC o M 
+
+	Se la posizione necessaria non esiste, il freno interessato va disinserito e vuotato. 
+Il rapporto di frenatura minimo di parte necessario deve però essere raggiunto in ogni caso. In caso di necessità bisogna scartare veicoli non frenati.
+	–	treni con un peso rimorchiato di più di 1200 t 	M per le prime cinque unità freno del peso rimorchiato, le altre su V / RIC o M 
+	
+			
+	–	treni con veicoli non uniformi e un peso rimorchiato di oltre 1600 t 	M 	
+	–	treni con carri ultrabassi del traffico Huckepack 	M	
+			
+	Sono considerati treni merci con materiale uniforme i treni completamente carichi. Al riguardo, devono essere rispettate le seguenti condizioni: 
+–	esclusivamente carri a carrelli, e 
+–	nessun carro articolato, e 
+–	esclusivamente carri con i seguenti pesi totali minimi: 
+			Treni con un peso rimorchiato fra 1601 e 2500 t	Treni con un peso rimorchiato superiore a 2500 t
+		Veicoli a 4 assi 	64 t	80 t
+		Veicoli a 6 assi	96 t	120 t
+		Veicoli a 8 assi	128 t	160 t
+	
+Devono essere osservate le disposizioni per il rapporto di frenatura minimo di parte. 
+Se in testa a treni merci con più di 1200 t di peso rimorchiato si trovano carrozze viaggiatori senza freno M, i freni vengono regolati nel modo seguente: 
+
+	
+3.3.2	Dispositivo vuoto-carico
+	
+	Dispositivo vuoto-carico	su posizione   
+	Se il peso totale
+– è minore del peso d’inversione iscritto
+– raggiunge o supera il peso d’inversione iscritto	
+vuoto 
+carico
+		
+	Se il peso d’inversione non è iscritto e nel caso di carri a due assi il peso totale ammonta a 25 t e più o, nel caso di carri a quattro assi, a 50 t e più	carico
+		
+		
+	Se un dispositivo vuoto-carico manuale che dovrebbe essere su «vuoto» è bloccato sulla posizione «carico», il freno va disinserito.
+	
+
+		
+3.4	Pesi-freno computabili	
+3.4.1	Principi
+	
+	Si può computare: 
+–	il peso-freno R dei veicoli nella posizione R
+–	il peso-freno V dei veicoli nella posizione V
+–	solo per 8/10 il peso-freno M dei veicoli nella posizione M, a causa del tempo di riempimento più lungo dei cilindri del freno 
+–	per i veicoli nella posizione R o V, con i treni merci è necessario procedere alle seguenti riduzioni dei pesi-freno, in seguito alla loro lunghezza: 
+Lunghezza del peso rimorchiato	Peso-freno da moltiplicare per 	0 - 500 m
+1	501 - 600 m
+0.95	601 - 700 m
+0.90	701 - 800 m
+0.85	oltre 800 m
+0.8		Se il calcolo di frenatura è allestito mediante un sistema di elaborazione dei dati, fra i valori della tabella che precede possono 
+essere calcolati anche valori intermedi. 
+I seguenti pesi-freno possono essere computati solo se le ITF lo disciplinano nelle loro prescrizioni d’esercizio: 
+–	il più alto dei due pesi-freno nella posizione 
+–	il peso-freno includendo il freno elettromagnetico di rotaia
+–	il freno EP
+–	il peso-freno E per unità spola e elettrotreni indicati in modo speciale, equipaggiati in più del freno magnetico di rotaia.
+Per i veicoli dotati del freno a vuoto, si devono osservare in più le disposizioni dell’allegato 1. 
+	
+		
+3.4.2	Veicoli motore attivi	
+	
+Il peso-freno viene determinato in conformità con la posizione del dispositivo MVR. I pesi-freno corrispondenti vanno desunti dalla tabella dei veicoli motore o dall’iscrizione del freno sui veicoli motore. 
+I veicoli motore con iscrizione del peso-freno V tra parentesi non hanno la posizione «V» nel dispositivo d’inversione. 
+I veicoli motori con freno elettrico o idrodinamico hanno una «E» accanto all’iscrizione del freno. 	
+		Esempio di iscrizione del freno di una locomotiva: 
+		
+	
+	
+Considerando questa iscrizione si può p.es. computare: 
+–	dispositivo d’inversione sulla posizione «R» .................	100 t
+–	con un treno merci con più di 600 t di peso rimorchiato, 
+dispositivo d’inversione sulla posizione «M» (0.8 • 72 t) .....58 t	
+	
+Per un trattore senza freno ad aria compressa che conduce il treno, per il freno di manovra servito può essere computato, come peso-freno, il peso in servizio. 
+Se nel treno ci sono altri trattori serviti non dotati di freno ad aria compressa, non si può computare il peso-freno anche se essi sono raccordati alla condotta principale. 	
+	
+Esempio d’iscrizione del freno di un trattore: 	
+	
+	
+	
+	
+Per i veicoli dotati del freno a vuoto, si devono osservare in più le disposizioni dell’Allegato 1. 	
+	
+	
+	
+3.4.3	Veicoli motore rimorchiati	
+		
+Il peso-freno di veicoli motori rimorchiati va desunto dalla tabella dei veicoli motore.
+Se in treni merci con oltre 1200 t di peso rimorchiato vengono trainati veicoli motore, il freno ad aria compressa di questi veicoli motore deve essere disinserito, qualora in base alla loro ubicazione fosse prescritto il freno M e questo non potesse essere disposto. 
+Nel caso di veicoli motore con freno di notifica (N), per il rapporto di frenatura del treno il peso-freno non può essere computato. 		
+	Esempio di iscrizione del freno di una locomotiva: 	
+		
+	Considerando questa iscrizione si può p.es. computare: 
+–	peso-freno computabile ................................................  0 t
+–	peso-freno computabile per il rapporto di                                  frenatura minimo di parte ............................................  57 t
+	
+	Per i veicoli dotati del freno a vuoto, si devono osservare in più le disposizioni dell’Allegato 1. 
+	
+3.4.4	Veicoli senza dispositivo vuoto-carico
+	
+	Si può computare il peso-freno iscritto oppure, se questa indicazione manca, la tara del veicolo.
+	
+	Esempio di iscrizione del freno di una carrozza viaggiatori: 
+	
+	
+	
+	
+3.4.5	Veicoli con dispositivo d’inversione 
+	
+	Esempio di iscrizione del freno di una carrozza viaggiatori: 
+	
+		
+	
+Considerando questa iscrizione e posizione, si possono 
+computare 69 t, 74 t o 84 t secondo le prescrizioni d’esercizio	
+	
+3.4.6	Veicoli con frenatura automatica del carico e contrassegno A	
+	
+Esempio di iscrizione del freno di un carro merci: 	
+			
+	
+Considerando questa iscrizione si può p.es. computare: 	
+	
+Posizione	V
+M (= 0,8 • V)	
+	
+con carri vuoti
+con un peso totale di 26 t (carico 10 t)
+con un peso totale di 40 t (carico 24 t)	16 t
+26 t
+29 t
+13 t
+21 t
+23 t	
+					
+Se nell’iscrizione oltre al peso-freno è indicato il rapporto di frenatura, quest’ultimo si riferisce sempre al veicolo completamente carico o occupato. Il peso-freno efficace sulla scorta dello stato di carico attuale può essere calcolato nel modo seguente: 					
+			Rapporto di frenatura [%]
+Peso-freno = 				•  Peso totale [t]
+			100 [%]	
+		
+	Esempio di iscrizione del freno di una carrozza viaggiatori: 		
+			
+	
+	Considerando questa iscrizione e posizione si può p.es. computare: 
+	
+	
+con la carrozza vuota 	
+65 t	
+	
+con la carrozza occupata 		92 t
+					
+3.4.7	Carri con frenatura automatica del carico e tabella del peso-freno				
+	È computabile il peso-freno indicato in funzione del peso totale. 		
+		
+Esempio d’iscrizione di un carro merci con freno Bozic: 		
+		
+		
+		
+Nel caso di questa iscrizione nella posizione «V» si può p.es. computare: 
+–	il peso-freno con un peso totale di 10 – 13 t ..... 	  9 t
+–	il peso-freno con un peso totale di 14 – 18 t .....	11 t
+–	il peso-freno con un peso totale di 19 – 23 t .....	14 t		
+		
+3.4.8	Veicoli con dispositivo vuoto-carico automatico		
+	È computabile il peso-freno più elevato, se il peso totale è uguale o maggiore al peso d’inversione. Il peso-freno inferiore va tenuto in considerazione negli altri casi. 
+Esempio di iscrizione del freno di un carro merci: 	
+	
+	
+	
+Nel caso di questa iscrizione nella posizione «V» si può p.es. computare: 
+–	con un peso totale fino a 22 t  .............................	13 t
+–	con un peso totale di 22 t e oltre .........................	26 t	
+3.4.9	Veicoli con dispositivo vuoto-carico manuale 	
+	
+È computabile il peso-freno corrispondente alla posizione del dispositivo d’inversione. 
+Esempio di iscrizione del freno di un carro merci: 	
+	
+	
+	
+Nel caso di questa iscrizione nella posizione «V» si può p.es. computare: 
+–	con un peso totale di 18 t / posizione 14 t ......................... 14 t
+–	con un peso totale di 20 t / posizione 18 t ......................... 18 t
+–	con un peso totale di 21 t / posizione 18 t.......................... 18 t	
+	
+Per i veicoli dotati del freno a vuoto, si devono osservare in più le disposizioni dell’Allegato 1. 	
+	
+	
+3.5	Veicoli non frenati	
+3.5.1	Principio	
+		Il primo e l’ultimo veicolo (compresi i veicoli motore) del treno devono presentare un freno automatico o un freno di notifica funzionante. 
+	
+3.5.2	Contrassegno di freni ad aria disinseriti
+	
+	I veicoli con il freno automatico disinserito devono essere contrassegnati. 
+	
+3.5.3	Freno ad aria disinserito senza motivo apparente
+	
+	Sui veicoli il cui freno ad aria è disinserito senza una ragione apparente, è ammesso aprire il rubinetto d’isolamento. In seguito, prima di proseguire la corsa su questo veicolo deve essere eseguita una prova del freno.
+	
+3.5.4	Rapporto di frenatura minimo di parte
+	
+	I freni devono essere ripartiti nel treno in modo uniforme. Devono inoltre essere soddisfatte le condizioni per il rapporto di frenatura minimo di parte.
+Il rapporto di frenatura minimo di parte dev’essere calcolato: 
+–	dalla coda del treno fino ad ogni possibile punto di separazione nel treno 
+–	dalla testa del treno per ogni possibile punto di separazione fino a dopo il quinto veicolo del peso rimorchiato.
+Il rapporto di frenatura minimo di parte più piccolo calcolato deve corrispondere almeno al rapporto di frenatura in base alla tabella di frenatura utilizzata per la pendenza determinante e per una velocità di 25 km/h. 
+Per la determinazione del rapporto di frenatura minimo di parte sono computati: 
+–	il peso-freno computabile per la determinazione della categoria di freno del freno inserito 
+–	nel caso di veicoli motore rimorchiati con freno di notifica, il peso-freno del freno di notifica indicato nella tabella del veicolo motore o iscritto sul veicolo 
+Il rapporto di frenatura minimo di parte è considerato soddisfatto e non dev’essere verificato se tutti i veicoli sono frenati con un freno.
+Le IF che, a motivo della tabella di frenatura applicata e della pendenza determinante circolano, di principio, con una velocità inferiore a 25 km/h, pubblicano le necessarie prescrizioni nelle disposizioni esecutive. 
+Esempio: 
+–	locomotiva (tara 120 t, peso-freno M computabile 72 t)
+–	peso rimorchiato 1600 t
+–	i primi cinque veicoli non hanno un freno M (freni disinseriti) 
+
+Il rapporto di frenatura minimo di parte inferiore calcolato dalla coda del treno ammonta al 61%. Il rapporto di frenatura minimo di parte calcolato dalla testa al quinto veicolo del peso rimorchiato ammonta al 18%. 
+Con il rapporto di frenatura minimo di parte inferiore del 18% indicato nell’esempio, se si applica la tabella di frenatura G2016 non è ammesso circolare. Per pendenze fino al 14‰ occorre un rapporto di frenatura minimo di parte almeno pari al 20%. Se ad esempio con questo treno si deve percorrere una discesa del 20‰, il rapporto di frenatura minimo di parte inferiore ammonta al 31%. In questo caso il quarto e il quinto carro dalla testa del treno vanno scartati o collocati in un altro punto dello stesso. 
+	
+3.5.5	Veicoli con più unità freno 
+	
+	Se su un carro articolato o un’unità di carri indivisibile con più distributori è necessario disinserire una unità freno, l’altro distributore può rimanere inserito. Sono eccettuati tutti i veicoli per i quali l’iscrizione sul carro indica che tutti i distributori devono essere disinseriti. Per il calcolo di frenatura e per il rapporto di frenatura minimo di parte è ammesso computare un peso-freno, se esistono indicazioni per la singola unità. Se queste indicazioni mancano, per l’unità freno ancora funzionante si possono computare al massimo 7 t.
+	
+3.5.6	Veicolo non frenato in coda al treno 
+	
+	Il trasferimento di un veicolo non frenato in coda al treno è ammesso unicamente se questo, in seguito a un danno, è provvisto su un solo lato di organi di trazione e di repulsione funzionanti. A questo riguardo devono essere adempiute le condizioni secondo le prescrizioni «Perturbazioni ai freni e spezzamento di treni».
+	
+3.6	Forti discese e forti o lunghe salite	
+	
+Le ITF che percorrono forti discese e forti o lunghe salite, devono emanare le necessarie prescrizioni d’esercizio al riguardo. 	
+3.7	Categoria di treno e velocità massima	
+3.7.1	Applicazione delle categorie di treno e di freno
+	
+		
+A tutti i treni bisogna prescrivere nell’orario di marcia adeguate categorie di treno e di freno in base alla tabella delle tratte. 
+La categoria di treno e la categoria di freno costituiscono un insieme e vanno sempre indicate entrambe, anche in caso di cambiamenti. 
+La categoria di freno e di treno contenuta nell’orario di marcia viene definita come normale. Tutte le altre categorie di treno e di freno disponibili sono categorie supplementari. 
+Se il rapporto di frenatura esistente, il tipo di freno da utilizzare e la composizione del treno lo esigono o lo permettono, bisogna prescrivere una categoria supplementare con la categoria di freno maggiore possibile in base al calcolo di frenatura e comunicarla al MAC. Se opportuno dal punto di vista dell’esercizio, possono essere utilizzate anche categorie di freno più piccole. Il MAC deve desumere le velocità ammesse dalla tabella di tratta. 
+Con un rapporto di frenatura inferiore a quello minimo prescritto per la tratta interessata in base alla tabella di tratta, si può circolare solo in caso di eventi straordinari, p.es. dopo uno spezzamento del treno o in caso di perturbazioni. 
+Il rapporto di frenatura minimo necessario deve essere sufficiente con riguardo alle prescrizioni circa il rapporto di frenatura minimo di parte, almeno per la pendenza determinante e per la velocità più bassa secondo la tabella di frenatura applicata. 
+Per i treni loc, la categoria di treno e di freno è dedotta in base all’omologazione dei veicoli motori e al rapporto di frenatura esistente. 		
+		
+3.7.2	Velocità massime e lunghezza massima dei treni (UIC)	
+		Le velocità massime e le lunghezze massime ammesse dei treni per le singole categorie di treno e di freno applicando la valutazione del freno secondo UIC 544-1 sono: 
+	
+	Categoria di treno 
+Categoria di freno (%)	vmax
+(km/h)
+Osservazioni / Lunghezza massima ammessa dei treni 	
+				
+N	180 - 150	250	per treni ad assetto variabile fino a 500 metri	
+W	180 - 150	250	per treni con dispositivo di compensazione dell’oscillazione fino a 500 metri 	
+R	180 - 135
+
+125 - 105 	250
+
+160	per treni con velocità in curva aumentata fino a 500 metri 	
+A	115 - 50	120	fino a 750 metri	
+D	115 - 50	100	per carichi dell’asse oltre 20 t fino al massimo di 22.5 t, fino a 750 metri 	
+				
+		Le ITF definiscono nelle loro prescrizioni d’esercizio 
+–	il peso rimorchiato minimo per velocità oltre 160 km/h
+–	le categorie di treno per i veicoli da esse impiegati, secondo le direttive del GI 
+Per i treni con una lunghezza superiore a 750 metri, i GI possono emanare prescrizioni d’esercizio conformi alle STI. 
+	3.7.3	Velocità massime e lunghezze massime dei treni (DE-Oferr)
+	
+	I GI definiscono le velocità massime e le lunghezze massime ammesse dei treni per le singole categorie di treno e di freno applicando la valutazione del freno secondo Disposizioni d’esecuzione dell’Ordinanza sulle ferrovie (DE-Oferr RS 742.141.11) ad art. 52.
+	Le ITF disciplinano nelle loro prescrizioni d’esercizio le categorie di treno da applicare per i veicoli da esse impiegati, secondo le direttive dei GI.
+3.7.4	Altre restrizioni
+	
+	Occorre inoltre tenere in considerazione le riduzioni di velocità, in particolare per i trasporti straordinari, secondo il piano di trasporto. 
+Per i treni a guida indiretta, la velocità massima è di 30 km/h. Se esiste un collegamento telefonico fra la persona addetta alla guida indiretta in testa al treno e il MAC, la velocità massima è di 60 km/h. 
+	
+3.8	Indicazioni per la condotta del treno	
+3.8.1	Principio	
+	
+Prima della partenza, il MAC necessita almeno delle indicazioni seguenti: 
+–	la categoria di treno e di freno prescritta
+–	il peso rimorchiato
+–	la lunghezza del treno (in metri) 
+–	la velocità massima del peso rimorchiato
+–	la comunicazione se il treno è accompagnato.
+–	la presenza nel treno di merce pericolosa e la sua posizione nel 	treno
+•	–	per i treni merci, la parte di carri provvisti di freno a disco (D) e di ceppi LL e K (compresa l’indicazione del numero complessivo di carri) 
+–	–	per i treni merci, la parte di freni M (solo parte o intero treno) 
+–	–	per i treni merci, la forza di ritenuta disponibile.
+Il genere di avviso al MAC si basa sulle disposizioni esecutive dell’ITF. 
+Qualsiasi cambiamento delle indicazioni per la condotta del treno dev’essere annunciato dal PRT al MAC, segnatamente se
+–	il treno non può circolare alla categoria di treno e di freno prescritta
+–	le indicazioni differiscono dai bollettini di carico permanenti contenuti nelle prescrizioni d’esercizio
+–	le indicazioni mutano durante la corsa. 
+Le riduzioni della velocità sono da comunicare al MAC con obbligo di protocollo, il CMOV deve esserne informato. 	
+3.8.2	Nessuna indicazione necessaria 	
+	
+Il MAC riduce la velocità di sua iniziativa se 
+–	la velocità massima dei veicoli motore attivi è inferiore a quella prescritta per il treno 
+–	lo impongono l’ubicazione o eventuali danni dei veicoli motore attivi. 
+Il MAC aumenta la velocità di sua iniziativa se le relative condizioni sono soddisfatte. 	
+	
+4	Verifica del treno	
+4.1	Principio	
+	
+Le ITF disciplinano nelle loro prescrizioni d’esercizio l’esecuzione della verifica del treno. Il PRT coordina la preparazione del treno tecnica e d’esercizio. 
+Per la sosta e l’esecuzione di lavori fra i binari, o fra un binario e un ostacolo fisso, deve esistere uno spazio di sicurezza intermedio. In caso contrario occorre procedere secondo le disposizioni «Mancanza di uno spazio di sicurezza intermedio». Nel caso di aree dei lavori si deve procedere secondo le disposizioni per i «lavori nella zona dei binari». 
+Durante la verifica del treno la composizione può essere mossa o modificata solo se è stato informato tutto il personale che vi partecipa.	
+4.2	Estensione della verifica del treno	
+	
+Verifica del treno tecnica 
+Il PRT deve accertarsi che
+–	siano assicurate l’attitudine a circolare e la sicurezza di funzionamento
+–	le porte laterali e altre chiusure dei veicoli e dei contenitori siano chiuse ed assicurate 
+–	i carri merci siano caricati secondo le prescrizioni e le unità di carico e i contenitori siano assicurati 
+La verifica del treno tecnica va eseguita almeno una volta al giorno su ogni singolo veicolo e, per i carri merci, dopo una modifica del carico. 
+Verifica del treno d’esercizio:
+Il PRT deve accertarsi che
+–	il treno sia formato in modo corrispondente alle prescrizioni
+–	i veicoli siano accoppiati correttamente
+–	freni efficienti siano disponibili e ripartiti nel genere e nel numero prescritto e che i dispositivi d’inversione siano disposti correttamente 
+–	mezzi di frenatura indipendenti dall’azione del freno automatico siano disponibili in misura sufficiente per assicurare la forza di ritenuta minima 
+–	sui veicoli a cremagliera siano disponibili in misura sufficiente mezzi di frenatura non esauribili per assicurare i veicoli fermi
+–	dove possibile, la chiusura automatica delle porte funziona regolarmente 
+–	il treno sia dotato degli oggetti d’equipaggiamento, dei contrassegni e dei mezzi di segnalazione prescritti 
+–	la prova del freno sia stata eseguita.
+La verifica del treno d’esercizio va eseguita almeno una volta al giorno, su ogni treno formato a nuovo e in caso di cambiamenti durante la corsa. 	
+4.3	Prova dei freni	
+	
+Prima della partenza nella stazione iniziale, in caso di cambiamento della composizione, dopo un cambiamento del senso di marcia o dopo la messa in esercizio di un treno ricoverato si deve eseguire una prova dei freni. La prova va eseguita dalla stessa cabina di guida dalla quale durante la corsa vengono azionati i freni.
+Alla prova dei freni devono essere controllati i sistemi di frenatura i cui pesi-freno sono stati computati per il calcolo della categoria di freno e del rapporto di frenatura minimo di parte. 
+I sistemi di frenatura dei veicoli a cremagliera devono essere verificati secondo le disposizioni delle ITF. 	
+4.3.1	Esecuzione della prova dei freni	
+	
+Prima dell’inizio della prova dei freni 
+–	gli apparecchi di frenatura devono essere pronti ad entrare in funzione
+–	il freno ad aria dev’essere allentato. Questo controllo va eseguito su un veicolo qualsiasi.
+    • i freni d’immobilizzazione devono essere allentati. Fanno eccezione i freni d’immobilizzazione necessari per assicurare il treno contro la fuga. 
+    • bisogna verificare la tenuta stagna degli apparecchi di frenatura. 
+La prova dei freni va eseguita nella seguente sequenza su tutti i veicoli per i quali è prevista: 
+–	eseguire una frenatura d’esercizio 
+–	verificare se tutti i veicoli da controllare sono frenati
+–	allentare i freni
+–	verificare se i freni di tutti i veicoli da controllare sono allentati.
+Il controllo deve essere effettuato 
+–	ai veicoli stessi (ceppi dei freni di tutti gli assi, indicazione dello stato del freno) o
+–	ai manometri dei cilindri del freno dei veicoli motore e di comando serviti (p.es. al momento dell’accoppiamento di una locomotiva di spinta o se vengono riunite unità di treni spola). 
+Se per allentare i freni durante la prova è necessario azionare valvole di scarico, sui rispettivi veicoli si deve ripetere la prova dei freni. 
+Se durante la prova del freno si osservano avvenimenti tali da lasciare presumere un’irregolarità, si deve ripetere la prova del freno. 
+Con il materiale rotabile riportato nelle disposizioni esecutive dell’ITF, la prova del freno può avvenire in cabina di guida. In tale eventualità, tutti i veicoli devono essere dotati di un dispositivo di annuncio adatto. 
+Per i veicoli dotati di freno a vuoto, si devono osservare in più le disposizioni dell’Allegato 1.	
+4.3.2	Prova principale dei freni	
+	
+I freni di tutti i veicoli, ad eccezione dei veicoli motori ubicati in testa, devono essere controllati 
+–	quando viene formato il nuovo treno
+–	quando il treno è formato con parti giunte da treni in coincidenza oltre 2 ore prima
+–	se il treno è stato ricoverato per più di 12 ore
+–	giornalmente, sulle composizioni che vengono impiegate per più giorni senza subire modifiche 
+–	se durante la verifica dell’efficacia del freno si accerta inaspettatamente una cattiva azione frenante 
+–	se sussistono dubbi o incertezze sull’esecuzione della prova dei freni. 
+Quando più veicoli motore sono accoppiati la prova principale dei freni va eseguita già con la messa in servizio dei veicoli stessi. 
+La prova principale dei freni può essere eseguita anche con impianti fissi o con un altro veicolo motore. In questo caso, dopo l’accoppiamento del veicolo motore che conduce il treno bisogna eseguire una prova supplementare dei freni. 
+Per i veicoli dotati del freno a vuoto, si devono osservare in più le disposizioni dell’Allegato 1. 	
+4.3.3	Prova supplementare dei freni	
+	
+I freni dell’ultimo veicolo frenato ad aria, come pure tutti i veicoli aggiunti, devono essere verificati 
+–	ad ogni cambiamento del senso di marcia, se il veicolo motore in testa è stato accoppiato di nuovo
+–	se il treno è stato ricoverato per una durata di 2 fino a 12 ore.
+Il freno di un veicolo qualsiasi che si trova dietro l’ultimo punto di separazione della condotta principale, e di tutti quelli appena aggiunti deve essere controllato 
+–	dopo che, senza cambiamento della direzione di marcia, veicoli motore o veicoli sono stati sostituiti o aggiunti
+–	dopo che accoppiamenti dei freni sono stati staccati e riaccoppiati 
+–	se la prova principale dei freni è stata eseguita con un impianto fisso o con un altro veicolo motore, dopo l’accoppiamento del veicolo motore che conduce il treno. Se la prova principale dei freni è stata compiuta con un impianto fisso e questo è stato collegato fra i veicoli del treno, la prova supplementare dei freni va compiuta dietro il punto di collegamento dell’impianto. 
+Alle parti di treno che provengono da treni coincidenti nel giro di 2 ore si deve effettuare una prova supplementare del freno. Per ogni parte di treno, almeno un freno del corrispondente veicolo deve essere controllato secondo le disposizioni sopra citati. 
+Per i veicoli dotati del freno a vuoto, si devono osservare in più le disposizioni dell’Allegato 1. 	
+4.3.4	Prova dei freni semplificata	
+	
+Il MAC esegue la prova dei freni da solo, controllando la reazione dei freni ai manometri dei cilindri dei freni nella cabina di guida servita, più precisamente 
+–	ad ogni cambiamento di cabina di guida senza modifica della composizione 
+–	alla messa in servizio della cabina di guida dopo lo sganciamento della locomotiva di rinforzo in testa o di unità di treni spola 
+–	se il treno è stato ricoverato per un periodo durato fino a 2 ore 
+–	se la cabina di guida occupata è stata temporaneamente disattivata, o se la locomotiva lo è stata completamente. 	
+4.3.5	Prova del freno di notifica di veicoli motore rimorchiati	
+	
+Frenare
+Dopo aver eseguito una frenatura di servizio con una riduzione di 1 bar della pressione della condotta principale, i freni dei veicoli dotati di freno di notifica devono essere ancora allentati. 
+Successivamente, al più presto dopo 20 secondi si deve eseguire una frenatura rapida o aprire il rubinetto d’accoppiamento della condotta principale in coda al treno, finché il freno di notifica entra in azione e i ceppi del freno aderiscono saldamente. 
+Allentare
+Dopo aver ripristinato la pressione normale nella condotta principale, i freni dei veicoli dotati di freno di notifica devono essere allentati. 	
+4.3.6	Nessuna prova dei freni	
+	
+La prova dei freni non è necessaria
+–	se in coda al treno sono stati sganciati veicoli 
+–	dopo l’azionamento di dispositivi d’inversione (sui veicoli con freni ad aria compressa) 
+–	dopo il ripristino di un freno d’emergenza azionato. 
+Per i veicoli dotati del freno a vuoto, si devono osservare in più le disposizioni dell’Allegato 1. 	
+4.3.7	Fine della prova dei freni	
+	
+L’annuncio concernente la fine della prova dei freni è fatto dal PRT incaricato. L’annuncio va comunicato per tutto il treno al MAC secondo le prescrizioni «Segnali» o con obbligo di quietanza con l’avviso: «Treno ... freno buono».	
+	
+4.4	Fine della preparazione del treno
+4.4.1	Condizioni per la fine della preparazione del treno	
+	
+La preparazione del treno è conclusa quando
+–	la formazione del treno è terminata
+–	il MAC è in possesso delle indicazioni necessarie alla condotta del treno 
+–	sono state eseguite le parti necessarie della verifica del treno 
+–	la fine del treno è contrassegnata da un segnale di coda del treno. 
+Il PRT annuncia al MAC la conclusione della preparazione del treno. 	
+4.4.2	Annuncio dello stato della preparazione del treno	
+	
+Il PRT avvisa il CMOV e il MAC in merito allo stato della preparazione del treno, allorché essa 
+–	non può essere completata in tempo entro l’orario di partenza regolare, oppure 
+–	viene completata prima ed è ammessa la circolazione anticipata. 
+L’avviso va dato il più presto possibile. 
+Nelle sue disposizioni esecutive il GI può designare stazioni o parti di stazione nelle quali la fine della preparazione del treno va comunicata in ogni caso al CMOV. 	
+	
+	
+5	Preparazione dei treni in esercizio di tram
+5.1	Formazione dei treni
+5.1.1	Contrassegno dei treni	
+	
+La testa e la coda del treno devono essere segnalate prima della partenza in base alle prescrizioni sui segnali.	
+5.1.2	Guida diretta dei treni	
+	
+La guida diretta dei treni è ammessa alle seguenti condizioni
+–	il MAC ha costantemente la visuale libera sull’itinerario e sui segnali, e
+–	il MAC serve i freni, e
+–	il MAC ha la possibilità di dare segnali di attenzione, e
+–	il MAC ha a portata di mano i mezzi di segnalazione prescritti.
+La guida diretta dei treni avviene da un solo posto.	
+5.1.3	Guida indiretta dei treni	
+	
+I treni vengono condotti mediante la guida indiretta se il MAC non ha la visuale libera sull’itinerario e sui segnali. 
+La guida indiretta dei treni è ammessa solo con l’autorizzazione del GI o in caso di perturbazione. 
+La persona addetta alla guida indiretta deve collocarsi in modo tale da poter vedere l’itinerario e osservare i segnali in modo ineccepibile. 
+Le ITF disciplinano la procedura e la velocità massima consentita dei treni con guida indiretta nelle loro prescrizioni d’esercizio, all’occorrenza in base alle norme dei GI.	
+5.1.4	Ubicazione dei veicoli nei treni	
+	
+I veicoli motore devono essere collocati in testa al treno. I veicoli motore accoppiati direttamente e in comando multiplo contano come un unico veicolo motore. 
+Nei treni si possono inserire solo veicoli la cui costruzione adempie i presupposti per il trasporto con il treno interessato. I veicoli danneggiati o sviati possono essere ubicati nei treni solo dopo la verifica e l’approvazione del servizio tecnico. 
+Per l’inserimento di veicoli nei treni bisogna inoltre osservare le disposizioni seguenti: 
+–	le limitazioni alla circolazione di veicoli su singole tratte
+–	la velocità massima ammissibile dei veicoli in rapporto al loro tipo di costruzione
+–	le prescrizioni d’esercizio delle ITF per l’ubicazione di veicoli per il traino e la spinta come pure in caso di avarie.	
+5.1.5	Veicoli e composizioni non impiegabili liberamente	
+	
+Le ITF tengono elenchi dei veicoli e delle composizioni così come delle caratteristiche dei veicoli per i quali valgono restrizioni per circolare liberamente. 	
+5.1.6	Peso rimorchiato	
+	
+Le ITF disciplinano i pesi rimorchiati ammissibili e la lunghezza dei treni nelle loro prescrizioni d’esercizio, all’occorrenza in base alle norme dei GI.	
+5.1.7	Veicolo non frenato in coda al treno	
+	
+Il trasferimento di un veicolo non frenato in coda al treno è ammesso unicamente se questo è provvisto di dispositivi di trazione e di repulsione funzionanti. A questo riguardo devono essere adempiute le condizioni secondo le prescrizioni «Perturbazioni ai freni». 
+Le ITF disciplinano l’accompagnamento nelle prescrizioni d’esercizio.	
+5.2	Assicuramento di treni fermi	
+	
+I treni o le parti di treni fermi vanno assicurati contro il rischio di fuga.
+Le ITF disciplinano i mezzi di frenatura e la procedura nelle prescrizioni d’esercizio.	
+5.3	Prescrizioni di frenatura e velocità massima	
+	
+L’ITF assicura che il MAC disponga delle informazioni necessarie sulla composizione del treno e sulle caratteristiche dei freni.	
+	
+5.3.1	Velocità massima
+	
+	Le ITF disciplinano le velocità massime ammissibili nelle loro prescrizioni d’esercizio.
+	
+5.3.2	Indicazioni per la condotta del treno
+	
+	Le ITF disciplinano nelle prescrizioni d’esercizio le indicazioni necessarie al MAC per la condotta del treno e il tipo di avviso.
+	
+5.4	Verifica del treno
+5.4.1	Principio
+	
+	Con la verifica del treno vengono assicurate l’attitudine a circolare e la sicurezza di funzionamento. 
+Le ITF disciplinano nelle loro prescrizioni d’esercizio l’esecuzione della verifica del treno. Il PRT coordina la preparazione del treno tecnica e d’esercizio. 
+Durante la verifica del treno la composizione può essere mossa o modificata solo se è stato informato tutto il personale che vi partecipa.
+	
+5.4.2	Estensione della verifica del treno
+	
+	La verifica del treno tecnica e d’esercizio va eseguita almeno una volta al giorno conformemente alle disposizioni dell’ITF.
+	
+5.4.3	Prova dei freni
+	
+	Prima della partenza dal luogo d’origine, in caso di cambiamento della composizione, dopo un cambiamento della direzione di marcia o dopo la messa in esercizio di un treno ricoverato si deve eseguire una prova dei freni. La prova va eseguita dalla stessa cabina di guida dalla quale durante la corsa vengono azionati i freni. 
+Prima dell’inizio della prova freni:
+–	la formazione del treno dev’essere terminata
+–	gli apparecchi di frenatura devono essere pronti al servizio. 
+Se durante la prova dei freni si osservano avvenimenti tali da lasciare presumere un’irregolarità, si deve ripetere la prova dei freni. 
+	
+5.4.4	Fine della preparazione del treno
+	
+	Le ITF fissano nelle prescrizioni d’esercizio le condizioni e la procedura per la conclusione della preparazione del treno.
+
+Annesso 1
+
+
+
+Tabella della forza di ritenuta minima
+
+
+
+
+Allegato 1
+
+
+
+Prescrizioni complementari per il freno a vuoto
+
+
+
+
+
+	
+
+1	Prescrizioni di frenatura
+1.1	Pesi-freno computabili
+1.1.1	Principio
+	
+	Possono essere computati tutti i freni a vuoto come pure i freni ad aria compressa azionati con il vuoto.
+	
+1.1.2	Veicoli motore attivi
+	
+	I corrispondenti pesi-freno vanno rilevati dalle iscrizioni riportate sul veicolo motore. Per i veicoli motore dotati di freni a due stadi, bisogna computare il peso-freno R. 
+I freni magnetici di rotaia alimentati dalla batteria possono essere computati se la loro efficacia è controllata almeno una volta al giorno e se tutti i veicoli del treno sono frenati con un freno ad aria. 	
+	
+1.1.3	Veicoli motore rimorchiati
+	
+	Di principio, i veicoli motore rimorchiati, inclusi i trattori e le macchine di cantiere semoventi, si considerano non frenati.
+Eccezione: se la condotta d’alimentazione è accoppiata dalla locomotiva del treno e il veicolo motore rimorchiato è disposto in modo corrispondente, si può computare il peso-freno iscritto. Per i veicoli motori con freni a due stadi si deve computare il peso-freno V. 
+Nel caso di trattori e di macchine di cantiere serviti, il peso-freno iscritto può essere computato a condizione che la riserva d’aria compressa necessaria sia garantita. 
+	
+
+1.1.4	Veicoli con dispositivo vuoto-carico a tre stadi 	
+		
+	Si può computare il peso-freno corrispondente alla posizione del dispositivo vuoto-carico. 
+Esempio:
+	
+	Considerando questa iscrizione si può p.es. computare: 
+–	con un peso totale di 20 t / posizione L16: .............. 16 t
+–	con un peso totale di 21 t / posizione B22: .............. 22 t
+–	con un peso totale di 38 t / posizione B22: .............. 22 t
+–	con un peso totale di 45 t / posizione B42: .............. 42 t
+	
+1.1.5	Veicoli con freno ad aria compressa azionato con il vuoto 	
+		
+	I veicoli equipaggiati con freno ad aria compressa azionato con il vuoto portano l’iscrizione
+
+
+Per questi veicoli, oltre alla condotta principale, dev’essere accoppiata obbligatoriamente anche la condotta d’alimentazione. 
+			
+1.2	Azionamento degli sportelli d’aerazione	
+		
+	Dopo una lunga corsa in discesa, alla stazione di destinazione del treno, oppure in località designate dall’ITF, bisogna azionare gli sportelli d’aerazione. 
+La ventilazione non è necessaria nel caso di veicoli equipaggiati con valvole di livellamento. 	
+
+	
+2	Prova dei freni 
+2.1	Prova principale dei freni 
+	
+	La prova principale dei freni va eseguita nella successione seguente sui veicoli da controllare: 
+    • con la pompa ferma, lasciare scendere il vuoto lentamente a 0 cmHg
+    • dopo un minuto, aumentare il vuoto a 25 cmHg
+    • verificare se tutti i veicoli sono frenati
+    • aprire brevemente un tubo flessibile del freno in coda al treno; la riduzione del vuoto così provocata vale come richiesta di allentare i freni
+    • verificare che i freni di tutti i veicoli siano allentati 
+	
+2.2	Prova supplementare dei freni 
+	
+	Dopo aver commutato un dispositivo vuoto-carico, si deve verificare il freno del rispettivo veicolo.
+La prova supplementare dei freni deve essere eseguita nella successione seguente:
+    • eseguire una frenatura rapida
+    • verificare se tutti i veicoli da verificare sono frenati
+    • allentare i freni 
+    • se deve essere controllato l’ultimo veicolo, mediante la breve apertura di un tubo flessibile del freno bisogna verificare se viene aspirata dell’aria
+    • verificare che i freni di tutti i veicoli da verificare siano allentati.
+	
+2.3	Nessuna prova dei freni 
+	
+	La prova dei freni non è necessaria se dopo una lunga corsa in discesa sono stati azionati gli sportelli d’aerazione.
+In ogni caso, occorre verificare la tenuta stagna degli apparecchi del freno. 
+
+

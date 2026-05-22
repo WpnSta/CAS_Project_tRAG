@@ -1,0 +1,956 @@
+﻿Chemins de fer suisses	R 300.3
+
+
+
+Communication, annonces et transmissions
+
+
+1	Généralité
+1.1	Champ d’application
+	
+	Les présentes prescriptions règlent la procédure de transmission des messages et l’utilisation des différents moyens de communication.
+Ne sont pas traitées dans le présent règlement :
+–	la transmission des données pour la commande d’installations techniques
+–	les procédures d’alarme particulières et automatisées (par ex. systèmes d’avertissement automatiques sur les chantiers).
+	
+1.2	Sécurité et communication liée à la sécurité
+	
+	La sécurité ne doit en aucun cas dépendre de l’établissement d’une liaison de communication. La communication liée à la sécurité est prioritaire sur toute autre communication.
+	
+1.3	Langue
+	
+	Pour la communication écrite, on utilisera les langues officielles (langue écrite). 
+Pour la communication verbale, on utilisera les langues nationales (dialecte). En cas de désaccord entre les personnes impliquées et de difficulté de compréhension, on utilisera la langue officielle du lieu.
+Les GI règlent les interfaces au niveau linguistique de manière réciproque dans les prescriptions d’exploitation.
+	
+1.4	Information à la clientèle	
+	
+	Les GI et les ETF règlent le déroulement des processus conjoints pour l’information à la clientèle, d’un commun accord.
+		
+
+
+2	Messages
+2.1	Contenu des messages
+	
+	Un message se compose d’un contenu et comprend les désignations de l’expéditeur et d’un ou de plusieurs destinataires. 
+	
+2.2	Genre de messages
+	
+	Les messages, au sens des prescriptions de circulation des trains, sont toutes les annonces, ordres, avis et informations nécessaires à l’exploi­tation ferroviaire. 
+	
+2.3	Rédaction des messages
+	
+	Les messages doivent être formulés de manière claire et concise.
+Les termes, de manière claire et explicite, les désignations complètes et les abréviations officielles seront utilisées. Les textes prescrits doivent être utilisés.
+Les messages doivent être rédigés de manière logique et positive.
+L’expéditeur est responsable de l’exactitude des messages qu’il transmet.
+		
+			
+			
+		
+
+
+3	Instruments de transmission
+3.1	Types d’instruments
+	
+	Un message peut être transmis avec ou sans dispositifs techniques.
+Au sens du présent règlement, les dispositifs techniques de transmission sont assimilés aux dispositifs permettant la transmission de messages en phonie ou par télécopie.
+	
+3.2	Instruments utilisés
+	
+	Les instruments sont répartis comme suit :
+–	par écrit
+	remise de documents au format papier, sans dispositif technique de transmission, par ex. formulaires (formulaire d’ordre, marche), instruction, circulaire
+–	par télécopie
+	par ex. transmission de textes par courriel, internet, intranet, SMS, pager, messages codés sur l’interface utilisateur, fax
+–	de vive voix
+	de personne à personne sans dispositif technique de transmission 
+–	en phonie
+	par ex. téléphone, téléphone mobile, radio, interphone.
+	
+3.3	Choix des instruments
+	
+	L’utilisation des instruments spécifiques pour transmettre des messages déterminés est réglée, si nécessaire, dans le cadre des processus d’exploitation. Lorsque rien n’est prévu, l’expéditeur utilisera le moyen le plus approprié. 
+	
+3.4	Utilisation des formulaires
+	
+	Les formulaires existants doivent être utilisés également pour la transmission de messages en phonie. 
+
+4	Procédures
+4.1	Procédures utilisées
+	
+	Un message est transmis comme suit, en fonction de son degré d’impor­tance quant à la sécurité :
+–	par un ordre à protocoler (protocoler) ou
+–	par un avis à quittancer (quittancer) ou
+–	par une information (informer).
+	
+4.2	Genre de procédures
+4.2.1	Protocoler
+	
+	Un message doit être protocolé afin de garantir une sécurité maximale de transmission. On s’assure en particulier que
+–	le contenu du message parvienne de manière optimale au destinataire souhaité et
+–	le message soit transmis de manière compréhensible.
+	En outre, le message doit bien être visible ou pouvoir être en tout temps disponible et lisible pour le destinataire.
+Le message doit être conservé aussi bien chez l’expéditeur que chez le destinataire (par ex. transcription d’un message sur un formulaire ou une check-list) et le destinataire confirme la bonne réception de celui-ci en indiquant son nom et sa fonction.
+Le nom, la fonction et la date de la transmission ainsi que l’heure pour les transmissions en phonie doivent être indiqués sur le message pour la traçabilité de la transmission.
+Lors d’une transmission en phonie, l’expéditeur doit mettre par écrit le message avant de le transmettre. Le destinataire doit prendre note du message et le répéter mot à mot. L’expéditeur vérifie le texte répété et confirme l’exactitude du message.
+En cas de transmission par télécopie, le destinataire doit renvoyer à l’expéditeur, comme confirmation, une copie du message reçu.
+Les retours d’information automatiques ne sont pas admis pour les messages à protocoler. 
+Si la confirmation manque, le message doit être considéré comme n’ayant pas été transmis.
+Le message doit être conservé au moins 24 heures après l’événement auquel il se réfère.
+	
+	
+	
+4.2.2	Quittancer
+	
+	Le but de la quittance est d’assurer que les données essentielles d’un message parviennent au bon destinataire.
+La réception est quittancée. En principe, le message n’est pas conservé par le destinataire. Toutefois, si la durée de validité du message dépasse celle de la durée du service, on le transcrira de manière adéquate.
+En cas de transmission de vive voix ou en phonie, le contenu du message soumis à quittance doit être répété par son destinataire, qui indiquera son nom et sa fonction. L’expéditeur vérifie le texte répété et en quittance l’exactitude.
+Une quittance peut également être transmise par télécopie comme message propre (confirmation de la réception). Ce dernier n’est pas soumis à quittance et fait partie intégrante du message d’origine.
+En cas de transmission par télécopie, une confirmation de lecture transmise automatiquement en retour par le système remplace la quittance.
+Si la quittance manque, le message doit être considéré comme n’ayant pas été transmis.
+	
+4.2.3	Informer
+	
+	Les messages transmis à titre informatif ne doivent être ni protocolés ni quittancés, car ils n’ont pas un caractère déterminant pour la sécurité.
+	
+4.3	Application des procédures
+	
+	La procédure à utiliser lors de la transmission de messages est prescrite dans les prescriptions spécifiques. S’il n’y en a pas, l’expéditeur utilisera le moyen le mieux approprié, compte tenu de la nature du message à transmettre.
+Si pour des raisons techniques, une procédure de transmission ne peut pas être appliquée, il faut appliquer une procédure sûre ou utiliser un autre moyen.
+
+5	Horaire et tableau des parcours
+	
+	Les dispositions relatives à l’horaire et au tableau des parcours ne s’appliquent pas dans le cadre de l’exploitation des tramways. Les GI et les ETF règlent dans leurs prescriptions d’exploitation les situations correspondantes.
+	
+5.1	Compétences
+5.1.1	Etablissement
+	
+	Le GI établit et actualise :
+–	le tableau des parcours
+–	l’horaire pour les trains et les mouvements de manœuvre en pleine voie. Cela comprend également l’établissement des marches et des horaires graphiques. 
+	
+5.1.2	Annonce
+	
+	Le GI annonce :
+–	la mise en marche de trains ou mouvements de manœuvre réguliers 
+–	la mise en marche de trains ou mouvements de manœuvre facultatifs
+–	la mise en marche de trains ou mouvements de manœuvre spéciaux
+–	les dérogations par rapport aux annonces antérieures
+–	la suppression partielle ou totale d’un train ou d’un mouvement de manœuvre.
+	
+5.1.3	Répartition
+	
+	Le GI transmet les documents nécessaires ou annonces à ses services concernés et aux ETF intéressées afin que ceux-ci puissent garantir la transmission à temps au personnel concerné. 
+Les marches et le tableau des parcours doivent être remis au MEC ou, selon les besoins, les horaires aux autres agents. Les marches pour les mouvements de manœuvre en pleine voie doivent être en plus remises au CMAN.
+En cas d’annonces à court terme, le CC avise contre quittance le MEC. Le MEC doit cependant noter par écrit au moins le numéro du train.
+	
+
+5.2	Documents pour le MEC
+	
+	Le MEC prélève les données de la marche et du tableau des parcours nécessaires à la conduite convois. Dans le trafic transfrontalier sur des lignes interopérables, les documents doivent être structurés par l’ETF selon les exigences de la STI.
+	
+5.3	Marche 
+5.3.1	Contenu de la marche 
+	
+	La marche doit contenir au minimum :
+–	la numérotation du train ou du mouvement de manœuvre
+–	les heures de circulation avec les désignations locales correspondantes
+Si nécessaire, elle contient en plus :
+–	la période de circulation
+–	la catégorie de train et de freinage
+–	les autres indications nécessaires à la conduite du train.
+Des simplifications peuvent être établies, telles que marches cadencées.
+	
+5.3.2	Indications complémentaires pour les trains facultatifs et trains spéciaux
+	
+	Lors de l’annonce de trains facultatifs et de trains spéciaux, il sera indiqué en plus :
+–	le jour de circulation ou la période de circulation
+–	pour les trains spéciaux, si le train est accompagné.
+	
+5.3.3	Marche simplifiée pour trains
+	
+	En lieu et place de toutes les heures de circulation, seul 
+–	l’heure de départ de la gare initiale
+–	les arrêts
+–	les heures de circulation nécessaires pour la gestion du trafic
+seront mentionnés.
+La situation effective sera réglée au fur et à mesure par le GI.
+	
+
+5.3.4	Marche pour mouvements de manœuvre en pleine voie
+	
+	Des marches distinctes doivent être établies pour l’aller et le retour lorsque le mouvement de manœuvre en pleine voie aboutit sur une voie de raccordement et qu’un avis d’arrivée est exigé.
+	
+5.3.5	Indications complémentaires pour les mouvements de 
+manœuvre en pleine voie spéciaux
+	
+	La marche doit mentionner, en plus des données pour les mouvements de manœuvre ordinaires en pleine voie :
+–	le jour de circulation 
+–	les données du trajet à parcourir de ... à ..., au besoin via voie ...
+–	l’indication lorsque plusieurs mouvements de manœuvre se trouvent sur la même voie de la pleine voie, même si leur marche figure dans l’horaire de service
+–	l’indication lorsqu’un train en détresse ou une partie de train abandonnée est à dépanner
+–	l’indication lorsque le mouvement de manœuvre en pleine voie emprunte une voie interdite ou démarre d’une voie interdite
+–	l’indication lorsque l’on suit un train précédant.
+	
+5.4	Tableau des parcours
+5.4.1	Contenu du tableau des parcours
+	
+	Le tableau des parcours doit contenir au moins :
+–	les gares et les haltes ainsi que leur point kilométrique
+–	la déclivité déterminante entre les différentes gares
+–	les vitesses maximales liées à l’infrastructure, à la rigueur de manière différenciée en fonction des catégories de train et freinage
+–	toutes les indications nécessaires pour la circulation en gare et en pleine voie.
+	
+
+5.5	Description de la marche
+5.5.1	En-tête
+	
+	15 1507		Numéro du train ou mouvement de manœuvre, si nécessaire avec la période de circulation
+	R 125		Catégorie de train et de freinage, pour les trains de locomotive seulement « loc »
+			
+	
+	B		Marche cadencée		
+	R 125		Les marches de train qui ne diffèrent que par le chiffre des heures sont réunies en marches cadencées. Elles sont désignées par une lettre. Une liste mentionne le numéro des trains qui circulent selon cette marche cadencée ainsi que leur première heure de circulation.		
+					
+					
+		
+	Pour des indications plus précises, le numéro de train peut être complété par des lettres correspondantes.	
+		
+	53534 F		Facultatif		
+	61558 P		Trains de marchandises ou trains de service avec service voyageurs		
+	25 28567 Y		Facultatif les autres jours		
+					
+			
+	Pour les mouvements de manœuvre en pleine voie, le numéro doit être complété de la lettre R.		
+			
+	36579 R		Mouvement de manœuvre en pleine voie		
+					
+		
+
+5.5.2	Colonne des heures de circulation	
+		
+	12.25		Arrêt (en caractère gras)
+L’heure complète n’est mentionnée qu’à la gare de départ et à la gare terminale. Dans les gares intermédiaires, l’heure complète ne sera mentionnée que lorsque l’unité change		
+	7.12
+14		Heure d’arrivée
+Heure de départ 
+Mentionné seulement lors d’un arrêt de plus d’une minute		
+	H		Arrêt sans indication de l’heure de départ		
+	(H)		Arrêt facultatif		
+	(H) 27		Arrêt facultatif avec indication de l’heure		
+	(32)		Heure de passage		
+	7(03)
+(08)		Heure de passage dont les minutes sont différentes		
+	– –		Passage sans indication de l’heure		
+					
+				
+	Signes placés à gauche des heures de circulation :	
+		
+	 44		Autorisation de départ nécessaire par le CC		
+	 15.37		Entrée sur voie occupée		
+					
+	
+
+5.6	Description du tableau des parcours
+5.6.1	Colonne des gares
+				
+		Montagny			Gare 
+
+				
+				
+		Torny			Halte 
+
+				
+	
+	L’équipement de la pleine voie est désigné comme suit :
+	
+	« sans signe »			Tronçon à simple voie ou ligne à plusieurs voies équipées pour la banalisation
+					Tronçon à deux voies équipé pour l’exploita­tion à voie unique
+					Tronçon à deux voies équipé pour l’exploita­tion à voie unique et avis contre quittance au MEC pour toute circulation sur la voie de droite
+					Tronçon à deux voies non équipé pour l’ex­ploitation à voie unique
+	
+
+	Les signes ci-après, placés à gauche des noms des gares, signifient :	
+		
+			Châtonnaye			Pas de signal avancé d’entrée
+			Pringy			Pas de signal avancé de sortie
+			Rossens			Pas de signal avancé d’entrée et de sortie
+			Châtillon			Gare en cul-de-sac
+			Mannens			Entrée sur voie occupée
+			Grandsivaz			Entrée dans une gare sans accès dénivelé aux quais
+			Porsel			Autorisation de départ nécessaire par le CC 
+			Nuvilly			Installation de passage à niveau ouverte avant le signal de sortie
+				
+		
+	Les signes ci-après, placés sous le nom des gares, signifient :	
+		
+		Chevroux
+	 B 1-3			Voies en cul-de-sac dans une gare de passage ou 
+entrée sur une voie à utilisation restreinte	
+		Villarey
+	  Im 2			Entrée dans une gare sans accès dénivelé aux quais lorsque l’exécution de vitesse signalée correspond	
+		Praratoud
+	 6-10			Autorisation de départ nécessaire par le CC pour les voies spécifiées	
+					
+					
+	Les vitesses maximales en gare sont représentées comme suit :
+	
+		Joyeville			Vitesse en gare : la vitesse de pleine voie la plus élevée avant ou après la gare est applicable	
+		Bollion	60		Vitesse en gare	
+		Châbles	140
+125		Vitesse d’entrée
+Vitesse de sortie	
+		Savièse	25-10
+35		Graduation de la vitesse	
+		Bottoflens	
+110		Vitesse selon image 3, mais supérieure à celle indiquée dans les prescriptions des signaux	
+					
+	
+	Les tronçons de pleine voie devant être parcourus en permanence à vitesse réduite sont repris entre les noms des gares comme suit :
+	
+		C 100			Vitesse dans la courbe 100 km/h	
+		C sort. 80			Vitesse dans la courbe après la sortie 80 km/h	
+		C a.H  60			Vitesse dans la courbe après la halte 60 km/h	
+		C 95-85			Deux courbes contiguës, la première doit être franchie à 95 km/h, la suivante à 85 km/h	
+					
+	
+	Les indications ci-après, placées entre les noms des gares, signifient :
+	
+		km 62.6			Endroit où la vitesse de pleine voie change	
+		Aiguille km 56	80		Emplacement d’une aiguille en pleine voie avec la vitesse maximale correspondante	
+		VR Vesin
+	km 12.8			Emplacement d’une voie de raccordement	
+			km 67.8
+km 66.5			Emplacement d’une zone pour les chemins de fer routiers	
+	
+5.6.2	Colonne des vitesses
+	
+	A			Catégorie de train
+Catégorie de freinage	
+	Rapport de freinage en  %	115	80	65	50				
+								
+		Le Mouret		75	70	65	45		Vitesse en pleine voie à partir du point d’exploitation con­cerné en km/h, en fonction du rapport de freinage	
+		Marly				55	35			
+		Senèdes			75	70	XX		Le signe XX signifie que le tronçon de voie ainsi désigné ne peut pas être parcouru avec cette catégorie de train et de freinage	
+		La Roche				75	XX			
+	
+
+5.6.3	Colonne pour la communication mobile
+	
+	Canal ou no		
+	S	GSM		Système de communication mobile
+	21	1301		Canal ou numéro de sélection abrégé
+				Cela permet d’atteindre le CC compétent
+
+La limite du système de communication mobile est indiquée à l’aide d’un trait horizontal
+	21.2			
+				
+				
+	
+5.6.4	Colonne des signaux de block
+	
+	Signaux de block et diagonales d’échange, signaux «siffler», etc.		
+	km	nom	désign.		
+	47.2	Lentigny	81 R/S		Les signaux de block sont mentionnés avec la désignation « block » ou le nom du block, les signaux de protection par « signal de protection ». Les diagonales d’échange sont mentionnées en plus par un triangle
+	45.1	Block	85 R/S		
+	43.3	Signal de 
+	protection	29 D		
+	40.2	Seiry 	87 R/S		
+				
+	34.9	Aiguille			Aiguille en pleine voie
+				
+	50.7				Equipement de voie du contrôle de la marche des trains destiné au contrôle des installations de passage à niveau
+				
+	52.3				Signal « siffler »
+				
+	67.8
+66.5					Zone pour les chemins de fer routiers
+				
+	42.7				Début de la section de protection
+	26.7		L			Début de la section de protection longue
+	105.8		F			Début de la section de protection facultative
+				
+	
+	Lorsqu’il existe plusieurs équipements de voie du contrôle de la marche des trains ou plusieurs signaux « siffler », le nombre figure à gauche de leur symbole. Il n’y a pas d’indication kilométrique lorsque l’emplacement des signaux correspondants est mentionné dans une liste.
+
+
+6	Annonces d’exploitation
+6.1	Principe 
+	
+	Par annonces d’exploitation, on entend les messages devant être transmis à court terme en raison de perturbations, de modifications ou de restrictions temporaires, tels qu’annonces au moyen d’un formulaire d’ordre, annonce d’une interdiction de voie.
+	
+6.2	Annonces à l’aide du formulaire d’ordre 
+(ordres 1, 3, 4, 5, 6, 8 et 9)
+6.2.1	Transmission des ordres
+	
+	Les ordres doivent être transmis par un avis à protocoler ou contre quittance. Pour les ordres à protocoler, on tiendra compte dans tous les cas des dispositions y relatives pour les formulaires de la première catégorie. Les ordres seront transmis au plus près possible de l’endroit d’exécution.
+	
+6.2.2	Remise d’un ordre directement au destinataire
+	
+	Le CC doit remettre l’ordre au MEC se trouvant à l’avant du convoi. Le reste du personnel roulant concerné doit être avisé contre quittance par le MEC.
+L’ordre 9 doit être retransmis par le MEC se trouvant à l’avant du convoi au moyen d’un ordre à protocoler.
+	
+6.2.3	Remise d’un ordre sur mandat
+	
+	Le CC peut déléguer la remise d’un ordre. Dans ce cas, le mandat de remise d’un ordre à protocoler doit également être protocolé. Les mesures de sécurité éventuelles doivent être prises avant de transmettre cet ordre.
+La remise d’un ordre doit être confirmée contre quittance au CC de la gare qui a émis l’ordre. Le MEC peut aussi confirmer la réception d’un ordre directement à la gare qui a émis l’ordre.
+La remise de l’ordre 1 ne doit pas être confirmée.
+	
+6.2.4	Transmission de l’assentiment
+	
+	Dans le cas d’un ordre à protocoler, le CC ne peut transmettre l’assentiment correspondant à un train ou à un mouvement de manœuvre que lorsque l’ordre a été donné ou la remise de l’ordre confirmée.
+	
+
+6.2.5	Suppression d’un ordre à protocoler
+	
+	Si un ordre à protocoler n’est pas nécessaire ou est supprimé, il faut aviser le MEC par un ordre 4 à protocoler. 
+Un ordre 1 peut aussi supprimer un ordre 3 sans qu’un ordre 4 ne soit nécessaire.
+	
+
+7	Transmission par télécopie
+7.1	Identification
+	
+	Avant la transmission d’un message, l’expéditeur doit s’assurer qu’il s’adresse bien au destinataire souhaité. S’agissant des messages liés à la sécurité, le destinataire doit être indiqué dans le texte.
+	
+7.2	Application
+	
+	Pour la transmission par télécopie de messages à protocoler ou à quittancer, les appareils des destinataires doivent remplir les conditions liées à cette procédure. 
+La conduite du train de manière sûre ne doit pas être influencée par la lecture d’une annonce. Le MEC ne peut lire qu’à l’arrêt les annonces contenant notamment beaucoup de texte.
+	
+
+
+8	Transmission en phonie
+8.1	Principes de base
+8.1.1	Utilisation
+	
+	Les systèmes de communication pour la transmission en phonie ne peuvent être employés que pour les besoins de l’exploitation ferroviaire. Toute autre éventuelle utilisation est de la responsabilité de l’ECF. 
+Avec les systèmes de radio, l’utilisation hors du plan de réseau (canaux / lieux d’engagement / appareils) est interdite. Le canal radio ne peut être modifié que dans les cas prévus ainsi qu’en cas d’urgence.
+	
+8.1.2	Communication pour la conduite du train
+	
+	Pour les trains conduits de manière directe ayant une locomotive de renfort en tête, intercalée ou en queue, les différents MEC doivent pouvoir communiquer. Avant le départ, il convient de s’assurer du bon fonctionnement de la liaison entre tous les MEC.
+Pour les trains conduits de manière indirecte, une surveillance continue de la liaison est obligatoire. Les prescriptions pour la communication de la manœuvre s’appliquent.
+	
+8.1.3	Contrôle de fonctionnement
+	
+	Lors de la mise en service de systèmes de communication mobiles, si cela est prescrit, on effectuera un contrôle de fonctionnement; ce contrôle comprend la vérification du bon fonctionnement technique des lignes de transmission.
+Le contrôle de fonctionnement s’effectue en établissant un contact avec une autre personne impliquée. Celui-ci pourra être utilisé en même temps pour annoncer une prise de service ou pour toute autre conversation. Une fois la liaison établie, la conversation qui suit l’appel débutera par la phrase 
+« contrôle de fonctionnement ». Un ordre ne pourra être transmis qu’une fois ce contrôle effectué.
+	
+8.2	Adressage
+	
+	Lorsqu’un réseau comprend plus de deux postes, on systématisera les appels car, en règle générale, le message ne s’adresse qu’à une personne distincte ou à un groupe de personnes. En fonction du système utilisé et du rayon d’application des appareils, il est possible de s’adresser verbalement à son interlocuteur ou d’utiliser des moyens techniques.
+	
+	
+	
+8.2.1	Appel sélectif (appel avec des moyens techniques)
+	
+	En cas d’appel sélectif, les personnes impliquées sont appelées individuellement. Chaque personne impliquée prend l’appel de manière séparée.
+Si plusieurs appareils ou services sont activés, on lancera ensuite un appel ouvert.
+	
+8.2.2	Appel ouvert (appel verbal)
+	
+	L’appel ouvert suivi d’un nom d’appel ou l’appel de groupe permet à toutes les personnes impliquées d’écouter la conversation.
+	
+8.2.3	Ecoute brève
+	
+	Lors de l’utilisation d’interphones et de systèmes radio avec liaison ouverte, on effectuera une écoute brève d’une durée d’environ 3 secondes avant de parler ou de presser sur la touche de conversation; ceci afin d’écouter si une conversation est en cours ou si la surveillance de liaison est enclenchée.
+On interrompra la conversation qu’en cas d’urgence.
+	
+8.2.4	Noms d’appel
+	
+	Les noms d’appel doivent être clairs et complets. Lorsqu’il y a deux personnes impliquées ou plus, les noms d’appel doivent être choisis de manière à ne susciter aucun malentendu. Lors d’appel ouvert ou d’appel de groupe au MEC, c’est le MEC se trouvant à l’avant du convoi qui est concerné. Si l’on désire appeler le MEC d’un autre véhicule moteur, cela devra être précisé dans le libellé du nom d’appel, par ex. « loc de pousse 51037 ».
+	
+8.2.5	Identification
+	
+	Avant la transmission d’un message, l’expéditeur doit identifier de manière absolue le destinataire. Les personnes concernées doivent indiquer leur position. La désignation de la position doit être choisie en fonction de la situation, par ex. une gare, une centrale d’exploitation, un tronçon de la pleine voie, l’indication kilométrique, l’emplacement devant un signal ou devant un indicateur. Si un nom d’appel n’est pas identifié, on se renseigne à nouveau afin d’éviter toute transmission erronée de messages.
+	
+
+8.3	Comportement	
+		
+	Le bon comportement des personnes impliquées à la communication contribue à éviter les malentendus et les accidents; elle revêt donc une extrême importance pour la sécurité. 
+En principe, le convoi doit être à l'arrêt lorsqu'un ordre doit être donné par écrit par le personnel roulant. L'ETF peut procéder à une évaluation commune des risques avec le GI concerné afin de déterminer, le cas échéant, les conditions dans lesquelles il est sûr de déroger à ce principe.	
+		
+8.3.1	Discipline verbale	
+		
+	–	Les formules de conversation prescrites doivent être appliquées
+–	les numéros de trains seront toujours prononcés en entier
+–	les numéros à plusieurs chiffres doivent être prononcés sous la forme d’un seul chiffre et être transmis l’un après l’autre selon  les exemples ci-après : 
+		782	sept-huit-deux
+		5543	cinq-cinq-quatre-trois
+		19471	un-neuf-quatre-sept-un
+	–	pour éviter toute erreur on utilisera, en lieu et place de lettres isolées, des mots complets. Par ex : « Bravo 9 » au lieu de « B 9 », 
+« Mike 7 » au lieu de « M 7 »
+–	lors de difficultés de compréhension, les mots doivent être au besoin épelés. On utilisera pour cela des mots ne présentant aucune équivoque (voir la tabelle d’épellation)
+	–	on n’utilisera des expressions locales que si toutes les personnes impliquées les connaissent bien, par ex :
+		faisceaux	atelier, remise, dépôt
+		voies isolées	au quai, trémie, abattoirs
+	–	on parlera par intermittence, particulièrement lors de l’utilisation de systèmes où la transmission n’est possible dans les deux directions que l’une après l’autre (en mode interphone, par ex. radio, interphone).
+		
+
+8.3.2	Formules de conversation
+	
+	Les formules de conversation ci-après doivent être appliquées
+–	pour les systèmes dotés du mode interphone 
+–	avec les systèmes, où il est possible de parler en même temps, pour les messages liés à la sécurité. Lorsqu’un seul expéditeur et destinataire sont concernés, il est possible de renoncer aux formules de conversation compris, répondez et terminé.
+	
+	Formules de conversation	Signification
+	–	pour l’introduction de séquences de conversation :
+	compris	introduit la séquence de conversation
+	juste	confirme l’énoncé exact du message qui précédait
+	pas compris, répétez	la dernière séquence de conversation n’a été que partiellement ou pas du tout perçue, elle doit être répétée
+	faux	la répétition du message qui précédait est faux, introduit la correction
+		
+	–	complément aux formules d’introduction :
+	je répète	introduit la répétition
+	j’épelle	introduit l’épellation
+		
+	–	pour faire patienter brièvement l’interlocuteur :
+	attendez	introduit une pause dans une liaison en cours
+		
+	–	si la conversation doit reprendre ultérieurement :
+	je rappelle	annonce l’interruption imminente de la liaison
+		
+	–	pour terminer votre séquence de conversation :
+	répondez	termine votre séquence de conversation, une réponse est attendue
+	terminé	fin de la conversation par l’expéditeur
+		
+	–	pour introduire un appel d’urgence :
+	mayday, mayday,
+mayday	identique dans toutes les langues, à ne pas utiliser si une fonction d’appel d’urgence technique est disponible
+	
+	–	dans le contexte de remise d’ordres :
+	suppression d’un
+ordre	introduction pour la suppression et le retrait d’un ordre
+	erreur (et év. 
+préparez un nouvel ordre)	en cas de problème de transmission technique ou si l’émetteur a transmis des informations erronées.
+	
+8.3.3	Application des formules en cas de conversation en mode 
+interphone
+	
+	Emetteur « Magne »	Destinataire 
+« Demierre »	Signification
+	appel ouvert / appel de groupe
+	
+	
+	
+	
+			
+	
+	
+	
+Ecoute brève	
+	Demierre de Magne 
+répondez
+	identification de 
+l’expéditeur
+	Magne de Demierre compris, répondez	identification du 
+destinataire
+compris, « TEXTE »
+répondez		transmission du 
+message
+	compris,
+« répéter le TEXTE »
+répondez	répétition du message
+Juste		confirmation de la transmission exacte
+Terminé		fin de la conversation
+
+Appel sélectif		
+appel sélectif - 
+son de confirmation	son d’appel	
+	Demierre, répondez	identification du 
+destinataire
+Magne, compris,
+« TEXTE »
+répondez		transmission du 
+message
+	Compris, « répéter le TEXTE »
+répondez
+	répétition du message
+Juste		confirmation de la transmission exacte
+Terminé		fin de la conversation.
+		
+8.3.4	Applications des formules en cours de conversation lorsqu’il est possible de parler en même temps (seulement un 
+expéditeur et un destinataire)	
+	
+Emetteur « Chassot »	Destinataire 
+« Salomon »
+Signification	
+Appel sélectif 	
+appel sélectif	son d’appel	
+	Poste directeur 
+Mannens, Salomon
+identification du
+destinataire	Poste directeur 
+Autafond, Chassot	
+identification de 
+l’expéditeur	« TEXTE »	
+transmission du 
+message		« répéter le TEXTE »
+
+répétition du message	Juste	
+confirmation de la transmission exacte	« TEXTE »	
+fin de la conversation.	
+8.3.5	Enregistrement		
+	Au moyen d’installations spéciales, il est possible d’enregistrer en tout temps les conversations, ceci afin d’éclaircir certaines irrégularités, de surveiller la discipline radio, etc. Lors d’accidents ou d’irrégularités, ces enregistrements doivent immédiatement être mis en sécurité pour le service d’enquête.	
+	
+9	Communication de la manœuvre
+9.1	Remarques préliminaires
+	
+		
+Les prescriptions pour la communication de la manœuvre s’appliquent pour les transmissions en phonie des mouvements de manœuvre. Pour les trains conduits de manière indirecte, ces prescriptions doivent être appliquées par analogie pour la liaison entre la personne assurant la conduite indirecte en tête du convoi et le MEC.		
+	
+9.2	Structure du réseau avec un système de radio	
+		
+	Normalement, un canal radio de la manœuvre ou un appel de groupe pour la manœuvre n’est utilisé simultanément que par un seul groupe d’utilisateurs.	
+	
+9.3	Liaisons avec un système de radio
+	
+	
+	Les possibilités de liaisons des canaux radio de la manœuvre ou des appels de groupe pour la manœuvre figurent sur le plan de réseau ou de liaisons.	
+		
+9.3.1	Contrôle de fonctionnement
+	
+	
+	Le contrôle de fonctionnement au sein de l’équipe de manœuvre (y compris le MEC) doit être effectué comme suit :
+–	avec chaque personne impliquée de l’équipe de manœuvre
+–	au début de l’activité radio
+–	après un changement de canal radio 
+–	avec une personne impliquée quelconque de l’équipe de manœuvre
+–	par une nouvelle personne impliquée entrant dans un groupe
+–	après un remplacement d’appareil ou d’accumulateur
+–	après un échange de personnel
+–	après un échange de véhicule moteur.		
+	
+9.4	Comportement durant les mouvements de manœuvre 
+9.4.1	Simplification de la transmission	
+	
+			
+Tous les messages liés aux mouvements de manœuvre doivent être répétés et leur exactitude contrôlée; les messages concernant la sécurité seront répétés mot à mot et quittancés.
+
+
+Dans un groupe de communication existant, on peut appliquer les formes de conversation simplifiées ci-après :
+–	après avoir identifié le destinataire, on renoncera à préciser la position et le nom de l’expéditeur
+–	une fois les émetteurs et destinataires identifiés, on renoncera aux formules « compris » et « répondez ».
+La simplification de la transmission peut être également appliquée pour les trains avec plusieurs véhicules moteurs desservis dans le même train.	
+	
+	
+9.4.2	Demande et assentiment pour les mouvements de manœuvre 
+	
+	
+		Quand l’assentiment est donné sans signaux fixes de manœuvre :
+–	le CC établit tout d’abord le parcours demandé
+–	ensuite, le CC quittance en entier le libellé du parcours demandé et transmet simultanément l’assentiment avec le mot « établi »
+–	si le parcours demandé ne peut pas être établi immédiatement, le CC le justifiera en transmettant le message 
+« attendez ». Dans ce cas, le CC ne répète pas l’énoncé du parcours demandé, car cela pourrait être confondu avec un assentiment.
+Quand l’assentiment est donné au moyen de signaux fixes de manœuvre :
+–	le CC répète en entier le libellé de la demande
+–	le CMAN en contrôle l’exactitude qu’il confirme par « juste »
+–	l’assentiment est donné au moyen du signal fixe de manœuvre.
+Cette manière de procéder s’applique par analogie pour demander des parcours par d’autres moyens de communication.
+		
+9.4.3	Informations au MEC
+		
+	Les communications destinées au MEC doivent être précédées du mot 
+« information ». Si l’ordre d’avancer ne suit pas immédiatement une telle annonce, celle-ci doit être complétée par « attendez ». Si la conversation est finie, par « terminé ».	
+ 		
+9.4.4	Transmissions des ordres	
+		
+Lors de la transmission d’ordres en phonie pour des mouvements de manœuvre, les signaux optiques et acoustiques du personnel prévus par les prescriptions sur les signaux ne sont pas utilisés. L’obligation d’établir un lien visuel entre le CMAN et le MEC est remplacée par la surveillance de liaison.
+
+Toutes les annonces et les ordres donnés doivent être répétés intégralement, ce qui équivaut à une quittance. La personne qui a donné les ordres en vérifiera l’exactitude.
+Il n’y a pas lieu de répéter :
+–	lors des indications de distances
+	Le MEC ne répète que la première indication de distance, qui peut être transmise simultanément avec l’ordre de rouler. La première indication de distance doit être donnée assez tôt afin de permettre au MEC de quittancer avant que le CMAN donne la prochaine indication de distance
+–	lors d’un ordre d’arrêt
+	L’ordre d’arrêt doit être exécuté immédiatement et ne doit pas être quittancé.
+Si l’ordre n’est pas clair, le MEC ne met pas en mouvement le véhicule moteur. Si la liaison radio est perturbée en cours de route et s’il est à craindre que l’on n’entendra pas une indication de distance ou un ordre d’arrêt, il faut immédiatement s’arrêter.
+Lorsqu’il est à portée de voix, le CMAN peut transmettre de vive voix les ordres s’il n’y a pas lieu d’aviser d’autres EMAN équipés d’un moyen de communication mobile.		
+9.4.5	Surveillance de liaison		
+		
+La surveillance de liaison ne doit être transmise de manière simultanée que par un seul utilisateur. Lorsque la surveillance de liaison est active, on veillera à ne pas l’interrompre par des appels ou des conversations d’autre nature, excepté en cas d’urgence. La surveillance de liaison doit être appliquée pour les mouvements de manœuvre conduits de manière indirecte et pour les trains conduits de manière indirecte, excepté
+–	après avoir transmis l’ordre appuyer
+–	conformément aux prescriptions d’exploitation sur les bosses de débranchement, dans les installations de chargement, etc.
+La surveillance de liaison est transmise par le CMAN. Elle ne doit être enclenchée que lorsque le MEC a quittancé correctement l’ordre de rouler et que le CMAN a vérifié l’exactitude de l’ordre quittancé. Dans ce cas, il est possible de renoncer à la formule de conversation « juste ». 
+Le MEC ne roulera que lorsque la surveillance de liaison aura été activée. Si celle-ci s’interrompt, le personnel impliqué prend les mesures qui s’imposent pour arrêter immédiatement le convoi. 
+En transmettant l’ordre arrêter, on déclenchera simultanément la surveillance de liaison.
+
+Lorsqu’un dispositif de communication n’est pas doté de la surveillance de liaison, comme par ex. le son de contrôle, le CMAN répétera le mot « venir » ou « rouler » ou similaire toutes les 3 à 5 secondes.		
+10	Communication sur les chantiers
+10.1	Remarques préliminaires	
+		Les prescriptions pour la communication sur les chantiers s’appliquent pour les transmissions en phonie en cas de travaux sur et aux abords des voies, à l’intérieur du chantier et selon les cas, pour l’établissement de liaisons entre un chantier et les gares ou sous-stations.
+Les moyens permettant d’établir la liaison et le type de liaison (par ex. numéro de téléphone, canal radio) pour la communication est définie sont définis par la DSEC, ou, à la rigueur, par le CS. Un plan d’organisation règle l’attribution correspondante. Ce plan contient également les mesures à prendre en cas d’interruption des liaisons de communication. Les moyens permettant d’établir la liaison et les types de liaison attribués ne peuvent pas être changés sans l’accord du CS. 
+Les annonces de train doivent être formulées de manière simple. La SENT transmet directement le contenu du message en appelant le PROT et ce dernier quittance le message reçu. 
+Pour les transmissions entre la SENT et le PROT, il faut pouvoir assurer la transmission à temps et de manière fiable des messages relatifs à l’annonce des trains.
+10.2	Utilisation de systèmes de radio	
+10.2.1	Contrôle de fonctionnement
+			L’ensemble du personnel équipé d’appareils radio effectue un contrôle de fonctionnement selon le plan d’organisation comme suit :
+–	avec chaque personne impliquée du réseau radio
+–	au début du trafic radio
+–	lors d’un changement du canal radio
+–	avec une personne impliquée quelconque du réseau radio
+–	par une nouvelle personne impliquée entrant dans le réseau
+–	après un remplacement d’appareil ou d’accumulateur
+–	après un échange de personnel
+–	après chaque changement d’emplacement.
+10.2.2	Contrôle de liaison			
+Les liaisons radio utilisées pour annoncer l’approche des trains au chantier doivent être régulièrement contrôlées comme suit :
+–	au plus tard 10 minutes après la transmission du dernier message
+–	après chaque changement d’emplacement d’une personne impliquée. 
+Il est interdit d’utiliser le son de contrôle ou d’appel pour effectuer ces contrôles de liaison. 		
+10.2.3	Nom d’appel et indentification 	
+		Après un appel, les personnes impliquées doivent débuter chaque séquence de conversation en plus avec leur propre nom d’appel.	
+10.2.4	Liaisons radio entre la SENT et le PROT
+		
+Lors de l’utilisation de la radio des travaux pour la liaison entre la SENT et le PROT, il convient d’appliquer les dispositions suivantes :
+– 	il faut prévoir des canaux spécialement réservés à cet effet 
+– 	ces canaux ne peuvent pas être utilisés pour d’autres conversations 
+– 	lorsque plusieurs PROT doivent quittancer un message, il y a lieu de fixer préalablement un ordre de succession.		
+	
+Complément 1		
+Exemples de conversations en phonie		1
+Formulations logiques 		
+	L’interlocuteur attend une réaction logique à son message et s’y prépare. Pour éviter tout malentendu, les messages seront formulés de manière à tenir compte de cette réaction.
+	Exemple :	
+EMAN :	La ligne de train du train 1-5- 1-4-2 est-elle déclenchée ?	
+Réponse exacte :		MEC :
+Oui, la ligne de train du train 1-5-1-4-2 est déclenchée.		ou :
+		MEC :
+Non, la ligne de train est sous tension.	
+Réponse erronée, si la ligne de train n’est pas encore déclenchée :	
+MEC :	Oui, je déclenche la ligne de train.
+	
+2	Formulations positives 
+	
+	Juste :	« Evacuez immédiatement la voie »
+		« Loc 1-8-2-1 attendez »
+		« Voie 3 est occupée »
+	
+« Ligne de contact est enclenchée »		Faux :
+« Ne pas occuper la voie »		
+« Loc 1-7-3-1 ne pas rouler »	
+	« La voie 1-5 n’est pas libre »
+		« La ligne de contact n’est pas déclenchée ».
+		
+3	Transmission d’un appel d’urgence (appel ouvert)	
+		CC : 
+Appel ouvert sans écoute brève, les liaisons en cours peuvent être interrompues		CC :
+Mayday, mayday, mayday du CC de Nyon :
+Arrêt immédiat de tous les trains entre Nyon et Morges !		CC :
+L’appel d’urgence doit être répété plusieurs fois. Dans la mesure du possible, les discussions qui s’ensuivent doivent être poursuivies en mode sélectif.		
+4	Transmission d’un ordre à quittancer
+		
+CC : 	Appel ouvert avec écoute brève
+	CC :
+MEC train 1-5-2-1 de poste directeur Yverdon, répondez		MEC :
+Poste directeur Yverdon de MEC train 1-5-2-1 à Chavornay, compris, répondez		CC :
+Compris, train 1-5-2-1 doit le 1-4 mai 2-0-2-0 s’arrêter exceptionnellement en gare de Concise pour laisser monter du personnel, répondez		MEC :
+Compris, train 1-5-2-1 doit le 1-4 mai 2-0-2-0 s’arrêter exceptionnellement à Concise pour laisser monter du personnel, répondez	
+CC :	Juste, terminé
+	
+Liaison terminée.		
+5	Transmission d’un ordre à protocoler
+		
+CC :	Appel ouvert avec écoute brève	
+CC :	MEC train 1-5-2-5 de poste directeur Nyon, répondez	
+MEC :	Poste directeur Nyon de MEC train 1-5-2-5 à Gland, compris, répondez	
+CC :	Compris, j’ai un ordre 1, répondez	
+MEC :	Compris, je suis prêt, répondez	
+CC :	Compris, train 1-5-2-5 (champ A), le 1-1 août 2-0-2-0 (champ B), CC Nyon (champ C), train à Gland (champ D), franchissement à l’arrêt (cocher le champ 1) du signal de sortie CHARLIE 4-1 (champ 1.1-0) à Gilly-Bursinel (champ 1.1-1), signature CC Salomon (champ N), heure 1-8:0-4 (champ O), répondez
+	MEC :
+Pas compris, répétez, répondez		CC :
+Compris, je répète, train 1-5-2-5, le 1-1 août 2-0-2-0 , CC Nyon, train à Gland, franchissement à l’arrêt du signal de sortie CHARLIE 4-1 à Gilly-Bursinel, signature CC Salomon, heure 
+1-8:0-4, répondez		MEC :
+Compris, train 1-5-2-5, le 1-1 août 2-0-2-0, CC Nyon, train à Gland, franchissement à l’arrêt du signal de sortie CHARLIE 4-3 à Gilly-Bursinel, signature CC Salomon, heure 1-8:0-4, confirmation MEC Berset (champ M), répondez		CC :
+Faux, je répète, train 1-5-2-5, le 1-1 août 2-0-2-0, CC Nyon, train à Gland, franchissement à l’arrêt du signal de sortie CHARLIE 4-1 à Gilly-Bursinel, signature CC Salomon, heure 
+1-8:0-4, répondez		MEC :
+Compris, train 1-5-2-5, le 1-1 août 2-0-2-0, CC Nyon, train à Gland, franchissement à l’arrêt du signal de sortie CHARLIE 
+4-1 à Gilly-Bursinel, signature CC Salomon, heure 1-8:0-4, confirmation MEC Berset, répondez		CC :
+Juste, terminé		
+Liaison terminée.		
+6	Transmission d’une information (en mode interphone)
+		
+MEC :	Appel sélectif	
+CC :	Poste directeur Sion, répondez	
+MEC :	MEC train 2-2-1 à Sion, compris, entre St-Léonard et Lens, juste avant le pont sur le Rhône, un sac de voyage se trouve sur les voies, répondez	
+CC :	Compris, entre St-Léonard et Lens, juste avant le pont sur le Rhône, un sac de voyage se trouve sur les voies, j’envoie quelqu’un, répondez	
+MEC :	Compris, tu envoies quelqu’un, merci, terminé	
+	Liaison terminée.
+	
+7	Communication de la manœuvre (en mode interphone)
+7.1	Procédure simplifiée	
+		CC :
+Appel ouvert avec écoute brève		CC :
+Chef de manœuvre une de poste directeur Lausanne, répondez		CMAN :
+Chef de manœuvre une compris		CC :
+Le 9-1-7-5-5 est parti de Sébeillon		CMAN :
+Le train-poste 9-1-7-5-5 est parti, merci	
+CC :	Juste, terminé
+	
+Liaison terminée.		
+		CMAN :
+Appel sélectif		CC :
+Poste directeur Lausanne, répondez		CMAN :
+Chef de manœuvre une compris, où se trouve la charge à ajouter au train 9-1-7-5-5 ? 		CC :
+Sur Alpha 4, il y a 2 wagons pour l’adjonction		CMAN :
+2 wagons sur Alpha 4, merci, terminé		
+Liaison terminée.		
+		
+Situation : le train 9-1-7-5-5 est entré sur voie B3. L’EMAN remet un appareil mobile au MEC et l’informe que le train doit être manœuvré de la voie B3 à la voie D3. De la voie D3, en arrière sur la voie A4 et garer sur les wagons à ajouter. Les wagons devront être attelés au train et préparés pour le départ. L’installation est équipée de signaux nains. Appel ouvert.		CMAN :
+MEC 9-1-7-5-5 de chef de manœuvre - contrôle de fonctionnement, répondez		MEC :
+MEC 9-1-7-5-5 compris, contrôle de fonctionnement		CMAN :
+Juste, attendez		
+Liaison reste établie		
+		Variante pour les installations équipées de signaux fixes de manœuvre :
+	CMAN :	Appel sélectif
+	CC :	Poste directeur Lausanne, répondez
+	CMAN :	Chef de manœuvre 9-1-7-5-5 compris, de Bravo 3 pour Alpha 4 par Delta 3
+	CC :	De Bravo 3 pour Alpha 4 par Delta 3
+	CMAN :	Juste, terminé
+		Liaison manœuvre - poste directeur terminée
+	CC :
+Etablit l’itinéraire de manœuvre. L’assentiment est transmis par les signaux nains		CMAN :
+Loc 9-1-7-5-5 en avant Delta 3		MEC :
+Loc 9-1-7-5-5 en avant Delta 3		CMAN :
+Juste		MEC :
+Démarre		CMAN :
+Arrive sur voie Delta 3; Loc 9-1-7-5-5 arrêter		MEC :
+Arrête son véhicule		CMAN :
+Attend sur l’assentiment du signal nain pour la deuxième partie de l’itinéraire		CMAN :
+Loc 9-1-7-5-5 en arrière garer Alpha 4		MEC :
+En arrière garer Alpha 4		CMAN :
+Ev. : Juste; Enclenche le son de contrôle		MEC :
+Démarre		CMAN :
+1 wagon		MEC :
+Ralentit; 1 wagon		CMAN :
+Demi		MEC :
+Ralentit		CMAN/
+MEC :
+...		
+		Variante pour les installations sans signaux fixes de manœuvre :
+	CMAN :	Appel sélectif
+	CC :	Poste directeur Lausanne, répondez
+	CMAN :	Chef de manœuvre 9-1-7-5-5 compris, de Bravo 3 pour Delta 3
+	CC :	Établit le parcours
+	CC :	De Bravo 3 pour Delta 3, parcours établi
+	CMAN :	Juste, terminé.
+	
+Liaison manœuvre - poste directeur terminée		
+		CMAN :
+Loc 9-1-7-5-5 en avant Delta 3		MEC :
+En avant Delta 3		CMAN :
+Juste		MEC :
+Démarre.		
+7.1.1	Communication remplaçant la surveillance de liaison 
+		
+Variante sans la surveillance de liaison technique		Après le contrôle de fonctionnement et l’orientation au téléphone (liaison dernier véhicule - loc)
+	CMAN :	MEC 7-5-5 en arrière
+	MEC :	Loc 7-5-5 en arrière
+	CMAN :	Juste
+	CMAN :	Rouler, répète toutes les 3 à 5 secondes
+	CMAN :
+Rouler	
+CMAN :	1 wagon
+	MEC :
+Ralentit; 1 wagon		CMAN :
+Rouler; répète toutes les 3 à 5 secondes		CMAN :
+Rouler		CMAN :
+Demi		MEC :
+Ralentit		CMAN/MEC 
+...		7.2
+Sans procédure simplifiée		
+	Variante pour les installations sans signaux fixes de manœuvre :	
+MEC (CMAN) :	
+Appel ouvert avec écoute brève	
+MEC (CMAN) :	Poste directeur Lausanne de MEC 3-6-8-1-3 à Morges, répondez	
+CC :	MEC 3-6-8-1-3 à Morges de poste directeur Lausanne, compris, répondez	
+MEC (CMAN) :	Compris, en gare de Morges, de voie 2-2 pour voie 3, pousse non accompagnée, répondez	
+CC :	Etablit le parcours jusqu’à la voie de destination
+	CC :
+Compris, à Morges de voie 2-2 pour voie 3, parcours établi, répondez	
+MEC (CMAN) :	
+Juste, terminé	
+	Liaison terminée.	
+8	Communication sur les chantiers (en mode interphone)	
+8.1	Contrôle de fonctionnement
+		
+CS :	Appel ouvert avec écoute brève	
+CS :	Chassot de Salomon, contrôle de fonctionnement, répondez	
+PROT :	Salomon de Chassot, compris, contrôle de fonctionnement, répondez	
+CS :	Salomon, juste, terminé.	
+	Liaison CS - PROT terminée. 
+	
+8.2	Changement de canal		
+	CS :	Appel ouvert avec écoute brève
+	CS :	Demierre de Magne, répondez
+	PROT :	Magne de Demierre, compris, répondez 
+	CS :	Magne, compris. Passez sur le canal Bravo-0-3, répondez
+	PROT :	Demierre, compris. Je passe sur le canal Bravo-0-3, répondez
+	CS :
+Magne, juste, changement de canal, terminé	
+	Les deux participants changent de canal	
+	CS :	Écoute brève avec appel ouvert
+	CS :	Demierre de Magne, contrôle de fonctionnement, répondez
+	PROT :	Magne de Demierre compris, contrôle de fonctionnement, 
+répondez
+	CS :	Magne, juste, terminé
+		Liaison terminée.
+		
+8.3	Annonce d’un train	
+		Situation du chantier : SENT Boschung (côté Lausanne) - 
+PROT Ducrest - SENT Pasquier (côté Lutry)
+	SENT :	Appel ouvert sur canal réservé
+	SENT :	Ducrest de Boschung, un train de Lausanne sur voie 1-0-0, répondez
+	PROT :	Ducrest, compris, un train de Lausanne sur voie 1-0-0, répondez
+	SENT :	Boschung, juste terminé
+	
+La SENT Pasquier ne quittance pas.	
+	
+8.4	Annonce de voie praticable	
+		CS :
+Appel ouvert avec écoute brève		CS :
+Poste directeur Lausanne du chef de la sécurité Roberti, à Bussigny, répondez		CC :
+Chef de la sécurité Roberti de poste directeur Lausanne, compris, répondez		CS :
+Roberti, compris. Bussigny, voie 1 praticable. 
+Signature chef de la sécurité Roberti. Répondez. 		CC :
+Poste directeur Lausanne compris. Bussigny, voie 1 praticable. Signature chef de la sécurité Roberti. Confirmation CC Lecoultre. Répondez	
+CS :	Roberti, juste, terminé
+		Liaison terminée.
+		
+	Complément 2	
+	Tableau d’épellation	
+	Tableau d’épellation	
+		
+	    	International
+		
+		
+		A	Alpha	
+		B	Bravo	
+		C	Charlie	
+		D	Delta	
+		E	Echo	
+		F	Foxtrot	
+		G	Golf	
+		H	Hotel	
+		I	India	
+		J	Juliet	
+		K	Kilo	
+		L	Lima	
+		M	Mike	
+		N	November	
+		O	Oscar	
+		P	Papa	
+		Q	Quebec	
+		R	Romeo	
+		S	Sierra	
+		T	Tango	
+		U	Uniform	
+		V	Victor	
+		W	Whisky	
+		X	X-ray	
+		Y	Yankee	
+		Z	Zulu	
+				
+				
+
