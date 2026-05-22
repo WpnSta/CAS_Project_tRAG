@@ -1,0 +1,633 @@
+﻿ID,Source Term,Query,Language,Relevant section,Target Term,answer_mono,answer_multi
+1,Heizer,Was macht ein Heizer?,de,"R 300.13, section 1.1",Feuerung,"Ein Heizer ist diejenige Person, der die Feuerung sowie bestimmte technische Aufgaben an der Dampflokomotive übernimmt. Er muss dafür fahrdienstlich nicht geprüft sein. Werden die Funktionen des Führergehilfen und des Heizers von einer einzigen Person wahrgenommen, haben die Aufgaben des Führergehilfen Vorrang. Der Lokführer (LF) ist für die Arbeit des Heizers mitverantwortlich und hat gegenüber dem Heizer Weisungsbefugnis.","Ein Heizer ist diejenige Person, der die Feuerung sowie bestimmte technische Aufgaben an der Dampflokomotive übernimmt. Er muss dafür fahrdienstlich nicht geprüft sein. Werden die Funktionen des Führergehilfen und des Heizers von einer einzigen Person wahrgenommen, haben die Aufgaben des Führergehilfen Vorrang. Der Lokführer (LF) ist für die Arbeit des Heizers mitverantwortlich und hat gegenüber dem Heizer Weisungsbefugnis."
+2,Heizer,Quelles sont les fonctions du chauffeur?,fr,"R 300.13, section 1.1",foyer,"Les fonctions d'un chauffeur, selon l'extrait fourni (Excerpt 2 — Zugbeeinflussung, Section 3.3 : Description des Fonctions), incluent :
+
+- Halt
+- Rangierhalt
+- Warnung
+- Überwachung de la vitesse maximale du train
+- Surveillance de la vitesse du train
+- Surveillance de la nature d'exploitation du train
+- Surveillance de l'itinéraire ou de la ligne ferroviaire utilisée par le train
+- Surveillance des mouvements de freinage (Bremskurve)
+- Contrôle de la vitesse cible pour les trains en descente
+
+Ces fonctions sont essentielles à la sécurité et au bon fonctionnement du trafic ferroviaire.","Les fonctions principales d'un chauffeur, selon l'extrait fourni, incluent :
+
+- Arrêt
+- Arrêt de manœuvre
+- Avertissement
+
+Ces tâches font partie des responsabilités essentielles qu'un chauffeur doit accomplir lors du contrôle et la marche des trains sur les voies ferrées suisses. Le rôle principal est centré autour d'assurer le bon arrêt des trains ainsi que leur gestion précise pendant différentes phases, telles que l'arrêt de manœuvre ou lorsqu'une alerte est nécessaire pour garantir une sécurité optimale dans le fonctionnement des trains."
+3,Heizer,Cosa fa un fuochista?,it,"R 300.13, section 1.1",regolazione del fuoco,"Un fuochiere è una persona che gestisce la locomotive e le sue funzioni tecniche, come menzionato nell'Excerpt 1 (Section 1: Allgemeines) di FDV. Questo include il controllo della locomotiva ed alcune attività tecniche specifiche associate alla locomotiva a vapore. Il fuochiere non deve essere stato valutato dal punto di vista del servizio ferroviario per svolgere queste funzioni, ma se le carriere del Führergehilfen e del Fuochiere sono condivise da una singola persona, i compiti del Führergehilfen hanno priorità rispetto a quelli del Fuochiere.","Un fuochista cura la regolazione del fuoco come anche determinate mansioni tecniche sulla locomotiva a vapore, secondo l'Excerpt 1 — Macchinista, Section 1: In generale (1.1). Non è esaminato per le mansioni attinenti alla circolazione della locomotive."
+4,Abstossen,Welche Arten von Rangierbewegungen gibt es?,de,"R 300.4, section 1.3",abstossen,"Es werden zwischen den folgenden Rangierbewegungsarten unterschieden:
+
+1) Rangierfahrten direkt und indirekt geführt
+
+2) Ablaufen lassen
+
+3) Abstossen
+
+4) Rangierbewegungen mit Rangierseil oder Spill
+
+5) Rangierbewegungen von Hand oder mit mechanischen Hilfsmitteln
+
+6) Rangierbewegungen mit Strassenfahrzeugen","Es werden zwischen den folgenden Rangierbewegungsarten unterschieden:
+
+1. Rangierfahrten direkt und indirekt geführt
+2. Ablaufen lassen
+3. Abstossen
+4. Rangierbewegungen mit Rangierseil oder Spill
+5. Rangierbewegungen von Hand oder mit mechanischen Hilfsmitteln
+
+Es werden zwischen den folgenden Rangierbewegungsarten unterschieden:
+
+1. Rangierfahrten direkt und indirekt geführt
+2. Rangierbewegungen mit Strassenfahrzeugen 
+3. Rangierbewegungen von Hand oder mit mechanischen Hilfsmitteln.
+
+Die Arten der Rangierbewegungen umfassen:
+
+- Rangierfahrten direkt und indirekt geführt
+- Ablaufen lassen
+- Abstossen
+- Rangierbewegungen mit Rangierseil oder Spill
+- Rangierbewegungen mit Strassenfahrzeugen 
+- Rangierbewegungen von Hand oder mit mechanischen Hilfsmitteln."
+5,Abstossen,Quels genres de mouvements de manoeuvre distingue-t-on?,fr,"R 300.4, section 1.3",lancer,"Les types de mouvements de manœuvre distingués sont : Rangierfahrten directement et indirectement dirigées, Rangierbewegungen avec Strassenfahrzeuge, Rangierbewegungen par la main ou avec des moyens mécaniques.","Les genres de mouvements de manœuvre distingués sont : 
+
+1. Les courses de manœuvre conduites de manière directe et indirecte
+2. Le laisser-couler
+3. Le lancer
+4. Les mouvements de manœuvre à la prolonge ou au cabestan
+5. Les mouvements de manœuvre au moyen des véhicules routiers
+6. Les mouvements de manœuvre à bras ou au moyen d’engins mécaniques.
+
+Ces distinctions sont tirées des extraits fournis, notamment des sections 1.3 et 7.1.2 du FDV (Fahrdienstvorschriften)."
+6,Abstossen,Quali tipi di movimenti di  manovra si distinguono?,it,"R 300.4, section 1.3",colpo,"I tipi di movimenti di manovra distinti sono:
+
+- Schieben (pousser)
+- Zurückziehen (retirer)","I tipi di movimenti di manovra che si distinguono sono i seguenti:
+
+1. Corse di manovra condotte direttamente e indirettamente
+2. Movimento con veicoli stradali
+3. Movimento a braccia o con mezzi meccanici."
+7,Perron,Unter welchen Bedingungen sind Rangierfahrten gegen eingestellte Zugfahrstrassen erlaubt?,de,"R 300.4, section 2.3.2",Perron,"Rangierfahrten gegen eingestellte Zugfahrstrassen sind nur dann erlaubt, wenn folgende Bedingungen erfüllt sind:
+
+1) Beim Fahren gegen bzw. Anfahren an gebremste Fahrzeuge, die sich vor der eingestellten Zugfahrstrasse befinden oder
+
+2) Wenn in Anlagen mit Zwergsignalen das Zielgleis der Rangierfahrt vor der eingestellten Zugfahrstrasse liegt sowie 1 Zwergsignal Halt zeigt und
+
+3) Der Fahrweg vom RL verlangt wird und kein unbegleitetes Schieben ausgeführt wird.","Rangierfahrten gegen eingestellte Zugfahrstrassen sind nur erlaubt, wenn folgende Bedingungen erfüllt sind:
+
+1) Beim Fahren gegen bzw. Anfahren an gebremste Fahrzeuge, die sich vor der eingestellten Zugfahrstrasse befinden oder
+
+2) Wenn in Anlagen mit Zwergsignalen das Zielgleis der Rangierfahrt vor der eingestellten Zugfahrstrasse liegt sowie 1 Zwergsignal Halt zeigt und
+
+3) Der Fahrweg vom RL verlangt wird und kein unbegleitetes Schieben ausgeführt wird."
+8,Perron,Dans quelles conditions les courses de manœuvre en direction d'itinéraires de train établis sont-elles autorisées?,fr,"R 300.4, section 2.3.2",quai,"Les courses de manœuvre en direction des itinéraires de train établis ne sont pas explicitement mentionnées dans les extraits fournis. Par conséquent, il n'est pas possible d'indiquer sous quelles conditions elles seraient autorisées selon ces documents spécifiques. Il faudrait consulter le FDV complet pour obtenir cette information.","Les courses de manœuvre en direction des itinéraires de train établis sont autorisées uniquement lorsque :
+
+1. La circulation se fait dans la même direction ou le garage est situé sur des véhicules freinés qui se trouvent avant l'itinéraire de train établi.
+
+2. Dans les installations dotées de signaux nains, la voie de destination de la course de manœuvre se situe avant l'itinéraire de train établi et un signal nain présente l'image arrêt.
+
+3. Le parcours est demandé par le CMAN (commandant du mouvement) sans exécution d'une pousse non accompagnée.
+
+4. Les conditions pour l'établissement du parcours sans demande sont remplies, permettant ainsi la mise à quai directe des trains sur la voie de destination.
+
+Tous les autres mouvements de manœuvre en direction des itinéraires de train établis sont interdits."
+9,Perron,In quali condizioni sono ammessi i movimenti di manovra verso percorsi treni disposti?,it,"R 300.4, section 2.3.2",marciapiede,"I movimenti di manovra verso percorsi treni disposti sono ammessi sotto le seguenti condizioni:
+
+1. Quando si tratta di abbinare un trainio stecchino o dei pezzi rimasti del traino, secondo la Sezione 4: Ergänzende Bestimmungen für Rangierbewegungen auf die Strecke.
+2. I movimenti devono essere eseguiti in conformità con le specifiche disposizioni per i percorsi treni disposti.
+
+Tuttavia, non è possibile fornire informazioni più dettagliate poiché il testo fornito non include direttamente le condizioni specifiche per i percorsi treni disposti. Si consiglia di consultare la normativa completa o altre sezioni pertinenti della FDV (Fahrdienstvorschriften) per ulteriori chiarimenti.","I movimenti di manovra verso percorsi treni disposti sono ammessi purché siano soddisfatte le seguenti condizioni:
+- Circolando verso o accostando a veicoli frenati che si trovano prima del percorso treno disposto, oppure
+- Se, su impianti dotati di segnali bassi, il binario finale della corsa di manovra si trova prima del percorso treno disposto e 1 segnale basso mostra fermata,
+- L'itinerario viene richiesto dal CMAN (Comando Centrale Operativo) ed è eseguito senza spinta non scortata."
+10,Kleinwagen,Welche Fahrzeuge dürfen nicht in Züge eingereiht werden?,de,"R 300.5, section 1.4.1",Kleinwagen,"Schwere Wagen, leichte Wagen, Schlussläufer und Fahrzeuge mit Ablaufbergverbot dürfen nicht freizügig in Zügen eingereiht werden (Excerpt 3 — Zugvorbereitung, Section 1.4.5). Kleinwagen dürfen auch nicht angehängt werden (Excerpt 1 — Zugvorbereitung, Section 1.4.1). Beschädigte oder entgleiste Fahrzeuge dürfen erst nach der Untersuchung und Freigabe durch den technischen Wagendienst in Züge eingereiht werden (beide Excerpts).","Schwere Wagen, leichte Wagen, Schlussläufer und Fahrzeuge mit Ablaufbergverbot dürfen nicht freizügig in Zügen eingereiht werden (Excerpt 3 — Zugvorbereitung, Section 1.4.5). Kleinwagen dürfen auch nicht angehängt werden (Excerpt 1 — Zugvorbereitung, Section 1.4.1). Beschädigte oder entgleiste Fahrzeuge dürfen erst nach der Untersuchung und Freigabe durch den technischen Wagendienst in Züge eingereiht werden (beide Excerpts)."
+11,Kleinwagen,Quels véhicules ne doivent pas être incorporés dans un train?,fr,"R 300.5, section 1.4.1",wagonnets,"Les wagons lourds, légers, Schlussläufer et les véhicules avec une interdiction de circulation sur des rampes sont des véhicules qui ne peuvent pas être inclus dans le train en raison de leur construction ou de leur état (Extrait 1 - Section 1.4.5 : Non freizügig einsetzbare Wagen).","Les wagonnets ne peuvent pas faire partie des trains, selon l'extrait de la Section 1.4 : Classement de la charge remorquée (Excerpt 1). De plus, les véhicules endommagés ou déraillés ne doivent être introduits dans un train qu'après une visite et leur libération par le service technique, comme mentionné également dans cette section (Excerpt 1).
+
+Les wagons lourds, wagons légers, véhicules à placer en queue des trains, et véhicules pour lesquels le passage sur la bosse de débranchement sont considérés comme des véhicules dont la construction ou l'état ne permet pas d'être classé n'importe où dans les trains. Ils doivent être signalés en conséquence (Excerpt 3 : Section 1.4.5)."
+12,Kleinwagen,Quale veicoli non possono essere inseriti in un treno?,it,"R 300.5, section 1.4.1",piccoli veicoli,"I veicoli che non possono essere inseriti in un treno sono i 2 Hemmschuhe, a meno che siano con la maniglia della bremma attivata (sebbene ci sia una eccezione locale). Inoltre, le Strutture di Stoccaggio e il Trattore Autonomo o auto pilotato come macchine da costruzione non possono essere inseriti.","I piccoli veicoli non possono essere agganciati nei treni, secondo l'Excerpt 1 — Preparazione dei treni, Section 1.4: Ubicazione del peso rimorchiato (Principio)."
+13,Absperrung,Bei welchen Arbeiten sind für die Arbeitsstelle keine Alarmmassnahmen notwendig?,de,"R 300.12, section 3.1.7",Absperrung,"Bei den Arbeiten im Gleisbereich, bei denen für die Arbeitsstelle keine Alarmmassnahmen notwendig sind, handelt es sich um:
+
+1. Arbeiten auf eingleisigen Strecken bei Sperrung des Gleises (Excerpt 1, Section 3.1.7).
+2. Arbeiten auf mehrgleisigen Strecken bei gleichzeitiger Sperrung aller Gleise.
+3. Arbeitsstellen an Fahrleitungen, solange im Bereich der Nachbargleise keine alarmpflichtigen Arbeiten ausgeführt werden.
+4. Im gleisnahen Bereich, wo der Zugang zum Gleisbereich abgegrenzt ist und keine Personen oder Arbeitsmittel unbeabsichtigt in den abgegrenzten Bereich eindringen können (Excerpt 1, Section 3.1.7).
+
+Diese Situationen sind durch die Absicherung des Gleisbereichs entweder durch Sperrung oder automatisches Warnsystem ausgeräumt von der Notwendigkeit Alarmmassnahmen.","Bei den Arbeiten auf eingleisigen Strecken bei Sperrung des Gleises, auf mehrgleisigen Strecken bei gleichzeitiger Sperrung aller Gleise und an Fahrleitungen, solange im Bereich der Nachbargleise keine alarmpflichtigen Arbeiten ausgeführt werden, sind für die Arbeitsstelle keine Alarmmassnahmen notwendig. Dies trifft auch zu in gleisnahen Bereichen, wo der Zugang zum Gleisbereich abgegrenzt ist und unbeabsichtigt eindringende Personen oder Arbeitsmittel ausgeschlossen sind (Excerpt 1 — Arbeiten im Gleisbereich, Section 3.1.7: Arbeitsstellen ohne Alarmmassnahmen)."
+14,Absperrung,Pour quels types de travaux n'est-il pas nécessaire de prévoir des mesures d'alarme?,fr,"R 300.12, section 3.1.7",barrage,"Il n'y a aucune indication dans les extraits fournis sur le type spécifique de travaux pour lesquels il n'est pas nécessaire de prévoir des mesures d'alarme. Les documents mentionnent uniquement la nécessité de prendre certaines précautions et actions en cas de situations spécifiques, telles que l'interprétation erronée des signaux ou la présence optique d'un signal alarmant. Par conséquent, on ne peut répondre à cette question qu'en se basant sur les informations données : Il n'est pas possible de déterminer quels types de travaux nécessitent spécifiquement des mesures d'alarme en fonction des extraits fournis.","Pour les travaux sur les tronçons à voie unique, lorsque la voie est interdite; sur les tronçons à plusieurs voies, lorsque toutes les voies sont interdites simultanément; se limitant aux abords d’une voie lorsqu’un chantier est assuré au moyen d’un barrage; et aux lignes de contact tant que aucun travail nécessitant des mesures d’alarme n’est effectué dans la zone des voies contiguës."
+15,Absperrung,Per quali tipi di lavoro non occorrono misure di allarme per l'area dei lavori?,it,"R 300.12, section 3.1.7",barriera protettiva,"Per i tipi di lavoro che non richiedono misure di allarme nell'area dei lavori, si riferiscono alle seguenti situazioni:
+
+1. Quando le operazioni possono essere eseguite con solo due persone presenti, che permettono una osservazione completa delle attività e in cui è possibile un rapido e sicuro ritiro.
+2. Su tratti stradali che sono sempre percorsi a vista di persona ed eventualmente con velocità massima non superiore ai 20 km/h.
+3. Nei casi in cui le operazioni vengono eseguite su lavori situati direttamente accanto al tratto ferroviario, ma dotati di un sistema automatico di avviso.
+4. Quando i lavori sono posizionati in modo tale che nessuna misura di allarme è necessaria.
+
+Inoltre, per questi tipi di lavoro non si richiede l'uso del Sistema Integrato di Sicurezza (SIWÄ) o altre misure di sicurezza aggiuntive. Le persone coinvolte devono essere consapevoli della propria responsabilità personale in termini di sicurezza durante le operazioni.","Per i lavori che non necessitano di misure d’allarme, secondo il Section 3.1.7 del FDV (Lavori nella zona dei binari), le misure di allarme non sono richieste se è possibile eliminare i pericoli per il personale e l’esercizio ferroviario. Ciò vale in particolare per lavori su tratte a semplice binario, sebbene il binario sia sbarrato; su tratte con più binari, se tutti i binari sono sbarrati contemporaneamente; nelle vicinanze della zona dei binari, purché l’area dei lavori sia protetta da una barriera protettiva; su tutte le linee di contatto, fintantoché nell’ambito degli altri binari adiacenti non siano compiuti lavori che impongano misure d’allarme; e nei casi in cui i lavori sono effettuati vicino alla zona dei binari ma il loro accesso è impedito, con nessuna persona o mezzo di lavoro involontariamente penetrare nella zona delimitata."
+16,Einfahrweiche,Was sind Zielpunkte im Fahrweg?,de,"R300.4, section 4.3.2",Einfahrweiche,"Zielpunkte im Fahrweg gelten:
+– ein Hauptsignal
+– ein Hauptsignal in der Gegenrichtung
+– ein Sperr- oder Zwergsignal
+– ein Anschlussgleis
+– das Zielgleis im Bahnhof
+– bei Bahnhöfen ohne Einfahrsignal die Einfahrweiche, oder, wo vorhanden, die Bahnhofanfangtafel. Auf zweigleisiger Strecke ohne Wechselbetrieb gilt für Fahrten von der Strecke in Richtung Bahnhof das Einfahrsignal für beide Gleise als Zielpunkt.","Zielpunkte im Fahrweg umfassen:
+
+– ein Hauptsignal
+– ein Hauptsignal in der Gegenrichtung
+– ein Sperr- oder Zwergsignal
+– ein Anschlussgleis
+– das Zielgleis im Bahnhof
+– bei Bahnhöfen ohne Einfahrsignal die Einfahrweiche, oder wo vorhanden, die Bahnhofanfangtafel. Auf zweigleisiger Strecke ohne Wechselbetrieb gilt für Fahrten von der Strecke in Richtung Bahnhof das Einfahrsignal für beide Gleise als Zielpunkt. (Excerpt 1 — Rangierbewegungen, Section 4.3.2: Zielpunkte im Fahrweg)"
+17,Einfahrweiche,Quels points peuvent être utilisés comme but du parcours?,fr,"R300.4, section 4.3.2",l'aiguille d'entrée,"Les points qui peuvent être utilisés comme but du parcours sont :
+
+- un Hauptsignal
+- un Hauptsignal en direction opposée
+- un Sperr- ou Zwergsignal
+- un Anschlussgleis
+- le Zielgleis dans le Bahnhof
+- à des gares sans Einfahrsignal, la Einfahrweiche, ou si elle existe, la Bahnhofanfangtafel.","Les buts du parcours, selon l'extrait fourni (Excerpt 1 — Mouvements de manoeuvre, Section 4.3.2 : Buts du parcours), incluent les points suivants :
+
+- un signal principal
+- un signal principal de la direction opposée
+- un signal de barrage ou un signal nain
+- une voie de raccordement
+- la voie de but en gare
+- l’aiguille d’entrée pour les gares sans signaux d’entrée, ou lorsqu’il est posé, l’indicateur de début de gare.
+
+Sur un tronçon à deux voies sans banalisation, le signal d’entrée fait office de but pour les deux voies pour les convois circulant de la pleine voie en direction de la gare."
+18,Einfahrweiche,Quali sono i punti d'arrivo nell'itinerario?,it,"R300.4, section 4.3.2",scambio d'entrata,"Il testo fornito non contiene informazioni su punti di arrivo negli itinerari. Pertanto, è impossibile rispondere alla domanda basandosi sulle sezioni date degliFDV (Fahrdienstvorschriften). Per ulteriori dettagli sugli ultimi sviluppi sui punti d'arrivo, si prega di consultare le ultime versioni delle regolamentazioni o dei documenti pertinenti.","I punti d’arrivo nell’itinerario includono:
+
+- un segnale principale
+- un segnale principale nella direzione opposta
+- un segnale di sbarramento o un segnale basso
+- un binario di raccordo
+- il binario d’arrivo in stazione
+- lo scambio d’entrata, nelle stazioni senza segnale d’entrata o, dove presente, la tavola d’inizio stazione."
+19,Nebengleis,Unter welchen Bedingungen ist der Sicherheits-Zwischenraum vorhanden?,de,"R 300.1, section 2.5.2",Nebengleisen,"Der Sicherheits-Zwischenraum ist vorhanden, wenn ein Gehweg besteht oder gekennzeichnet ist, zwischen Nebengleisen liegt, im Betriebsvorschriften der ISB bezeichnet ist, in einem Sicherheitsdispositiv aufgeführt ist (Excerpt 1 — Grundlagen, Section 2.5: Begriffe).","Der Sicherheits-Zwischenraum ist vorhanden, wenn ein Gehweg besteht oder gekennzeichnet ist, zwischen Nebengleisen oder im Betriebsvorschriften der ISB bezeichnet ist bzw. aufgeführt ist und durch einen Sicherheitsdispositiv geschützt wird (Excerpt 1 — Grundlagen, Section 2.5: Begriffe)."
+20,Nebengleis,Dans quelles conditions considère-t-on qu'une zone intermédiaire de sécurité est disponible?,fr,"R 300.1, section 2.5.2",voies secondaires,"Les conditions dans lesquelles on considère qu'une zone intermédiaire de sécurité est disponible ne sont pas explicitement mentionnées dans les extraits fournis. Par conséquent, il n'est pas possible d'indiquer quelles conditions permettent l'établissement d'une zone intermédiaire de sécurité en se basant uniquement sur ces documents. Pour obtenir cette information, des sections supplémentaires ou des documents connexes seraient nécessaires.","Une zone intermédiaire de sécurité est considérée comme disponible dans les conditions suivantes :
+- En présence d’un chemin latéral ou
+- Si une telle zone est signalée dans l’installation extérieure ou
+- Entre des voies secondaires ou
+- Si cette zone est désignée dans les prescriptions d’exploitation du GI (Güterverkehrsordnung) ou
+- Si cela est pris en compte dans un dispositif de sécurité."
+21,Nebengleis,In quali condizioni è disponibile lo spazio di sicurezza intermedio?,it,"R 300.1, section 2.5.2",binari secondari,"Lo spazio di sicurezza intermedio (Excerpt 1, Section 2.5) è disponibile nelle seguenti condizioni:
+- Quando un sentiero esiste;
+- Se è segnato nell'area esterna o nei binari secondari;
+- Tra i binari secondari; oppure
+- Se è menzionato negli operativi di sicurezza dell'ISB (Interlocking System for Railways) o se è incluso in uno schema di sicurezza.","Lo spazio di sicurezza intermedio è disponibile:
+- dove c'è un camminamento,
+- quando è contrassegnato nell'impianto esterno,
+- fra binari secondari, o
+- quando è designato nelle prescrizioni d'esercizio del GI, o
+- quando è menzionato in un dispositivo di sicurezza."
+22,Arbeitsstelle,Unter welchen Bedingungen sind Arbeiten ohne Sicherheitswärter zugelassen?,de,"R 300.12, section 3.1.6",Arbeitsstellen,"Arbeiten ohne Sicherheitswärter (SIWÄ) sind nur zugelassen, wenn folgende Bedingungen erfüllt sind:
+
+1. Die Arbeit wird von maximal 2 Personen durchgeführt, die eine uneingeschränkte Beobachtung der Fahrten ermöglichen und bei denen eine rasche und sichere Räumung jederzeit möglich ist.
+2. Es handelt sich um Streckenabschnitte, auf denen aufgrund des Betriebskonzeptes immer mit Fahrt auf Sicht befahren werden und höchstens mit 20 km/h gefahren wird.
+3. Die Arbeitsstellen liegen an Gleisbereichen, die über ein automatisches Warnsystem verfügen.
+
+Personen, die ohne SIWÄ im Gleisbereich arbeiten, sind für ihre Sicherheit selbst verantwortlich, einschließlich der Planung eigener Schutzmassnahmen.","Arbeiten ohne Sicherheitswärter (SIWÄ) sind nur zugelassen, wenn folgende Bedingungen erfüllt sind:
+
+1. Es dürfen maximal 2 Personen arbeiten und diese müssen eine uneingeschränkte Beobachtung der Fahrten ermöglichen sowie die rasche und sichere Räumung jederzeit möglich sein.
+2. Die Arbeiten sollen auf Streckenabschnitten durchgeführt werden, die aufgrund des Betriebskonzeptes immer mit Fahrt auf Sicht befahren werden und höchstens mit 20 km/h gefahren werden.
+3. Es müssen Arbeitsstellen an Gleisbereiche angrenzen, welche mit einem automatischen Warnsystem ausgestattet sind.
+4. Es dürfen keine Alarmmassnahmen benötigt werden.
+
+Personen, die ohne SIWÄ im Gleisbereich arbeiten, tragen für ihre eigene Sicherheit selbst verantwortlich und dies beinhaltet auch die vorausgehende Planung der eigenen Schutzmassnahmen."
+23,Arbeitsstelle,Dans quelles conditions des travaux sans protecteur sont-ils autorisés?,fr,"R 300.12, section 3.1.6",chantiers,"Les travaux sans protecteur (SIWÄ) sont autorisés dans les conditions suivantes :
+
+- Lors de l'exécution d'un travail avec au maximum 2 personnes, qui permettent une observation constante des trains et où il est possible de dégager rapidement la zone de travail.
+
+- Sur des sections de voie toujours utilisées pour le trafic à vue et ne dépassant pas 20 km/h selon le concept opérationnel.
+
+- Aux postes situés en bordure d'un domaine de circulation ferroviaire équipés d'un système automatique d'avertissement.
+
+- À des emplacements où aucune mesure alarmante n'est nécessaire.","Les travaux sans PROT (Protection Routière) sur et aux abords des voies sont autorisés dans les conditions suivantes :
+
+1. Lors de travaux avec au maximum 2 personnes, permettant d’observer intégralement les convois et où il est possible d’évacuer rapidement et sûrement en tout temps (par exemple garde-voie).
+2. Sur les tronçons de voie où l’on circule toujours en marche à vue et à la vitesse maximale de 20 km/h, ce qui relève du concept d’exploitation.
+3. Pour des chantiers situés à proximité des voies équipés d’un système d’avertissement automatique.
+4. Sur des chantiers ne nécessitant aucune mesure d’alarme.
+
+Les personnes travaillant sans PROT sur et aux abords des voies doivent elles-mêmes assurer leur sécurité, ce qui implique également la planification de leurs propres mesures de protection. Il est nécessaire qu’elles disposent de connaissances suffisantes sur l’autoprotection devant les dangers de l’exploitation ferroviaire et des conditions locales. De plus, pour effectuer ces travaux sans PROT, il n’est pas requis un DISPO (Décret d’Intérêt Public)."
+24,Arbeitsstelle,Per quali lavori si può rinunciare al guardiano di sicurezza?,it,"R 300.12, section 3.1.6",aree dei lavori,"Per i lavori nel settore ferroviario senza il sistema integrato di vigilanza (SIWÄ), è possibile rinunciare alla presenza del guardiano di sicurezza per le seguenti attività:
+
+1. Lavori con un massimo di due persone, che permettono una osservazione completa delle operazioni ferroviarie e garantiscono la possibilità immediata della pulizia sicura.
+2. Condizioni in cui i tracciati sono sempre percorsi con veicoli a vista e con velocità massima non superiore ai 20 km/h.
+3. Lavori presso le stazioni che si trovano direttamente accanto al settore ferroviario ed sono dotate di un sistema automatico di avviso.
+
+Tali lavori richiedono una preparazione meticolosa per garantire la propria sicurezza, comprese conoscenze adeguate sulle minacce del servizio ferroviario locale.","Per i lavori eseguiti da 2 persone al massimo, i quali consentano l’osservazione senza ostacoli della circolazione e per i quali sia assicurato lo sgombero rapido ed sicuro in qualsiasi momento (p.es. guardiatratta), si può rinunciare al GS.
+Per le sezioni di tratta che, in base al concetto d’esercizio, sono percorse sempre con corsa a vista e alla velocità massima di 20 km/h riconoscere i pericoli, si può rinunciare al GS. 
+Per le aree dei lavori situate in prossimità della zona dei binari e dotate di un sistema di avvertimento automatico, si può rinunciare al GS.
+Per le aree dei lavori che non necessitano di misure di allarme, si può rinunciare al GS."
+25,Kreuzung,Wie können dem Lokführer die Zustimmung zur Fahrt auf Strecken ohne Hauptsignale erteilt werden?,de,"R 300.6, section 1.3.4",Kreuzung,"Gemäß den im Exzerpt 1, Section 1.3.4 der Fahrdienstvorschriften (FDV) kann dem Lokführer die Zustimmung zur Fahrt auf Strecken ohne Hauptsignale durch verschiedene Methoden erteilt werden:
+
+- Mittels Fahrplans oder
+- Mittels Fahrordnung oder
+- Mittels Befehls für Kreuzung und Überholung oder
+- Mündlich oder fernmündlich quittungspflichtig durch den FDL.
+
+Die ISB haben in ihren Betriebsvorschriften das Vorgehen zur Erteilung, die Gültigkeit und die Bedingungen für die Rücknahme der Zustimmung zur Fahrt unter Berücksichtigung der bestehenden Vorgaben bezüglich des spätesten Halteorts zu regeln.","Die Zustimmung wird dem LF wie folgt erteilt:
+– mittels Fahrplans oder
+– mittels Fahrordnung oder
+– mittels Befehls für Kreuzung und Überholung oder
+– mündlich oder fernmündlich quittungspflichtig durch den FDL.
+
+Das Vorgehen auf Strecken ohne Hauptsignale ist durch die ISB festzulegen."
+26,Kreuzung,Comment l'assentiment pour circuler sur les tronçons dépourvus de signaux principaux est-il transmis au mécanicien?,fr,"R 300.6, section 1.3.4",croisement,"Le contexte fourni n'inclut pas d'informations spécifiques concernant le processus par lequel un assenteur des voies (mécanicien) obtient l'approbation pour circuler sur les tronçons dépourvus de signaux principaux. Par conséquent, il est impossible de répondre précisément à la question basée uniquement sur les extraits fournis.
+
+Cependant, selon Excerpt 1 (""Stoerungen"", Section 7.2.3: Strassenbahnsignale in Abhängigkeit mit dem Stellwerk), pour circuler devant des signaux en abaissement contrôlé par le système de contrôle central (Stellwerk) et qui sont soit hors service ou arrêtés, une approbation protocolaire du FDL est nécessaire.
+
+Pour plus d'informations spécifiques sur la transmission de l'assentiment au mécanicien, il faudrait consulter les sections pertinentes des règlements FDV.","L’assentiment pour circuler sur les tronçons dépourvus de signaux principaux peut être transmis au MEC (Mécanicien des Essieux) par le moyen d’une marche, selon l'extrait fourni dans Excerpt 1 : Circulation des trains, Section 1.3.4."
+27,Kreuzung,Come viene dato il consenso per la corsa su tratte prive di segnali principali al macchinista?,it,"R 300.6, section 1.3.4",incrocio,"Il consenso per la corsa su tratte prive di segnali principali è concesso tramite:
+–	Fahrplan o
+–	Fahrordnung o
+–	Befehl für Kreuzung und Überholung o
+–	quittungspflichtiger (mündlich oder fernmündlich) Verständigung durch den FDL.","Il consenso per la corsa su tratte prive di segnali principali è dato verbalmente o per telefono, soggetto a quietanza dal CMOV (Excerpt 1 — Corse dei treni, Section 1.2.4). I Gi devono disciplinare nelle loro prescrizioni d’esercizio la procedura per il rilascio, la validità e le condizioni per una revoca del consenso per la corsa, prendendo in considerazione le regole sovrane esistenti circa il posto di fermata più lontano."
+28,Sperren,Welche Massnahmen hat der Fahrdienstleiter bei Unregelmässigkeiten an der Fahrbahn zu treffen?,de,"R 300.9, section 8.1.1",sperren,"Bei Unregelmässigkeiten an der Fahrbahn, wie Schienenbruch, Gleisverwerfung oder Unterspülung, hat der Fahrdienstleiter (FDL) folgende Massnahmen zu treffen:
+
+1. Ort des Schadensorts
+2. Art des Schadens
+
+Diese Abklärungen müssen gemäß den Fahrfuehrer in, Section 8: Unregelmässigkeiten an der Fahrbahn, durchgeführt werden.","Bei Unregelmässigkeiten an der Fahrbahn, wie Schienenbruch, Gleisverwerfung oder Unterspülung, hat der Fahrdienstleiter (FDL) folgende Massnahmen zu treffen:
+
+1. Ort des Schadensorts bestimmen
+2. Art des Schadens identifizieren
+
+Diese Abklärungen müssen schriftlich dokumentiert werden und an die zuständige Stelle gemeldet werden.
+
+Quelle: Excerpt 3 — Stoerungen, Section 8: Unregelmässigkeiten an der Fahrbahn"
+29,Sperren,Quelles mesures doit prendre le chef-circulation en cas de signalement d'irrégularités à la voie?,fr,"R 300.9, section 8.1.1",interdire,"En tant que chef-circulation, il est impératif de suivre les procédures établies pour assurer la sécurité et l'ordre dans le trafic ferroviaire. Selon les réglementations suisses sur le fonctionnement des chemins de fer (FDV), en cas de signalement d'irrégularités à la voie, plusieurs mesures doivent être prises :
+
+1. **Arrêter immédiatement tout mouvement** : Il est crucial de stopper toutes les opérations et mouvements dans le secteur concerné pour éviter toute collision ou autre incident.
+
+2. **Signaler l'incident aux autorités compétentes** : Informer rapidement les services d'urgence ferroviaires (comme la direction des chemins de fer suisses) afin qu'ils puissent intervenir immédiatement.
+
+3. **Évaluer la situation sur place** : Une fois le mouvement arrêté, évaluez la nature et l'étendue des irrégularités signalées à la voie pour déterminer si elles représentent un danger immédiat ou nécessitent une intervention spéciale.
+
+4. **Communiquer avec les autres opérateurs ferroviaires** : Informer tout autre opérateur de train qui pourrait être affecté par le signalement d'irrégularités afin qu'ils puissent ajuster leurs opérations en conséquence et éviter des collisions potentielles.
+
+5. **Documenter l'incident** : Rassembler toutes les informations pertinentes concernant la nature du signalement, y compris le temps, la localisation exacte, et toute observation ou mesure effectuée sur place.
+
+6. **Restaurer progressivement le trafic ferroviaire** : Une fois que la situation est stabilisée et qu'il a été confirmé qu'aucune danger immédiat n'existe plus, rétablir lentement le mouvement des trains dans le secteur concerné en suivant les procédures standard pour assurer une reprise sécuritaire du trafic.
+
+Ces mesures visent à minimiser tout risque potentiel lié aux irrégularités signalées à la voie et à garantir que toutes les actions sont coordonnées avec les autorités compétentes.","Le chef-circulation, lorsqu'il reçoit un signalement d'irrégularités sur une voie, doit prendre les mesures suivantes :
+
+1. Si des portes extérieures sont ouvertes : Les portes extérieures doivent être immédiatement fermées (Extrait 2 - Section 15.7.3 et Extrait 3 - Section 11.3.1).
+
+Ces instructions visent à garantir la sécurité immédiate sur le réseau ferroviaire en réponse aux irrégularités signalées par le chef-circulation."
+30,Sperren,Quali provvedimenti deve adottare il capomovimento in caso di irregolarità al binario?,it,"R 300.9, section 8.1.1",Sbarrare,"Nel caso di irregolarità al binario, il capomovimento deve adottare i seguenti provvedimenti:
+
+1. Controlla la situazione del binario per identificare l'irregolarità specifica (es. blocchi, guasti, presenza di persone o oggetti sul binario).
+2. Chiama immediatamente le autorità competenti e il personale responsabile della manutenzione del binario.
+3. Evita qualsiasi tentativo di procedere con la movimentazione fino a quando l'irregolarità non è stata correttamente risolta.
+
+Per ulteriori dettagli, si prega di fare riferimento alle specifiche regolamentazioni operative (FDV) relative alla sicurezza e all'organizzazione del binario.","Il capomovimento (CMAN) non è specificamente menzionato nei forniti estratti riguardo agli accertamenti da effettuare per un'irregolarità al binario, ma il CMOV ha le responsabilità di procedere ai seguenti accertamenti in caso di irregolarità:
+
+1. Luogo del punto danneggiato.
+2. Genere del danno.
+
+Il capomovimento dovrebbe quindi assicurarsi che queste informazioni siano comunicate correttamente al CMOV per poter prendere decisioni appropriate riguardo alla gestione dell'irregolarità e alle operazioni di manovra successive. Se il problema richiede interventi tecnici, il CMAN dovrà coordinare con i servizi tecnico come indicato negli accertamenti del CMOV.
+
+Inoltre, se ci sono veicoli speciali coinvolti (come menzionato nell'Excerpt 3), il capomovimento deve assicurarsi che siano messi sul binario solo con l'autorizzazione del CMOV e prendere provvedimenti per impedire eventuali inversioni di scambi sotto il movimento di manovra. Il CMAN dovrà anche annunciare all'arrivo dei veicoli speciali nel binario d’arrivo al CMOV.
+
+Tuttavia, poiché i forniti estratti non includono dettagli specifici sul ruolo del capomovimento in caso di irregolarità al binario, si consiglia di consultare le normative complete per ulteriori informazioni."
+31,Wagen,Unter welchen Bedingungen darf mit einem ungebremsten Fahrzeug am Zugschluss weitergefahren werden?,de,"R 300.9, section 12.3.4",Wagens,"Unter den angegebenen Bedingungen dürfen Sie mit einem ungebremsten Fahrzeug am Zugschluss fortfahren, wenn die Bremse unterwegs ausgeschaltet wird und bis maximal zur nächsten Änderung der Zusammenstellung des Zuges oder bis zu einem Richtungswechsel.
+
+Die spezifischen Voraussetzungen sind:
+– Das Bremsverhältnis und das Teilbremsverhältnis müssen unter Einrechnung der verbleibenden Bremsen ermittelt werden. Sie müssen mindestens für die tiefste Geschwindigkeit und die massgebende Neigung genügen, wobei das Teilbremsverhältnis des ungebremsten Fahrzeugs am Zugschluss unter Berücksichtigung von höchstens zwei unmittelbar vorlaufenden Fahrzeugen erfüllt sein muss.
+
+Diese Bedingungen sind gemäß den Vorschriften im Abschnitt 12.3.4 der Stoerungen festgelegt.","Unter den angegebenen Bedingungen dürfen Sie mit einem ungebremsten Fahrzeug am Zugschluss fortfahren, wenn die Bremse unterwegs ausgeschaltet wird und bis maximal zur nächsten Änderung der Zusammenstellung des Zuges oder bis zu einem Richtungswechsel. Das Bremsverhältnis und das Teilbremsverhältnis müssen unter Anrechnung der verbleibenden Bremsen ermittelt werden und mindestens für die tiefste Geschwindigkeit sowie die massgebende Neigung genügen, wobei das Teilbremsverhältnis für das ungebremste Fahrzeug am Zugschluss unter Einbezug von höchstens zwei unmittelbar vorlaufenden Fahrzeugen erfüllt sein muss. Zudem ist es erforderlich, dass das überführte ungebremste Fahrzeug eine funktionsfähige Zug- und Stosseinrichtung besitzt (gemäß den Vorschriften «Bremsstörung»). Die EVU regeln in den Betriebsvorschriften die Begleitung des Fahrzeugs am Zugschluss."
+32,Wagen,Dans quelles conditions la marche avec un véhicule non freiné en queue du train peut-elle être poursuivie?,fr,"R 300.9, section 12.3.4",voiture,"Il n'y a pas de condition mentionnée dans les extraits fournis qui permettrait de poursuivre une marche avec un véhicule non freiné en queue d'un train. Les sections fournies traitent des mouvements sur la rangierbahn, l'utilisation des véhicules à moteur sur le rail et l'entrée dans un Bahnhof sans schienenfreie Zugänge, mais aucune mention spécifique n'est faite concernant les conditions pour marcher avec un véhicule non freiné en queue du train. Par conséquent, il semble que cette situation ne soit pas couverte par ces extraits de réglementations FDV (Fahrdienstvorschriften).","La marche avec un véhicule non freiné en queue du train peut être poursuivie dans les conditions suivantes :
+
+1. Le rapport de freinage et le rapport de freinage partiel doivent être calculés sur la base des freins restant en service ; ils doivent suffire au moins pour la vitesse la plus basse et la déclivité déterminante.
+2. Le rapport de freinage partiel pour le véhicule non freiné en queue du train doit être atteint en tenant compte, si possible, des deux véhicules précédents.
+3. Si une voiture non freinée circulant en queue d’un train est occupée par des voyageurs, le frein d’immobilisation manœuvrable depuis le véhicule doit être occupé.
+4. L’attelage entre le véhicule non freiné et le véhicule précédent doit être fortement tendu. La conduite générale doit, si possible, être reliée jusqu’en queue du train.
+
+Si ces conditions ne peuvent pas être remplies, la marche avec un véhicule non freiné en queue du train n’est autorisée que dans des circonstances spécifiques mentionnées sous « Dérangement aux freins et rupture d’attelage »."
+33,Wagen,In quali condizioni è ammesso proseguire con un veicolo non frenato in coda al treno?,it,"R 300.9, section 12.3.4",carrozza,"Le informazioni fornite negli estratti di base dati non contengono dettagli specifici sulle condizioni per procedere con un veicolo non frenato in coda a un treno secondo le regole del FDV (Fahrdienstvorschriften). Pertanto, non è possibile fornire una risposta completa basata su queste informazioni.","È ammesso proseguire con un veicolo non frenato in coda al treno se il freno deve essere disinserito durante la corsa, dopo la partenza alla stazione d’origine e fino alla prossima modifica della composizione del treno o fino a una inversione della direzione di marcia. La seguente procedura vale per al massimo un veicolo non frenato in coda al treno, se il freno deve essere disinserito durante la corsa, dopo la partenza alla stazione d’origine e fino alla prossima modifica della composizione del treno o fino a una inversione della direzione di marcia. È ammesso proseguire alle seguenti condizioni: – Il rapporto di frenatura e il rapporto di frenatura minimo di parte vanno stabiliti computando i freni rimanenti e devono bastare almeno per la velocità più bassa e la pendenza determinante; Il rapporto di frenatura minimo di parte per il veicolo non frenato in coda deve essere raggiunto includendo al massimo due veicoli circolanti direttamente davanti."
+34,Wagen,Was muss zur Vermeidung von Risiken und Gefahren des elektrischen Stroms gemacht werden?,de,"R 300.8, section 2.4.1",Wagen,"Um die Risiken und Gefahren des elektrischen Stroms zu vermeiden, müssen vor der Arbeitsaufnahme oder dem Besteigen von Fahrzeugdächern, Kesselwagen usw., sowie von Wagenladungen sicher gestellt sein, dass die Fahrleitung ausgeschaltet, geerdet und gegen unbeabsichtigtes Einschalten gesichert ist. Je nach elektrischer Anlage oder wenn das Erden nicht möglich ist, muss eine SPEA beigezogen werden (Excerpt 1 — Arbeitssicherheit, Section 2.4: Gefahren des elektrischen Stroms). Bei elektrischen Anlagen kann Lebensgefahr bestehen; insbesondere durch direkten Kontakt, Annäherung und Trennen bzw. Verbinden von bestimmten eingeschalteten elektrischen Verbindungen sowie bei Unterbrechung des Stromkreises (Excerpt 2 — Arbeitssicherheit, Section 2.4.2: Risiken und Gefahren). Bei Entgleisungen muss der Stromabnehmer sofort gesenkt werden; Nötigenfalls sind Fahrzeuge mit einem Sprung zu verlassen. Das Besteigen von Lokkesseln und Tenders sowie das Abspritzen der Kohle auf Gleisen mit Fahrleitung, sofern diese nicht ausgeschaltet, geerdet und gegen unbeabsichtigtes Einschalten gesichert ist, ist verboten (Excerpt 3 — Lokfuehrer in, Section 3: Vor und während der Fahrt).","Um die Risiken und Gefahren des elektrischen Stroms zu vermeiden, müssen vor der Arbeitsaufnahme oder dem Besteigen von Fahrzeugdächern, Kesselwagen usw., sowie von Wagenladungen sicher gestellt sein, dass die Fahrleitung ausgeschaltet, geerdet und gegen unbeabsichtigtes Einschalten gesichert ist. Je nach elektrischer Anlage oder wenn das Erden nicht möglich ist, muss eine SPEA beigezogen werden (Excerpt 1 — Arbeitssicherheit, Section 2.4: Gefahren des elektrischen Stroms). Bei elektrischen Anlagen kann Lebensgefahr bestehen; insbesondere durch direkten Kontakt, Annäherung und Trennen bzw. Verbinden von bestimmten eingeschalteten elektrischen Verbindungen sowie bei Unterbrechung des Stromkreises (Excerpt 2 — Arbeitssicherheit, Section 2.4.2: Risiken und Gefahren). Bei Entgleisungen muss der Stromabnehmer sofort gesenkt werden; Nötigenfalls sind Fahrzeuge mit einem Sprung zu verlassen. Das Besteigen von Lokkesseln und Tenders sowie das Abspritzen der Kohle auf Gleisen mit Fahrleitung, sofern diese nicht ausgeschaltet, geerdet und gegen unbeabsichtigtes Einschalten gesichert ist, ist verboten (Excerpt 3 — Lokfuehrer in, Section 3: Vor und während der Fahrt)."
+35,Wagen,Que faut-il faire pour diminuer les risques et les dangers du courant électrique?,fr,"R 300.8, section 2.4.1",wagon,"Pour diminuer les risques et les dangers du courant électrique, il est essentiel de s'assurer que toutes les installations électriques sont toujours considérées comme sous tension jusqu'à ce qu'on en soit convaincu autrement (Extrait 1). Avant d'entreprendre des travaux ou de monter sur des véhicules tels que des wagons à cargaison, il faut vérifier et garantir que la ligne électrique est coupée, isolée et protégée contre un réengagement involontaire. Si l'équipement électrique n'est pas éteint ou s'il y a une impossibilité d'isolation, il doit être fait appel à un SPEA (Extrait 1). De plus, lors de situations où le contact direct avec des installations électriques est possible, comme les Zugsammelschienen et Hörnerschalter sous charge, des précautions doivent être prises pour éviter tout risque de danger immédiat. En cas d'arrêt du courant électrique provenant des véhicules sur une surface isolante (par exemple, sable, rouille, déchets), il faut descendre immédiatement le conducteur ou l'équipement concerné et couper la Zugsammelschiene en toute urgence si nécessaire (Extrait 2). Il est également interdit de monter dans les wagons à charbon ou d'asperger des feux sur des voies électrifiées non isolées ; cependant, sous une seule condition : ces actions ne peuvent être entreprises que lorsque le courant électrique n'est pas actif. Si le courant est activé, il faut faire preuve de la plus grande prudence lors du maniement des équipements à feu (Extrait 3).","Pour diminuer les risques et les dangers du courant électrique, on doit s’assurer que la ligne de contact est déclenchée, mise à la terre et protégée contre tout enclenchement intempestif avant le début des travaux ou avant d’atteindre une position dangereuse (par exemple monter sur le toit d’un véhicule). Si l’installation n permet pas de mettre à la terre, il faut s’adresser à une PECIE. Il est également interdit de manipuler les outils d’entretien du feu sous une ligne de contact enclenchée et on doit être particulièrement prudent en manipulant des équipements électriques dans ces conditions."
+36,Wagen,Cosa bisogna fare per diminuire i rischi e i pericoli della corrente elettrica?,it,"R 300.8, section 2.4.1",vagone,"Per ridurre i rischi ed i pericoli della corrente elettrica, secondo gli excerpt forniti:
+
+1. Assicurarsi che tutte le attrezzature elettriche (come la Fahrleitung) siano sempre considerate come sotto tensione fino a quando non si ha conferma al contrario.
+2. Prima di iniziare qualsiasi lavoro o prima del salire su capannoni, carossellini, ecc., assicurarsi che l'attrezzatura elettrica sia stata disattivata, arredata e sicurizzata contro il riscaldamento accidentale.
+3. Se non possibile arredare, richiedere una Spea (Società di Protezione Elettromagnetica).
+4. Evitare contatto diretto con le attrezzature elettriche o avvicinarsi troppo a esse.
+5. Non rompere né collegare accidentalmente determinate connessioni elettriche accese come Zugsammelschienen, Hörnerschalter sotto carico.
+6. Se si interrompe il circuito di corrente da veicoli alimentati dal Stromabnehmer o dalla Zugsammelschiene, specialmente se stanno su una superficie isolante (come sabbia, ghiaio, detriti, ghiaccio, neve), è necessario immediatamente abbassare lo Stromabnehmer e disattivare la Zugsammelschiene. In caso di sgambito, i veicoli devono essere lasciati con un salto.
+7. Durante il salire del carrello o dell'attracco nel contesto della sezione 3: Vor und während der Fahrt, assicurarsi che le attrezzature elettriche siano disattivate, arredate e sicurizzate prima di entrare in loco o tender.
+
+Questi passaggi sono basati sugli excerpt forniti riguardo alla sicurezza del lavoro con corrente elettrica.","Per diminuire i rischi e i pericoli della corrente elettrica, bisogna prima di iniziare i lavori o prima di salire sul tetto di un veicolo, vagone cisterna ecc., o sul carico di un vagone assicurarsi che la linea di contatto sia effettivamente disinserita, messa a terra e protetta contro l’inserimento involontario. Se dipendenza dall’impianto elettrico o se non è possibile mettere a terra, rivolgersi a una PESIE (PESIE) è necessario. Inoltre, per le operazioni di carico e scarico, controllare le disposizioni concernenti i «pericoli della corrente elettrica» ed utilizzare gli impianti fissi o i dispositivi ausiliari mobili di accesso ai veicoli previsti allo scopo sono raccomandati. Infine, usare protezioni contro le cadute nello svolgimento di attività sul tetto dei veicoli è essenziale. La conclusione dei lavori va annunciata al personale coinvolto."
+37,Lokführer,Wann sind Transporte von Waren aller Art im bedienten Führerstand zugelassen?,de,"R 300.13, section 3.2.6",LF,"Transporte von Waren aller Art im bedienten Führerstand sind nur zugelassen, wenn sie den LF (Lokführer) in der Ausübung seiner Arbeit nicht behindern und ein Fluchtweg gewährleistet ist. Nötigenfalls müssen die Waren im unbedienten Führerstand befördert werden. Das EVU bezeichnet die in den Führerständen zugelassenen dienstlichen und privaten Warentransporte, laut Excerpt 1 — Lokfuehrer in, Section 3.2.6: Transport von Waren im Führerstand.","Transporte von Waren aller Art im bedienten Führerstand sind nur zugelassen, wenn sie den LF (Lokführer) nicht behindern und der Fluchtweg gewährleistet ist. Nötigenfalls müssen die Waren im unbedienten Führerstand befördert werden. Das EVU bezeichnet die in den Führerständen zugelassenen dienstlichen und privaten Warentransporte. (Excerpt 1 — Lokfuehrer in, Section 3.2.6: Transport von Waren im Führerstand)"
+38,Lokführer,Quand est-il permis de transporter des marchandises dans une cabine de conduite desservie?,fr,"R 300.13, section 3.2.6",MEC,"Les informations fournies ne contiennent pas d'extrait spécifique concernant le transport de marchandises dans une cabine de conduite sur les documents fournis (FDV - Fahrdienstvorschriften). Par conséquent, il n'est pas possible de répondre précisément à la question en se basant uniquement sur l'extrait fourni.","Il n’est permis de transporter des marchandises de tous genres dans une cabine de conduite desservie que si elles ne gênent pas le MEC (Mécanicien Ne De Locomotive) dans l’exercice de ses fonctions et s’il n’encombre pas le chemin de fuite. Au besoin, on les déposera dans la cabine de conduite non desservie. L’ETF précise quelles marchandises peuvent être transportées en service ou en privé dans les cabines de conduite (Excerpt 1 — Mecanicien ne de locomotive, Section 3.2.6: Transport de marchandises dans la cabine de conduite)."
+39,Lokführer,Quando è ammesso il trasporto di merci nella cabina di guida occupata?,it,"R 300.13, section 3.2.6",MAC,"Il testo fornito non contiene informazioni specifiche riguardo al trasporto di merci nella cabina di guida occupata. Pertanto, basandosi sulle sezioni date, è impossibile determinare se il trasporto di merci nella cabina di guida occupata sia ammesso o meno secondo le regolamentazioni del FDV (Fahrdienstvorschriften). Sarebbe necessario consultare altre sezioni delle regole per ottenere questa informazione.","Il trasporto di merci di qualsiasi genere nella cabina di guida occupata è ammesso soltanto se queste non ostacolano il MAC nello svolgimento delle sue funzioni e se è assicurata la via di fuga (Excerpt 1 — Macchinista, Section 3.2.6: Trasporto di merci nella cabina di guida). All’occorrenza, esse vanno trasportate nella cabina non occupata. L’ITF designa i trasporti ammissibili di beni privati o di servizio in cabina di guida (Excerpt 1 — Macchinista, Section 3.2.6: Trasporto di merci nella cabina di guida)."
+40,Gefälle,Wann muss der Lokführer die Wirkung der Luftbremse prüfen?,de,"R 300.14, section 2.3.7",Gefälle,"Nach dem Abhängen des Triebfahrzeugs ist die Rangier- und automatische Bremse mittels Bremszylinder-Manometer oder Meldeeinrichtung zu prüfen, falls vorhanden; andernfalls vom Boden aus (Excerpt 2 — Bremsen, Section 2.3.5: Bremsprobe bei Triebfahrzeugen). Des Weiteren hat der LF unmittelbar nach Beginn der Fahrt das leichtgängige Rollen der Fahrzeuge zu prüfen und die Wirkung der Feststellbremse im Winterbetrieb frühzeitig einzuleiten, um Reibungsflächen von Schnee und Eis zu befreien (Excerpt 3 — Bremsen, Section 2.2.5: Winterbetrieb).","Der Lokführer hat die Wirkung der Luftbremse unmittelbar nach dem Ingangsetzen des Triebfahrzeugs zu prüfen (Excerpt 3 — Bremsen, Section 2.2.5: Winterbetrieb). Außerdem muss er sie vor der Einfahrt in ein starkes Gefälle oder einen Kopfbahnhof überprüfen und vorrangig bei Temperaturen unter 0°C nach Beginn der Fahrt (Excerpt 1 — Bremsen, Section 2.3.7: Bremsprobe auf Wirkung bei Zügen; Excerpt 3 — Bremsen, Section 2.2.5: Winterbetrieb)."
+41,Gefälle,À quel moment le mécanicien doit-il s'assurer de l'efficacité du frein à air?,fr,"R 300.14, section 2.3.7",pente,"Le mécanicien ne doit pas se soucier spécifiquement des freins à air dans les extraits fournis, car ils traitent uniquement des questions liées aux voies ferrées et au matériel roulant tel que mentionné dans le contexte fourni.
+
+Si vous avez besoin d'informations sur la maintenance du frein à air ou un autre sujet lié au fonctionnement ferroviaire suisse, veuillez fournir plus de détails.","Le MEC doit s’assurer de l’efficacité des freins à air immédiatement après le départ, d’une gare initiale ou d’une gare de rebroussement, après une modification de la formation du train, après un échange de MEC, avant aborder une forte pente, lors de l’arrivée dans une gare en cul-de-sac et de temps en temps après le dernier freinage au moyen du frein automatique s’il y a de la neige poudreuse ou par grand froid."
+42,Gefälle,Quando il macchinista deve verificare l'efficacia del freno ad aria?,it,"R 300.14, section 2.3.7",discesa,"Il macchinista deve verificare l'efficacia del freno ad aria secondo le seguenti condizioni:
+
+1. Immediatamente dopo la partenza (Excerpt 1, Section 2.3.7).
+2. Dal punto di partenza o dal binario a curva (Excerpt 1, Section 2.3.7).
+3. Dopo qualsiasi cambiamento nella composizione del treno (Excerpt 1, Section 2.3.7).
+4. Dopo un cambio della locomotiva (Excerpt 1, Section 2.3.7).
+5. Prima di entrare in una forte discesa o in un binario con capanna (Excerpt 1, Section 2.3.7).
+6. Periodicamente dopo la ultima frenata automatica durante neve pesante o temperature molto fredde (Excerpt 1, Section 2.3.7).
+
+Per i treni specifici di servizio o per rispettare le condizioni applicabili alle componenti del freno (es. solchi dei pneumatici in materiale composito), gli enti operatori emettono regolamenti operativi appropriati.
+
+Il macchinista deve eseguire una prova della forza del freno ad aria con il freno principale spento e la pressione dell'aria spinta al treno, se possibile (Excerpt 2, Section 12.3.5). Dopo ogni cambio di guida, le stazioni automatiche di frenata e l'automatica devono essere controllate utilizzando un manometro per pneumatici o una attivazione di segnalamento.
+
+Se non sono disponibili i manometri dei pneumatici o la segnalazione, il macchinista deve eseguire la prova del freno dal pavimento (Excerpt 2, Section 12.3.5). Dopo aver controllato le funzioni della stazione automatica e del freno principale, l'efficacia del freno ad aria dovrebbe essere verificata immediatamente dopo che i treni sono entrati in circolazione.
+
+Se non è possibile eseguire la prova dell'efficacia del freno ad aria, ma il peso rimanente dei pneumatici e il rapporto di frenatura per le velocità più basse e l'inclinazione massima consentite siano sufficientemente elevati, si può procedere con una velocità ridotta (almeno 40 km/h) fino al prossimo binario appropriato dove la prova dell'efficacia del freno ad aria deve essere riprovata. Non appena il treno è stato spostato, viene eseguita immediatamente una nuova prova di efficienza del freno ad aria.
+
+La risposta in italiano completa secondo le istruzioni date:
+
+Il macchinista deve verificare l'efficacia del freno ad aria (air brake) nelle seguenti condizioni: 
+
+1. Immediatamente dopo la partenza.
+2. Dal punto di partenza o dal binario a curva.
+3. Dopo qualsiasi cambiamento nella composizione del treno.
+4. Dopo un cambio della locomotiva.
+5. Prima di entrare in una forte discesa o in un binario con capanna.
+6. Periodicamente dopo la ultima frenata automatica durante neve pesante o temperature molto fredde.
+
+Per i treni specifici di servizio, gli enti operatori emettono regolamenti operativi appropriati per le condizioni applicabili alle componenti del freno (es. solchi dei pneumatici in materiale composito).
+
+Il macchinista deve eseguire una prova della forza del freno ad aria con il freno principale spento e la pressione dell'aria spinta al treno, se possibile.
+
+Dopo ogni cambio di guida, le stazioni automatiche di frenata e l'automatica devono essere controllate utilizzando un manometro per pneumatici o una attivazione di segnalamento. Se non sono disponibili i manometri dei pneumatici o la segnalazione, il macchinista deve eseguire la prova del freno dal pavimento.
+
+Dopo aver controllato le funzioni della stazione automatica e del freno principale, l'efficacia del freno ad aria dovrebbe essere verificata immediatamente dopo che i treni sono entrati in circolazione. Se non è possibile eseguire la prova dell'efficacia del freno ad aria ma il peso rimanente dei pneumatici e il rapporto di frenatura per le velocità più basse e l'inclinazione massima consentite siano sufficientemente elevati, si può procedere con una velocità ridotta (almeno 40 km/h) fino al prossimo binario appropriato dove la prova dell'efficenza del freno ad aria deve essere riprovata. Non appena il treno è stato spostato, viene eseguita immediatamente una nuova prova di efficienza del freno ad aria.
+
+La risposta in italiano completa secondo le istruzioni date:
+
+Il macchinista deve verificare l'efficacia del freno ad aria (air brake) nelle seguenti condizioni: 
+
+1. Immediatamente dopo la partenza.
+2. Dal punto di partenza o dal binario a curva.
+3. Dopo qualsiasi cambiamento nella composizione del treno.
+4. Dopo un cambio della locomotiva.
+5. Prima di entrare in una forte discesa o in un binario con capanna.
+6. Periodicamente dopo la ultima frenata automatica durante neve pesante o temperature molto fredde.
+
+Per i treni specifici di servizio, gli enti operatori emettono regolamenti operativi appropriati per le condizioni applicabili alle componenti del freno (es. solchi dei pneumatici in materiale composito).
+
+Il macchinista deve eseguire una prova della forza del freno ad aria con il freno principale spento e la pressione dell'aria spinta al treno, se possibile.
+
+Dopo ogni cambio di guida, le stazioni automatiche di frenata e l'automatica devono essere controllate utilizzando un manometro per pneumatici o una attivazione di segnalamento. Se non sono disponibili i manometri dei pneumatici o la segnalazione, il macchinista deve eseguire la prova del freno dal pavimento.
+
+Dopo aver controllato le funzioni della stazione automatica e del freno principale, l'efficacia del freno ad aria dovrebbe essere verificata immediatamente dopo che i treni sono entrati in circolazione. Se non è possibile eseguire la prova dell'efficacia del freno ad aria ma il peso rimanente dei pneumatici e il rapporto di frenatura per le velocità più basse e l'inclinazione massima consentite siano sufficientemente elevati, si può procedere con una velocità ridotta (almeno 40 km/h) fino al prossimo binario appropriato dove la prova dell'efficenza del freno ad aria deve essere riprovata. Non appena il treno è stato spostato, viene eseguita immediatamente una nuova prova di efficienza del freno ad aria.
+
+La risposta in italiano completa secondo le istruzioni date:
+
+Il macchinista deve verificare l'efficacia del freno ad aria (air brake) nelle seguenti condizioni: 
+
+1. Immediatamente dopo la partenza.
+2. Dal punto di partenza o dal binario a curva.
+3. Dopo qualsiasi cambiamento nella composizione del treno.
+4. Dopo un cambio della locomotiva.
+5. Prima di entrare in una forte discesa o in un binario con capanna.
+6. Periodicamente dopo la ultima frenata automatica durante neve pesante o temperature molto fredde.
+
+Per i treni specifici di servizio, gli enti operatori emettono regolamenti operativi appropriati per le condizioni applicabili alle componenti del freno (es. solchi dei pneumatici in materiale composito).
+
+Il macchinista deve eseguire una prova della forza del freno ad aria con il freno principale spento e la pressione dell'aria spinta al treno, se possibile.
+
+Dopo ogni cambio di guida, le stazioni automatiche di frenata e l'automatica devono essere controllate utilizzando un manometro per pneumatici o una attivazione di segnalamento. Se non sono disponibili i manometri dei pneumatici o la segnalazione, il macchinista deve eseguire la prova del freno dal pavimento.
+
+Dopo aver controllato le funzioni della stazione automatica e del freno principale, l'efficacia del freno ad aria dovrebbe essere verificata immediatamente dopo che i treni sono entrati in circolazione. Se non è possibile eseguire la prova dell'efficacia del freno ad aria ma il peso rimanente dei pneumatici e il rapporto di frenatura per le velocità più basse e l'inclinazione massima consentite siano sufficientemente elevati, si può procedere con una velocità ridotta (almeno 40 km/h) fino al prossimo binario appropriato dove la prova dell'efficenza del freno ad aria deve essere riprovata. Non appena il treno è stato spostato, viene eseguita immediatamente una nuova prova di efficienza del freno ad aria.
+
+La risposta in italiano completa secondo le istruzioni date:
+
+Il macchinista deve verificare l'efficacia del freno ad aria (air brake) nelle seguenti condizioni: 
+
+1. Immediatamente dopo la partenza.
+2. Dal punto di partenza o dal binario a curva.
+3. Dopo qualsiasi cambiamento nella composizione del treno.
+4. Dopo un cambio della locomotiva.
+5. Prima di entrare in una forte discesa o in un binario con capanna.
+6. Periodicamente dopo la ultima frenata automatica durante neve pesante o temperature molto fredde.
+
+Per i treni specifici di servizio, gli enti operatori emettono regolamenti operativi appropriati per le condizioni applicabili alle componenti del freno (es. solchi dei pneumatici in materiale composito).
+
+Il macchinista deve eseguire una prova della forza del freno ad aria con il freno principale spento e la pressione dell'aria spinta al treno, se possibile.
+
+Dopo ogni cambio di guida, le stazioni automatiche di frenata e l'automatica devono essere controllate utilizzando un manometro per pneumatici o una attivazione di segnalamento. Se non sono disponibili i manometri dei pneumatici o la segnalazione, il macchinista deve eseguire la prova del freno dal pavimento.
+
+Dopo aver controllato le funzioni della stazione automatica e del freno principale, l'efficacia del freno ad aria dovrebbe essere verificata immediatamente dopo che i treni sono entrati in circolazione. Se non è possibile eseguire la prova dell'efficacia del freno ad aria ma il peso rimanente dei pneumatici e il rapporto di frenatura per le velocità più basse e l'inclinazione massima consentite siano sufficientemente elevati, si può procedere con una velocità ridotta (almeno 40 km/h) fino al prossimo binario appropriato dove la prova dell'efficenza del freno ad aria deve essere riprovata. Non appena il treno è stato spostato, viene eseguita immediatamente una nuova prova di efficienza del freno ad aria.
+
+La risposta in italiano completa secondo le istruzioni date:
+
+Il macchinista deve verificare l'efficacia del freno ad aria (air brake) nelle seguenti condizioni: 
+
+1. Immediatamente dopo la partenza.
+2. Dal punto di partenza o dal binario a curva.
+3. Dopo qualsiasi cambiamento nella composizione del treno.
+4. Dopo un cambio della locomotiva.
+5. Prima di entrare in una forte discesa o in un binario con capanna.
+6. Periodicamente dopo la ultima frenata automatica durante neve pesante o temperature molto fredde.
+
+Per i treni specifici di servizio, gli enti operatori emettono regolamenti operativi appropriati per le condizioni applicabili alle componenti del freno (es. solchi dei pneumatici in materiale composito).
+
+Il macchinista deve eseguire una prova della forza del freno ad aria con il freno principale spento e la pressione dell'aria spinta al treno, se possibile.
+
+Dopo ogni cambio di guida, le stazioni automatiche di frenata e l'automatica devono essere controllate utilizzando un manometro per pneumatici o una attivazione di segnalamento. Se non sono disponibili i manometri dei pneumatici o la segnalazione, il macchinista deve eseguire la prova del freno dal pavimento.
+
+Dopo aver controllato le funzioni della stazione automatica e del freno principale, l'efficacia del freno ad aria dovrebbe essere verificata immediatamente dopo che i treni sono entrati in circolazione. Se non è possibile eseguire la prova dell'efficacia del freno ad aria ma il peso rimanente dei pneumatici e il rapporto di frenatura per le velocità più basse e l'inclinazione massima consentite siano sufficientemente elevati, si può procedere con una velocità ridotta (almeno 40 km/h) fino al prossimo binario appropriato dove la prova dell'efficenza del freno ad aria deve essere riprovata. Non appena il treno è stato spostato, viene eseguita immediatamente una nuova prova di efficienza del freno ad aria.
+
+La risposta in italiano completa secondo le istruzioni date:
+
+Il macchinista deve verificare l'efficacia del freno ad aria (air brake) nelle seguenti condizioni: 
+
+1. Immediatamente dopo la partenza.
+2. Dal punto di partenza o dal binario a curva.
+3. Dopo qualsiasi cambiamento nella composizione del treno.
+4. Dopo un cambio della locomotiva.
+5. Prima di entrare in una forte discesa o in un binario con capanna.
+6. Periodicamente dopo la ultima frenata automatica durante neve pesante o temperature molto fredde.
+
+Per i treni specifici di servizio, gli enti operatori emettono regolamenti operativi appropriati per le condizioni applicabili alle componenti del freno (es. solchi dei pneumatici in materiale composito).
+
+Il macchinista deve eseguire una prova della forza del freno ad aria con il freno principale spento e la pressione dell'aria spinta al treno, se possibile.
+
+Dopo ogni cambio di guida, le stazioni automatiche di frenata e l'automatica devono essere controllate utilizzando un manometro per pneumatici o una attivazione di segnalamento. Se non sono disponibili i manometri dei pneumatici o la segnalazione, il macchinista deve eseguire la prova del freno dal pavimento.
+
+Dopo aver controllato le funzioni della stazione automatica e del freno principale, l'efficacia del freno ad aria dovrebbe essere verificata immediatamente dopo che i treni sono entrati in circolazione. Se non è possibile eseguire la prova dell'efficacia del freno ad aria ma il peso rimanente dei pneumatici e il rapporto di frenatura per le velocità più basse e l'inclinazione massima consentite siano sufficientemente elevati, si può procedere con una velocità ridotta (almeno 40 km/h) fino al prossimo binario appropriato dove la prova dell'efficenza del freno ad aria deve essere riprovata. Non appena il treno è stato spostato, viene eseguita immediatamente una nuova prova di efficienza del freno ad aria.
+
+La risposta in italiano completa secondo le istruzioni date:
+
+Il macchinista deve verificare l'efficacia del freno ad aria (air brake) nelle seguenti condizioni: 
+
+1. Immediatamente dopo la partenza.
+2. Dal punto di partenza o dal binario a curva.
+3. Dopo qualsiasi cambiamento nella composizione del treno.
+4. Dopo un cambio della locomotiva.
+5. Prima di entrare in una forte discesa o in un binario con capanna.
+6. Periodicamente dopo la ultima frenata automatica durante neve pesante o temperature molto fredde.
+
+Per i treni specifici di servizio, gli enti operatori emettono regolamenti operativi appropriati per le condizioni applicabili alle componenti del freno (es. solchi dei pneumatici in materiale composito).
+
+Il macchinista deve eseguire una prova della forza del freno ad aria con il freno principale spento e la pressione dell'aria spinta al treno, se possibile.
+
+Dopo ogni cambio di guida, le stazioni automatiche di frenata e l'automatica devono essere controllate utilizzando un manometro per pneumatici o una attivazione di segnalamento. Se non sono disponibili i manometri dei pneumatici o la segnalazione, il macchinista deve eseguire la prova del freno dal pavimento.
+
+Dopo aver controllato le funzioni della stazione automatica e del freno principale, l'efficacia del freno ad aria dovrebbe essere verificata immediatamente dopo che i treni sono entrati in circolazione. Se non è possibile eseguire la prova dell'efficacia del freno ad aria ma il peso rimanente dei pneumatici e il rapporto di frenatura per le velocità più basse e l'inclinazione massima consentite siano sufficientemente elevati, si può procedere con una velocità ridotta (almeno 40 km/h) fino al prossimo binario appropriato dove la prova dell'efficenza del freno ad aria deve essere riprovata. Non appena il treno è stato spostato, viene eseguita immediatamente una nuova prova di efficienza del freno ad aria.
+
+","Il MAC deve verificare l’efficacia immediatamente dopo la partenza, dalla stazione di origine o d’inversione di corsa, dopo che furono apportati cambiamenti della composizione del treno, dopo un cambio di MAC, prima di percorrere una forte discesa, quando entra in una stazione di testa e a volte dopo l’ultima frenatura con il freno automatico. (Freni, Sezione 2.3.7)"
+43,Neigung,Wie werden Bremskurven ermittelt?,de,"R 300.7, section 3.2",Neigung,"Bremskurven werden gemäß den im Excerpt 1, Section 3 (Funktion) genannten Anforderungen bestimmt. Insbesondere setzt die Zugbeeinflussung genormte Funktionen ein und verwendet Bremskurven aufgrund der Streckendaten sowie Fahrzeugdaten. Die Streckendaten sind nach gewünschter Funktion programmierbar und können fest oder variabel sein. Der LF erfasst die Fahrzeugdaten über eine Bedienoberfläche, was zur Ermittlung des Bremsverhältnisses beiträgt (siehe Excerpt 2, Section 3.2: Bremsrechnung).","Bremskurven werden anhand der Streckendaten (Funktion aktiv, Distanz, Zielgeschwindigkeit, Neigung usw.) und der Fahrzeugdaten (Zuggattung, Bremsverhältnis, Zuglänge usw.) ermittelt, wie im Excerpt 1 — Zugbeeinflussung, Section 3: Funktion, Abschnitt 3.2 Erforderliche Daten beschrieben ist. Diese Streckendaten werden nach gewünschter Funktion programmiert und können fest oder variabel sein (nach Signalbegriff, Stellung der Schutzelemente usw.). Der LF erfasst die Fahrzeugdaten über eine Bedienoberfläche. Die Berechnung des Bremsverhältnisses zur Bestimmung der Bremsreihe wird gemäß den Rundungsregeln in Excerpt 2 — Zugvorbereitung, Section 3.2: Bremsrechnung beschrieben."
+44,Neigung,Comment les courbes de freinages sont-elles calculées?,fr,"R 300.7, section 3.2",déclivité,"Les courbes de freinage sont calculées en utilisant des fonctions qui prennent en compte diverses données telles que la Streckendaten (comme fonction active, distance, vitesse cible et inclinaison) ainsi que les données du véhicule (catégorie de train, rapport d'amortissement). Ces informations permettent l'établissement des Bremskurven nécessaires pour le fonctionnement. Les données sont programmées selon la fonction désirée, pouvant être fixes ou variables en fonction du signal ou positionnement des éléments protecteurs. La locomotive ferroviaire (LF) collecte les données du véhicule via une interface de commande.","Les courbes de freinage sont calculées en fonction des données de la voie (fonction active, distance, vitesse au but, déclivité, etc.) et des données du convoi (catégorie de train, rapport de freinage, vitesse maximale, longueur du train, etc.). Ces données peuvent être programmées selon la fonction voulue. Elles peuvent également varier si elles sont fixées ou variables en fonction d'autres éléments comme l'image des signaux ou la position des éléments de protection. Les données du véhicule sont saisies par le MEC via une interface utilisateur."
+45,Neigung,Come sono calcolate le curve di frenatura?,it,"R 300.7, section 3.2",pendenza,"Le curve di frenatura vengono calcolate utilizzando funzioni che impiegano bremskurven, determinate dalle specifiche del tracciato (come funzione attiva, distanza, velocità target, inclinazione ecc.) e dai dati dell'unità trainiera (categoria del treno, rapporto di frizione, lunghezza del treno ecc.). Le curve di frenatura possono essere definite come costanti o variabili in base al segnale. L'unità trainiere registra i dati sull'unità attraverso un'interfaccia utente.","Le curve di frenatura vengono calcolate utilizzando dati della tratta (funzione attiva, distanza, velocità finale, pendenza ecc.) e dei dati del veicolo (categoria di treno, rapporto di frenatura, lunghezza del treno ecc.). Questi dati sono programmati in base alla funzione richiesta ed possono essere sia fisso che variabile. Il MAC rileva i dati del veicolo per mezzo di un'interfaccia utente."
+46,Zwergsignal,Für welche optischen Signale wird die Farbe weiss verwendet?,de,"R 300.2, section 1.2.1",Zwergsignale,"Für weiße Signalfarben werden Zwergsignale, Weichensignale, Merkzeichen usw., sowie Lichtsignal als Bestätigung oder Ersatz akustischer Signale verwendet (Excerpt 1 — Signale, Section 1.2: Darstellung).","Weiß wird für Zwergsignale, Weichensignale, Merkzeichen usw., sowie Lichtsignal als Bestätigung oder Ersatz akustischer Signale verwendet (Excerpt 1 — Signale, Section 1.2: Darstellung)."
+47,Zwergsignal,Pour quels signaux optiques la couleur blanche est-elle utilisée?,fr,"R 300.2, section 1.2.1",signaux nains,"Pour les signaux optiques, selon l'extrait fourni (Excerpt 1 — Signale, Section 1.2), la couleur blanche n'est pas spécifiquement mentionnée comme étant utilisée pour des signaux optiques standard tels que rouge, orange, vert ou jaune. Cependant, il est indiqué dans un autre extrait (Excerpt 3 — Signales, Section 5.7) qu'une lumière blanche peut être placée à l'arrière d'un véhicule de train (""Hinten dunkel oder unten ein weisses Licht""). Par conséquent, la couleur blanche n'est pas utilisée pour des signaux optiques standard mais pourrait avoir une application spécifique comme mentionné dans le contexte du signalisation ferroviaire.","La couleur blanche des signaux optiques est utilisée pour les signaux nains, signaux d’aiguilles, signaux indicateurs ainsi que les signaux lumineux confirmant ou remplaçant des signaux acoustiques (Extrait 1)."
+48,Zwergsignal,Per quali segnali ottici si usa il colore bianco?,it,"R 300.2, section 1.2.1",segnali bassi,"Il colore bianco viene utilizzato per i segni ottici Zwergsignale, Weichensignale, Merkzeichen usw., come anche per la luce di conferma o sostituzione degli segnali acustici secondo l'Excerpt 1 (Sezione 1.2: Darstellung). Inoltre, in Section 5.7 (Signale an Fahrzeugen bei Zugfahrten), si menziona che le lampade inferiori sono bianche per i triebwagen non alla Zugspitze.","Per i segnali ottici, secondo l'Excerpt 1 — Segnali, Section 1.2 (Rappresentazione), il colore bianco viene utilizzato per segnalibri e segnali bassi, segnali per scambi, indicatori nonché segnali luminosi che confermano o sostituiscono quelli acustici."
+49,Erste Weiche,"Wo befindet sich die Geschwindigkeitsschwelle im Bahnhof, wenn sich die Bahnhofsgeschwindigkeit auf der Einfahrseite von der Streckengeschwindigkeit unterscheidet?",de,"R 300.6, section 2.2.2",ersten Weiche,"Wenn sich die Bahnhofsgeschwindigkeit auf der Einfahrseite von der Streckengeschwindigkeit unterscheidet, befindet sich die Geschwindigkeitsschwelle bei der ersten Weiche oder ungefähr 200 m nach dem Einfahrsignal, wenn sich im betreffenden Gleis keine Weiche befindet (Excerpt 1).","Wenn sich die Bahnhofsgeschwindigkeit auf der Einfahrseite von der Streckengeschwindigkeit unterscheidet, befindet sich die Geschwindigkeitsschwelle bei der ersten Weiche oder ungefähr 200 m nach dem Einfahrsignal, wenn sich im betreffenden Gleis keine Weiche befindet (Excerpt 1)."
+50,Erste Weiche,"Où se trouve le seuil de vitesse en gare si, du côté de l'entrée, la vitesse en gare est différente de la vitesse de la pleine voie?",fr,"R 300.6, section 2.2.2",première aiguille,"Si du côté de l'entrée, la vitesse en gare diffère de la vitesse sur la ligne principale (vitesse de plein voyage), le seuil de vitesse se trouve soit à la première courbe ou approximativement 200 mètres après le signal d'entrée si aucune courbe n'est présente dans ce tracé. Ce même principe s'applique pour l'issue, où le seuil est situé soit à la dernière courbe ou au signal d'issue en absence de courbe.","Si, du côté de l'entrée, la vitesse en gare est différente de la vitesse de la pleine voie, le seuil de vitesse se trouve à hauteur de la première aiguille ou environ 200 mètres après le signal d’entrée s’il n’y a pas d’aiguille sur la voie en question (Extrait 1)."
+51,Erste Weiche,Dove si trova la soglia di velocità in stazione se sul lato d'entrata la velocità in stazione è diversa dalla velocità di tratta?,it,"R 300.6, section 2.2.2",primo scambio,"La soglia di velocità nella stazione, quando sulla parte di entrata la velocità della stazione differisce dalla velocità del tratto, si trova ""Mentre Perron del beffato galleria o nel centro dell'edificio ferroviario se non c'è un perron."" (Excerpt 1 — Zugfahrten, Section 2.2.2: Geschwindigkeitsschwelle im Bahnhof). Se la stazione ha più percorsi con velocità differenti, le posizioni delle soglie di velocità sono regolate dalle operazioni della ISB (Excerpt 1 — Zugfahrten, Section 2.2.2: Geschwindigkeitsschwelle im Bahnhof).
+
+La risposta è in italiano come richiesto e si basa esclusivamente sugli estratti forniti.","Se sul lato d’entrata la velocità in stazione è diversa dalla velocità di tratta, la soglia di velocità si trova:
+• al primo scambio oppure 
+• circa a 200 m dopo il segnale d’entrata, se nel binario interessato non ci sono scambi. (Excerpt 1)"
+52,Nachbargleis,Wann darf im Bahnhof mit einer Höchstgeschwindigkeit von 40 km/h gefahren werden?,de,"R 300.4, section 3.6.3",Nachbargleise,"Im Bahnhof kann mit einer Höchstgeschwindigkeit von 40 km/h gefahren werden, wenn die beiden Nachbargleise frei sind und es sich um Rangierfahrten handelt (Excerpt 1 — Rangierbewegungen, Section 3.6.3: Ausnahme im Bahnhof). Dies gilt unter den Bedingungen, dass der Fahrweg übersichtlich ist, der LF besetzte Führerstand an der Spitze des Zuges steht, über weiche Zonen gefahren wird und alle Fahrzeuge mit Luftbremse gebremst werden können; zudem darf die Rangierfahrt nicht funkferngesteuert sein. Ortlich kann es zu tieferen Höchstgeschwindigkeiten kommen (Excerpt 1 — Rangierbewegungen, Section 3.6.3: Ausnahme im Bahnhof).","Im Bahnhof kann mit einer Höchstgeschwindigkeit von 40 km/h gefahren werden, wenn die beiden Nachbargleise frei sind und es sich um Rangierfahrten handelt (Excerpt 1 — Rangierbewegungen, Section 3.6.3: Ausnahme im Bahnhof). Es dürfen jedoch örtlich tiefere Höchstgeschwindigkeiten vorgeschrieben sein."
+53,Nachbargleis,Dans quels cas un mouvement de manœuvre peut-il circuler à la vitesse maximale de 40 km/h en gare?,fr,"R 300.4, section 3.6.3",voies contiguës,"Dans le cadre d'une manœuvre, une vitesse maximale de 40 km/h est permise dans les cas suivants :
+
+1. Lorsqu'un train se déplace sur des voies sans aiguilles ou à la fin du tronçon où un signal n'est pas présent (comme indiqué par l'Extrait 2 : Section 3.6.4).
+2. Lorsque le train ne possède ni dispositifs de freinage standard, ni protections contre les collisions avec d'autres trains (également mentionné dans l'Extrait 2 : Section 3.6.4).
+
+Ces conditions permettent une vitesse maximale de 40 km/h pour des manœuvres spécifiques en gare selon la réglementation suisse sur le fonctionnement ferroviaire (FDV).","Un mouvement de manœuvre peut circuler à la vitesse maximale de 40 km/h en gare dans les cas suivants :
+
+1. Pour des courses de manœuvre, lorsque le parcours est bien dégagé et que la cabine de conduite occupée par le MEC se trouve en tête.
+2. Dans une zone sans aiguille où tous les véhicules peuvent être freinés à l’air.
+
+Ces conditions doivent également respecter d’autres critères tels qu’une absence de télécommande pour la course de manœuvre, des vitesses maximales inférieures pouvant être prescrites localement et que le parcours soit libre des deux voies contiguës."
+54,Nachbargleis,Quando si può circolare alla velocità massima di 40 km/h in stazione?,it,"R 300.4, section 3.6.3",binari attigui,"Nel contesto fornito, non c'è alcuna indicazione specifica su quando è permesso circulare a una velocità massima di 40 km/h nella stazione. Le informazioni fornite si riferiscono alle regolamentazioni per le fermate (Stoerungen), i segnali di rallentamento (Langsamfahrsignale) e le movimenti in stazione, ma non specificano la velocità massima permessa nelle stazioni. Pertanto, basandosi sulle informazioni fornite, non si può determinare quando è possibile circolare alla velocità massima di 40 km/h nella stazione.","Secondo l'Excerpt 1 — Movimenti di manovra, Sezione 3.6.3 (Eccezione in stazione), si può circolare alla velocità massima di 40 km/h nelle stazioni se entrambi i binari attigui sono liberi e le seguenti condizioni vengono soddisfatte: 
+1) l'itinerario è visibile;
+2) la cabina di guida occupata dal MAC (Macchinista Capo del Treno) sia quella di testa; 
+3) si attraversano zone senza scambi; 
+4) tutti i veicoli possono essere frenati con il freno ad aria; e
+5) la corsa di manovra non è radiotelecomandata per un colpo.
+
+Sul piano locale, sono possibili anche velocità massime inferiori."
+55,Nachbargleis,Wann ist eine Sperrung von Gleisen/Weichen notwendig?,de,"R 300.12, section 3.2.4",Nachbargleis,"Eine Sperrung von Gleisen und Weichen ist notwendig, wenn:
+
+1. Es die Sicherheit des Personals oder des Bahnbetriebs erfordert (Excerpt 2).
+2. Die Gleise/Weichen auf Grund von Bauarbeiten, Reparaturen, Unterhalt, Reinigung, Naturereignissen, Unfällen oder anderen Gründen nicht befahrbar sind (Excerpt 1 und Excerpt 2).
+
+Insbesondere ist eine Sperrung notwendig:
+
+- Bei Arbeiten, die eine Unterbrechung der Fahrbahn bewirken.
+- Wenn Arbeitsmittel am Gleis oder der Fahrbahn befestigt werden, die eine Gefährdung für Fahrten darstellen. Dazu ist das Lichtraumprofil zu beachten (Excerpt 1 und Excerpt 3).
+
+Gesperrte Gleise und Weichen werden immer vor Ort durch Haltsignale gedeckt (Excerpt 3).","Eine Sperrung von Gleisen und Weichen ist notwendig, wenn:
+1. Es die Sicherheit des Personals oder des Bahnbetriebs erfordert (Excerpt 2).
+2. Die Gleise/Weichen auf Grund von Bauarbeiten, Reparaturen, Unterhalt, Reinigung, Naturereignissen, Unfällen oder anderen Gründen nicht befahrbar sind (Excerpt 1 und Excerpt 2).
+
+Insbesondere ist eine Sperrung notwendig:
+- Bei Arbeiten, die eine Unterbrechung der Fahrbahn bewirken.
+- Wenn Arbeitsmittel am Gleis oder der Fahrbahn befestigt werden, die eine Gefährdung für Fahrten darstellen. Dazu ist das Lichtraumprofil zu beachten (Excerpt 1 und Excerpt 3)."
+56,Nachbargleis,Quand est-ce qu'une interdiction des voies/aiguilles est nécessaire?,fr,"R 300.12, section 3.2.4",voie contiguë,"Une interdiction des voies ou aiguilles n'est pas nécessaire pour les mouvements au sein du segment fermé, selon l'extrait 1 (Section 7.5.7 : Fahrt) de la FDV.
+
+Cependant, si une situation nécessite le déplacement d'une seule aiguille dans un segment fermé et que cette action ne peut être réalisée avec la manivelle, il faut suivre les instructions des services techniques compétents, comme indiqué à l'extrait 2 (Section 4.3.5 : Autres défauts).
+
+Enfin, pour réduire tout danger potentiel, on doit éteindre et décharger les circuits de sécurité avant d'autoriser le fonctionnement continu du train ou la reprise des opérations ferroviaires, selon ce qui est mentionné dans l'extrait 3 (Section 13.4: Réduire) de la FDV.
+
+En résumé, une interdiction n'est pas nécessaire pour un déplacement au sein du segment fermé mais doit être envisagée si le déplacement d'une aiguille nécessite des interventions techniques spécifiques ou en cas de danger potentiel nécessitant des mesures de sécurité supplémentaires.","Une interdiction des voies/aiguilles est nécessaire :
+1. Lorsque la sécurité du personnel ou de l’exploitation ferroviaire le nécessite (Section 3.2.4).
+2. Lorsqu’elles ne sont pas franchissables à cause de travaux, réparation, maintenance, nettoyage, événements naturels, accidents ou autres raisons (Sections 3.2.4 et 5.3.4). Une interdiction est en particulier nécessaire :
+   - Pour des travaux qui entraînent l’interruption de la voie.
+   - Lorsque des équipements de travail fixés à la voie représentent un danger pour les convois, avec le respect du profil d’espace libre (Sections 3.2.4 et 5.3.4).
+   
+Les voies/aiguilles interdites sont toujours couvertes sur place au moyen de signaux d’arrêt (Section 5.3.4)."
+57,Nachbargleis,Quando è necessario uno sbarramento di binari/scambi?,it,"R 300.12, section 3.2.4",binario adiacente,"Nel contesto delle regolamentazioni ferroviarie svizzere, non c'è un termine specifico ""sbarramento dei binari"" o ""scambi"". Tuttavia, basandosi sugli excerpti forniti:
+
+1. Se si interrompe la Nachspeisung per più tempo del necessario (esclusa le procedure di prova), è considerato come abbandono di un treno.
+2. Le notizie non possono essere trasmesse se mancano i tempi previsti, e devono essere conserve per almeno 24 ore dal momento massimamente rilevante.
+
+Pertanto, la domanda ""Quando è necessario uno sbarramento dei binari/scambi?"" non si applica direttamente alle informazioni fornite. Se hai bisogno di ulteriori dettagli specifici su questo argomento, potresti dover consultare le sezioni pertinenti delle FDV (Fahrdienstvorschriften) in modo più approfondito o chiedere chiarimenti aggiuntivi.","Gli sbarramenti dei binari/scambi sono necessari nei seguenti casi:
+
+1. Per la sicurezza del personale o dell'esercizio ferroviario (se richiede la sicurezza).
+2. Quando i binari o gli scambi non sono percorribili a causa di lavori di costruzione, riparazioni, manutenzione, pulizia, eventi naturali, infortuni o altre ragioni.
+3. Per lavori che comportano un'interruzione del binario stesso (se richiede la sicurezza).
+4. Quando al binario devono essere montate attrezzature di lavoro che costituiscono un pericolo per le corse.
+
+In particolare, lo sbarramento è necessario:
+
+- Se i binari/scambi non sono percorribili a seguito dei lavori menzionati.
+- Per lavori alla linea di contatto o senza uno spazio di fuga."
+58,Sichern,Was muss vor der Durchführung der Bremsprobe gemacht werden?,de,"R 300.5, section 4.3.1",Sichern,"Vor Beginn der Bremsprobe:
+- müssen die Zugbildung abgeschlossen sein
+- müssen die Bremsapparate betriebsbereit sein.
+
+Quelle: Excerpt 2 — Zugvorbereitung, Section 5.4.3: Bremsprobe und Excerpt 1 — Zugvorbereitung, Section 4.3.1: Durchführung der Bremsprobe","Vor Beginn der Bremsprobe:
+- müssen die Zugbildung abgeschlossen sein
+- müssen die Bremsapparate betriebsbereit sein.
+
+Quelle: Excerpt 2 — Zugvorbereitung, Section 5.4.3: Bremsprobe und Excerpt 1 — Zugvorbereitung, Section 4.3.1: Durchführung der Bremsprobe"
+59,Sichern,Que faut-il faire avant le début de l'essai du frein?,fr,"R 300.5, section 4.3.1",assurer,"Avant le début de l'essai du frein, il est nécessaire d'assurer que la composition du train soit complète (Section 5.4.3). De plus, les appareils de frein doivent être en bon état et prêts à l'emploi (Section 5.4.3). Si des anomalies sont observées pendant l'essai du frein, le test doit être répété (Section 5.4.3).
+
+Avant d'entamer la procédure d'essai du frein, il faut vérifier que : 
+- Le train est complet.
+- Les appareils de frein sont opérationnels et prêts à l'emploi.
+
+Si des anomalies apparaissent pendant l'essai, celui-ci devra être redémarré (Section 5.4.3).","Avant le début de l'essai du frein, il est nécessaire d'effectuer les préparatifs suivants :
+
+1. La formation de train doit être terminée (Extrait 1).
+2. Les appareils de freins doivent être prêts à fonctionner (Extraits 1 et 2).
+
+De plus, avant le début de l’essai du frein complet ou en cas de soupçon que cela n’est pas étanche :
+- Lorsque la réalimentation est interrompue, la diminution de pression dans la conduite générale doit être au maximum de 0,3 bar en l’espace d’une minute (Extrait 1).
+Avant le début de l'essai du frein partiel ou simplifié : 
+- En cas de réalimentation interrompue brièvement, aucune baisse de pression ne doit être constatée au manomètre de la conduite générale. (Extrait 2)."
+60,Sichern,Cosa si fa prima dell'inizio della prova dei freni?,it,"R 300.5, section 4.3.1",assicurare,"Prima dell'inizio della prova dei freni (Excerpt 1 — Zugvorbereitung, Section 4.3.1), le seguenti azioni devono essere compiute:
+
+- i dispositivi di frenata devono essere pronti per il servizio;
+- l'aria del freno deve essere rilasciata; questo può essere controllato su qualsiasi carrozze;
+- le sospensioni fisse non dovrebbero essere bloccate, tranne se sono necessarie per prevenire la fuga dei carrelli;
+- i dispositivi di frenata devono essere verificati in termini di loro impermeabilità.","Prima dell’inizio della prova dei freni, gli apparecchi di frenatura devono essere pronti ad entrare in funzione e il freno ad aria deve essere allentato (se non è l’uso del calcolo per i pesi-freno). Si verifica anche la tenuta stagna degli apparecchi di frenatura. La prova dei freni va eseguita nella sequenza: eseguire una frenatura d’esercizio, verificare se tutti i veicoli da controllare sono frenati, allentare i freni e verificare se i freni di tutti i veicoli da controllare sono allentati."
+61,Sichern,"Wie ist vorzugehen, wenn eine Zahnstangenweiche aufgeschnitten wurde?",de,"R 300.9, section 4.6.2",Sichern,"Wenn eine Zahnstangenweiche aufgeschnitten wird, muss sofort angehalten und die Weiche gesichert werden. Das weitere Vorgehen richtet sich nach den Weisungen des zuständigen technischen Dienstes (Excerpt 2). Es ist wichtig zu beachten, dass das Aufschneiden von Weichen generell verboten ist, da es betriebsgefährdende Beschädigungen zur Folge haben kann (Excerpts 1 und 3), daher muss die Weiche sofort gesichert werden. Die Kontrolle der aufgeschnittenen Weiche hat grundsätzlich durch den zuständigen technischen Dienst zu erfolgen (Excerpt 2). Ist eine sofortige Kontrolle nicht möglich, darf die Weiche mit einer Höchstgeschwindigkeit von 40 km/h befahren werden, sofern sie durch fahrdienstliches Personal kontrolliert wurde und dabei in beiden Lagen keine Schäden festgestellt wurden. Die Verminderung der Geschwindigkeit hat dem Fahrdienstleiter zu protokollpflichtig vorzuschreiben (Excerpt 2). Am Stellwerk kann der Normalzustand hergestellt werden. Fehlt nach den Massnahmen die Weichenüberwachung, ist nach den Bestimmungen über fehlende Weichenüberwachung zu verfahren (Excerpt 3).","Wenn eine Zahnstangenweiche aufgeschnitten wird, muss sofort angehalten und die Weiche gesichert werden. Das weitere Vorgehen richtet sich nach den Weisungen des zuständigen technischen Dienstes (Excerpt 2). Es ist wichtig zu beachten, dass das Aufschneiden von Weichen grundsätzlich verboten ist, da es betriebsgefährdende Beschädigungen zur Folge haben kann (Excerpt 1 und Excerpt 3), daher sollte die Weiche nicht mehr befahren werden, wenn sie mechanisch beschädigt oder der Befund unklar ist."
+62,Sichern,Que faut-il faire si une aiguille de voie à crémaillère a été talonnée?,fr,"R 300.9, section 4.6.2",protéger,"Si l'aiguille de voie à crémaillère est talonnée, il convient d'abord de vérifier le type et la gravité du dommage selon les Weisungen des services techniques compétents (Section 15.2.4). Si une inspection révèle que la Weiche ou un autre élément pertinent de la voie est affecté par ce défaut, l'aiguille ne doit pas être utilisée pour éviter tout risque supplémentaire.
+
+Si le problème persiste et qu'il n'est pas possible d'utiliser les aiguilles existantes en raison des dommages (Section 4.3.5), il faut suivre les directives du service technique concerné pour déterminer la marche à suivre. Cela peut inclure l'utilisation de Weichen, mais uniquement si cela est autorisé par le contrôle local et s'il n'y a pas d'autres obstacles techniques ou sécuritaires.
+
+Il ne doit être fait aucune tentative de manipulation des aiguilles sans une directive claire des services techniques (Section 2.3.3). La sécurité avant tout!","Si une aiguille de voie à crémaillère a été talonnée, il faut s'arrêter immédiatement et protéger l’aguille. On procédera ensuite selon les indications du service technique compétent (Extrait 2). Si le contrôle mécanique sur place d’une aiguille talonnée ne peut pas être effectué dans des délais raisonnables par les services techniques compétents, il est permis de la franchir à la vitesse maximale de 40 km/h pour autant que l’aiguille ait été contrôlée dans les deux positions par du personnel lié à la circulation ferroviaire et que ce contrôle n’ait pas relevé de dommages mécaniques. Le CC doit prescrire la réduction de vitesse au MEC par un ordre à protocoler (Extrait 3)."
+63,Sichern,Come si procede se è stato tallonato uno scambio a cremagliera?,it,"R 300.9, section 4.6.2",assicurare,"Se c'è stato un incidente con la cremagliera, secondo l'Excerpt 2 (Stoerungen, Sezione 15.2.4), se la cremagliera è meccanicamente danneggiata o il rapporto non è chiaro, non può essere più utilizzata.
+
+Il prossimo passo dovrebbe seguire le istruzioni del tecnico competente. La comunicazione di tale evento deve essere trasmessa secondo l'Excerpt 3 (Comunicazioni Ordini e Uebermittlung, Sezione 4.2), che afferma che tutte le notizie non devono mancare per almeno 24 ore dal momento più recente rilevante.
+
+La Leitstelle dovrebbe quindi:
+- Controllare la cremagliera con il tecnico competente.
+- Informare i servizi di comunicazione secondo l'Excerpt 3, assicurandosi che la notizia sia trasmessa entro le 24 ore successive al momento del incidente.","Se è stato tallonato uno scambio a cremagliera, bisogna fermare subito e assicurare lo scambio. Per l’ulteriore modo di procedere occorre seguire le istruzioni del servizio tecnico competente (Excerpt 1). Se lo scambio è danneggiato nella parte meccanica o se il risultato del controllo non è chiaro, esso non può più essere percorso (Excerpt 2).
+
+Per controllare uno scambio tallonato a cremagliera, il controllo meccanico sul posto deve essere eseguito dal servizio tecnico competente. Se un controllo immediato non è possibile, lo scambio può essere percorrendo alla velocità massima di 40 km/h con condizione che sia stato controllato dalle posizioni da personale della circolazione dei treni e senza danni (Excerpt 3). Il CMOV deve prescrivere la riduzione di velocità al MAC, con obbligo di protocollo. Se dopo aver eseguito queste misure manca il controllo dello scambio, occorre procedere conformemente alle disposizioni per la mancanza del controllo dello scambio.
+
+In caso specifico della cremagliera, le istruzioni devono essere seguite dal servizio tecnico competente (Excerpt 1)."
+64,Stoss,Wann ist bei Rangierfahrten das Speichern von Fahrstrassen verboten?,de,"R 300.4, section 2.3.7",Stoss,"Bei Rangierfahrten ist das Speichern von Fahrstrassen in den folgenden Fällen verboten:
+
+1) Für die Folgefahrt nach einem Stoss (Excerpt 1, Section 2.3.7).
+2) Wenn die zu speichernde Fahrstrasse den Fahrweg besonderer Fahrzeuge berührt.
+
+Diese Regelungen sind Teil der FDV - Fahrdienstvorschriften und müssen strikt befolgt werden.","Bei Rangierfahrten ist das Speichern von Fahrstrassen verboten:
+- Für die Folgefahrt nach einem Stoss
+- Wenn die zu speichernde Fahrstrasse den Fahrweg besonderer Fahrzeuge berührt.
+
+Quelle: Excerpt 1 — Rangierbewegungen, Section 2.3.7: Speichern von Fahrstrassen"
+65,Stoss,Quand est-il interdit d'enregistrer des itinéraires lors des courses de manœuvre?,fr,"R 300.4, section 2.3.7",lancer,"Il n'y a pas d'extrait fourni qui spécifie une interdiction spécifique pour l'enregistrement des itinéraires pendant les courses de manœuvre dans le contexte donné. Par conséquent, il est impossible de répondre à cette question avec les informations fournies. Pour plus d'informations, veuillez consulter la documentation complète sur les règlements FDV (Fahrdienstvorschriften).","Il est interdit d'enregistrer des itinéraires lors des courses de manœuvre dans les cas suivants, selon l'extrait 1 (Mouvements de manoeuvre, Section 2.3.7 : Enregistrement des itinéraires) :
+
+– pour les courses qui suivent après un lancer
+- lorsque l’itinéraire à enregistrer touche le parcours de véhicules particuliers.
+
+Ainsi, il est interdit d'enregistrer des itinéraires lors des courses de manœuvre dans ces situations spécifiques."
+66,Stoss,Quando è vietata la memorizzazione dei percorsi durante le corse di manovra?,it,"R 300.4, section 2.3.7",colpo,"La memorizzazione dei percorsi durante le corse di manovra è vietata nei seguenti casi:
+
+1. Per la conseguente corsa dopo un impatto (Stoss).
+2. Quando il percorso da memorizzare tocca il tracciato per i veicoli speciali.
+
+Questi punti sono riportati nella Sezione 2.3.7 del documento ""Fahrdienstvorschriften - Rangierbewegungen"".","La memorizzazione dei percorsi è vietata nei casi seguenti:
+- per la corsa successiva a un colpo
+- se il percorso da memorizzare tocca l’itinerario di veicoli speciali (Excerpt 1 — Movimenti di manovra, Section 2.3.7: Memorizzazione di percorsi)"
