@@ -1,0 +1,32 @@
+﻿id,language,query,target_term,relevant_section,answer_qwen2.5:3b,answer_aya,time_qwen2.5:3b,time_aya
+1,de,Was macht ein Heizer?,Feuerung,"R 300.13, section 1.1","Ein Heizer ist die Person, die die Feuerung und bestimmte technische Aufgaben an der Dampflokomotive übernimmt. Er muss jedoch fahrdienstlich nicht geprüft sein.",[Timeout/Error after 120s: timed out],60.3,120.0
+40,de,Wann muss der Lokführer die Wirkung der Luftbremse prüfen?,Gefälle,"R 300.14, section 2.3.7","Der LF hat die Wirkung der Luftbremse zu prüfen, wenn es nach Veränderungen an der Zusammensetzung des Zuges, nach einem LF-Wechsel oder vor der Einfahrt zur Prüfung erfolgt (FDV § 2.3.7).",[Timeout/Error after 120s: timed out],94.7,120.0
+25,de,Wie können dem Lokführer die Zustimmung zur Fahrt auf Strecken ohne Hauptsignale erteilt werden?,Kreuzung,"R 300.6, section 1.3.4","Die Zustimmung zur Fahrt auf Strecken ohne Hauptsignale wird dem LF wie folgt erteilt:
+
+- mittels Fahrplans oder
+- mittels Fahrordnung oder
+- mittels Befehls für Kreuzung und Überholung oder
+- mündlich oder fernmündlich quittungspflichtig durch den FDL.
+
+Die ISB regeln in ihren Betriebsvorschriften das Vorgehen zur Erteilung, die Gültigkeit und die Bedingungen für die Rücknahme dieser Zustimmung.",[Timeout/Error after 120s: timed out],95.4,120.0
+4,de,Welche Arten von Rangierbewegungen gibt es?,abstossen,"R 300.4, section 1.3","Es werden folgende Rangierbewegungen unterschieden:
+- direkt und indirekt geführt (FDV 1.3, FDV 7.1.2)
+- ablaufen lassen
+- abstossen
+- mit Rangierseil oder Spill
+- mit Strassenfahrzeugen
+- von Hand oder mit mechanischen Hilfsmitteln (FDV 1.3, FDV 7.1.2)",[Timeout/Error after 120s: timed out],61.2,120.0
+65,fr,Quand est-il interdit d'enregistrer des itinéraires lors des courses de manœuvre?,lancer,"R 300.4, section 2.3.7","L’enregistrement d'itinéraires est interdit pour les courses qui suivent après un lancer et lorsque l’itinéraire à enregistrer touche le parcours de véhicules particuliers (FDV, Section 2.3.7).",[Timeout/Error after 120s: timed out],58.0,120.0
+41,fr,À quel moment le mécanicien doit-il s'assurer de l'efficacité du frein à air?,pente,"R 300.14, section 2.3.7","Le Mécanicien d’exploitation (MEC) doit s'assurer de l'efficacité du frein à air immédiatement après le départ, après une modification de la formation du train, après un échange de MEC, avant d'aborder une forte pente ou l'arrivée dans une gare en cul-de-sac, et de temps en temps après le dernier freinage au moyen du frein automatique si il y a de la neige poudreuse ou par grand froid (Section 2.3.7).",[Timeout/Error after 120s: timed out],69.5,120.0
+26,fr,Comment l'assentiment pour circuler sur les tronçons dépourvus de signaux principaux est-il transmis au mécanicien?,croisement,"R 300.6, section 1.3.4","L'assentiment pour circuler sur les tronçons dépourvus de signaux principaux est transmis par le Gestionnaire d'Intervention (GI) selon plusieurs méthodes décrites dans la Section 1.3.4 des Circulation des trains : 
+- Par l’horaire
+- Par une marche
+- Par un ordre de croisement et de dépassement
+- Par un ordre à quitter du Contrôleur de Croisière (CC) en phonie ou par le biais d'un ordre 1 à protocoler.",[Timeout/Error after 120s: timed out],87.5,120.0
+17,fr,Quels points peuvent être utilisés comme but du parcours?,l'aiguille d'entrée,"R300.4, section 4.3.2","Les points suivants peuvent être utilisés comme but du parcours : signal principal, signal principal de la direction opposée, signal de barrage ou signal nain, voie de raccordement, voie de but en gare, aiguille d'entrée ou indicateur de début de gare.",[Timeout/Error after 120s: timed out],82.0,120.0
+33,it,In quali condizioni è ammesso proseguire con un veicolo non frenato in coda al treno?,carrozza,"R 300.9, section 12.3.4","È ammesso proseguire con un veicolo non frenato in coda al treno se il rapporto di frenatura e il minimo sono sufficienti per la velocità più bassa e la pendenza determinante, includendo massimamente due veicoli circolanti direttamente davanti.",[Timeout/Error after 120s: timed out],63.5,120.0
+51,it,Dove si trova la soglia di velocità in stazione se sul lato d'entrata la velocità in stazione è diversa dalla velocità di tratta?,primo scambio,"R 300.6, section 2.2.2","Se sul lato d'entrata la velocità in stazione è diversa dalla velocità di tratta, la soglia di velocità si trova:
+• al primo scambio oppure 
+• circa a 200 m dopo il segnale d'entrata, se nel binario interessato non ci sono scambi.",[Timeout/Error after 120s: timed out],63.5,120.0
+45,it,Come sono calcolate le curve di frenatura?,pendenza,"R 300.7, section 3.2","Le curve di frenatura sono calcolate utilizzando dati della tratta e del veicolo, come la funzione attiva, distanza, velocità finale, pendenza, categoria di treno, rapporto di frenatura e lunghezza del treno. I dati della tratta vengono programmati in base alla funzione richiesta e possono essere fischi o variabili. Il MAC rileva i dati del veicolo tramite un'interfaccia utente.",[Timeout/Error after 120s: timed out],58.3,120.0
+48,it,Per quali segnali ottici si usa il colore bianco?,segnali bassi,"R 300.2, section 1.2.1","Il colore bianco si utilizza per i segnali ottici che non hanno significato specifico, come segnali bassi o indicatori.",[Timeout/Error after 120s: timed out],58.7,120.0

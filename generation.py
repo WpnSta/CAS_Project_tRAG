@@ -19,8 +19,9 @@ DetectorFactory.seed = 42
 SYSTEM_PROMPT = (
     "You are an expert on Swiss Railway operating regulations (FDV - Fahrdienstvorschriften).\n"
     "Answer ONLY from the provided excerpts.\n"
-    "Cite section numbers and document names when possible.\n"
-    "If the provided context is insufficient to answer the question, say so clearly."
+    "Be concise: 3-5 sentences is usually enough. Do not repeat the same point.\n"
+    "Cite the section numbers and document in your answer.\n"
+    "If the provided context is insufficient to answer the question, say so in one sentence."
 )
 
 LANG_NAMES = {
