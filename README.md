@@ -23,6 +23,6 @@ Several supporting functions are managed separately and loaded in all or parts o
 
 **Data:**
 The documents used for this project are the Swiss Railway operating regulation documents as available in German, French and Italian from the [Federal office of transport FOT](https://www.bav.admin.ch/de/fahrdienstvorschriften-fdv).
-* *questions.csv*: manually curated, multilingual test (queries and terminology) set used for evaluation.
+* *questions.csv*: manually curated, multilingual test set (queries and terminology) used for evaluation.
 * *data*: txt files used for the RAG setups.
 
