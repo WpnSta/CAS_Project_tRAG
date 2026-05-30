@@ -1,5 +1,5 @@
 """
-Document loading, text cleaning, and chunking logic for the FDV RAG system.
+Document loading, text cleaning, and chunking logic for the FDV RAG systems.
 Imported by all notebooks.
 """
 
@@ -13,6 +13,15 @@ from pathlib import Path
 CHUNK_MIN_CHARS     = 150   # stubs smaller than this are merged upward
 CHUNK_MAX_CHARS     = 800   # sections larger than this are split at paragraphs
 CHUNK_OVERLAP_CHARS = 100   # overlap carried into the next chunk
+
+
+def chunking_fingerprint():
+    return {
+        "chunk_min":     CHUNK_MIN_CHARS,
+        "chunk_max":     CHUNK_MAX_CHARS,
+        "chunk_overlap": CHUNK_OVERLAP_CHARS,
+    }
+
 
 # Lookahead split: keeps the heading at the start of each part
 SECTION_HEADING_RE = re.compile(r"(?=^\t?\d+(?:\.\d+)*\t)", re.MULTILINE)

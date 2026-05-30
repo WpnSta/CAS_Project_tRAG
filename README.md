@@ -11,12 +11,14 @@ The project is made up of the following files:
 
 **Notebooks:**
 * *explore.ipynb*: corpus analysis across all three languages.
-* *model_comparison.ipynb*: parallel generation pipeline to test and compare two local models on a subset of queries from the test set. 
 * *mono_rag.ipynb*: complete RAG pipeline indexing only the German documents.
 * *multi_rag.ipynb*: identical pipeline indexing all three language versions.
+* *model_comparison.ipynb*: parallel generation pipeline to test and compare two local models on a subset of queries from the test set. 
 * *evaluation.ipynb*: side-by-side comparison of both setups using the test set, retrieval performance, answer quality and terminology.precision.
+(Recommended pipeline order)
 
-Several supporting functions are managed separately and loaded in all or parts of the notebooks from the following **python files:**
+Several settings and supporting functions are managed separately and loaded in all or parts of the notebooks from the following **python files:**
+* *config.py*: parameters shared by all setups and notebooks.
 * *chunking.py*: document loading, text cleaning, and chunking logic.
 * *retrieval.py*: three-pass retrieval pipeline, semantic search via ChromaDB, BM25 hybrid scoring, and cross-encoder reranking.
 * *generation.py*: language detection, prompt assembly, and LLM answer generation via Ollama.

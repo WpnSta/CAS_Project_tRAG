@@ -1,5 +1,5 @@
 """
-Answer generation and language handling for the FDV RAG system.
+Answer generation and language handling for the FDV RAG systems.
 Imported by all RAG notebooks.
 """
 
@@ -9,7 +9,7 @@ from langdetect import DetectorFactory
 
 from retrieval import retrieve
 
-# Seed langdetect for reproducibility (Italian short queries can be mis-detected)
+# Seed langdetect for reproducibility
 DetectorFactory.seed = 42
 
 # ---------------------------------------------------------------------------
@@ -17,7 +17,7 @@ DetectorFactory.seed = 42
 # ---------------------------------------------------------------------------
 
 SYSTEM_PROMPT = (
-    "You are an expert on Swiss Railway operating regulations (FDV - Fahrdienstvorschriften).\n"
+    "You are an expert on Swiss Railway operating regulations in German (FDV - Fahrdienstvorschriften), French (PCT - Prescriptions de circulation des trains) and Italian (PCT - Prescrizioni sulla circolazione dei treni).\n"
     "Answer ONLY from the provided excerpts.\n"
     "Be concise: 3-5 sentences is usually enough. Do not repeat the same point.\n"
     "Cite the section numbers and document in your answer.\n"

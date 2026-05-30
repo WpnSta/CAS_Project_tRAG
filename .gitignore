@@ -8,9 +8,6 @@
 chroma_db_de/
 chroma_db_multilingual/
 
-# Evaluation output
-evaluation_results.csv
-
 # Python
 __pycache__/
 *.py[cod]
