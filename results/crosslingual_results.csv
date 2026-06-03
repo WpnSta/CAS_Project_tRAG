@@ -1,0 +1,560 @@
+﻿ID,Source_Term,Source_Language,Target_Language,Gold_Term,Relevant_Section,query,answer_mono,answer_multi,ref_mono,ref_multi,exact_mono,exact_multi,stem_mono,stem_multi,direction
+CL-01,Abstossen,de,fr,lancer,"R 300.4, section 1.3",Wie lautet der offizielle französische Fachbegriff für Abstossen?,"Der französische Fachbegriff für Abstossen ist im gegebenen Text nicht explizit genannt. Allerdings wird im Abschnitt 3.2.2 der Rangierbewegungen (FDV) der Begriff „Abstossen“ verwendet, der auch in der französischen Version (PCT) als „Abstossen“ übersetzt wird (siehe PCT 3.2.2).  Die Regelungen betonen die Berücksichtigung von Faktoren wie Gewicht, Entfernung und Gleitzustand beim Abstossen (FDV 3.2.2).  Zusätzlich wird die Information über schwere Wagen im Ablauf- oder Abstossbetrieb durch die Meldung „schwer“ vermittelt (PCT 3.2.1).","Laut Abschnitt 7.2.7, PCT, ist der offizielle französische Fachbegriff für Abstossen „sganciato“. Dieser Begriff wird optisch und akustisch gemäß den Vorschriften der Signale übermittelt (PCT, 7.2.7). Die Übersetzung in das Deutsche ist „abgehängt“ und ins Italienische „sganciato“. Es gibt keine andere Information in diesem Auszug, die sich auf den Begriff „Abstossen“ bezieht.","3.2.2	Abstossen
+	
+	Beim Abstossen hat der RL die Geschwindigkeit des Stosses nach dem Gewicht der abzustossenden Fahrzeuge, der Entfernung bis zum gewollten Halteort, dem Zustand und der Neigung des Gleises und den einsatzbereiten Bremsmitteln zu bemessen.
+	
+
+","yen du texte : « R ... » ou
+–	de manière optique et acoustique selon les prescriptions des signaux.
+
+
+	Pour transmettre les ordres, on utilisera les termes suivants :	
+		
+	français	allemand	italien
+			
+	coupé	abgehängt	sganciato
+			
+	en avant	vorwärts 	avanti
+			
+	en arrière	rückwärts 	indietro
+			
+	garer
+(en avant / en arrière)	anfahren 
+(vorwärts / rückwärts) 	accostare
+(avanti / indietro)
+		un wagon
+	demi
+	quatre mètres
+	deux mètres
+	un mètre		wagenlang 
+	halbe 
+	vier 
+	zwo (statt zwei) 
+	einen 		un vagone
+	mezzo
+	quattro
+	due
+	uno
+			
+	arrêter	anhalten 	fermare
+			
+	ralentir	langsamer	rallentare
+			
+	appuyer	bewegen 	appoggiare
+			
+		
+",False,False,False,False,de→fr
+CL-02,Lokführer,de,fr,MEC,"R 300.13, section 3.2.6",Welche offizielle Abkürzung wird auf Französisch für den Lokführer verwendet?,"Die Antwort auf diese Frage lässt sich aus dem bereitgestellten Text nicht ableiten. Excerpt 1 definiert lediglich den Anwendungsbereich der Vorschriften für Lokführer (LF) und Führergehilfen, ohne die französische Bezeichnung zu nennen. Es wird lediglich der deutsche Begriff „Lokführer/in“ verwendet.","Laut Abschnitt 2.5, Sektion 2.5 der FDV (PCT) wird die offizielle Abkürzung für den Lokführer als „Chef / cheffe de manœuvre (CMAN)"" angegeben.  Dieser Begriff ist für die Person verantwortlich, die den Manövremittlung leitet und ausführt (Abschnitt 2.5, Sektion 2.5). Die Abkürzung CMAN steht für „chef de manœuvre“. Es gibt keine andere Abkürzung für den Lokführer in diesem Auszug.","Schweizerische Eisenbahnen	R 300.13
+
+
+
+Lokführer / Lokführerin (LF)
+
+
+
+
+1	Anwendungs- und Geltungsbereich
+	
+	Diesen Vorschriften sind unterstellt:
+–	LF (direktes und indirektes Führen)
+–	LF in Ausbildung
+–	Führergehilfe.
+
+
+
+","sponsable de l’application des mesures de sécurité sur le 
+chantier
+chef / cheffe de manœuvre (CMAN)
+la personne responsable de diriger et exécuter le mouvement de manœuvre. Elle prend en charge la conduite indirecte 
+chef-circulation / cheffe-circulation (CC)
+la personne chargée sous sa propre responsabilité de régler la circulation des trains et des mouvements de manœuvre et d’en assurer la sécurité
+chemin latéral
+le chemin situé sur et aux abords des voies, en dehors des tunnels, sur lequel le personnel peut s’y tenir ou réaliser des travaux. Ses particularités permettent de le distinguer clairement (recouvert de gravier fin, de sable ou asphalté, à savoir dépourvu de ballast)
+circulation de train
+circulation
+–	en gare et en pleine voie qui est protégée et réglée par des ",False,False,False,False,de→fr
+CL-03,Zwergsignal,de,fr,signaux nains,"R 300.2, section 1.2.1",Wie heissen Zwergsignale auf Französisch?,"Die Frage kann anhand der bereitgestellten Auszüge nicht beantwortet werden.
+Die Auszüge geben lediglich die deutsche Bezeichnung der Zwergsignale an (Signale) und beschreiben deren Aufstellung und Funktion, jedoch nicht deren französische Bezeichnung.","Die Frage kann anhand des bereitgestellten Textes nicht beantwortet werden.
+Der Text erwähnt lediglich die Umstellung der Buchstaben „C“ und „F“ auf „A“ und „E“ in den deutschsprachigen Regionen (Abschnitt 2.3.6). Er enthält keine Informationen über die Bezeichnung von Zwergsignalen im Französischen.","
+	
+	Auf der Rückseite der Zwergsignale weist ein aufgemalter weisser Pfeil auf das zugehörige Gleis.
+Zeigt das Zwergsignal Fahrt oder Fahrt mit Vorsicht, ist dies an einem weissen schrägen Lichtstreifen (Rücklicht) erkennbar.
+	
+	Im Drei- und Vierschienengleis kann das Zwergsignal mit einem leuchtenden N (Normalspur) bzw. S (Schmalspur) ergänzt sein. Die Zustimmung gilt in diesem Fall nur für Fahrzeuge der entsprechenden Spurweite.
+	
+	
+	
+	
+","autres signaux
+			un signal avancé peut précéder ce signal. Il est suivi d’un signal final
+	
+		Image
+
+Signification	signal final pour tronçon à crémaillère
+la fin du tronçon à crémaillère se situe à la hauteur de ce signal
+		En relation avec d’autres signaux
+			ce signal est précédé par un signal d’exécution
+	
+	Dans les régions germanophones, les lettres «C» et «F» sont remplacées respectivement par «A» et «E».
+	
+	
+	
+",False,False,False,False,de→fr
+CL-04,Gefälle,de,fr,pente,"R 300.14, section 2.3.7",Wie lautet der französische Fachbegriff für Gefälle?,"Laut PCT (Prescriptions de circulation des trains), Abschnitt 2.5 „Begriffe“, wird das Gefälle als „Neigung“ bezeichnet. Die Neigung wird in Promille (‰) angegeben (PCT, Abschnitt 2.5). Es gibt keinen spezifischen französischen Fachbegriff für Gefälle in den bereitgestellten Auszügen.",Die bereitgestellten Auszüge enthalten keine Informationen zum französischen Fachbegriff für Gefälle. Es wird lediglich der deutsche Begriff „wagenlang“ und der italienische Begriff „mezzo“ für die halbe Wagenlänge genannt (Abschnitt 7.2.7). Die Dokumente konzentrieren sich auf die Kommunikation von Fahrdienstvorschriften und die Übermittlung von Befehlen.,"de Gefälle, darf nach Bremsverhältnis mit höchstens 40 km/h bis zum nächsten Bahnhof gefahren werden
+–	befindet sich das Triebfahrzeug bergseitig, ist die Weiterfahrt verboten. Der Zug ist gegen Entlaufen zu sichern.
+	
+","res (assurer le lieu de l’accident, mettre en sûreté les blessés, guider les forces d’intervention).
+Les ECF doivent fixer la liste de distribution de cet aide-mémoire. Le personnel concerné doit le porter sur lui.		
+			
+",False,False,False,False,de→fr
+CL-05,Einfahrweiche,de,fr,aiguille d'entrée,"R 300.4, section 4.3.2",Wie wird die Einfahrweiche auf Französisch bezeichnet?,"Laut Abschnitt 2.5 der Grundlagen wird die Einfahrweiche auf Französisch als „Erste aus Richtung Strecke gegen die Spitze befahrene Weiche eines Bahnhofes“ bezeichnet (PCT, Abschnitt 2.5).  Diese Definition ist im Dokument explizit angegeben. Es gibt keine alternative Übersetzung in der gegebenen Passage.","Die Antwort lässt sich aus dem bereitgestellten Text nicht ableiten.
+Die Terminologie für Einfahrweichen ist im Excerpt 1 nicht enthalten. Es werden lediglich allgemeine Begriffe wie ""anfahren"" (französisch: coupé) für die Einfahrt eines Wagens genannt.","Störungen und für das Sichern
+Decken
+das Aufstellen von Haltsignalen zum Schutz eines Hindernisses
+
+
+
+Deckungssignal
+Hauptsignal zur Deckung von Anschlussgleisen, überwachten Bahnübergängen oder gefährdeten Abschnitten auf der Strecke, nicht in Blockabhängigkeit
+Dienstgleis
+Gleis im Trambetrieb, welches in der Regel nicht im Linienbetrieb befahren wird
+Driver Machine Interface (DMI)
+Bedien- und Anzeigeelement im Führerstand 
+Eigengewicht
+das Gewicht eines Fahrzeuges ohne Ladung, in Tonnen (t)
+Einfahrsignal
+erstes zum Bahnhof gehörendes Hauptsignal. Es bezeichnet die Grenze zwischen Strecke und Bahnhof 
+Einfahrweiche
+Erste aus Richtung Strecke gegen die Spitze befahrene Weiche eines Bahnhofes
+Eisenbahnbetrieb
+Bahnbetrieb und Trambetrieb
+Eisenbahninfrastruktur","yen du texte : « R ... » ou
+–	de manière optique et acoustique selon les prescriptions des signaux.
+
+
+	Pour transmettre les ordres, on utilisera les termes suivants :	
+		
+	français	allemand	italien
+			
+	coupé	abgehängt	sganciato
+			
+	en avant	vorwärts 	avanti
+			
+	en arrière	rückwärts 	indietro
+			
+	garer
+(en avant / en arrière)	anfahren 
+(vorwärts / rückwärts) 	accostare
+(avanti / indietro)
+		un wagon
+	demi
+	quatre mètres
+	deux mètres
+	un mètre		wagenlang 
+	halbe 
+	vier 
+	zwo (statt zwei) 
+	einen 		un vagone
+	mezzo
+	quattro
+	due
+	uno
+			
+	arrêter	anhalten 	fermare
+			
+	ralentir	langsamer	rallentare
+			
+	appuyer	bewegen 	appoggiare
+			
+		
+",False,False,False,False,de→fr
+CL-06,Perron,de,fr,quai,"R 300.4, section 2.3.2",Welchen Begriff wird auf Französisch für Perron verwendet?,"Die Antwort lässt sich aus den bereitgestellten Auszügen nicht ableiten.
+Der Text verwendet den Begriff „Perron“ im Kontext der Rangierbewegungen (Excerpt 1) und der Bahnhofgeschwindigkeit (Excerpt 2), ohne eine Übersetzung ins Französische anzugeben.","Laut Abschnitt 8.3.1, Absatz 1 der FDV wird für Perron der Begriff „faisceaux“ verwendet. Es wird darauf hingewiesen, dass dieser Begriff nur dann verwendet werden darf, wenn alle Beteiligten ihn kennen. Die Tabelle der Eigennamen enthält diese Terminologie.","lt zeigt und
+–	der Fahrweg vom RL verlangt wird und kein unbegleitetes Schieben ausgeführt wird oder
+–	sofern die Bedingungen für das Einstellen des Fahrweges ohne Verlangen erfüllt sind, zum direkten Aufstellen von Zügen an das Perron des Zielgleises.
+Alle übrigen Rangierbewegungen gegen eingestellte Zugfahrstrassen sind verboten.
+	
+","pelés. On utilisera pour cela des mots ne présentant aucune équivoque (voir la tabelle d’épellation)
+	–	on n’utilisera des expressions locales que si toutes les personnes impliquées les connaissent bien, par ex :
+		faisceaux	atelier, remise, dépôt
+		voies isolées	au quai, trémie, abattoirs
+	–	on parlera par intermittence, particulièrement lors de l’utilisation de systèmes où la transmission n’est possible dans les deux directions que l’une après l’autre (en mode interphone, par ex. radio, interphone).
+		
+
+",False,False,False,False,de→fr
+CL-07,Abstossen,de,it,colpo,"R 300.4, section 1.3",Wie lautet der offizielle italienische Fachbegriff für Abstossen?,"Laut den Fahrdienstvorschriften (PCT) ist der offizielle italienische Fachbegriff für Abstossen „Stoss“ (Excerpt 2). Dieser Begriff wird in der Tabelle unter „Ablauf / Stoss“ gegenüber Fahrzeugen wie „Beladene Fahrzeuge, die nur durch die Ladung oder eine Kupplungsstange verbunden sind“ verwendet (Excerpt 2). Die Bemessung der Geschwindigkeit beim Abstossen berücksichtigt dabei Gewicht, Entfernung, Gleiszustand und Bremsmittel (Excerpt 1). Es gibt keinen spezifischen italienischen Begriff für den Vorgang, sondern der Begriff „Stoss“ wird verwendet.","Laut Abschnitt 2.5.2 der Fahrdienstvorschriften (FDV) wird der Begriff „Stoss“ als offizieller italienischer Fachbegriff für Abstöße verwendet (siehe FDV, 2.5.2).  Es wird sowohl verbal („Stoss“) als auch durch optische oder akustische Signale kommuniziert.  Die anderen Optionen, wie „coupé“ oder „anfahren“, beziehen sich auf andere Manöverarten.  Die Dokumente geben keine alternative Übersetzung für „Stoss“ an.","3.2.2	Abstossen
+	
+	Beim Abstossen hat der RL die Geschwindigkeit des Stosses nach dem Gewicht der abzustossenden Fahrzeuge, der Entfernung bis zum gewollten Halteort, dem Zustand und der Neigung des Gleises und den einsatzbereiten Bremsmitteln zu bemessen.
+	
+
+","2.5.2	Trasmissione degli ordini
+	
+	Il CMAN deve dare singolarmente l’ordine di corsa al MAC per ogni movimento di manovra come segue:
+–	verbalmente o per telefono con il testo «Loc / M ...» o
+–	con ordini ottici o acustici secondo le prescrizioni sui segnali.
+I testi degli ordini sono i seguenti:
+			
+	italiano	tedesco	francese	
+				
+	sganciato	abgehängt	coupé	
+				
+	avanti	vorwärts	en avant	
+				
+	indietro	rückwärts	en arrière	
+				
+	accostare
+(avanti / indietro)	anfahren 
+(vorwärts / rückwärts)	garer
+(en avant / en arrière)	
+				
+	   un vagone
+   mezzo
+   quattro
+   due
+   uno	   wagenlang
+   halbe
+   vier
+   zwo (statt zwei)
+   einen	   un wagon
+   demi
+   quatre mètres
+   deux mètres
+   un mètre	
+				
+	fermare	anhalten	arrêter	
+				
+	colpo	Stoss	lancer (tampon)	
+				",False,False,False,False,de→it
+CL-08,Lokführer,de,it,MAC,"R 300.13, section 3.2.6",Welche offizielle Abkürzung wird auf Italienisch für den Lokführer verwendet?,"Die Antwort auf Ihre Frage lässt sich aus dem bereitgestellten Text nicht ableiten. 
+Der Text definiert lediglich die Abkürzung „LF“ für Lokführer/in in allen drei Sprachen (Deutsch, Französisch, Italienisch) und nennt keine spezifische italienische Abkürzung.",Die bereitgestellten Auszüge enthalten keine Informationen über die offizielle Abkürzung für Lokführer im italienischen PCT. Abschnitt 3.4 beschreibt lediglich die Verwendung von Signalen und die Kommunikation zwischen MAC und CMOV.,"Schweizerische Eisenbahnen	R 300.13
+
+
+
+Lokführer / Lokführerin (LF)
+
+
+
+
+1	Anwendungs- und Geltungsbereich
+	
+	Diesen Vorschriften sind unterstellt:
+–	LF (direktes und indirektes Führen)
+–	LF in Ausbildung
+–	Führergehilfe.
+
+
+
+","8.3.4	Uso delle locuzioni in una conversazione dove è possibile parlare contemporaneamente (un solo emittente e ricevente)		
+	Emittente «Boretti»
+Ricevente «Maggi»	Significato 
+	Chiamata selettiva 		Scelta selettiva 
+Suono di chiamata 	
+	Circolazione treni Lugano, Maggi
+Identificazione 
+del ricevente	Circolazione treni Bellinzona, Boretti 
+	Identificazione 
+emittente
+«TESTO»		Trasmissione del messaggio 	
+«Ripetere il TESTO»
+	Ripetere il messaggio 
+Giusto	
+Conferma della trasmissione esatta 	«TESTO»
+	Fine conversazione.
+	
+",False,True,False,True,de→it
+CL-09,Zwergsignal,de,it,segnali bassi,"R 300.2, section 1.2.1",Wie heissen Zwergsignale auf Italienisch?,"Die bereitgestellten Auszüge geben keine Informationen über den Namen der Zwergsignale auf Italienisch. (Die Auszüge behandeln lediglich die Gültigkeit und Aufstellung der Signale in Deutsch, Französisch und Italienisch, ohne spezifische Terminologie zu nennen.)","Die Frage kann anhand des bereitgestellten Textes nicht beantwortet werden. 
+Der Text behandelt ausschließlich die Signalisierung von Weichen im Betrieb, insbesondere in der Schweiz (FDV), und die Signalgebung für Bremsprüfungen mit dem Zufelzeichen (PCT). Es gibt keine Informationen über die italienische Bezeichnung für Zwergsignale.","
+	
+	Auf der Rückseite der Zwergsignale weist ein aufgemalter weisser Pfeil auf das zugehörige Gleis.
+Zeigt das Zwergsignal Fahrt oder Fahrt mit Vorsicht, ist dies an einem weissen schrägen Lichtstreifen (Rücklicht) erkennbar.
+	
+	Im Drei- und Vierschienengleis kann das Zwergsignal mit einem leuchtenden N (Normalspur) bzw. S (Schmalspur) ergänzt sein. Die Zustimmung gilt in diesem Fall nur für Fahrzeuge der entsprechenden Spurweite.
+	
+	
+	
+	
+","zione degli scambi viene segnalata con appositi segnali solo per le corse in direzione della punta. 
+
+	Il segnale dello scambio mostra: 
+–	la posizione diritta, se lo scambio è disposto per la via diritta, oppure se è disposto per la diramazione esterna, qualora entrambi i binari fossero curvi (scambio in curva)
+–	la posizione diritta, se lo scambio è disposto per la via diritta, oppure se è disposto per la diramazione esterna, qualora entrambi i binari fossero curvi (scambio in curva) 
+Come segnali degli scambi sono utilizzati:
+–	segnali luminosi per scambi
+–	tavole per scambi.
+	
+	Contrassegno della posizione di uno scambio semplice con segnale luminoso per scambi
+	
+		Termine
+Significato	Scambio in posizione diritta
+Corsa lungo la via diritta
+	
+	oppure
+	
+			
+	
+	oppure
+	
+			
+	
+	
+		Termine",False,False,False,False,de→it
+CL-10,Kreuzung,de,it,incrocio,"R 300.6, section 1.3.4",Wie lautet der italienische Fachbegriff für Kreuzung?,"Basierend auf den bereitgestellten Auszügen gibt es keinen direkten italienischen Fachbegriff für „Kreuzung“. Allerdings wird der Befehl für Kreuzung und Überholung (Befehl 41, 43 und 44) in allen drei Dokumenten (FDV/PCT) verwendet, um Kreuzungen, Ausfälle und Verlegungen zu regeln (Abschnitt 1.4.1 und 1.4).  Die Auszüge definieren den Befehl als allgemeine Regelung für Kreuzungsoperationen, ohne einen spezifischen italienischen Begriff zu nennen.","Basierend auf den bereitgestellten Auszügen gibt es keinen direkten Fachbegriff für „Kreuzung“ im italienischen PCT. Abschnitt 2.5.3 beschreibt lediglich die Signale für den Betrieb in Kreuzungsstellungen, wobei „Scambio in posizione diritta“ (Tausch in gerader Position) für die Curs auf den Haupt- und Quellgleisen verwendet wird (FDV 2.5.3). Abschnitt 2.5.2 behandelt die Übermittlung von Befehlen und die langsamen Schiebebefehle, enthält aber keinen spezifischen Begriff für Kreuzungen (PCT 2.5.2). Daher kann die Frage nicht aus diesen Dokumenten beantwortet werden.","reuzungsbahnhofs. 
+Mit dem Befehl für Kreuzung und Überholung werden protokollpflichtig verständigt:
+–	das Fahrpersonal der Fahrt, die vor dem planmässigen Kreuzungsbahnhof zu kreuzen hat, durch den FDL des neuen Kreuzungsbahnhofs und
+–	das Fahrpersonal der vorrückenden Fahrt durch den FDL des planmässigen Kreuzungsbahnhofs.
+Wird eine Kreuzung:
+–	von einer Strecke mit Block auf eine Strecke ohne Block oder
+–	auf einen Übergangsbahnhof zwischen Strecken mit und ohne Block 
+verlegt, ist der Befehl für Kreuzung und Überholung zu verwenden.
+Ist ein Kreuzungsbahnhof nicht besetzt, ist der FDL, der die Kreuzungsverlegung anordnet, für die Verständigung des Fahrpersonals verantwortlich. ","2.5.3	Cifra stralciata
+	
+	
+
+2.5.4	Contrassegno della posizione degli scambi a crociera semplice
+	
+	
+oppure
+	Termine
+Significato	Scambio in posizione diritta
+Corsa sul binario della dire-zione principale
+			
+	
+oppure
+	Termine
+Significato	Scambio in posizione diritta
+Corsa sul binario trasversale
+	
+	
+oppure
+	Termine
+Significato	Scambio in posizione deviata
+Corsa dal binario della direzione principale al binario trasversale o viceversa
+	
+
+",False,False,False,False,de→it
+CL-11,Neigung,de,it,pendenza,"R 300.7, section 3.2",Wie wird Neigung auf Italienisch bezeichnet?,"Die Neigung wird in den Fahrdienstvorschriften (FDV) als „das Gefälle oder die Steigung einer Strecke, in Promille (‰)“ definiert (FDV, Abschnitt 2.5: Begriffe). Diese Angabe erfolgt unabhängig von der Sprache der Vorschriften. Es gibt keine spezifische Übersetzung für „Neigung“ in Italienisch im gegebenen Text.","Die Frage kann anhand des bereitgestellten Textes nicht beantwortet werden.
+Der Textabschnitt 7.2.7 der PCT enthält lediglich Begriffe für die Kommunikation mit dem Bewegungspersonal, aber keine Definitionen von Begriffen wie ""Neigung"".","gleis
+Bahnhofgleis, in das signalmässig nicht ein- und ausgefahren oder nur ausgefahren werden kann
+
+
+Neigung
+das Gefälle oder die Steigung einer Strecke, in Promille (‰)
+Netzbenutzerin
+EVU, welches den Netzzugang auf einer Infrastruktur beansprucht
+Normallast
+die zulässige Anhängelast eines Triebfahrzeuges für eine bestimmte Strecke
+Notbedienung
+Einrichtung, mit der bei Störung oder im Notfall in die Sicherungsanlage eingegriffen oder ein Teilbereich der Sicherungsanlage umgangen werden kann
+Ortsfestes Signal 
+ortsfest montiertes Signal der Eisenbahninfrastruktur, z. B. Hauptsignal, Zwergsignal, Rangiersignal
+Pendelzug","zione di marcia.	
+		Termine	Permesso di partenza	
+		Significato	Impartire il permesso di partenza	
+	
+
+	Paletta di comando o lanterna a mano
+	
+	
+Di giorno   	Di giorno
+Lenta oscillazione della paletta di comando sollevata perpendicolarmente al treno, fin quando esso si mette in moto
+Di notte
+Lenta oscillazione della lanterna a mano o della pila tascabile con luce verde sollevata perpendicolarmente al treno, fin quando esso si mette in moto	
+		Termine	Permesso di partenza	
+		Significato	Impartire il permesso di partenza	
+			
+	
+Di notte  		
+			
+
+",False,False,False,False,de→it
+CL-12,Sichern,de,it,assicurare,"R 300.9, section 4.6.2",Welchen Begriff wird für Sichern verwendet?,"Die relevanten Begriffe für das Sichern von Elementen der Sicherungsanlage und Fahrzeugen sind in den bereitgestellten Texten enthalten. 
+
+Gemäß Abschnitt 2.1.2 der FDV (Sichern des gestörten Elements der Sicherungsanlage) ist das gestörte Element zu sichern. Abschnitt 1.7.2 der PCT (Sichern von Fahrzeugen) listet Hemmschuhe, Feststellbremse und Luftbremse als Mittel zur Sicherung auf. Es wird stets betont, dass ein einzelnes abgestelltes Fahrzeug sofort mit unabhängigen Mitteln gesichert werden muss.","Basierend auf den bereitgestellten Auszügen wird der Begriff „Termin der Sicherheit“ (Sicherheitsabstand) verwendet, um die notwendige Zeit für die Warnung des Personals und die Räumung der Gleisfläche während von Bauarbeiten zu definieren (4.2.1). Dieser Termin variiert je nach den spezifischen Bedingungen und Sicherheitsmaßnahmen (4.2.1).  Der Begriff wird auch im Zusammenhang mit dem Sicherheitszeichen an Kreuzungsbahnen verwendet, um die maximale sichere Annäherung zu definieren (2.5.7).  Die DISPO (Durchgangsinstruktionen) müssen bei Änderungen angepasst werden (4.2.1).","2.1.2	Sichern des gestörten Elements der Sicherungsanlage 
+	
+	Haben die ersten Abklärungen ergeben, dass ein gestörtes Element der Sicherungsanlage vorliegt, ist dieses zu sichern. 
+	
+","4.2	Termine di sicurezza e distanza d’approccio
+4.2.1	Termine di sicurezza
+	
+	Il termine di sicurezza è il tempo necessario per l’avvertimento del personale sull’area dei lavori e lo sgombero della zona dei binari. Esso muta in funzione delle condizioni locali e del genere dei lavori. 
+Il termine di sicurezza dipende
+–	dai pericoli derivanti dal lavoro, dalle attrezzature di lavoro impiegate, dall’esercizio ferroviario e dal luogo di lavoro e
+–	dalle misure di sicurezza adottate.
+Il termine di sicurezza è fissato nel DISPO e dev’essere adeguato se cambiano le situazioni.
+	
+",False,False,False,False,de→it
+CL-13,lancer,fr,de,abstossen,"R 300.4, section 1.3",Quel est le terme allemand officiel pour lancer?,"Selon l'extrait 1, le terme allemand officiel pour ""lancer"" est ""lancer (tampon)"".  Plus précisément, il est utilisé dans le contexte d'un ""Fahrbefehl für langsames Schieben"" (ordre de pousser lentement) (PCT 2.5.2, section 2.5.2). L'extrait ne fournit pas d'autres termes spécifiques pour ""lancer"" en allemand.","Selon l'extrait 1, le terme allemand officiel pour ""lancer"" est ""lancer (tampon)"".  Plus précisément, il est utilisé dans le contexte d'un ""Fahrbefehl für langsames Schieben"" (ordre de pousser lentement) (Section 2.5.2). L'extrait ne fournit pas d'autres termes allemands pour ""lancer"" (Section 2.5.2).","	lancer (tampon)	colpo 	
+				
+	langsamer	ralentir	rallentare	
+				
+	bewegen	appuyer	appoggiare	
+				
+	schieben
+	(Fahrbefehl für 
+langsames Schieben)	pousser
+	(ordre de pousser 
+lentement)	spingere lentamente
+	(ordine di manovra 
+per spinte lente)	
+				
+	schneller schieben	pousser plus fort	spingere più in fretta 	
+				
+	langsamer schieben	pousser plus lentement	spingere più adagio	
+				
+	zurückziehen	retirer	retrocedere	
+				
+				
+","	lancer (tampon)	colpo 	
+				
+	langsamer	ralentir	rallentare	
+				
+	bewegen	appuyer	appoggiare	
+				
+	schieben
+	(Fahrbefehl für 
+langsames Schieben)	pousser
+	(ordre de pousser 
+lentement)	spingere lentamente
+	(ordine di manovra 
+per spinte lente)	
+				
+	schneller schieben	pousser plus fort	spingere più in fretta 	
+				
+	langsamer schieben	pousser plus lentement	spingere più adagio	
+				
+	zurückziehen	retirer	retrocedere	
+				
+				
+",False,False,False,False,fr→de
+CL-14,MEC,fr,de,LF,"R 300.13, section 3.2.6",Par quelle abréviation allemande est désigné le MEC?,"Le texte fourni ne contient aucune information concernant l'abréviation allemande ""MEC"". Il se concentre uniquement sur les bases des instructions de service, les formes de fonctionnement spéciales et la configuration des voies sans bloc (PCT, Section 1.2). Par conséquent, il est impossible de répondre à cette question à partir de ces extraits.","Le texte fourni ne contient aucune information concernant l'abréviation allemande ""MEC"". Il se concentre uniquement sur les bases de l'instruction des services de circulation ferroviaire et la configuration des voies sans bloc (PCT - Prescriptions de circulation des trains, Section 1.2.1).","mmte, verbindliche fahrdienstliche Anleitung zur Behandlung von Störungen und für das Sichern
+Decken
+das Aufstellen von Haltsignalen zum Schutz eines Hindernisses
+
+","mmte, verbindliche fahrdienstliche Anleitung zur Behandlung von Störungen und für das Sichern
+Decken
+das Aufstellen von Haltsignalen zum Schutz eines Hindernisses
+
+",False,False,False,False,fr→de
+CL-15,quai,fr,de,Perron,"R 300.4, section 2.3.2",Comment est désigné en allemand le quai en gare?,"Je suis désolé, mais le texte fourni ne contient aucune information sur la désignation du quai en gare en allemand. Il se concentre sur les rangements et les communications ferroviaires.","D'après l'extrait 1.6.1, un triebfahrzeug est désigné comme une locomotive de manœuvre si elle est constamment utilisée dans une gare.  L'extrait ne définit pas spécifiquement le terme ""quai"" en gare, mais il indique que le quai est le point où une activité est exécutée ou où la circulation est attendue (section 2.2).  Il est donc impossible de répondre à la question avec les informations fournies.","er der Ladung die zulässigen Abmessungen überragen. 
+–	alle Fahrzeuge ordnungsgemäss gekuppelt sind.
+Ein Fahrweg ist unmittelbar vor der Ausführung und bis zum Zielgleis der Rangierbewegung zu verlangen. Das Zielgleis einer Rangierbewegung ist das verlangte Gleis, in welchem
+–	eine Tätigkeit auszuführen ist (z.B. Fahrzeuge abstellen oder holen) oder
+–	aus betrieblichen Gründen die Weiterfahrt abgewartet wird oder 
+–	die Fahrrichtung ändert.
+
+","1.6	Kennzeichnung
+1.6.1	Triebfahrzeuge 
+	
+	Nach den Signalvorschriften sind zu kennzeichnen:
+–	als Rangierlok diejenigen Triebfahrzeuge, welche dauernd im Bahnhof eingesetzt sind
+–	als Zug bzw. als Rangierbewegung auf die Strecke diejenigen Triebfahrzeuge, welche unmittelbar vor oder nach ihrem Einsatz Rangierbewegungen im Bahnhof ausführen.
+	
+
+",False,False,False,False,fr→de
+CL-16,barrage,fr,de,Absperrung,"R 300.12, section 3.1.7",Quel est le terme allemand pour barrage?,"Le texte fourni ne contient pas de définition du terme ""barrage"" en allemand, français ou italien. Il décrit des termes relatifs à la manipulation des trains et à la sécurité des opérations de manœuvre (Excerpts 1 & 2).","Le texte fourni ne contient pas de définition du terme ""barrage"" en allemand, français ou italien. Il décrit des termes relatifs à la manipulation des trains et à la sécurité des opérations de manœuvre (Excerpts 1 & 2).","	lancer (tampon)	colpo 	
+				
+	langsamer	ralentir	rallentare	
+				
+	bewegen	appuyer	appoggiare	
+				
+	schieben
+	(Fahrbefehl für 
+langsames Schieben)	pousser
+	(ordre de pousser 
+lentement)	spingere lentamente
+	(ordine di manovra 
+per spinte lente)	
+				
+	schneller schieben	pousser plus fort	spingere più in fretta 	
+				
+	langsamer schieben	pousser plus lentement	spingere più adagio	
+				
+	zurückziehen	retirer	retrocedere	
+				
+				
+","	lancer (tampon)	colpo 	
+				
+	langsamer	ralentir	rallentare	
+				
+	bewegen	appuyer	appoggiare	
+				
+	schieben
+	(Fahrbefehl für 
+langsames Schieben)	pousser
+	(ordre de pousser 
+lentement)	spingere lentamente
+	(ordine di manovra 
+per spinte lente)	
+				
+	schneller schieben	pousser plus fort	spingere più in fretta 	
+				
+	langsamer schieben	pousser plus lentement	spingere più adagio	
+				
+	zurückziehen	retirer	retrocedere	
+				
+				
+",False,False,False,False,fr→de
+CL-17,signaux nains,fr,de,Zwergsignale,"R 300.2, section 1.2.1",Comment appelle-t-on les signaux nains en allemand?,"Les extraits fournis ne contiennent aucune information concernant le nom allemand des signaux nains. 
+Section 2.5.9 décrit les ""Weichensignale"" utilisés dans le tramway, mais ne précise pas leur traduction en allemand.","Les extraits fournis ne contiennent pas d'informations sur le nom des signaux nains en allemand. Ils décrivent uniquement les signaux de voie pour le tramway et les signaux de main (handsignal) en allemand, notamment la verschlussanzeige (verrouillage de voie) dans le contexte des aiguilles."," Stellung
+Fahrt über den ablenkenden Zweig	
+	
+	oder
+	
+	
+	
+	
+	
+	Begriff
+
+Bedeutung 
+Verschlussanzeige
+
+Weiche ist gegen elektrisches Umstellen gesichert	
+	
+	oder
+	
+	
+	
+	
+	
+Die Bezeichnung der Weichen ist auf dem Rahmen oder einem zusätzlichen Schild angebracht.
+Die Weichensignale können mit weissem, gelbem oder orangem Licht ausgeführt sein.
+Ist das Weichen-Lichtsignal dunkel oder blinkend, befindet sich die Weiche nicht in der Endlage.
+Zusatzinformationen zur Weichensignalisierung, welche durch die ISB in den Betriebsvorschriften geregelt werden können:
+    • Die Art der Weiche (z.B. Handweiche, automatisch angesteuerte Weiche, auffahrbare Weiche) kann mit einer Zusatzinformation mit verschieden farbigen Rahmen oder verschieden farbigen Bezeichnungsschildern signalisiert sein."," Stellung
+Fahrt über den ablenkenden Zweig	
+	
+	oder
+	
+	
+	
+	
+	
+	Begriff
+
+Bedeutung 
+Verschlussanzeige
+
+Weiche ist gegen elektrisches Umstellen gesichert	
+	
+	oder
+	
+	
+	
+	
+	
+Die Bezeichnung der Weichen ist auf dem Rahmen oder einem zusätzlichen Schild angebracht.
+Die Weichensignale können mit weissem, gelbem oder orangem Licht ausgeführt sein.
+Ist das Weichen-Lichtsignal dunkel oder blinkend, befindet sich die Weiche nicht in der Endlage.
+Zusatzinformationen zur Weichensignalisierung, welche durch die ISB in den Betriebsvorschriften geregelt werden können:
+    • Die Art der Weiche (z.B. Handweiche, automatisch angesteuerte Weiche, auffahrbare Weiche) kann mit einer Zusatzinformation mit verschieden farbigen Rahmen oder verschieden farbigen Bezeichnungsschildern signalisiert sein.",False,False,False,False,fr→de
+CL-18,chantiers,fr,de,Arbeitsstellen,"R 300.12, section 3.1.6",Quel est le terme allemand équivalent à chantiers?,"Le texte fourni ne contient pas de définition ou de terme équivalent à ""chantiers"". Cependant, il mentionne ""Hantieren mit der Zugsammelschiene"" (manipulation de la traction) et ""Arbeiten in der Nähe von Fahrleitungen"" (travaux à proximité des aériens) dans la section 1.2.1 sur la reconnaissance des dangers (FDV). Ces phrases décrivent des activités qui pourraient être considérées comme des chantiers.","Le texte fourni ne contient pas de définition ou de terme allemand équivalent à ""chantiers"". 
+Il mentionne seulement des situations de danger telles que ""verätzen, vergiften"" (verouillage, contamination) dans la section 1.2.1 de l'extrait 1.","esteigen von Fahrzeugen, Hantieren mit der Zugsammelschiene, Arbeiten in der Nähe von Fahrleitungen)
+–	verätzen, vergiften (z.B. durch Freisetzung von Gefahrgut, im Umgang mit Gefahrstoffen).
+	
+
+","esteigen von Fahrzeugen, Hantieren mit der Zugsammelschiene, Arbeiten in der Nähe von Fahrleitungen)
+–	verätzen, vergiften (z.B. durch Freisetzung von Gefahrgut, im Umgang mit Gefahrstoffen).
+	
+
+",False,False,False,False,fr→de

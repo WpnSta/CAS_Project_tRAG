@@ -22,7 +22,8 @@ def build_bm25_index(chunk_records: list) -> BM25Okapi:
     return BM25Okapi(corpus)
 
 
-def retrieve(query, embedder, cross_encoder, collection, bm25_index, chunk_records, cfg):
+def retrieve(query, embedder, cross_encoder, collection, bm25_index, chunk_records, cfg,
+             filter_language=None):
     """
     Three-pass retrieval returning the top-K most relevant chunks.
 
@@ -56,9 +57,11 @@ def retrieve(query, embedder, cross_encoder, collection, bm25_index, chunk_recor
     q_vec = embedder.encode(["query: " + query], normalize_embeddings=True)
     n_results = min(SEMANTIC_POOL, n_available)
 
+    where = {"language": filter_language} if filter_language is not None else None
     results      = collection.query(
         query_embeddings=q_vec.tolist(),
         n_results=n_results,
+        where=where,
     )
     pool_ids       = [int(id_) for id_ in results["ids"][0]]
     pool_distances = results["distances"][0]
@@ -94,8 +97,21 @@ def retrieve(query, embedder, cross_encoder, collection, bm25_index, chunk_recor
     pool = pool[:RERANK_POOL]
 
     # ------------------------------------------------------------------
-    # Pass 3: cross-encoder reranking
+    # Pass 3: cross-encoder reranking (skipped when cfg["SKIP_RERANK"] is True)
     # ------------------------------------------------------------------
+    if cfg.get("SKIP_RERANK", False):
+        final = []
+        for item in pool:
+            meta = dict(item[2])
+            meta["text"]         = item[1]
+            meta["sem_score"]    = item[3]
+            meta["bm25_score"]   = item[4]
+            meta["hybrid_score"] = item[5]
+            meta["rerank_score"] = item[5]
+            meta["score"]        = item[5]
+            final.append(meta)
+        return final[:TOP_K]
+
     pairs     = [[query, item[1]] for item in pool]
     ce_scores = cross_encoder.predict(pairs)
 

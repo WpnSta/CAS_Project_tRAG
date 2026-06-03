@@ -72,7 +72,8 @@ def build_user_message(query: str, chunks: list, lang_name: str) -> str:
     )
 
 
-def ask(query, embedder, cross_encoder, collection, bm25_index, chunk_records, cfg):
+def ask(query, embedder, cross_encoder, collection, bm25_index, chunk_records, cfg,
+        filter_language=None):
     """
     Full RAG pipeline: retrieve relevant chunks, build prompt, call LLM.
 
@@ -81,7 +82,8 @@ def ask(query, embedder, cross_encoder, collection, bm25_index, chunk_records, c
     (answer_str, retrieved_chunks)
     """
     chunks    = retrieve(query, embedder, cross_encoder,
-                         collection, bm25_index, chunk_records, cfg)
+                         collection, bm25_index, chunk_records, cfg,
+                         filter_language=filter_language)
     lang_name = detect_language(query)
     user_msg  = build_user_message(query, chunks, lang_name)
 
