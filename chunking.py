@@ -6,10 +6,7 @@ Imported by all notebooks.
 import re
 from pathlib import Path
 
-# ---------------------------------------------------------------------------
 # Configuration constants (imported by notebooks alongside the functions)
-# ---------------------------------------------------------------------------
-
 CHUNK_MIN_CHARS     = 150   # stubs smaller than this are merged upward
 CHUNK_MAX_CHARS     = 800   # sections larger than this are split at paragraphs
 CHUNK_OVERLAP_CHARS = 100   # overlap carried into the next chunk
@@ -29,10 +26,7 @@ _HEADING_PARSE_RE  = re.compile(r"^(\d+(?:\.\d+)*)\t([^\t\n]+)", re.MULTILINE)
 _FILENAME_RE       = re.compile(r"^(\d+)[fi]?_(.+)$")
 
 
-# ---------------------------------------------------------------------------
 # Public API
-# ---------------------------------------------------------------------------
-
 def parse_filename(path):
     """
     Return (regulation_number, title) from a filename like '14_Bremsen.txt',
@@ -187,10 +181,7 @@ def build_chunk_records(documents):
     return records
 
 
-# ---------------------------------------------------------------------------
 # Quick self-test (run as script: python chunking.py)
-# ---------------------------------------------------------------------------
-
 if __name__ == "__main__":
     from pathlib import Path
 
