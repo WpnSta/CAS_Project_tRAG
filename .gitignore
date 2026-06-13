@@ -1,9 +1,6 @@
 # Virtual environment
 .venv/
 
-# Data (raw source documents — distribute separately)
-#data/
-
 # Vector databases (rebuilt by running the notebooks)
 chroma_db_de/
 chroma_db_multilingual/
