@@ -53,7 +53,7 @@ ID,Source Term,Query,Language,Relevant section,Target Term
 52,Nachbargleis,Wann darf im Bahnhof mit einer Höchstgeschwindigkeit von 40 km/h gefahren werden?,de,"R 300.4, section 3.6.3",Nachbargleise
 53,Nachbargleis,Dans quels cas un mouvement de manœuvre peut-il circuler à la vitesse maximale de 40 km/h en gare?,fr,"R 300.4, section 3.6.3",voies contiguës
 54,Nachbargleis,Quando si può circolare alla velocità massima di 40 km/h in stazione?,it,"R 300.4, section 3.6.3",binari attigui
-55,Nachbargleis,Wann ist eine Sperrung von Gleisen/Weichen notwendig?,de,"R 300.12, section 3.2.4",Nachbargleis
+55,Nachbargleis,Wann ist eine Sperrung von Gleisen oder Weichen notwendig?,de,"R 300.12, section 3.2.4",Nachbargleis
 56,Nachbargleis,Quand est-ce qu'une interdiction des voies/aiguilles est nécessaire?,fr,"R 300.12, section 3.2.4",voie contiguë
 57,Nachbargleis,Quando è necessario uno sbarramento di binari/scambi?,it,"R 300.12, section 3.2.4",binario adiacente
 58,Sichern,Was muss vor der Durchführung der Bremsprobe gemacht werden?,de,"R 300.5, section 4.3.1",Sichern
