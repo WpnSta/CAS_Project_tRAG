@@ -1,10 +1,9 @@
 # config.py — shared parameters for all RAG notebooks
 
+# Embedding models and retrieval pipeline
 EMBED_MODEL      = "intfloat/multilingual-e5-small"
 CE_MODEL         = "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1"
 BATCH_SIZE       = 64
-
-# Retrieval
 TOP_K         = 2
 BM25_WEIGHT   = 0.4
 SEMANTIC_POOL = 30
