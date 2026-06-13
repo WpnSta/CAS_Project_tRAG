@@ -13,4 +13,4 @@ nltk
 ipython
 
 # PyTorch (CPU-only wheel — install separately):
-#   uv pip install torch --index-url https://download.pytorch.org/whl/cpu
+# uv pip install torch --index-url https://download.pytorch.org/whl/cpu
