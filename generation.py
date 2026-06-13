@@ -12,9 +12,8 @@ from retrieval import retrieve
 # Seed langdetect for reproducibility
 DetectorFactory.seed = 42
 
-# ---------------------------------------------------------------------------
+
 # Constants
-# ---------------------------------------------------------------------------
 
 SYSTEM_PROMPT = (
     "You are an expert on Swiss Railway operating regulations in German (FDV - Fahrdienstvorschriften), "
@@ -33,9 +32,8 @@ LANG_NAMES = {
 }
 
 
-# ---------------------------------------------------------------------------
+
 # Public API
-# ---------------------------------------------------------------------------
 
 def detect_language(query: str) -> str:
     """
