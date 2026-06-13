@@ -51,9 +51,9 @@ def retrieve(query, embedder, cross_encoder, collection, bm25_index, chunk_recor
     if n_available == 0:
         raise RuntimeError("ChromaDB collection is empty — run the indexing cell first.")
 
-    # ------------------------------------------------------------------
+
     # Pass 1: semantic retrieval via ChromaDB HNSW
-    # ------------------------------------------------------------------
+
     q_vec = embedder.encode(["query: " + query], normalize_embeddings=True)
     n_results = min(SEMANTIC_POOL, n_available)
 
@@ -71,9 +71,9 @@ def retrieve(query, embedder, cross_encoder, collection, bm25_index, chunk_recor
     # cosine distance → similarity
     sem_scores = [1.0 - d for d in pool_distances]
 
-    # ------------------------------------------------------------------
+    
     # Pass 2: BM25 hybrid scoring
-    # ------------------------------------------------------------------
+
     tok_query = _tokenize(query)
     raw_bm25  = bm25_index.get_scores(tok_query)
     pool_bm25 = [float(raw_bm25[idx]) for idx in pool_ids]
@@ -96,9 +96,9 @@ def retrieve(query, embedder, cross_encoder, collection, bm25_index, chunk_recor
     pool.sort(key=lambda x: x[5], reverse=True)
     pool = pool[:RERANK_POOL]
 
-    # ------------------------------------------------------------------
+
     # Pass 3: cross-encoder reranking (skipped when cfg["SKIP_RERANK"] is True)
-    # ------------------------------------------------------------------
+
     if cfg.get("SKIP_RERANK", False):
         final = []
         for item in pool:
