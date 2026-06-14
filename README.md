@@ -8,7 +8,7 @@ Comparison of two Retrieval-Augmented Generation (RAG) pipelines for the Swiss r
 ## Results and Report
 The full methodology, evaluation design and discussion are available in the [accompanying report](https://github.com/WpnSta/CAS_Project_tRAG/blob/main/report/CAS_NLP_tRAG_report_v1.pdf). 
 
-In summary: the multilingual RAG setup substantially outperformed the monolingual setup on retrieval accuracy for French and Italian queries and this directly improved terminology precision in generated answers. Cross-lingual terminology queries, used as an exploratory stress test, revealed a more fundamental mismatch between the RAG retrieval paradigm and queries about a corpus's linguistic structure rather than its content, suggesting that terminology lookup tasks may require a dedicated architecture (e.g. Terminology-Augmented Generation) rather than standard RAG.
+The multilingual RAG setup substantially outperformed the monolingual setup on retrieval accuracy for French and Italian queries and this directly improved terminology precision in generated answers. Cross-lingual terminology queries, used as an exploratory stress test, revealed a more fundamental mismatch between the RAG retrieval paradigm and queries about a corpus's linguistic structure rather than its content, suggesting that terminology lookup tasks may require a dedicated architecture (e.g. Terminology-Augmented Generation) rather than standard RAG.
 
 ## Project structure and data
 
