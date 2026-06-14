@@ -6,7 +6,7 @@ Final project for the CAS Natural language processing, June 2026.
 Comparison of two Retrieval-Augmented Generation (RAG) pipelines for the Swiss railway operating regulations (FDV/PCT): one indexing German-only documentation, one indexing German, French and Italian. The project investigates whether multilingual indexing improves retrieval accuracy and terminology precision for content Q&A and cross-lingual terminology queries, in the context of a multilingual organisation (SBB) with strict terminology requirements.
 
 ## Results and Report
-The full methodology, evaluation design and discussion are available in the accompanying report (Link). 
+The full methodology, evaluation design and discussion are available in the [accompanying report](https://github.com/WpnSta/CAS_Project_tRAG/blob/main/report/CAS_NLP_tRAG_report_v1.pdf). 
 
 In summary: the multilingual RAG setup substantially outperformed the monolingual setup on retrieval accuracy for French and Italian queries and this directly improved terminology precision in generated answers. Cross-lingual terminology queries, used as an exploratory stress test, revealed a more fundamental mismatch between the RAG retrieval paradigm and queries about a corpus's linguistic structure rather than its content, suggesting that terminology lookup tasks may require a dedicated architecture (e.g. Terminology-Augmented Generation) rather than standard RAG.
 
